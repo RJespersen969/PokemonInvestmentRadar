@@ -41,6 +41,28 @@ for card in data[:5]:
 
 print("===========================")
 
+print("=== POKEMON PRISDIAGNOSE ===")
+
+pokemon_cards = [
+    card for card in data
+    if isinstance(card, dict)
+    and card.get("game_slug") == "pokemon"
+    and card.get("product_type") == "Cards"
+]
+
+print("Pokemon-kort i API-svaret:", len(pokemon_cards))
+
+for card in pokemon_cards[:10]:
+    print("-----------------------")
+    print("Navn:", card.get("name"))
+    print("Saet:", card.get("set_name"))
+    print("Variant:", card.get("printing"))
+    print("Pris USD:", card.get("market_price"))
+    print("Price change:", card.get("price_change"))
+    print("Pris dato:", card.get("market_price_as_of"))
+
+print("===========================")
+
 candidates = []
 
 
