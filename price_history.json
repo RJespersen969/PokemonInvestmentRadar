@@ -1,7 +1,42 @@
-
 {
   "version": 1,
   "source": "TCG API",
   "currency": "USD",
-  "observations": []
+  "observations": [
+    {
+      "card_id": 7029,
+      "name": "Hitmontop - 102/217",
+      "printing": "Reverse Holofoil",
+      "date": "2026-10-08",
+      "market_price_usd": 1.17
+    },
+    {
+      "card_id": 25930,
+      "name": "Oracle",
+      "printing": "Reverse Holofoil",
+      "date": "2026-10-08",
+      "market_price_usd": 208.33
+    },
+    {
+      "card_id": 31306,
+      "name": "Croconaw",
+      "printing": "Reverse Holofoil",
+      "date": "2026-10-08",
+      "market_price_usd": 49.99
+    },
+    {
+      "card_id": 32770,
+      "name": "Pawniard",
+      "printing": "Reverse Holofoil",
+      "date": "2026-10-08",
+      "market_price_usd": 5.97
+    },
+    {
+      "card_id": 35483,
+      "name": "Team Magma's Poochyena - 66/95",
+      "printing": "Reverse Holofoil",
+      "date": "2026-10-08",
+      "market_price_usd": 45
+    }
+  ]
 }
