@@ -25,3 +25,10 @@ jobs:
           TCG_API_KEY: ${{ secrets.TCG_API_KEY }}
         run: python investment_radar.py
   
+
+      - name: Upload price report
+        uses: actions/upload-artifact@v4
+        with:
+          name: investment-radar-report
+          path: reports/latest.json
+          retention-days: 30
