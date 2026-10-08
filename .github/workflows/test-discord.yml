@@ -1,0 +1,74 @@
+
+name: Test PokéWatch Discord
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test-discord:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send test message to Discord
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import urllib.request
+          import urllib.error
+
+          webhook = os.environ.get("DISCORD_WEBHOOK_URL", "").strip()
+
+          if not webhook:
+              raise SystemExit(
+                  "FEJL: DISCORD_WEBHOOK_URL mangler. "
+                  "Kontroller navnet på GitHub Secret."
+              )
+
+          message = {
+              "username": "PokéWatch Investment Radar",
+              "embeds": [
+                  {
+                      "title": "🧪 PokéWatch – Discord Test",
+                      "description": (
+                          "✅ Forbindelsen til Discord virker!\n\n"
+                          "📊 Opportunity Scanner V1.8\n"
+                          "🔒 Dette er kun en test – "
+                          "ikke et investeringsforslag."
+                      ),
+                      "color": 5763719,
+                      "footer": {
+                          "text": "PokéWatch Denmark"
+                      }
+                  }
+              ]
+          }
+
+          data = json.dumps(message).encode("utf-8")
+
+          request = urllib.request.Request(
+              webhook,
+              data=data,
+              headers={
+                  "Content-Type": "application/json",
+                  "User-Agent": "PokeWatch-Discord-Test/1.0"
+              },
+              method="POST"
+          )
+
+          try:
+              with urllib.request.urlopen(request, timeout=20) as response:
+                  print("Discord HTTP-status:", response.status)
+                  if response.status in (200, 204):
+                      print("SUCCESS: Testbesked sendt til Discord!")
+                  else:
+                      raise SystemExit("Uventet svar fra Discord.")
+          except urllib.error.HTTPError as error:
+              print("Discord HTTP-fejl:", error.code)
+              raise SystemExit("Discord afviste testbeskeden.")
+          PY
