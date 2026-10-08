@@ -7,51 +7,90 @@ API_KEY = os.environ.get("TCG_API_KEY")
 if not API_KEY:
     raise RuntimeError("TCG_API_KEY mangler.")
 
-url = "https://api.tcgapi.dev/v1/search"
+BASE_URL = "https://api.tcgapi.dev/v1"
+HEADERS = {"X-API-Key": API_KEY}
 
-params = {
-    "q": "eevee",
-    "game": "pokemon",
-    "type": "Cards",
-    "min_price": 5,
-    "max_price": 200,
-    "per_page": 20,
-    "page": 1,
-}
 
-response = requests.get(
-    url,
-    headers={"X-API-Key": API_KEY},
-    params=params,
-    timeout=30,
+def fetch(endpoint, params=None):
+    response = requests.get(
+        BASE_URL + endpoint,
+        headers=HEADERS,
+        params=params,
+        timeout=30
+    )
+    response.raise_for_status()
+    return response.json()
+
+
+print("=== POKEWATCH V1.3 ===")
+
+# Find Pokemon-saet
+result = fetch(
+    "/sets",
+    {
+        "game": "pokemon",
+        "page": 1,
+        "per_page": 5
+    }
 )
 
-response.raise_for_status()
-
-result = response.json()
-cards = result.get("data", [])
+sets = result.get("data", [])
 meta = result.get("meta", {})
 
-print("=== POKEWATCH POKEMON SEARCH ===")
-print("HTTP-status:", response.status_code)
-print("Samlet antal match:", meta.get("total"))
-print("Resultater på denne side:", len(cards))
-print("Flere sider:", meta.get("has_more"))
-print("===============================")
+print("Pokemon-saet i alt:", meta.get("total"))
+print("Saet hentet:", len(sets))
 
-for card in cards:
-    if card.get("game_slug") != "pokemon":
-        continue
+for item in sets:
+    print("Saet:", item.get("name"), "| ID:", item.get("id"))
 
-    if card.get("product_type") != "Cards":
-        continue
+# Test kortene i det foerste saet
+if sets:
+    first_set = sets[0]
+    set_id = first_set["id"]
 
-    print(
-        f"{card.get('name')} | "
-        f"{card.get('set_name')} | "
-        f"{card.get('printing')} | "
-        f"{card.get('market_price')} USD"
+    result = fetch(
+        f"/sets/{set_id}/cards",
+        {
+            "page": 1,
+            "per_page": 100
+        }
     )
 
-print("===============================")
-print("Pokemon-søgning afsluttet.")
+    cards = result.get("data", [])
+    meta = result.get("meta", {})
+
+    print("=== KORT I FOERSTE SAET ===")
+    print("Saet:", first_set.get("name"))
+    print("Kort i alt:", meta.get("total"))
+    print("Kort hentet:", len(cards))
+    print("Flere sider:", meta.get("has_more"))
+
+    candidates = []
+
+    for card in cards:
+        if card.get("product_type") != "Cards":
+            continue
+
+        price = card.get("market_price")
+
+        if price is None:
+            continue
+
+        try:
+            price = float(price)
+        except (TypeError, ValueError):
+            continue
+
+        if 5 <= price <= 200:
+            candidates.append(card)
+
+    print("Kort inden for prisrammen:", len(candidates))
+
+    for card in candidates[:10]:
+        print(
+            card.get("name"),
+            "|", card.get("printing"),
+            "|", card.get("market_price"), "USD"
+        )
+
+print("=== TEST AFSLUTTET ===")
