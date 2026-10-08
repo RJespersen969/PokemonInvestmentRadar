@@ -27,3 +27,12 @@ jobs:
         env:
           TCG_API_KEY: ${{ secrets.TCG_API_KEY }}
         run: python test_scanner.py
+        
+      - name: Upload scanner candidates
+        uses: actions/upload-artifact@v4
+        with:
+          name: pokewatch-scanner-candidates
+          path: scanner_candidates.json
+          if-no-files-found: error
+          retention-days: 30
+
