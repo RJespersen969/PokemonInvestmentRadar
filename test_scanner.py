@@ -2,6 +2,11 @@
 import os
 import requests
 
+# ==========================================
+# POKEWATCH OPPORTUNITY SCANNER V1.3
+# Test af Pokemon-saet, kort og prisdata
+# ==========================================
+
 API_KEY = os.environ.get("TCG_API_KEY")
 
 if not API_KEY:
@@ -16,35 +21,42 @@ def fetch(endpoint, params=None):
         BASE_URL + endpoint,
         headers=HEADERS,
         params=params,
-        timeout=30
+        timeout=30,
     )
     response.raise_for_status()
     return response.json()
 
 
-print("=== POKEWATCH V1.3 ===")
+def main():
+    print("=== POKEWATCH V1.3 ===")
 
-# Find Pokemon-saet
-result = fetch(
-    "/sets",
-    {
-        "game": "pokemon",
-        "page": 1,
-        "per_page": 5
-    }
-)
+    # 1. Hent de foerste 5 Pokemon-saet
+    result = fetch(
+        "/sets",
+        {
+            "game": "pokemon",
+            "page": 1,
+            "per_page": 5,
+        },
+    )
 
-sets = result.get("data", [])
-meta = result.get("meta", {})
+    sets = result.get("data", [])
+    meta = result.get("meta", {})
 
-print("Pokemon-saet i alt:", meta.get("total"))
-print("Saet hentet:", len(sets))
+    print("Pokemon-saet i alt:", meta.get("total"))
+    print("Saet hentet:", len(sets))
 
-for item in sets:
-    print("Saet:", item.get("name"), "| ID:", item.get("id"))
+    for item in sets:
+        print(
+            "Saet:", item.get("name"),
+            "| ID:", item.get("id"),
+        )
 
-# Test kortene i det foerste saet
-if sets:
+    if not sets:
+        print("Ingen Pokemon-saet fundet.")
+        return
+
+    # 2. Hent kort fra det foerste saet
     first_set = sets[0]
     set_id = first_set["id"]
 
@@ -52,8 +64,8 @@ if sets:
         f"/sets/{set_id}/cards",
         {
             "page": 1,
-            "per_page": 100
-        }
+            "per_page": 100,
+        },
     )
 
     cards = result.get("data", [])
@@ -65,24 +77,25 @@ if sets:
     print("Kort hentet:", len(cards))
     print("Flere sider:", meta.get("has_more"))
 
-    
+    # 3. Undersoeg prisdata og felter
     print("=== PRISDIAGNOSE ===")
 
     for card in cards[:5]:
-    print("-------------------")
-    print("Navn:", card.get("name"))
-    print("Kort-ID:", card.get("id"))
-    print("Produkttype:", card.get("product_type"))
-    print("Variant:", card.get("printing"))
-    print("Markedspris:", card.get("market_price"))
-    print("Tilgaengelige felter:", list(card.keys()))
+        print("-------------------")
+        print("Navn:", card.get("name"))
+        print("Kort-ID:", card.get("id"))
+        print("Produkttype:", card.get("product_type"))
+        print("Variant:", card.get("printing"))
+        print("Markedspris:", card.get("market_price"))
+        print("Tilgaengelige felter:", list(card.keys()))
 
-print("===================")
+    print("===================")
 
+    # 4. Find kort i vores prisramme
     candidates = []
 
     for card in cards:
-        if card.get("product_type") != "Cards":
+        if card.get("product_type") not in (None, "Cards"):
             continue
 
         price = card.get("market_price")
@@ -98,13 +111,18 @@ print("===================")
         if 5 <= price <= 200:
             candidates.append(card)
 
+    print("=== PRISFILTER ===")
     print("Kort inden for prisrammen:", len(candidates))
 
     for card in candidates[:10]:
         print(
             card.get("name"),
             "|", card.get("printing"),
-            "|", card.get("market_price"), "USD"
+            "|", card.get("market_price"), "USD",
         )
 
-print("=== TEST AFSLUTTET ===")
+    print("=== TEST AFSLUTTET ===")
+
+
+if __name__ == "__main__":
+    main()
