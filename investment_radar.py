@@ -3,13 +3,40 @@ import os
 import json
 import time
 from pathlib import Path
-from datetime import datetime, timezone
+from datetime import datetime, timezone, date, timedelta
 
 import requests
 
 API_KEY = os.environ.get("TCG_API_KEY")
 BASE_URL = "https://api.tcgapi.dev/v1"
 HISTORY_FILE = Path("price_history.json")
+
+
+def calculate_change(observations, card_id, printing, current_date, current_price, days):
+    """Beregn prisændring mod en observation mindst X dage gammel."""
+    target_date = current_date - timedelta(days=days)
+
+    candidates = [
+        item for item in observations
+        if item.get("card_id") == card_id
+        and item.get("printing") == printing
+        and date.fromisoformat(item["date"][:10]) <= target_date
+        and item.get("market_price_usd") is not None
+    ]
+
+    if not candidates:
+        return None
+
+    previous = max(candidates, key=lambda item: item["date"])
+    previous_price = float(previous["market_price_usd"])
+
+    if previous_price <= 0:
+        return None
+
+    return round(
+        (float(current_price) - previous_price) / previous_price * 100,
+        2,
+    )
 
 
 def main():
@@ -60,30 +87,52 @@ def main():
             if price is None or not price_date:
                 raise ValueError("Pris eller prisdato mangler.")
 
+            observation_date = date.fromisoformat(price_date[:10])
+
             observation = {
                 "card_id": card_id,
                 "name": product["name"],
                 "printing": wanted_printing,
-                "date": price_date,
+                "date": observation_date.isoformat(),
                 "market_price_usd": price,
             }
 
-            # Opdater eksisterende observation fra samme dato.
+            # Undgå dubletter fra samme kort, variant og dato.
             observations[:] = [
                 old for old in observations
                 if not (
                     old.get("card_id") == card_id
                     and old.get("printing") == wanted_printing
-                    and old.get("date") == price_date
+                    and old.get("date", "")[:10] == observation["date"]
                 )
             ]
             observations.append(observation)
-            results.append(observation)
+
+            analysis = {
+                "change_30d_pct": calculate_change(
+                    observations, card_id, wanted_printing,
+                    observation_date, price, 30
+                ),
+                "change_90d_pct": calculate_change(
+                    observations, card_id, wanted_printing,
+                    observation_date, price, 90
+                ),
+                "change_365d_pct": calculate_change(
+                    observations, card_id, wanted_printing,
+                    observation_date, price, 365
+                ),
+            }
+
+            results.append({
+                **observation,
+                "analysis": analysis,
+            })
 
             print(
-                f"{product['name']} | "
-                f"{wanted_printing} | "
-                f"{price} USD | {price_date}"
+                f"{product['name']} | {price} USD | "
+                f"30d: {analysis['change_30d_pct']}% | "
+                f"90d: {analysis['change_90d_pct']}% | "
+                f"365d: {analysis['change_365d_pct']}%"
             )
 
         except (requests.RequestException, ValueError, KeyError) as error:
@@ -104,7 +153,6 @@ def main():
     )
 
     history["observations"] = observations
-
     Path("reports").mkdir(exist_ok=True)
 
     report = {
@@ -118,7 +166,6 @@ def main():
     with open("reports/latest.json", "w", encoding="utf-8") as file:
         json.dump(report, file, ensure_ascii=False, indent=2)
 
-    # Gem kun historikken, hvis alle opslag lykkedes.
     if errors:
         raise RuntimeError(
             f"{len(errors)} produkter kunne ikke hentes."
@@ -130,7 +177,7 @@ def main():
     print("--------------------------")
     print("Kort hentet:", len(results))
     print("Observationer i historik:", len(observations))
-    print("Historik opdateret.")
+    print("Prisanalyse gemt i rapporten.")
 
 
 if __name__ == "__main__":
