@@ -32,31 +32,36 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run PokeWatch Scanner
+      - name: Run PokeWatch Scanner V1.8
         env:
           TCG_API_KEY: ${{ secrets.TCG_API_KEY }}
         run: python test_scanner.py
 
       - name: Upload scanner results
+        if: success()
         uses: actions/upload-artifact@v4
         with:
-          name: pokewatch-scanner-candidates
+          name: pokewatch-scanner-results
           path: |
             scanner_candidates.json
             scanner_state.json
+            scanner_price_history.json
           if-no-files-found: error
           retention-days: 30
 
-      - name: Save scanner progress
+      - name: Save scanner progress and price history
+        if: success()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add scanner_state.json scanner_candidates.json
+          git add scanner_state.json
+          git add scanner_candidates.json
+          git add scanner_price_history.json
 
           if ! git diff --cached --quiet; then
-            git commit -m "Update Pokewatch scanner progress"
+            git commit -m "Update PokeWatch scanner and price history"
             git push
           else
-            echo "No scanner changes to commit"
+            echo "No changes to commit"
           fi
