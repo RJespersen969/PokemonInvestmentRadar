@@ -1,0 +1,49 @@
+
+{
+  "name": "PokeWatch Investment Radar",
+  "currency": "USD",
+  "investment_horizon_years": "5-10",
+  "monthly_budget_dkk": 3000,
+  "products": [
+    {
+      "card_id": 35483,
+      "tcgplayer_id": 89839,
+      "name": "Team Magma's Poochyena - 66/95",
+      "set": "EX Team Magma vs Team Aqua",
+      "printing": "Reverse Holofoil",
+      "category": "raw"
+    },
+    {
+      "card_id": 31306,
+      "tcgplayer_id": 84500,
+      "name": "Croconaw",
+      "set": "HeartGold SoulSilver",
+      "printing": "Reverse Holofoil",
+      "category": "raw"
+    },
+    {
+      "card_id": 32770,
+      "tcgplayer_id": 87969,
+      "name": "Pawniard",
+      "set": "Dark Explorers",
+      "printing": "Reverse Holofoil",
+      "category": "raw"
+    },
+    {
+      "card_id": 7029,
+      "tcgplayer_id": 675914,
+      "name": "Hitmontop - 102/217",
+      "set": "ME: Ascended Heroes",
+      "printing": "Reverse Holofoil",
+      "category": "raw"
+    },
+    {
+      "card_id": 25930,
+      "tcgplayer_id": 87887,
+      "name": "Oracle",
+      "set": "Skyridge",
+      "printing": "Reverse Holofoil",
+      "category": "raw"
+    }
+  ]
+}
