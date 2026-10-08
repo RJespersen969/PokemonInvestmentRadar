@@ -1,11 +1,14 @@
 
 import os
+from collections import Counter
+
 import requests
 
-# ==========================================
+
+# ============================================
 # POKEWATCH OPPORTUNITY SCANNER V1.3
-# Test af Pokemon-saet, kort og prisdata
-# ==========================================
+# Pokemon-katalog og RAW-prisdiagnose
+# ============================================
 
 API_KEY = os.environ.get("TCG_API_KEY")
 
@@ -15,6 +18,10 @@ if not API_KEY:
 BASE_URL = "https://api.tcgapi.dev/v1"
 HEADERS = {"X-API-Key": API_KEY}
 
+MIN_PRICE = 5
+MAX_PRICE = 200
+MAX_SETS = 5
+
 
 def fetch(endpoint, params=None):
     response = requests.get(
@@ -23,118 +30,142 @@ def fetch(endpoint, params=None):
         params=params,
         timeout=30,
     )
+
     response.raise_for_status()
     return response.json()
 
 
 def main():
-    print("=== POKEWATCH V1.3 ===")
+    print("================================")
+    print("POKEWATCH OPPORTUNITY SCANNER")
+    print("VERSION 1.3")
+    print("================================")
 
-    # 1. Hent de foerste 5 Pokemon-saet
+    # Hent Pokemon-saet
     result = fetch(
         "/sets",
         {
             "game": "pokemon",
             "page": 1,
-            "per_page": 5,
+            "per_page": MAX_SETS,
         },
     )
 
     sets = result.get("data", [])
-    meta = result.get("meta", {})
+    metadata = result.get("meta", {})
 
-    print("Pokemon-saet i alt:", meta.get("total"))
+    print("Pokemon-saet i alt:", metadata.get("total"))
     print("Saet hentet:", len(sets))
 
-    for item in sets:
-        print(
-            "Saet:", item.get("name"),
-            "| ID:", item.get("id"),
+    all_cards = []
+    product_types = Counter()
+
+    # Undersoeg de foerste fem saet
+    for pokemon_set in sets:
+        set_id = pokemon_set.get("id")
+        set_name = pokemon_set.get("name", "Ukendt")
+
+        if not set_id:
+            continue
+
+        print()
+        print("================================")
+        print("SAET:", set_name)
+        print("================================")
+
+        result = fetch(
+            f"/sets/{set_id}/cards",
+            {
+                "page": 1,
+                "per_page": 100,
+            },
         )
 
-    if not sets:
-        print("Ingen Pokemon-saet fundet.")
-        return
+        cards = result.get("data", [])
+        metadata = result.get("meta", {})
 
-    # 2. Hent kort fra det foerste saet
-    first_set = sets[0]
-    set_id = first_set["id"]
+        print("Produkter i alt:", metadata.get("total"))
+        print("Produkter hentet:", len(cards))
+        print("Flere sider:", metadata.get("has_more"))
 
-    result = fetch(
-        f"/sets/{set_id}/cards",
-        {
-            "page": 1,
-            "per_page": 100,
-        },
+        for card in cards:
+            if not isinstance(card, dict):
+                continue
+
+            product_type = card.get(
+                "product_type", "Ukendt"
+            )
+
+            product_types[product_type] += 1
+
+            if product_type != "Cards":
+                continue
+
+            price = card.get("market_price")
+
+            if price is None:
+                continue
+
+            try:
+                price = float(price)
+            except (TypeError, ValueError):
+                continue
+
+            if MIN_PRICE <= price <= MAX_PRICE:
+                all_cards.append({
+                    "id": card.get("id"),
+                    "name": card.get("name"),
+                    "set": set_name,
+                    "printing": card.get("printing"),
+                    "price": price,
+                })
+
+    # Vis fordelingen af produkttyper
+    print()
+    print("================================")
+    print("PRODUKTTYPER")
+    print("================================")
+
+    for product_type, count in product_types.items():
+        print(product_type, ":", count)
+
+    # Fjern dubletter efter kort-ID og variant
+    unique_cards = {}
+
+    for card in all_cards:
+        key = (
+            card["id"],
+            card["printing"],
+        )
+
+        unique_cards[key] = card
+
+    candidates = list(unique_cards.values())
+
+    candidates.sort(
+        key=lambda card: card["price"],
+        reverse=True,
     )
 
-    cards = result.get("data", [])
-    meta = result.get("meta", {})
+    print()
+    print("================================")
+    print("RAW-KANDIDATER")
+    print("================================")
 
-    print("=== KORT I FOERSTE SAET ===")
-    print("Saet:", first_set.get("name"))
-    print("Kort i alt:", meta.get("total"))
-    print("Kort hentet:", len(cards))
-    print("Flere sider:", meta.get("has_more"))
+    print("Antal kandidater:", len(candidates))
 
-    # 3. Undersoeg prisdata og felter
-    print("=== PRISDIAGNOSE ===")
+    for index, card in enumerate(candidates[:20], 1):
+        print()
+        print("Nr:", index)
+        print("Navn:", card["name"])
+        print("Saet:", card["set"])
+        print("Variant:", card["printing"])
+        print("Pris USD:", card["price"])
 
-    for card in cards[:5]:
-        print("-------------------")
-        print("Navn:", card.get("name"))
-        print("Kort-ID:", card.get("id"))
-        print("Produkttype:", card.get("product_type"))
-        print("Variant:", card.get("printing"))
-        print("Markedspris:", card.get("market_price"))
-        print("Tilgaengelige felter:", list(card.keys()))
-
-    print("===================")
-
-    # 4. Find kort i vores prisramme
-    candidates = []
-
-    for card in cards:
-        if card.get("product_type") not in (None, "Cards"):
-            continue
-
-        price = card.get("market_price")
-
-        if price is None:
-            continue
-
-        try:
-            price = float(price)
-        except (TypeError, ValueError):
-            continue
-
-        if 5 <= price <= 200:
-            candidates.append(card)
-
-print("=== PRODUKTTYPER ===")
-
-types = {}
-
-for card in cards:
-    product_type = card.get("product_type", "Ukendt")
-    types[product_type] = types.get(product_type, 0) + 1
-
-for product_type, count in types.items():
-    print(product_type, ":", count)
-
-print("====================")
-
-    print("=== PRISFILTER ===")
-    print("Kort inden for prisrammen:", len(candidates))
-
-    for card in candidates[:10]:
-        print(
-            card.get("name"),
-            "|", card.get("printing"),
-            "|", card.get("market_price"), "USD",
-        )
-
-    print("=== TEST AFSLUTTET ===")
+    print()
+    print("================================")
+    print("TEST AFSLUTTET")
+    print("================================")
 
 
 if __name__ == "__main__":
