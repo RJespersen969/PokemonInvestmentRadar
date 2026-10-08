@@ -13,11 +13,14 @@ with open("scanner_config.json", encoding="utf-8") as file:
 
 filters = config["filters"]
 
+
 response = requests.get(
     "https://api.tcgapi.dev/v1/prices/top-movers",
     headers={"X-API-Key": API_KEY},
+    params={"game_slug": "pokemon"},
     timeout=30,
 )
+
 response.raise_for_status()
 
 data = response.json().get("data", [])
