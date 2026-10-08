@@ -77,6 +77,53 @@ for card in pokemon_cards[:10]:
 
 print("===========================")
 
+
+print("=== POKEMON KATALOG TEST ===")
+
+catalog_url = "https://api.tcgapi.dev/v1/cards"
+
+try:
+    catalog_response = requests.get(
+        catalog_url,
+        headers={"X-API-Key": API_KEY},
+        params={
+            "game_slug": "pokemon",
+            "limit": 5
+        },
+        timeout=30,
+    )
+
+    print("HTTP-status:", catalog_response.status_code)
+
+    catalog_response.raise_for_status()
+    catalog = catalog_response.json()
+
+    if isinstance(catalog, dict):
+        print("Svarfelter:", list(catalog.keys()))
+        print("Metadata:", catalog.get("meta"))
+
+        cards = catalog.get("data", [])
+
+        if isinstance(cards, list):
+            print("Antal kort:", len(cards))
+
+            for card in cards[:5]:
+                if isinstance(card, dict):
+                    print(
+                        "Kort:",
+                        card.get("name"),
+                        "| Spil:",
+                        card.get("game_slug")
+                    )
+    else:
+        print("Svartype:", type(catalog).__name__)
+
+except requests.RequestException as error:
+    print("Katalogtest mislykkedes:", error)
+
+print("============================")
+
+
 candidates = []
 
 
