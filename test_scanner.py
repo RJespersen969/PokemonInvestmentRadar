@@ -25,6 +25,20 @@ data = response.json().get("data", [])
 if not isinstance(data, list):
     raise ValueError("API returnerede ikke en liste.")
 
+
+print("=== DIAGNOSE AF API-DATA ===")
+
+for card in data[:5]:
+    print("-----------------------")
+    print("Navn:", card.get("name"))
+    print("Variant:", card.get("printing"))
+    print("Produkttype:", card.get("product_type"))
+    print("Pris:", card.get("market_price"))
+    print("Prisændring:", card.get("price_change"))
+    print("Dato:", card.get("market_price_as_of"))
+
+print("===========================")
+
 candidates = []
 
 for card in data:
