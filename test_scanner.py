@@ -111,6 +111,19 @@ def main():
         if 5 <= price <= 200:
             candidates.append(card)
 
+print("=== PRODUKTTYPER ===")
+
+types = {}
+
+for card in cards:
+    product_type = card.get("product_type", "Ukendt")
+    types[product_type] = types.get(product_type, 0) + 1
+
+for product_type, count in types.items():
+    print(product_type, ":", count)
+
+print("====================")
+
     print("=== PRISFILTER ===")
     print("Kort inden for prisrammen:", len(candidates))
 
