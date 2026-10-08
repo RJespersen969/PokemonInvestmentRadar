@@ -1,0 +1,24 @@
+
+{
+  "scanner_name": "PokeWatch Opportunity Scanner",
+  "version": "1.2",
+  "enabled": true,
+  "category": "raw",
+  "currency": "USD",
+  "monthly_budget_dkk": 3000,
+  "investment_horizon_years": "5-10",
+  "filters": {
+    "min_market_price_usd": 5,
+    "max_market_price_usd": 200,
+    "min_price_change_7d_pct": -30,
+    "max_price_change_7d_pct": 30,
+    "min_history_days": 30
+  },
+  "scoring": {
+    "price_drop_weight": 35,
+    "long_term_trend_weight": 30,
+    "price_stability_weight": 20,
+    "data_quality_weight": 15
+  },
+  "max_opportunities": 10
+}
