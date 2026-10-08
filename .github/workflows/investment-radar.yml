@@ -1,8 +1,14 @@
 
 name: PokeWatch Investment Radar
 
+
 on:
   workflow_dispatch:
+  schedule:
+    - cron: '17 6 * * *'
+      timezone: 'Europe/Copenhagen'
+  
+  
 
 permissions:
   contents: write
