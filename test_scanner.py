@@ -65,6 +65,20 @@ if sets:
     print("Kort hentet:", len(cards))
     print("Flere sider:", meta.get("has_more"))
 
+    
+    print("=== PRISDIAGNOSE ===")
+
+    for card in cards[:5]:
+    print("-------------------")
+    print("Navn:", card.get("name"))
+    print("Kort-ID:", card.get("id"))
+    print("Produkttype:", card.get("product_type"))
+    print("Variant:", card.get("printing"))
+    print("Markedspris:", card.get("market_price"))
+    print("Tilgaengelige felter:", list(card.keys()))
+
+print("===================")
+
     candidates = []
 
     for card in cards:
