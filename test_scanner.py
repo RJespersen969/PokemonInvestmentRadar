@@ -1,16 +1,16 @@
 
 import os
 import json
-import re
 from datetime import datetime, timezone
+from pathlib import Path
 
 import requests
 
 
-# ============================================
-# POKEWATCH OPPORTUNITY SCANNER V1.4
-# RAW Pokemon Card Discovery
-# ============================================
+# ==========================================
+# POKEWATCH OPPORTUNITY SCANNER V1.5
+# Batch-scanning af Pokemon-saet
+# ==========================================
 
 API_KEY = os.environ.get("TCG_API_KEY")
 
@@ -20,14 +20,15 @@ if not API_KEY:
 BASE_URL = "https://api.tcgapi.dev/v1"
 HEADERS = {"X-API-Key": API_KEY}
 
-MAX_SETS = 5
+BATCH_SIZE = 10
 PER_PAGE = 100
-MAX_PAGES_PER_SET = 5
+MAX_API_CALLS = 50
 
 MIN_PRICE = 5.0
 MAX_PRICE = 200.0
 
-OUTPUT_FILE = "scanner_candidates.json"
+STATE_FILE = Path("scanner_state.json")
+OUTPUT_FILE = Path("scanner_candidates.json")
 
 session = requests.Session()
 session.headers.update(HEADERS)
@@ -38,16 +39,44 @@ api_calls = 0
 def fetch(endpoint, params=None):
     global api_calls
 
+    if api_calls >= MAX_API_CALLS:
+        raise RuntimeError("API-kaldsgrænsen er nået.")
+
+    api_calls += 1
+
     response = session.get(
         BASE_URL + endpoint,
         params=params,
         timeout=30,
     )
 
-    api_calls += 1
     response.raise_for_status()
-
     return response.json()
+
+
+def load_state():
+    if STATE_FILE.exists():
+        with STATE_FILE.open(
+            "r", encoding="utf-8"
+        ) as file:
+            return json.load(file)
+
+    return {
+        "next_set_index": 0,
+        "candidates": {},
+    }
+
+
+def save_state(state):
+    with STATE_FILE.open(
+        "w", encoding="utf-8"
+    ) as file:
+        json.dump(
+            state,
+            file,
+            indent=2,
+            ensure_ascii=False,
+        )
 
 
 def is_raw_card(card):
@@ -56,8 +85,7 @@ def is_raw_card(card):
 
     name = str(card.get("name") or "").lower()
 
-    # Udeluk kendte ikke-enkeltkort
-    excluded_words = [
+    excluded = [
         "battle deck",
         "theme deck",
         "starter deck",
@@ -74,16 +102,10 @@ def is_raw_card(card):
         "display",
     ]
 
-    if any(word in name for word in excluded_words):
-        return False
-
-    # Dette er et foreloebigt RAW-filter.
-    # Produktnavne alene kan ikke bevise,
-    # at varen er et enkeltkort.
-    return True
+    return not any(word in name for word in excluded)
 
 
-def get_price(card):
+def get_market_price(card):
     value = card.get("market_price")
 
     if value is None:
@@ -94,17 +116,22 @@ def get_price(card):
     except (TypeError, ValueError):
         return None
 
-    if not MIN_PRICE <= price <= MAX_PRICE:
-        return None
+    if MIN_PRICE <= price <= MAX_PRICE:
+        return price
 
-    return price
+    return None
 
 
-def get_set_cards(set_id):
-    all_cards = []
-    expected_total = None
+def scan_set(pokemon_set):
+    set_id = pokemon_set["id"]
+    set_name = pokemon_set.get("name", "Ukendt")
 
-    for page in range(1, MAX_PAGES_PER_SET + 1):
+    print("Scanner saet:", set_name)
+
+    found = {}
+    page = 1
+
+    while True:
         result = fetch(
             f"/sets/{set_id}/cards",
             {
@@ -114,110 +141,32 @@ def get_set_cards(set_id):
         )
 
         cards = result.get("data", [])
-        metadata = result.get("meta", {})
+        meta = result.get("meta", {})
 
         if not isinstance(cards, list):
             raise ValueError("Ugyldigt kortsvar fra API.")
-
-        if expected_total is None:
-            expected_total = metadata.get("total")
-
-        all_cards.extend(cards)
-
-        print(
-            f"  Side {page}: "
-            f"{len(cards)} produkter hentet"
-        )
-
-        has_more = metadata.get("has_more")
-
-        if has_more is False:
-            break
-
-        if not cards:
-            break
-
-        if len(cards) < PER_PAGE and has_more is not True:
-            break
-
-    return all_cards, expected_total
-
-
-def main():
-    print("====================================")
-    print("POKEWATCH OPPORTUNITY SCANNER V1.4")
-    print("====================================")
-
-    result = fetch(
-        "/sets",
-        {
-            "game": "pokemon",
-            "page": 1,
-            "per_page": MAX_SETS,
-        },
-    )
-
-    sets = result.get("data", [])
-    metadata = result.get("meta", {})
-
-    if not isinstance(sets, list):
-        raise ValueError("Ugyldigt saetsvar fra API.")
-
-    print("Pokemon-saet i alt:", metadata.get("total"))
-    print("Saet i denne scanning:", len(sets))
-
-    candidates = {}
-    total_products = 0
-    raw_products = 0
-    excluded_products = 0
-    incomplete_sets = []
-
-    for pokemon_set in sets:
-        set_id = pokemon_set.get("id")
-        set_name = pokemon_set.get("name", "Ukendt")
-
-        if set_id is None:
-            continue
-
-        print()
-        print("SAET:", set_name)
-
-        cards, expected_total = get_set_cards(set_id)
-
-        total_products += len(cards)
-
-        if (
-            isinstance(expected_total, int)
-            and len(cards) < expected_total
-        ):
-            incomplete_sets.append(set_name)
 
         for card in cards:
             if not isinstance(card, dict):
                 continue
 
             if not is_raw_card(card):
-                excluded_products += 1
                 continue
 
-            raw_products += 1
-
-            price = get_price(card)
+            price = get_market_price(card)
 
             if price is None:
                 continue
 
             card_id = card.get("id")
-            printing = card.get("printing") or "Unknown"
 
             if card_id is None:
                 continue
 
-            # Samme kort og variant maa ikke taelles
-            # flere gange.
+            printing = card.get("printing") or "Unknown"
             key = f"{card_id}:{printing}"
 
-            candidates[key] = {
+            found[key] = {
                 "card_id": card_id,
                 "name": card.get("name"),
                 "set_id": set_id,
@@ -229,55 +178,131 @@ def main():
                 "market_price_as_of": card.get(
                     "market_price_as_of"
                 ),
-                "price_updated_at": card.get(
-                    "price_updated_at"
-                ),
                 "total_listings": card.get(
                     "total_listings"
                 ),
             }
 
-        print("Produkter gennemgaaet:", len(cards))
-        print("Kandidater indtil nu:", len(candidates))
+        print(
+            "  Side:", page,
+            "| Produkter:", len(cards),
+            "| Kandidater:", len(found),
+        )
 
-    # Sorter kun efter pris for at faa
-    # en reproducerbar oversigt.
-    # Det er IKKE en investeringsrangering.
-    sorted_candidates = sorted(
-        candidates.values(),
+        if meta.get("has_more") is False:
+            break
+
+        if not cards:
+            break
+
+        if (
+            len(cards) < PER_PAGE
+            and meta.get("has_more") is not True
+        ):
+            break
+
+        page += 1
+
+    return found
+
+
+def main():
+    print("===================================")
+    print("POKEWATCH OPPORTUNITY SCANNER V1.5")
+    print("===================================")
+
+    state = load_state()
+
+    result = fetch(
+        "/sets",
+        {
+            "game": "pokemon",
+            "page": 1,
+            "per_page": 100,
+        },
+    )
+
+    all_sets = result.get("data", [])
+    meta = result.get("meta", {})
+
+    # Hent alle saetsider
+    page = 2
+
+    while meta.get("has_more") is True:
+        result = fetch(
+            "/sets",
+            {
+                "game": "pokemon",
+                "page": page,
+                "per_page": 100,
+            },
+        )
+
+        all_sets.extend(result.get("data", []))
+        meta = result.get("meta", {})
+        page += 1
+
+    total_sets = len(all_sets)
+
+    print("Pokemon-saet fundet:", total_sets)
+
+    start = state.get("next_set_index", 0)
+
+    if start >= total_sets:
+        start = 0
+        print("Alle saet gennemgaaet. Starter forfra.")
+
+    end = min(start + BATCH_SIZE, total_sets)
+
+    print("Scanner saet:", start + 1, "til", end)
+
+    completed = 0
+
+    for index in range(start, end):
+        pokemon_set = all_sets[index]
+
+        # Efterlad plads til en komplet saetscanning.
+        if api_calls >= MAX_API_CALLS - 10:
+            print("Stopper for at beskytte API-kvoten.")
+            break
+
+        found = scan_set(pokemon_set)
+
+        state["candidates"].update(found)
+        state["next_set_index"] = index + 1
+
+        completed += 1
+
+        save_state(state)
+
+    candidates = list(
+        state["candidates"].values()
+    )
+
+    candidates.sort(
         key=lambda item: (
             -item["market_price_usd"],
             str(item["card_id"]),
-        ),
+        )
     )
 
     report = {
         "scanner": "PokeWatch Opportunity Scanner",
-        "version": "1.4",
+        "version": "1.5",
         "generated_at": datetime.now(
             timezone.utc
         ).isoformat(),
-        "category": "raw",
         "currency": "USD",
-        "filters": {
-            "min_price": MIN_PRICE,
-            "max_price": MAX_PRICE,
-        },
-        "coverage": {
-            "sets_scanned": len(sets),
-            "products_scanned": total_products,
-            "possible_raw_products": raw_products,
-            "excluded_products": excluded_products,
-            "incomplete_sets": incomplete_sets,
-            "api_calls": api_calls,
-        },
-        "candidates": sorted_candidates,
+        "next_set_index": state["next_set_index"],
+        "total_sets": total_sets,
+        "sets_completed_this_run": completed,
+        "api_calls": api_calls,
+        "total_candidates": len(candidates),
+        "candidates": candidates,
     }
 
-    with open(
-        OUTPUT_FILE,
-        "w",
-        encoding="utf-8",
+    with OUTPUT_FILE.open(
+        "w", encoding="utf-8"
     ) as file:
         json.dump(
             report,
@@ -287,33 +312,15 @@ def main():
         )
 
     print()
-    print("====================================")
+    print("===================================")
     print("RESULTAT")
-    print("====================================")
-    print("Saet scannet:", len(sets))
-    print("Produkter scannet:", total_products)
-    print("Mulige RAW-produkter:", raw_products)
-    print("Udelukkede produkter:", excluded_products)
-    print("Kandidater:", len(sorted_candidates))
+    print("===================================")
+    print("Saet gennemgaaet i dag:", completed)
+    print("Naeste saet-indeks:", state["next_set_index"])
+    print("Samlede kandidater:", len(candidates))
     print("API-kald:", api_calls)
-    print("Ufuldstaendige saet:", incomplete_sets)
-
-    print()
-    print("TOP 10 EFTER MARKEDSPRIS")
-    print("(Ikke investeringsrangering)")
-
-    for index, card in enumerate(
-        sorted_candidates[:10], 1
-    ):
-        print(
-            f"{index}. {card['name']} | "
-            f"{card['set_name']} | "
-            f"{card['printing']} | "
-            f"${card['market_price_usd']:.2f}"
-        )
-
-    print()
-    print("JSON-fil oprettet:", OUTPUT_FILE)
+    print("Fremdrift gemt:", STATE_FILE)
+    print("Rapport gemt:", OUTPUT_FILE)
     print("TEST AFSLUTTET")
 
 
