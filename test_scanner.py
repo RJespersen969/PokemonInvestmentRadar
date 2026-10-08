@@ -23,7 +23,18 @@ response = requests.get(
 
 response.raise_for_status()
 
-data = response.json().get("data", [])
+
+api_response = response.json()
+data = api_response.get("data", [])
+
+print("=== API METADATA ===")
+print(json.dumps(
+    api_response.get("meta", {}),
+    indent=2,
+    ensure_ascii=False
+))
+print("====================")
+
 
 if not isinstance(data, list):
     raise ValueError("API returnerede ikke en liste.")
