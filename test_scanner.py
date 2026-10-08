@@ -43,10 +43,20 @@ print("===========================")
 
 candidates = []
 
+
 for card in data:
     try:
         if not isinstance(card, dict):
             continue
+
+        # Kun Pokémon TCG-kort.
+        if card.get("game_slug") != "pokemon":
+            continue
+
+        # Udeluk andre produkttyper.
+        if card.get("product_type") != "Cards":
+            continue
+
 
         # Kun fysiske kort med markedspris.
         price = card.get("market_price")
