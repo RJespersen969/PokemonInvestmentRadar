@@ -31,6 +31,8 @@ print("=== DIAGNOSE AF API-DATA ===")
 for card in data[:5]:
     print("-----------------------")
     print("Navn:", card.get("name"))
+    print("Spil:", card.get("game_name"))
+    print("Spil-ID:", card.get("game_slug"))
     print("Variant:", card.get("printing"))
     print("Produkttype:", card.get("product_type"))
     print("Pris:", card.get("market_price"))
