@@ -37,6 +37,11 @@ jobs:
           TCG_API_KEY: ${{ secrets.TCG_API_KEY }}
         run: python test_scanner.py
 
+      - name: Send Discord Investment Picks
+        env:
+          DISCORD_INVESTMENT_WEBHOOK: ${{ secrets.DISCORD_INVESTMENT_WEBHOOK }}
+        run: python discord_investment_picks.py
+
       - name: Upload scanner results
         if: success()
         uses: actions/upload-artifact@v4
@@ -46,6 +51,7 @@ jobs:
             scanner_candidates.json
             scanner_state.json
             scanner_price_history.json
+            discord_alert_state.json
           if-no-files-found: error
           retention-days: 30
 
@@ -59,8 +65,12 @@ jobs:
           git add scanner_candidates.json
           git add scanner_price_history.json
 
+          if [ -f discord_alert_state.json ]; then
+            git add discord_alert_state.json
+          fi
+
           if ! git diff --cached --quiet; then
-            git commit -m "Update PokeWatch scanner and price history"
+            git commit -m "Update PokeWatch scanner and Discord alerts"
             git push
           else
             echo "No changes to commit"
