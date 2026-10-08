@@ -5,7 +5,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: pokewatch-opportunity-scanner
+  cancel-in-progress: false
 
 jobs:
   test-scanner:
@@ -14,11 +18,13 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: pip install requests
@@ -27,12 +33,25 @@ jobs:
         env:
           TCG_API_KEY: ${{ secrets.TCG_API_KEY }}
         run: python test_scanner.py
-        
+
       - name: Upload scanner candidates
         uses: actions/upload-artifact@v4
         with:
           name: pokewatch-scanner-candidates
-          path: scanner_candidates.json
+          path: |
+            scanner_candidates.json
+            scanner_state.json
           if-no-files-found: error
           retention-days: 30
 
+      - name: Save scanner progress
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scanner_state.json scanner_candidates.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update Pokewatch scanner progress"
+            git push
+          else
+            echo "No scanner changes to commit"
+          fi
