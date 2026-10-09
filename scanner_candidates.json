@@ -1,19 +1,31 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-09T06:02:03.071583+00:00",
+  "generated_at": "2026-10-09T06:14:26.406904+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 5,
+  "next_set_index": 10,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 12,
-  "total_candidates": 68,
-  "cards_with_price_history": 433,
+  "api_calls": 13,
+  "total_candidates": 129,
+  "cards_with_price_history": 1266,
   "candidates": [
+    {
+      "card_id": 7381,
+      "name": "Mega Dragonite ex - 295/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "295/217",
+      "rarity": "Mega Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 188.22,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 143
+    },
     {
       "card_id": 2163518,
       "name": "Mega Darkrai ex - 116/084",
@@ -25,6 +37,18 @@
       "market_price_usd": 149.83,
       "market_price_as_of": "2026-10-09",
       "total_listings": 232
+    },
+    {
+      "card_id": 7193,
+      "name": "N's Zoroark ex - 286/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "286/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 140.97,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 101
     },
     {
       "card_id": 100009842,
@@ -63,6 +87,18 @@
       "total_listings": 298
     },
     {
+      "card_id": 7203,
+      "name": "Lillie's Clefairy ex - 280/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "280/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 128.66,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 141
+    },
+    {
       "card_id": 2153400,
       "name": "Mega Greninja ex - 122/086",
       "set_id": 5500213,
@@ -75,6 +111,18 @@
       "total_listings": 194
     },
     {
+      "card_id": 2119586,
+      "name": "Mega Zygarde ex - 124/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "124/088",
+      "rarity": "Mega Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 102.2,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 184
+    },
+    {
       "card_id": 2320530,
       "name": "Pikachu ex - 150/128",
       "set_id": 5500219,
@@ -85,6 +133,30 @@
       "market_price_usd": 89.44,
       "market_price_as_of": "2026-10-01",
       "total_listings": 168
+    },
+    {
+      "card_id": 7227,
+      "name": "Mega Feraligatr ex - 274/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "274/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 89.06,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 162
+    },
+    {
+      "card_id": 2119584,
+      "name": "Meowth ex - 121/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "121/088",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 88.83,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 283
     },
     {
       "card_id": 100018065,
@@ -135,6 +207,42 @@
       "total_listings": 190
     },
     {
+      "card_id": 7205,
+      "name": "Mega Meganium ex - 272/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "272/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 68.52,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 138
+    },
+    {
+      "card_id": 7283,
+      "name": "Steven's Metagross ex",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "289/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 67.07,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 134
+    },
+    {
+      "card_id": 7161,
+      "name": "Mega Froslass ex - 275/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "275/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 66.62,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 142
+    },
+    {
       "card_id": 2163499,
       "name": "Morpeko ex - 117/084",
       "set_id": 5500216,
@@ -157,6 +265,18 @@
       "market_price_usd": 62.85,
       "market_price_as_of": "2026-10-09",
       "total_listings": 176
+    },
+    {
+      "card_id": 38860,
+      "name": "First Partner Illustration Collection (Series 1)",
+      "set_id": 5500183,
+      "set_name": "First Partner Collection 2026",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 59.7,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 114
     },
     {
       "card_id": 100034357,
@@ -183,6 +303,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 7349,
+      "name": "Iono's Bellibolt ex - 279/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "279/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 50.49,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 159
+    },
+    {
       "card_id": 100018035,
       "name": "Jirachi ex - 155/128",
       "set_id": 5500219,
@@ -205,6 +337,54 @@
       "market_price_usd": 47.78,
       "market_price_as_of": "2026-10-09",
       "total_listings": 143
+    },
+    {
+      "card_id": 7186,
+      "name": "Marnie's Grimmsnarl ex",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "287/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 46.13,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 205
+    },
+    {
+      "card_id": 7216,
+      "name": "Mega Scrafty ex - 285/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "285/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.59,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 135
+    },
+    {
+      "card_id": 7217,
+      "name": "Fezandipiti ex - 288/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "288/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.01,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 141
+    },
+    {
+      "card_id": 6885,
+      "name": "Psyduck - 226/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "226/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.0,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 308
     },
     {
       "card_id": 100018021,
@@ -231,6 +411,18 @@
       "total_listings": 323
     },
     {
+      "card_id": 2119580,
+      "name": "Mega Zygarde ex - 120/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "120/088",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.14,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 325
+    },
+    {
       "card_id": 2163468,
       "name": "Mega Zeraora ex - 114/084",
       "set_id": 5500216,
@@ -243,6 +435,66 @@
       "total_listings": 298
     },
     {
+      "card_id": 7307,
+      "name": "Mega Hawlucha ex - 283/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "283/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.42,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 123
+    },
+    {
+      "card_id": 7235,
+      "name": "Mega Emboar ex - 273/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "273/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.95,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 171
+    },
+    {
+      "card_id": 7262,
+      "name": "Mega Diancie ex - 282/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "282/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.64,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 161
+    },
+    {
+      "card_id": 2119578,
+      "name": "Rosa's Encouragement - 123/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "123/088",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.26,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 283
+    },
+    {
+      "card_id": 2119583,
+      "name": "Mega Clefable ex - 119/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "119/088",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.43,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 268
+    },
+    {
       "card_id": 2163514,
       "name": "Mega Chandelure ex - 115/084",
       "set_id": 5500216,
@@ -253,6 +505,30 @@
       "market_price_usd": 35.1,
       "market_price_as_of": "2026-10-09",
       "total_listings": 278
+    },
+    {
+      "card_id": 6904,
+      "name": "Mega Gengar ex - 269/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "269/217",
+      "rarity": "Mega Attack Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.77,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 357
+    },
+    {
+      "card_id": 2119579,
+      "name": "Mega Starmie ex - 118/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "118/088",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.25,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 304
     },
     {
       "card_id": 100009843,
@@ -279,6 +555,30 @@
       "total_listings": 198
     },
     {
+      "card_id": 6930,
+      "name": "Mega Dragonite ex - 271/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "271/217",
+      "rarity": "Mega Attack Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.2,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 356
+    },
+    {
+      "card_id": 2139532,
+      "name": "First Partner Illustration Collection (Series 2)",
+      "set_id": 5500183,
+      "set_name": "First Partner Collection 2026",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 25.81,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 248
+    },
+    {
       "card_id": 2163544,
       "name": "Gladion's Final Battle - 118/084",
       "set_id": 5500216,
@@ -289,6 +589,18 @@
       "market_price_usd": 25.27,
       "market_price_as_of": "2026-10-09",
       "total_listings": 209
+    },
+    {
+      "card_id": 2170690,
+      "name": "First Partner Illustration Collection (Series 3)",
+      "set_id": 5500183,
+      "set_name": "First Partner Collection 2026",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 24.87,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 212
     },
     {
       "card_id": 2153379,
@@ -315,6 +627,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 7185,
+      "name": "Canari - 291/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "291/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.46,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 197
+    },
+    {
       "card_id": 2153334,
       "name": "Mega Floette ex - 117/086",
       "set_id": 5500213,
@@ -327,6 +651,18 @@
       "total_listings": 328
     },
     {
+      "card_id": 2119569,
+      "name": "Jacinthe - 122/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "122/088",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.86,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 306
+    },
+    {
       "card_id": 100018078,
       "name": "Darkrai & Cresselia Legend (Bottom)",
       "set_id": 5500238,
@@ -337,6 +673,18 @@
       "market_price_usd": 20.82,
       "market_price_as_of": "2026-10-09",
       "total_listings": 117
+    },
+    {
+      "card_id": 7243,
+      "name": "Mega Eelektross ex - 278/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "278/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.74,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 221
     },
     {
       "card_id": 100018075,
@@ -387,6 +735,18 @@
       "total_listings": 232
     },
     {
+      "card_id": 27794,
+      "name": "Mega Charizard X ex - 109/094",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "109/094",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.91,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 360
+    },
+    {
       "card_id": 2153349,
       "name": "AZ's Tranquility - 120/086",
       "set_id": 5500213,
@@ -399,6 +759,18 @@
       "total_listings": 324
     },
     {
+      "card_id": 27842,
+      "name": "Dawn - 129/094",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "129/094",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.63,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 403
+    },
+    {
       "card_id": 100018074,
       "name": "Mew VMAX",
       "set_id": 5500238,
@@ -409,6 +781,42 @@
       "market_price_usd": 18.56,
       "market_price_as_of": "2026-10-09",
       "total_listings": 87
+    },
+    {
+      "card_id": 7129,
+      "name": "Surfer - 293/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "293/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.42,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 188
+    },
+    {
+      "card_id": 27857,
+      "name": "Mega Sharpedo ex - 127/094",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "127/094",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.25,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 364
+    },
+    {
+      "card_id": 6958,
+      "name": "Team Rocket's Mimikyu - 238/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "238/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.25,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 366
     },
     {
       "card_id": 100018053,
@@ -459,6 +867,54 @@
       "total_listings": 132
     },
     {
+      "card_id": 2119485,
+      "name": "Clefairy - 094/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "094/088",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.06,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 610
+    },
+    {
+      "card_id": 27849,
+      "name": "Rotom ex - 126/094",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "126/094",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.98,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 407
+    },
+    {
+      "card_id": 27777,
+      "name": "Meowth",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "106/094",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.91,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 514
+    },
+    {
+      "card_id": 27845,
+      "name": "Mega Lopunny ex - 128/094",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "128/094",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.51,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 395
+    },
+    {
       "card_id": 100018084,
       "name": "Dark Tyranitar",
       "set_id": 5500238,
@@ -471,6 +927,18 @@
       "total_listings": 166
     },
     {
+      "card_id": 6927,
+      "name": "Erika's Tangela - 218/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "218/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.72,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 385
+    },
+    {
       "card_id": 100018020,
       "name": "Maushold - 146/128",
       "set_id": 5500219,
@@ -481,6 +949,18 @@
       "market_price_usd": 11.63,
       "market_price_as_of": "2026-10-09",
       "total_listings": 272
+    },
+    {
+      "card_id": 27781,
+      "name": "Piplup - 098/094",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "098/094",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.51,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 583
     },
     {
       "card_id": 100018076,
@@ -519,6 +999,42 @@
       "total_listings": 127
     },
     {
+      "card_id": 6800,
+      "name": "N's Zekrom",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "155/217",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.81,
+      "market_price_as_of": "2026-10-05",
+      "total_listings": 1503
+    },
+    {
+      "card_id": 6965,
+      "name": "Marill - 232/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "232/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.73,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 425
+    },
+    {
+      "card_id": 2119490,
+      "name": "Poke Pad - 113/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "113/088",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.57,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 509
+    },
+    {
       "card_id": 2163495,
       "name": "Misty's Vitality - 111/084",
       "set_id": 5500216,
@@ -541,6 +1057,18 @@
       "market_price_usd": 9.51,
       "market_price_as_of": "2026-10-09",
       "total_listings": 300
+    },
+    {
+      "card_id": 2119509,
+      "name": "Meowth ex - 107/088",
+      "set_id": 5500047,
+      "set_name": "ME03: Perfect Order",
+      "number": "107/088",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.25,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 491
     },
     {
       "card_id": 100018089,
@@ -567,6 +1095,30 @@
       "total_listings": 147
     },
     {
+      "card_id": 6922,
+      "name": "Cynthia's Spiritomb - 244/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "244/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.54,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 444
+    },
+    {
+      "card_id": 6943,
+      "name": "Banette - 234/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "234/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.24,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 470
+    },
+    {
       "card_id": 100018064,
       "name": "Erika's Jigglypuff",
       "set_id": 5500238,
@@ -589,6 +1141,18 @@
       "market_price_usd": 7.82,
       "market_price_as_of": "2026-10-09",
       "total_listings": 575
+    },
+    {
+      "card_id": 100031713,
+      "name": "Phantasmal Flames Fun Pack",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 7.69,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 0
     },
     {
       "card_id": 100018079,
@@ -625,6 +1189,30 @@
       "market_price_usd": 7.44,
       "market_price_as_of": "2026-10-09",
       "total_listings": 286
+    },
+    {
+      "card_id": 7003,
+      "name": "Slurpuff - 236/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "236/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.23,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 434
+    },
+    {
+      "card_id": 6946,
+      "name": "Iono's Wattrel - 231/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "231/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.91,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 491
     },
     {
       "card_id": 2163441,
@@ -673,6 +1261,18 @@
       "market_price_usd": 6.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 61
+    },
+    {
+      "card_id": 6898,
+      "name": "Mega Froslass ex - 265/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "265/217",
+      "rarity": "Mega Attack Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.55,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 593
     },
     {
       "card_id": 100018029,
@@ -735,6 +1335,42 @@
       "total_listings": 271
     },
     {
+      "card_id": 6859,
+      "name": "Budew - 221/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "221/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.09,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 596
+    },
+    {
+      "card_id": 6912,
+      "name": "Dreepy - 247/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "247/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.06,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 458
+    },
+    {
+      "card_id": 7021,
+      "name": "Beautifly - 219/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "219/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.96,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 427
+    },
+    {
       "card_id": 100018049,
       "name": "Galarian Meowth - 141/128",
       "set_id": 5500219,
@@ -745,6 +1381,54 @@
       "market_price_usd": 5.89,
       "market_price_as_of": "2026-10-09",
       "total_listings": 278
+    },
+    {
+      "card_id": 6857,
+      "name": "Boss's Orders [Corbeau] - 256/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "256/217",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.89,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 520
+    },
+    {
+      "card_id": 6819,
+      "name": "Mega Charizard Y ex - 022/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "022/217",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.8,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 419
+    },
+    {
+      "card_id": 6963,
+      "name": "Scorbunny - 225/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "225/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.79,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 487
+    },
+    {
+      "card_id": 6938,
+      "name": "Solrock",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "106/217",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.78,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 1800
     },
     {
       "card_id": 100018069,
@@ -771,6 +1455,18 @@
       "total_listings": 359
     },
     {
+      "card_id": 6850,
+      "name": "Ultra Ball - 264/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "264/217",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.59,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 457
+    },
+    {
       "card_id": 2163551,
       "name": "Mega Chandelure ex - 099/084",
       "set_id": 5500216,
@@ -783,6 +1479,18 @@
       "total_listings": 447
     },
     {
+      "card_id": 27751,
+      "name": "Mega Charizard X ex - 013/094",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "013/094",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.41,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 658
+    },
+    {
       "card_id": 2153348,
       "name": "Froakie - 088/086",
       "set_id": 5500213,
@@ -793,6 +1501,18 @@
       "market_price_usd": 5.38,
       "market_price_as_of": "2026-10-09",
       "total_listings": 967
+    },
+    {
+      "card_id": 6935,
+      "name": "Mega Diancie ex - 267/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "267/217",
+      "rarity": "Mega Attack Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.38,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 562
     },
     {
       "card_id": 2153369,
@@ -829,6 +1549,18 @@
       "market_price_usd": 5.14,
       "market_price_as_of": "2026-10-09",
       "total_listings": 348
+    },
+    {
+      "card_id": 6925,
+      "name": "Mightyena - 243/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "243/217",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.14,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 444
     }
   ]
 }
