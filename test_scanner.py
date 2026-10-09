@@ -289,15 +289,19 @@ def record_price(history, card, set_name, set_id):
     return True
 
 
+
 def get_all_sets(state):
     cached = state["cached_sets"]
 
-    if cached:
-        print("Bruger cache med", len(cached), "Pokemon-saet.")
+    if state.get("catalogue_complete", False) and cached:
+        print("Bruger komplet cache med", len(cached), "Pokemon-saet.")
         return cached
 
-    all_sets = []
-    page = 1
+    # Fortsaet fra den senest gemte katalogside.
+    page = state.get("next_catalogue_page", 1)
+
+    if not isinstance(page, int) or page < 1:
+        page = 1
 
     while True:
         result = fetch(
@@ -315,18 +319,36 @@ def get_all_sets(state):
         if not isinstance(data, list):
             raise ValueError("Ugyldigt saet-svar.")
 
-        all_sets.extend(data)
+        cached.extend(data)
 
-        if meta.get("has_more") is False or not data:
-            break
+        finished = (
+            meta.get("has_more") is False
+            or not data
+            or (
+                len(data) < PER_PAGE
+                and meta.get("has_more") is not True
+            )
+        )
 
-        if (
-            len(data) < PER_PAGE
-            and meta.get("has_more") is not True
-        ):
-            break
+        state["cached_sets"] = cached
+        state["next_catalogue_page"] = page + 1
+        state["catalogue_complete"] = finished
+
+        # Gem efter hver eneste katalogside.
+        save_json(STATE_FILE, state)
+
+        print(
+            "Katalog-checkpoint:",
+            len(cached),
+            "saet | side",
+            page
+        )
+
+        if finished:
+            return cached
 
         page += 1
+
 
     state["cached_sets"] = all_sets
     save_json(STATE_FILE, state)
