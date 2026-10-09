@@ -1,5 +1,5 @@
 
-name: Test Opportunity Scanner
+name: PokeWatch Daily Scanner
 
 on:
   workflow_dispatch:
@@ -32,7 +32,7 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run PokeWatch Scanner V1.8
+      - name: Run PokeWatch Scanner V1.9.1
         env:
           TCG_API_KEY: ${{ secrets.TCG_API_KEY }}
         run: python test_scanner.py
@@ -41,6 +41,11 @@ jobs:
         env:
           DISCORD_INVESTMENT_WEBHOOK: ${{ secrets.DISCORD_INVESTMENT_WEBHOOK }}
         run: python discord_investment_picks.py
+
+      - name: Send Discord Market Analysis
+        env:
+          DISCORD_MARKET_ANALYSIS_WEBHOOK: ${{ secrets.DISCORD_MARKET_ANALYSIS_WEBHOOK }}
+        run: python discord_market_analysis.py
 
       - name: Upload scanner results
         if: success()
