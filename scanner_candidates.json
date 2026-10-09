@@ -1,10 +1,11 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
-  "version": "1.8",
-  "generated_at": "2026-10-08T20:52:56.791962+00:00",
+  "version": "1.9",
+  "generated_at": "2026-10-08T21:21:58.501980+00:00",
   "status": "rate_limited",
   "currency": "USD",
   "next_set_index": 0,
+  "next_page": 1,
   "total_sets": null,
   "sets_completed_this_run": 0,
   "api_calls": 1,
