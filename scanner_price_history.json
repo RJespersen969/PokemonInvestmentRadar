@@ -1,5 +1,6068 @@
 {
-  "version": "1.9",
+  "version": "1.9.1",
   "currency": "USD",
-  "observations": {}
+  "observations": {
+    "100018086:Holofoil": {
+      "card_id": 100018086,
+      "name": "Raikou",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 8.97,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018078:Holofoil": {
+      "card_id": 100018078,
+      "name": "Darkrai & Cresselia Legend (Bottom)",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 20.82,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018063:Holofoil": {
+      "card_id": 100018063,
+      "name": "N",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 14.37,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018090:Holofoil": {
+      "card_id": 100018090,
+      "name": "Shining Celebi",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 24.67,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018077:Holofoil": {
+      "card_id": 100018077,
+      "name": "Palkia LV.X",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 10.01,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018076:Holofoil": {
+      "card_id": 100018076,
+      "name": "M Gardevoir EX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 11.06,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018089:Holofoil": {
+      "card_id": 100018089,
+      "name": "Scizor ex",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 9.0,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018061:Holofoil": {
+      "card_id": 100018061,
+      "name": "Genesect EX (Team Plasma)",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6.32,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018087:Holofoil": {
+      "card_id": 100018087,
+      "name": "Metagross (Delta Species)",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 7.51,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018074:Holofoil": {
+      "card_id": 100018074,
+      "name": "Mew VMAX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 18.56,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018079:Holofoil": {
+      "card_id": 100018079,
+      "name": "Arceus VSTAR",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 7.66,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018070:Holofoil": {
+      "card_id": 100018070,
+      "name": "Zacian V",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6.59,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100009841:Holofoil": {
+      "card_id": 100009841,
+      "name": "Lugia",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 201.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018067:Holofoil": {
+      "card_id": 100018067,
+      "name": "Misty",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6.17,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018084:Holofoil": {
+      "card_id": 100018084,
+      "name": "Dark Tyranitar",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 12.43,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018065:Holofoil": {
+      "card_id": 100018065,
+      "name": "Magikarp",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 82.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018083:Holofoil": {
+      "card_id": 100018083,
+      "name": "Sneasel",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 4.67,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100009843:Holofoil": {
+      "card_id": 100009843,
+      "name": "Pikachu & Zekrom GX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 27.56,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100009842:Holofoil": {
+      "card_id": 100009842,
+      "name": "Charizard",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 139.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018081:Holofoil": {
+      "card_id": 100018081,
+      "name": "Greninja BREAK",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 10.01,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018068:Holofoil": {
+      "card_id": 100018068,
+      "name": "Uxie",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 4.71,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018066:Holofoil": {
+      "card_id": 100018066,
+      "name": "Crobat G",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 4.76,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018062:Holofoil": {
+      "card_id": 100018062,
+      "name": "Delcatty",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 4.12,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018085:Holofoil": {
+      "card_id": 100018085,
+      "name": "Buzzwole GX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 3.62,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018072:Holofoil": {
+      "card_id": 100018072,
+      "name": "Pikachu",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 20.14,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018064:Holofoil": {
+      "card_id": 100018064,
+      "name": "Erika's Jigglypuff",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 8.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018075:Holofoil": {
+      "card_id": 100018075,
+      "name": "Rayquaza EX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 20.67,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018069:Holofoil": {
+      "card_id": 100018069,
+      "name": "Solgaleo GX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 5.7,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018088:Holofoil": {
+      "card_id": 100018088,
+      "name": "Gengar (Prime)",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 53.9,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018080:Holofoil": {
+      "card_id": 100018080,
+      "name": "Darkrai & Cresselia Legend (Top)",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 20.38,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2162722:Normal": {
+      "card_id": 2162722,
+      "name": "30th Celebration Classic Collection Pack",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 311.83,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019019:Holofoil": {
+      "card_id": 100019019,
+      "name": "Exeggcute",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100018977:Foil": {
+      "card_id": 100018977,
+      "name": "Alolan Exeggutor - 002/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "100019072:Holofoil": {
+      "card_id": 100019072,
+      "name": "Volbeat",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019020:Foil": {
+      "card_id": 100019020,
+      "name": "Illumise",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "100018978:Holofoil": {
+      "card_id": 100018978,
+      "name": "Tropius",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019047:Holofoil": {
+      "card_id": 100019047,
+      "name": "Cherubi",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019077:Holofoil": {
+      "card_id": 100019077,
+      "name": "Cherrim",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019078:Holofoil": {
+      "card_id": 100019078,
+      "name": "Vivillon",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019073:Holofoil": {
+      "card_id": 100019073,
+      "name": "Vulpix",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019021:Holofoil": {
+      "card_id": 100019021,
+      "name": "Ninetales",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.15,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018968:Holofoil": {
+      "card_id": 100018968,
+      "name": "Moltres - 011/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019053:Holofoil": {
+      "card_id": 100019053,
+      "name": "Ho-Oh",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.14,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019022:Holofoil": {
+      "card_id": 100019022,
+      "name": "Reshiram",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100018979:Holofoil": {
+      "card_id": 100018979,
+      "name": "Fuecoco ex - 015/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018980:Holofoil": {
+      "card_id": 100018980,
+      "name": "Slowpoke",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018998:Holofoil": {
+      "card_id": 100018998,
+      "name": "Lapras - 017/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019023:Holofoil": {
+      "card_id": 100019023,
+      "name": "Articuno - 018/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019048:Holofoil": {
+      "card_id": 100019048,
+      "name": "Kyogre",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019079:Holofoil": {
+      "card_id": 100019079,
+      "name": "Palkia",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158848:Holofoil": {
+      "card_id": 2158848,
+      "name": "Greninja ex - 021/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.5,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019009:Holofoil": {
+      "card_id": 100019009,
+      "name": "Wishiwashi",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2320540:Holofoil": {
+      "card_id": 2320540,
+      "name": "Pikachu - 023/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.71,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018015:Holofoil": {
+      "card_id": 100018015,
+      "name": "Pikachu - 024/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.67,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320522:Holofoil": {
+      "card_id": 2320522,
+      "name": "Pikachu - 025/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320537:Holofoil": {
+      "card_id": 2320537,
+      "name": "Pikachu - 026/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.83,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018013:Holofoil": {
+      "card_id": 100018013,
+      "name": "Pikachu - 027/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320528:Foil": {
+      "card_id": 2320528,
+      "name": "Pikachu - 028/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.21,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "100018047:Holofoil": {
+      "card_id": 100018047,
+      "name": "Pikachu - 029/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.81,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320541:Holofoil": {
+      "card_id": 2320541,
+      "name": "Pikachu - 030/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018058:Holofoil": {
+      "card_id": 100018058,
+      "name": "Pikachu - 031/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.76,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320513:Holofoil": {
+      "card_id": 2320513,
+      "name": "Pikachu - 032/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.95,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320515:Foil": {
+      "card_id": 2320515,
+      "name": "Pikachu - 033/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.02,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "2320520:Holofoil": {
+      "card_id": 2320520,
+      "name": "Pikachu - 034/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.01,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018057:Holofoil": {
+      "card_id": 100018057,
+      "name": "Pikachu - 035/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.81,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158851:Holofoil": {
+      "card_id": 2158851,
+      "name": "Pikachu - 036/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158843:Holofoil": {
+      "card_id": 2158843,
+      "name": "Pikachu - 037/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.7,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320514:Holofoil": {
+      "card_id": 2320514,
+      "name": "Pikachu - 038/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.72,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320498:Foil": {
+      "card_id": 2320498,
+      "name": "Pikachu - 039/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.35,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "2320536:Holofoil": {
+      "card_id": 2320536,
+      "name": "Pikachu - 040/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.92,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320516:Foil": {
+      "card_id": 2320516,
+      "name": "Pikachu - 041/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.99,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "2320521:Holofoil": {
+      "card_id": 2320521,
+      "name": "Pikachu - 042/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.84,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320538:Foil": {
+      "card_id": 2320538,
+      "name": "Pikachu - 043/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.77,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "2320506:Foil": {
+      "card_id": 2320506,
+      "name": "Pikachu - 044/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.06,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "100018043:Holofoil": {
+      "card_id": 100018043,
+      "name": "Pikachu - 045/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018046:Holofoil": {
+      "card_id": 100018046,
+      "name": "Pikachu - 046/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.7,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158844:Holofoil": {
+      "card_id": 2158844,
+      "name": "Pikachu - 047/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.76,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018059:Holofoil": {
+      "card_id": 100018059,
+      "name": "Pikachu - 048/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.78,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320523:Foil": {
+      "card_id": 2320523,
+      "name": "Pikachu - 049/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.84,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "2320501:Foil": {
+      "card_id": 2320501,
+      "name": "Pikachu - 050/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.98,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "100018060:Holofoil": {
+      "card_id": 100018060,
+      "name": "Pikachu - 051/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018016:Holofoil": {
+      "card_id": 100018016,
+      "name": "Pikachu - 052/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.71,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320529:Foil": {
+      "card_id": 2320529,
+      "name": "Pikachu ex - 053/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.36,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "2320524:Foil": {
+      "card_id": 2320524,
+      "name": "Pikachu ex - 054/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.42,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "100019054:Holofoil": {
+      "card_id": 100019054,
+      "name": "Zapdos - 055/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019080:Holofoil": {
+      "card_id": 100019080,
+      "name": "Zekrom",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158847:Holofoil": {
+      "card_id": 2158847,
+      "name": "Zeraora",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019055:Holofoil": {
+      "card_id": 100019055,
+      "name": "Toxel",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.14,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019081:Holofoil": {
+      "card_id": 100019081,
+      "name": "Toxtricity - 059/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018981:Holofoil": {
+      "card_id": 100018981,
+      "name": "Toxtricity - 060/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019095:Holofoil": {
+      "card_id": 100019095,
+      "name": "Morpeko - 061/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019024:Holofoil": {
+      "card_id": 100019024,
+      "name": "Miraidon",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019056:Holofoil": {
+      "card_id": 100019056,
+      "name": "Mewtwo",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018969:Holofoil": {
+      "card_id": 100018969,
+      "name": "Mewtwo ex - 064/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.62,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019096:Holofoil": {
+      "card_id": 100019096,
+      "name": "Mew",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019082:Holofoil": {
+      "card_id": 100019082,
+      "name": "Mew ex - 066/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.45,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018994:Holofoil": {
+      "card_id": 100018994,
+      "name": "Marill",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019010:Holofoil": {
+      "card_id": 100019010,
+      "name": "Azumarill",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158839:Holofoil": {
+      "card_id": 2158839,
+      "name": "Espeon",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158850:Holofoil": {
+      "card_id": 2158850,
+      "name": "Espeon ex",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158849:Holofoil": {
+      "card_id": 2158849,
+      "name": "Sylveon ex - 071/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.77,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019057:Holofoil": {
+      "card_id": 100019057,
+      "name": "Unown",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019058:Holofoil": {
+      "card_id": 100019058,
+      "name": "Drifloon - 073/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019025:Holofoil": {
+      "card_id": 100019025,
+      "name": "Cresselia",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018970:Holofoil": {
+      "card_id": 100018970,
+      "name": "Chandelure - 075/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019026:Holofoil": {
+      "card_id": 100019026,
+      "name": "Xerneas",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018982:Holofoil": {
+      "card_id": 100018982,
+      "name": "Comfey",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018971:Holofoil": {
+      "card_id": 100018971,
+      "name": "Cosmog",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019097:Holofoil": {
+      "card_id": 100019097,
+      "name": "Cosmoem",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019038:Holofoil": {
+      "card_id": 100019038,
+      "name": "Lunala",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019068:Holofoil": {
+      "card_id": 100019068,
+      "name": "Gimmighoul",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019069:Holofoil": {
+      "card_id": 100019069,
+      "name": "Groudon",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019059:Holofoil": {
+      "card_id": 100019059,
+      "name": "Lucario",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019083:Holofoil": {
+      "card_id": 100019083,
+      "name": "Seismitoad",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019039:Holofoil": {
+      "card_id": 100019039,
+      "name": "Lycanroc - 085/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019040:Holofoil": {
+      "card_id": 100019040,
+      "name": "Koraidon",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018972:Holofoil": {
+      "card_id": 100018972,
+      "name": "Nidoran F",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100018983:Holofoil": {
+      "card_id": 100018983,
+      "name": "Nidorina",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2336584:Holofoil": {
+      "card_id": 2336584,
+      "name": "Alolan Meowth - 089/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019060:Holofoil": {
+      "card_id": 100019060,
+      "name": "Gengar ex - 090/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.52,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158852:Holofoil": {
+      "card_id": 2158852,
+      "name": "Umbreon",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158842:Holofoil": {
+      "card_id": 2158842,
+      "name": "Umbreon ex",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.02,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019027:Holofoil": {
+      "card_id": 100019027,
+      "name": "Murkrow",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019041:Holofoil": {
+      "card_id": 100019041,
+      "name": "Scraggy - 094/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018984:Holofoil": {
+      "card_id": 100018984,
+      "name": "Zorua",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018995:Holofoil": {
+      "card_id": 100018995,
+      "name": "Zoroark",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018973:Holofoil": {
+      "card_id": 100018973,
+      "name": "Deino",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.15,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019070:Holofoil": {
+      "card_id": 100019070,
+      "name": "Zweilous",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019042:Holofoil": {
+      "card_id": 100019042,
+      "name": "Hydreigon",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019071:Holofoil": {
+      "card_id": 100019071,
+      "name": "Yveltal",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019043:Holofoil": {
+      "card_id": 100019043,
+      "name": "Galarian Meowth - 101/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019028:Holofoil": {
+      "card_id": 100019028,
+      "name": "Jirachi ex - 102/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019098:Holofoil": {
+      "card_id": 100019098,
+      "name": "Dialga",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018985:Holofoil": {
+      "card_id": 100018985,
+      "name": "Ferrothorn",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018986:Holofoil": {
+      "card_id": 100018986,
+      "name": "Solgaleo",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019029:Holofoil": {
+      "card_id": 100019029,
+      "name": "Zacian",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019044:Holofoil": {
+      "card_id": 100019044,
+      "name": "Zamazenta",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019011:Holofoil": {
+      "card_id": 100019011,
+      "name": "Gholdengo - 108/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018987:Holofoil": {
+      "card_id": 100018987,
+      "name": "Salamence ex - 109/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019084:Holofoil": {
+      "card_id": 100019084,
+      "name": "Jangmo-o",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019061:Holofoil": {
+      "card_id": 100019061,
+      "name": "Hakamo-o",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019085:Holofoil": {
+      "card_id": 100019085,
+      "name": "Kommo-o - 112/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2336576:Holofoil": {
+      "card_id": 2336576,
+      "name": "Meowth - 113/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "100019086:Holofoil": {
+      "card_id": 100019086,
+      "name": "Kangaskhan",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019062:Holofoil": {
+      "card_id": 100019062,
+      "name": "Ditto",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2336577:Foil": {
+      "card_id": 2336577,
+      "name": "Eevee - 116/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "2158853:Holofoil": {
+      "card_id": 2158853,
+      "name": "Eevee - 117/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158841:Holofoil": {
+      "card_id": 2158841,
+      "name": "Eevee - 118/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019063:Holofoil": {
+      "card_id": 100019063,
+      "name": "Snorlax",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100034362:Holofoil": {
+      "card_id": 100034362,
+      "name": "Igglybuff",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018988:Holofoil": {
+      "card_id": 100018988,
+      "name": "Lugia",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019045:Holofoil": {
+      "card_id": 100019045,
+      "name": "Hisuian Zorua - 122/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018996:Holofoil": {
+      "card_id": 100018996,
+      "name": "Hisuian Zoroark",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100034433:Holofoil": {
+      "card_id": 100034433,
+      "name": "Minior",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018997:Holofoil": {
+      "card_id": 100018997,
+      "name": "Maushold - 125/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019087:Holofoil": {
+      "card_id": 100019087,
+      "name": "Poke Pad",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019088:Holofoil": {
+      "card_id": 100019088,
+      "name": "Switch",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100019030:Holofoil": {
+      "card_id": 100019030,
+      "name": "Ultra Ball",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018028:Holofoil": {
+      "card_id": 100018028,
+      "name": "Alolan Exeggutor - 129/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.85,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018018:Holofoil": {
+      "card_id": 100018018,
+      "name": "Moltres - 130/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6.14,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158837:Holofoil": {
+      "card_id": 2158837,
+      "name": "Lapras - 131/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 5.14,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018029:Holofoil": {
+      "card_id": 100018029,
+      "name": "Articuno - 132/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6.44,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018036:Holofoil": {
+      "card_id": 100018036,
+      "name": "Zapdos - 133/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6.72,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018044:Holofoil": {
+      "card_id": 100018044,
+      "name": "Toxtricity - 134/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018055:Holofoil": {
+      "card_id": 100018055,
+      "name": "Morpeko - 135/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 5.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158845:Holofoil": {
+      "card_id": 2158845,
+      "name": "Drifloon - 136/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.8,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018019:Holofoil": {
+      "card_id": 100018019,
+      "name": "Chandelure - 137/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.17,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158840:Holofoil": {
+      "card_id": 2158840,
+      "name": "Lycanroc - 138/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.42,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2336548:Holofoil": {
+      "card_id": 2336548,
+      "name": "Alolan Meowth - 139/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 7.44,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018048:Holofoil": {
+      "card_id": 100018048,
+      "name": "Scraggy - 140/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.13,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018049:Holofoil": {
+      "card_id": 100018049,
+      "name": "Galarian Meowth - 141/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 5.89,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018030:Holofoil": {
+      "card_id": 100018030,
+      "name": "Gholdengo - 142/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.51,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100034342:Holofoil": {
+      "card_id": 100034342,
+      "name": "Kommo-o - 143/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.38,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2336588:Holofoil": {
+      "card_id": 2336588,
+      "name": "Meowth - 144/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 9.51,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158846:Holofoil": {
+      "card_id": 2158846,
+      "name": "Hisuian Zorua - 145/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 4.91,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018020:Holofoil": {
+      "card_id": 100018020,
+      "name": "Maushold - 146/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 11.63,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018052:Holofoil": {
+      "card_id": 100018052,
+      "name": "Fuecoco ex - 147/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 14.95,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018031:Holofoil": {
+      "card_id": 100018031,
+      "name": "Greninja ex - 148/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 19.97,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2320502:Foil": {
+      "card_id": 2320502,
+      "name": "Pikachu ex - 149/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 73.97,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "2320530:Foil": {
+      "card_id": 2320530,
+      "name": "Pikachu ex - 150/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Foil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 89.44,
+          "market_price_as_of": "2026-10-01"
+        }
+      ]
+    },
+    "100034357:Holofoil": {
+      "card_id": 100034357,
+      "name": "Mewtwo ex - 151/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 54.65,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100034352:Holofoil": {
+      "card_id": 100034352,
+      "name": "Mew ex - 152/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 80.33,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018021:Holofoil": {
+      "card_id": 100018021,
+      "name": "Sylveon ex - 153/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 42.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100034361:Holofoil": {
+      "card_id": 100034361,
+      "name": "Gengar ex - 154/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 72.45,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018035:Holofoil": {
+      "card_id": 100018035,
+      "name": "Jirachi ex - 155/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 48.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100018053:Holofoil": {
+      "card_id": 100018053,
+      "name": "Salamence ex - 156/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 15.46,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158855:Holofoil": {
+      "card_id": 2158855,
+      "name": "Mewtwo ex - 157/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 47.78,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2158854:Holofoil": {
+      "card_id": 2158854,
+      "name": "Mew ex - 158/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 62.85,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100034465:Holofoil": {
+      "card_id": 100034465,
+      "name": "Mew - B/RGB",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1702.5,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "100034468:Holofoil": {
+      "card_id": 100034468,
+      "name": "Mew - R/RGB",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6000.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163511:Normal": {
+      "card_id": 2163511,
+      "name": "Code Card - Pitch Black Build & Battle Box",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.15,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163477:Reverse Holofoil": {
+      "card_id": 2163477,
+      "name": "Tropius",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163515:Reverse Holofoil": {
+      "card_id": 2163515,
+      "name": "Grubbin",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163473:Reverse Holofoil": {
+      "card_id": 2163473,
+      "name": "Fomantis - 003/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163563:Holofoil": {
+      "card_id": 2163563,
+      "name": "Lurantis ex - 004/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.48,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163430:Reverse Holofoil": {
+      "card_id": 2163430,
+      "name": "Poltchageist",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163427:Reverse Holofoil": {
+      "card_id": 2163427,
+      "name": "Sinistcha",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163559:Reverse Holofoil": {
+      "card_id": 2163559,
+      "name": "Heatran",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163484:Holofoil": {
+      "card_id": 2163484,
+      "name": "Mega Delphox ex",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163508:Reverse Holofoil": {
+      "card_id": 2163508,
+      "name": "Sizzlipede",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163524:Reverse Holofoil": {
+      "card_id": 2163524,
+      "name": "Centiskorch",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163505:Reverse Holofoil": {
+      "card_id": 2163505,
+      "name": "Charcadet",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163521:Reverse Holofoil": {
+      "card_id": 2163521,
+      "name": "Armarouge - 012/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163534:Reverse Holofoil": {
+      "card_id": 2163534,
+      "name": "Goldeen - 013/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.13,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163526:Reverse Holofoil": {
+      "card_id": 2163526,
+      "name": "Seaking",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163453:Reverse Holofoil": {
+      "card_id": 2163453,
+      "name": "Wailmer",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163528:Holofoil": {
+      "card_id": 2163528,
+      "name": "Wailord ex - 016/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163443:Reverse Holofoil": {
+      "card_id": 2163443,
+      "name": "Relicanth",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163552:Reverse Holofoil": {
+      "card_id": 2163552,
+      "name": "Popplio",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163560:Reverse Holofoil": {
+      "card_id": 2163560,
+      "name": "Brionne",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163488:Reverse Holofoil": {
+      "card_id": 2163488,
+      "name": "Primarina - 020/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163504:Reverse Holofoil": {
+      "card_id": 2163504,
+      "name": "Finizen",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163557:Reverse Holofoil": {
+      "card_id": 2163557,
+      "name": "Palafin",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163548:Reverse Holofoil": {
+      "card_id": 2163548,
+      "name": "Electrike",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163479:Reverse Holofoil": {
+      "card_id": 2163479,
+      "name": "Manectric - 024/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163493:Reverse Holofoil": {
+      "card_id": 2163493,
+      "name": "Vikavolt",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163465:Holofoil": {
+      "card_id": 2163465,
+      "name": "Mega Zeraora ex - 027/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.57,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163537:Reverse Holofoil": {
+      "card_id": 2163537,
+      "name": "Miraidon",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163449:Reverse Holofoil": {
+      "card_id": 2163449,
+      "name": "Slowpoke",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163527:Reverse Holofoil": {
+      "card_id": 2163527,
+      "name": "Slowbro - 030/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163460:Holofoil": {
+      "card_id": 2163460,
+      "name": "Mega Slowbro ex",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.49,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163533:Reverse Holofoil": {
+      "card_id": 2163533,
+      "name": "Jynx",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163429:Reverse Holofoil": {
+      "card_id": 2163429,
+      "name": "Shuppet",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163431:Reverse Holofoil": {
+      "card_id": 2163431,
+      "name": "Banette",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163434:Holofoil": {
+      "card_id": 2163434,
+      "name": "Spiritomb",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163461:Reverse Holofoil": {
+      "card_id": 2163461,
+      "name": "Litwick",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163457:Reverse Holofoil": {
+      "card_id": 2163457,
+      "name": "Lampent",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163440:Holofoil": {
+      "card_id": 2163440,
+      "name": "Mega Chandelure ex - 038/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.53,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163424:Reverse Holofoil": {
+      "card_id": 2163424,
+      "name": "Dhelmise - 039/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163558:Reverse Holofoil": {
+      "card_id": 2163558,
+      "name": "Marshadow",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163494:Reverse Holofoil": {
+      "card_id": 2163494,
+      "name": "Annihilape",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163462:Reverse Holofoil": {
+      "card_id": 2163462,
+      "name": "Mankey",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163554:Reverse Holofoil": {
+      "card_id": 2163554,
+      "name": "Primeape",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163446:Reverse Holofoil": {
+      "card_id": 2163446,
+      "name": "Cranidos",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163450:Holofoil": {
+      "card_id": 2163450,
+      "name": "Rampardos ex - 045/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163425:Reverse Holofoil": {
+      "card_id": 2163425,
+      "name": "Drilbur",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163522:Reverse Holofoil": {
+      "card_id": 2163522,
+      "name": "Koraidon",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163454:Holofoil": {
+      "card_id": 2163454,
+      "name": "Mega Darkrai ex - 048/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.76,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163556:Reverse Holofoil": {
+      "card_id": 2163556,
+      "name": "Vullaby",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163525:Reverse Holofoil": {
+      "card_id": 2163525,
+      "name": "Mandibuzz",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163532:Reverse Holofoil": {
+      "card_id": 2163532,
+      "name": "Inkay",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163517:Reverse Holofoil": {
+      "card_id": 2163517,
+      "name": "Malamar",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163523:Reverse Holofoil": {
+      "card_id": 2163523,
+      "name": "Nickit",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163553:Reverse Holofoil": {
+      "card_id": 2163553,
+      "name": "Thievul - 054/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163529:Holofoil": {
+      "card_id": 2163529,
+      "name": "Morpeko ex - 055/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163498:Reverse Holofoil": {
+      "card_id": 2163498,
+      "name": "Zarude",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163547:Reverse Holofoil": {
+      "card_id": 2163547,
+      "name": "Maschiff",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163546:Reverse Holofoil": {
+      "card_id": 2163546,
+      "name": "Mabosstiff",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163490:Reverse Holofoil": {
+      "card_id": 2163490,
+      "name": "Chi-Yu",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163492:Reverse Holofoil": {
+      "card_id": 2163492,
+      "name": "Skarmory",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163452:Reverse Holofoil": {
+      "card_id": 2163452,
+      "name": "Shieldon",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163448:Reverse Holofoil": {
+      "card_id": 2163448,
+      "name": "Bastiodon - 062/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163538:Reverse Holofoil": {
+      "card_id": 2163538,
+      "name": "Bronzor",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163549:Reverse Holofoil": {
+      "card_id": 2163549,
+      "name": "Bronzong",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163433:Holofoil": {
+      "card_id": 2163433,
+      "name": "Mega Excadrill ex - 065/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163458:Reverse Holofoil": {
+      "card_id": 2163458,
+      "name": "Pikipek",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163466:Reverse Holofoil": {
+      "card_id": 2163466,
+      "name": "Trumbeak",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163497:Reverse Holofoil": {
+      "card_id": 2163497,
+      "name": "Toucannon - 068/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163506:Reverse Holofoil": {
+      "card_id": 2163506,
+      "name": "Type: Null",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163485:Reverse Holofoil": {
+      "card_id": 2163485,
+      "name": "Silvally - 070/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163486:Reverse Holofoil": {
+      "card_id": 2163486,
+      "name": "Bombirdier",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163447:Reverse Holofoil": {
+      "card_id": 2163447,
+      "name": "Antique Armor Fossil",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163439:Reverse Holofoil": {
+      "card_id": 2163439,
+      "name": "Antique Skull Fossil",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163520:Reverse Holofoil": {
+      "card_id": 2163520,
+      "name": "Backtrack Badge",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163469:Reverse Holofoil": {
+      "card_id": 2163469,
+      "name": "Dark Bell - 075/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163480:Reverse Holofoil": {
+      "card_id": 2163480,
+      "name": "Fossil Quarry",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163456:Reverse Holofoil": {
+      "card_id": 2163456,
+      "name": "Gladion's Final Battle - 077/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163428:Reverse Holofoil": {
+      "card_id": 2163428,
+      "name": "Gwynn - 078/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163561:Reverse Holofoil": {
+      "card_id": 2163561,
+      "name": "Jett",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163476:Reverse Holofoil": {
+      "card_id": 2163476,
+      "name": "Misty's Vitality - 080/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163478:Reverse Holofoil": {
+      "card_id": 2163478,
+      "name": "Rust Syndicate Grunt - 081/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163464:Reverse Holofoil": {
+      "card_id": 2163464,
+      "name": "Tremendous Bomb - 082/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163467:Reverse Holofoil": {
+      "card_id": 2163467,
+      "name": "Shadowy Darkness Energy",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163442:Reverse Holofoil": {
+      "card_id": 2163442,
+      "name": "Voltaic Lightning Energy",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2163474:Holofoil": {
+      "card_id": 2163474,
+      "name": "Fomantis - 085/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.17,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163471:Holofoil": {
+      "card_id": 2163471,
+      "name": "Armarouge - 086/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.11,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163470:Holofoil": {
+      "card_id": 2163470,
+      "name": "Goldeen - 087/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 4.05,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163487:Holofoil": {
+      "card_id": 2163487,
+      "name": "Primarina - 088/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.16,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163501:Holofoil": {
+      "card_id": 2163501,
+      "name": "Manectric - 089/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.75,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163436:Holofoil": {
+      "card_id": 2163436,
+      "name": "Slowbro - 090/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6.66,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163459:Holofoil": {
+      "card_id": 2163459,
+      "name": "Dhelmise - 091/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.69,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163496:Holofoil": {
+      "card_id": 2163496,
+      "name": "Thievul - 092/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.4,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163489:Holofoil": {
+      "card_id": 2163489,
+      "name": "Bastiodon - 093/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.54,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163455:Holofoil": {
+      "card_id": 2163455,
+      "name": "Toucannon - 094/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.59,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163512:Holofoil": {
+      "card_id": 2163512,
+      "name": "Silvally - 095/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.48,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163437:Holofoil": {
+      "card_id": 2163437,
+      "name": "Lurantis ex - 096/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.02,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163445:Holofoil": {
+      "card_id": 2163445,
+      "name": "Wailord ex - 097/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 3.84,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163502:Holofoil": {
+      "card_id": 2163502,
+      "name": "Mega Zeraora ex - 098/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 5.6,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163551:Holofoil": {
+      "card_id": 2163551,
+      "name": "Mega Chandelure ex - 099/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 5.57,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163562:Holofoil": {
+      "card_id": 2163562,
+      "name": "Rampardos ex - 100/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.7,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163441:Holofoil": {
+      "card_id": 2163441,
+      "name": "Mega Darkrai ex - 101/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6.76,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163438:Holofoil": {
+      "card_id": 2163438,
+      "name": "Morpeko ex - 102/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 3.36,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163435:Holofoil": {
+      "card_id": 2163435,
+      "name": "Mega Excadrill ex - 103/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 4.55,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163539:Holofoil": {
+      "card_id": 2163539,
+      "name": "Brave Bangle",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 3.09,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163463:Holofoil": {
+      "card_id": 2163463,
+      "name": "Crushing Hammer",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 4.88,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163509:Holofoil": {
+      "card_id": 2163509,
+      "name": "Dark Bell - 106/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.65,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163519:Holofoil": {
+      "card_id": 2163519,
+      "name": "Energy Switch",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.95,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163483:Holofoil": {
+      "card_id": 2163483,
+      "name": "Gladion's Final Battle - 108/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.9,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163475:Holofoil": {
+      "card_id": 2163475,
+      "name": "Gwynn - 109/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 6.3,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163531:Holofoil": {
+      "card_id": 2163531,
+      "name": "Iron Defender",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.13,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163495:Holofoil": {
+      "card_id": 2163495,
+      "name": "Misty's Vitality - 111/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 9.55,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163500:Holofoil": {
+      "card_id": 2163500,
+      "name": "Rust Syndicate Grunt - 112/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.69,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163507:Holofoil": {
+      "card_id": 2163507,
+      "name": "Tremendous Bomb - 113/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163468:Holofoil": {
+      "card_id": 2163468,
+      "name": "Mega Zeraora ex - 114/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 41.66,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163514:Holofoil": {
+      "card_id": 2163514,
+      "name": "Mega Chandelure ex - 115/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 35.1,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163518:Holofoil": {
+      "card_id": 2163518,
+      "name": "Mega Darkrai ex - 116/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 149.83,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163499:Holofoil": {
+      "card_id": 2163499,
+      "name": "Morpeko ex - 117/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 64.07,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163544:Holofoil": {
+      "card_id": 2163544,
+      "name": "Gladion's Final Battle - 118/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 25.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163555:Holofoil": {
+      "card_id": 2163555,
+      "name": "Gwynn - 119/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 26.83,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2163540:Holofoil": {
+      "card_id": 2163540,
+      "name": "Mega Darkrai ex - 120/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 138.43,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2302913:Normal": {
+      "card_id": 2302913,
+      "name": "Code Card - Chaos Rising Build & Battle Box",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153300:Reverse Holofoil": {
+      "card_id": 2153300,
+      "name": "Weedle",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153298:Reverse Holofoil": {
+      "card_id": 2153298,
+      "name": "Kakuna",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153301:Holofoil": {
+      "card_id": 2153301,
+      "name": "Beedrill ex - 003/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.67,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153376:Reverse Holofoil": {
+      "card_id": 2153376,
+      "name": "Carnivine",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153394:Reverse Holofoil": {
+      "card_id": 2153394,
+      "name": "Chespin - 005/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153374:Reverse Holofoil": {
+      "card_id": 2153374,
+      "name": "Quilladin",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153384:Reverse Holofoil": {
+      "card_id": 2153384,
+      "name": "Chesnaught",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153324:Reverse Holofoil": {
+      "card_id": 2153324,
+      "name": "Vulpix",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153353:Reverse Holofoil": {
+      "card_id": 2153353,
+      "name": "Ninetales",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153364:Reverse Holofoil": {
+      "card_id": 2153364,
+      "name": "Ho-Oh",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153421:Reverse Holofoil": {
+      "card_id": 2153421,
+      "name": "Fennekin",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153326:Reverse Holofoil": {
+      "card_id": 2153326,
+      "name": "Braixen",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153419:Reverse Holofoil": {
+      "card_id": 2153419,
+      "name": "Delphox",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153388:Reverse Holofoil": {
+      "card_id": 2153388,
+      "name": "Litleo",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153314:Holofoil": {
+      "card_id": 2153314,
+      "name": "Mega Pyroar ex - 015/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.48,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153412:Reverse Holofoil": {
+      "card_id": 2153412,
+      "name": "Remoraid",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153333:Reverse Holofoil": {
+      "card_id": 2153333,
+      "name": "Octillery",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153354:Reverse Holofoil": {
+      "card_id": 2153354,
+      "name": "Delibird",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153408:Reverse Holofoil": {
+      "card_id": 2153408,
+      "name": "Keldeo",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153311:Reverse Holofoil": {
+      "card_id": 2153311,
+      "name": "Froakie - 020/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153305:Reverse Holofoil": {
+      "card_id": 2153305,
+      "name": "Frogadier - 021/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153303:Holofoil": {
+      "card_id": 2153303,
+      "name": "Mega Greninja ex - 022/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.86,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153418:Reverse Holofoil": {
+      "card_id": 2153418,
+      "name": "Bergmite",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153383:Reverse Holofoil": {
+      "card_id": 2153383,
+      "name": "Avalugg",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153392:Reverse Holofoil": {
+      "card_id": 2153392,
+      "name": "Wimpod",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153403:Reverse Holofoil": {
+      "card_id": 2153403,
+      "name": "Golisopod",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153395:Reverse Holofoil": {
+      "card_id": 2153395,
+      "name": "Mareep",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153390:Reverse Holofoil": {
+      "card_id": 2153390,
+      "name": "Flaaffy",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153310:Reverse Holofoil": {
+      "card_id": 2153310,
+      "name": "Ampharos - 029/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153362:Reverse Holofoil": {
+      "card_id": 2153362,
+      "name": "Emolga",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153329:Reverse Holofoil": {
+      "card_id": 2153329,
+      "name": "Deoxys - 031/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153406:Reverse Holofoil": {
+      "card_id": 2153406,
+      "name": "Deoxys - 032/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153399:Reverse Holofoil": {
+      "card_id": 2153399,
+      "name": "Deoxys - 033/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153385:Reverse Holofoil": {
+      "card_id": 2153385,
+      "name": "Deoxys - 034/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153317:Holofoil": {
+      "card_id": 2153317,
+      "name": "Mega Floette ex - 035/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153420:Reverse Holofoil": {
+      "card_id": 2153420,
+      "name": "Espurr",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2302839:Reverse Holofoil": {
+      "card_id": 2302839,
+      "name": "Meowstic",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153313:Reverse Holofoil": {
+      "card_id": 2153313,
+      "name": "Phantump",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153404:Reverse Holofoil": {
+      "card_id": 2153404,
+      "name": "Trevenant",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153402:Reverse Holofoil": {
+      "card_id": 2153402,
+      "name": "Pumpkaboo",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153323:Holofoil": {
+      "card_id": 2153323,
+      "name": "Gourgeist ex - 041/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.49,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153344:Reverse Holofoil": {
+      "card_id": 2153344,
+      "name": "Xerneas - 042/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153378:Reverse Holofoil": {
+      "card_id": 2153378,
+      "name": "Sudowoodo",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153335:Reverse Holofoil": {
+      "card_id": 2153335,
+      "name": "Phanpy",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153377:Reverse Holofoil": {
+      "card_id": 2153377,
+      "name": "Donphan",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153375:Reverse Holofoil": {
+      "card_id": 2153375,
+      "name": "Baltoy",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153327:Reverse Holofoil": {
+      "card_id": 2153327,
+      "name": "Claydol - 047/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153316:Holofoil": {
+      "card_id": 2153316,
+      "name": "Mega Gallade ex",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.46,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153382:Reverse Holofoil": {
+      "card_id": 2153382,
+      "name": "Zubat",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153422:Reverse Holofoil": {
+      "card_id": 2153422,
+      "name": "Golbat",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153328:Reverse Holofoil": {
+      "card_id": 2153328,
+      "name": "Crobat - 051/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153424:Reverse Holofoil": {
+      "card_id": 2153424,
+      "name": "Qwilfish",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153401:Reverse Holofoil": {
+      "card_id": 2153401,
+      "name": "Stunky",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2302837:Reverse Holofoil": {
+      "card_id": 2302837,
+      "name": "Skuntank",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153423:Holofoil": {
+      "card_id": 2153423,
+      "name": "Krookodile ex",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.49,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153355:Reverse Holofoil": {
+      "card_id": 2153355,
+      "name": "Trubbish",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153363:Reverse Holofoil": {
+      "card_id": 2153363,
+      "name": "Garbodor",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153304:Reverse Holofoil": {
+      "card_id": 2153304,
+      "name": "Skrelp",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153393:Reverse Holofoil": {
+      "card_id": 2153393,
+      "name": "Beldum",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153365:Reverse Holofoil": {
+      "card_id": 2153365,
+      "name": "Metang - 060/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153312:Reverse Holofoil": {
+      "card_id": 2153312,
+      "name": "Metagross",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153407:Reverse Holofoil": {
+      "card_id": 2153407,
+      "name": "Ferroseed",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153387:Reverse Holofoil": {
+      "card_id": 2153387,
+      "name": "Ferrothorn",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153342:Holofoil": {
+      "card_id": 2153342,
+      "name": "Cobalion ex - 064/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153308:Holofoil": {
+      "card_id": 2153308,
+      "name": "Mega Dragalge ex - 065/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153352:Reverse Holofoil": {
+      "card_id": 2153352,
+      "name": "Goomy",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2302865:Reverse Holofoil": {
+      "card_id": 2302865,
+      "name": "Sliggoo - 067/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153358:Reverse Holofoil": {
+      "card_id": 2153358,
+      "name": "Goodra",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153381:Reverse Holofoil": {
+      "card_id": 2153381,
+      "name": "Tauros - 069/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153359:Reverse Holofoil": {
+      "card_id": 2153359,
+      "name": "Patrat",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153372:Reverse Holofoil": {
+      "card_id": 2153372,
+      "name": "Watchog - 071/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153331:Reverse Holofoil": {
+      "card_id": 2153331,
+      "name": "Minccino",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153307:Holofoil": {
+      "card_id": 2153307,
+      "name": "Cinccino ex - 073/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.6,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153370:Reverse Holofoil": {
+      "card_id": 2153370,
+      "name": "Adversity Policy",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153417:Reverse Holofoil": {
+      "card_id": 2153417,
+      "name": "Ange Floette",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153325:Reverse Holofoil": {
+      "card_id": 2153325,
+      "name": "AZ's Tranquility - 076/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153386:Reverse Holofoil": {
+      "card_id": 2153386,
+      "name": "Emma - 077/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153416:Normal": {
+      "card_id": 2153416,
+      "name": "Great Haul Net",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153411:Reverse Holofoil": {
+      "card_id": 2153411,
+      "name": "Philippe - 079/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153415:Reverse Holofoil": {
+      "card_id": 2153415,
+      "name": "Prism Tower - 080/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153321:Reverse Holofoil": {
+      "card_id": 2153321,
+      "name": "Roxie's Performance - 081/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153296:Reverse Holofoil": {
+      "card_id": 2153296,
+      "name": "Special Red Card - 082/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153366:Reverse Holofoil": {
+      "card_id": 2153366,
+      "name": "Transformation Tome",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153398:Reverse Holofoil": {
+      "card_id": 2153398,
+      "name": "Bubbly W Energy",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153409:Reverse Holofoil": {
+      "card_id": 2153409,
+      "name": "Magnetic Metal Energy",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153410:Reverse Holofoil": {
+      "card_id": 2153410,
+      "name": "Nitro R Energy",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-08"
+        }
+      ]
+    },
+    "2153356:Holofoil": {
+      "card_id": 2153356,
+      "name": "Chespin - 087/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.8,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153348:Holofoil": {
+      "card_id": 2153348,
+      "name": "Froakie - 088/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 5.38,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153343:Holofoil": {
+      "card_id": 2153343,
+      "name": "Frogadier - 089/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 3.63,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153336:Holofoil": {
+      "card_id": 2153336,
+      "name": "Ampharos - 090/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 4.35,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153369:Holofoil": {
+      "card_id": 2153369,
+      "name": "Xerneas - 091/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 5.26,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153322:Holofoil": {
+      "card_id": 2153322,
+      "name": "Claydol - 092/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.37,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153368:Holofoil": {
+      "card_id": 2153368,
+      "name": "Crobat - 093/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.63,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153351:Holofoil": {
+      "card_id": 2153351,
+      "name": "Metang - 094/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.41,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153337:Holofoil": {
+      "card_id": 2153337,
+      "name": "Sliggoo - 095/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.62,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153318:Holofoil": {
+      "card_id": 2153318,
+      "name": "Tauros - 096/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.45,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153347:Holofoil": {
+      "card_id": 2153347,
+      "name": "Watchog - 097/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153306:Holofoil": {
+      "card_id": 2153306,
+      "name": "Beedrill ex - 098/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.77,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153330:Holofoil": {
+      "card_id": 2153330,
+      "name": "Mega Pyroar ex - 099/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.39,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153341:Holofoil": {
+      "card_id": 2153341,
+      "name": "Mega Greninja ex - 100/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 7.82,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153357:Holofoil": {
+      "card_id": 2153357,
+      "name": "Mega Floette ex - 101/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.86,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2302821:Holofoil": {
+      "card_id": 2302821,
+      "name": "Gourgeist ex - 102/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.09,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153413:Holofoil": {
+      "card_id": 2153413,
+      "name": "Cobalion ex - 103/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.27,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153396:Holofoil": {
+      "card_id": 2153396,
+      "name": "Mega Dragalge ex - 104/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.12,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153346:Holofoil": {
+      "card_id": 2153346,
+      "name": "Cinccino ex - 105/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 3.34,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153345:Holofoil": {
+      "card_id": 2153345,
+      "name": "AZ's Tranquility - 106/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.34,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153361:Holofoil": {
+      "card_id": 2153361,
+      "name": "Emma - 107/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.97,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153391:Holofoil": {
+      "card_id": 2153391,
+      "name": "Energy Retrieval",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.71,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153350:Holofoil": {
+      "card_id": 2153350,
+      "name": "Jumbo Ice Cream",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 3.48,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153332:Holofoil": {
+      "card_id": 2153332,
+      "name": "Philippe - 110/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.07,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153320:Holofoil": {
+      "card_id": 2153320,
+      "name": "Prism Tower - 111/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.82,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153380:Holofoil": {
+      "card_id": 2153380,
+      "name": "Roxie's Performance - 112/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153315:Holofoil": {
+      "card_id": 2153315,
+      "name": "Special Red Card - 113/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.37,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153367:Holofoil": {
+      "card_id": 2153367,
+      "name": "Surfing Beach",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 2.19,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153414:Holofoil": {
+      "card_id": 2153414,
+      "name": "Tool Scrapper",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 1.14,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153371:Holofoil": {
+      "card_id": 2153371,
+      "name": "Mega Greninja ex - 116/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 130.63,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153334:Holofoil": {
+      "card_id": 2153334,
+      "name": "Mega Floette ex - 117/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 23.78,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153379:Holofoil": {
+      "card_id": 2153379,
+      "name": "Mega Dragalge ex - 118/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 24.86,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153405:Holofoil": {
+      "card_id": 2153405,
+      "name": "Cinccino ex - 119/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 42.15,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153349:Holofoil": {
+      "card_id": 2153349,
+      "name": "AZ's Tranquility - 120/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 19.39,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153425:Holofoil": {
+      "card_id": 2153425,
+      "name": "Roxie's Performance - 121/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 15.45,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    },
+    "2153400:Holofoil": {
+      "card_id": 2153400,
+      "name": "Mega Greninja ex - 122/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-09",
+          "market_price_usd": 124.01,
+          "market_price_as_of": "2026-10-09"
+        }
+      ]
+    }
+  }
 }
