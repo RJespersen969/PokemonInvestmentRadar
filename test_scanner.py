@@ -1,4 +1,9 @@
 
+# ============================================================
+# POKEWATCH OPPORTUNITY SCANNER V1.9.1
+# RAW Pokemon cards | Persistent checkpoints | Discord-ready
+# ============================================================
+
 import os
 import json
 import time
@@ -10,15 +15,12 @@ from email.utils import parsedate_to_datetime
 import requests
 
 
-# ==========================================
-# POKEWATCH OPPORTUNITY SCANNER V1.9
-# Smart checkpoints + cached set catalogue
-# ==========================================
+# ---------------- CONFIGURATION ----------------
 
 API_KEY = os.environ.get("TCG_API_KEY")
 
 if not API_KEY:
-    raise RuntimeError("TCG_API_KEY mangler.")
+    raise RuntimeError("TCG_API_KEY mangler i GitHub Secrets.")
 
 BASE_URL = "https://api.tcgapi.dev/v1"
 
@@ -32,14 +34,16 @@ MIN_PRICE = 5.0
 MAX_PRICE = 200.0
 
 STATE_FILE = Path("scanner_state.json")
-OUTPUT_FILE = Path("scanner_candidates.json")
 HISTORY_FILE = Path("scanner_price_history.json")
+OUTPUT_FILE = Path("scanner_candidates.json")
 
 session = requests.Session()
 session.headers.update({"X-API-Key": API_KEY})
 
 api_calls = 0
 
+
+# ---------------- EXCEPTIONS ----------------
 
 class RateLimitReached(Exception):
     pass
@@ -48,6 +52,8 @@ class RateLimitReached(Exception):
 class ApiBudgetReached(Exception):
     pass
 
+
+# ---------------- FILE HANDLING ----------------
 
 def now_utc():
     return datetime.now(timezone.utc)
@@ -75,6 +81,76 @@ def load_json(path, default):
         return json.load(file)
 
 
+def load_state():
+    state = load_json(
+        STATE_FILE,
+        {
+            "next_set_index": 0,
+            "next_page": 1,
+            "next_catalogue_page": 1,
+            "catalogue_complete": False,
+            "cached_sets": [],
+            "candidates": {}
+        }
+    )
+
+    if not isinstance(state, dict):
+        raise ValueError("Ugyldig scanner_state.json")
+
+    state.setdefault("next_set_index", 0)
+    state.setdefault("next_page", 1)
+    state.setdefault("next_catalogue_page", 1)
+    state.setdefault("catalogue_complete", False)
+    state.setdefault("cached_sets", [])
+    state.setdefault("candidates", {})
+
+    for field, minimum in [
+        ("next_set_index", 0),
+        ("next_page", 1),
+        ("next_catalogue_page", 1)
+    ]:
+        value = state[field]
+
+        if (
+            not isinstance(value, int)
+            or isinstance(value, bool)
+            or value < minimum
+        ):
+            raise ValueError("Ugyldig state: " + field)
+
+    if not isinstance(state["cached_sets"], list):
+        raise ValueError("Ugyldig saet-cache.")
+
+    if not isinstance(state["candidates"], dict):
+        raise ValueError("Ugyldige kandidater.")
+
+    return state
+
+
+def load_history():
+    history = load_json(
+        HISTORY_FILE,
+        {
+            "version": "1.9.1",
+            "currency": "USD",
+            "observations": {}
+        }
+    )
+
+    if not isinstance(history, dict):
+        raise ValueError("Ugyldig prishistorik.")
+
+    if not isinstance(history.get("observations"), dict):
+        raise ValueError("Ugyldige prisobservationer.")
+
+    history["version"] = "1.9.1"
+    history["currency"] = "USD"
+
+    return history
+
+
+# ---------------- API HANDLING ----------------
+
 def retry_after_seconds(value):
     if not value:
         return None
@@ -98,6 +174,7 @@ def retry_after_seconds(value):
                 (retry_time - now_utc()).total_seconds()
             )
         )
+
     except (TypeError, ValueError, OverflowError):
         return None
 
@@ -106,10 +183,13 @@ def fetch(endpoint, params=None):
     global api_calls
 
     for attempt in range(2):
-        if api_calls >= MAX_API_CALLS:
-            raise ApiBudgetReached("API-budget opbrugt.")
 
-        if api_calls:
+        if api_calls >= MAX_API_CALLS:
+            raise ApiBudgetReached(
+                "Maksimalt antal API-kald naaet."
+            )
+
+        if api_calls > 0:
             time.sleep(REQUEST_DELAY)
 
         response = session.get(
@@ -130,71 +210,116 @@ def fetch(endpoint, params=None):
                 and wait is not None
                 and wait <= MAX_RETRY_WAIT
             ):
-                print("HTTP 429 - venter", wait, "sekunder")
+                print(
+                    "HTTP 429 - venter",
+                    wait,
+                    "sekunder."
+                )
+
                 time.sleep(wait)
                 continue
 
             raise RateLimitReached(
-                "API-kvote opbrugt. Stopper kontrolleret."
+                "HTTP 429: API-kvote opbrugt."
             )
 
         response.raise_for_status()
         return response.json()
 
-    raise RateLimitReached("API afviser fortsat kald.")
-
-
-def load_state():
-    state = load_json(
-        STATE_FILE,
-        {
-            "next_set_index": 0,
-            "next_page": 1,
-            "candidates": {},
-            "cached_sets": []
-        }
+    raise RateLimitReached(
+        "API'et afviser fortsat forespoergsler."
     )
 
-    if not isinstance(state, dict):
-        raise ValueError("Ugyldig scanner_state.json")
 
-    if not isinstance(state.get("candidates"), dict):
-        raise ValueError("Ugyldige kandidater.")
+# ---------------- POKEMON SET CATALOGUE ----------------
 
-    state.setdefault("next_page", 1)
-    state.setdefault("cached_sets", [])
+def get_all_sets(state):
+    cached = state["cached_sets"]
 
-    if not isinstance(state["next_page"], int):
-        raise ValueError("Ugyldigt sidetal.")
+    if state["catalogue_complete"] and cached:
+        print(
+            "Bruger gemt katalog:",
+            len(cached),
+            "Pokemon-saet."
+        )
+        return cached
 
-    if state["next_page"] < 1:
-        raise ValueError("Sidetal skal vaere mindst 1.")
+    page = state["next_catalogue_page"]
 
-    if not isinstance(state["cached_sets"], list):
-        raise ValueError("Ugyldig cache.")
-
-    return state
-
-
-def load_history():
-    history = load_json(
-        HISTORY_FILE,
-        {
-            "version": "1.9",
-            "currency": "USD",
-            "observations": {}
-        }
+    print(
+        "Fortsaetter katalog fra side:",
+        page
     )
 
-    if not isinstance(history, dict):
-        raise ValueError("Ugyldig prishistorik.")
+    while True:
+        result = fetch(
+            "/sets",
+            {
+                "game": "pokemon",
+                "page": page,
+                "per_page": PER_PAGE
+            }
+        )
 
-    if not isinstance(history.get("observations"), dict):
-        raise ValueError("Ugyldige prisobservationer.")
+        data = result.get("data", [])
+        meta = result.get("meta", {})
 
-    history["version"] = "1.9"
-    return history
+        if not isinstance(data, list):
+            raise ValueError("Ugyldigt katalogsvar.")
 
+        # Undgaa dubletter ved gentagne koersler.
+        existing_ids = {
+            str(item.get("id"))
+            for item in cached
+            if isinstance(item, dict)
+        }
+
+        for pokemon_set in data:
+            if not isinstance(pokemon_set, dict):
+                continue
+
+            set_id = pokemon_set.get("id")
+
+            if set_id is None:
+                continue
+
+            key = str(set_id)
+
+            if key not in existing_ids:
+                cached.append(pokemon_set)
+                existing_ids.add(key)
+
+        finished = (
+            meta.get("has_more") is False
+            or not data
+            or (
+                len(data) < PER_PAGE
+                and meta.get("has_more") is not True
+            )
+        )
+
+        state["cached_sets"] = cached
+        state["next_catalogue_page"] = page + 1
+        state["catalogue_complete"] = finished
+
+        # Gem kataloget efter hver side.
+        save_json(STATE_FILE, state)
+
+        print(
+            "Katalog gemt:",
+            len(cached),
+            "saet | side",
+            page
+        )
+
+        if finished:
+            print("Pokemon-katalog faerdigt.")
+            return cached
+
+        page += 1
+
+
+# ---------------- CARD FILTERS ----------------
 
 def get_price(card):
     try:
@@ -231,7 +356,10 @@ def is_raw_card(card):
         "display"
     ]
 
-    return not any(word in name for word in excluded)
+    return not any(
+        word in name
+        for word in excluded
+    )
 
 
 def card_key(card):
@@ -241,8 +369,11 @@ def card_key(card):
         return None
 
     printing = card.get("printing") or "Unknown"
+
     return f"{card_id}:{printing}"
 
+
+# ---------------- PRICE HISTORY ----------------
 
 def record_price(history, card, set_name, set_id):
     price = get_price(card)
@@ -266,7 +397,9 @@ def record_price(history, card, set_name, set_id):
     entry = observations[key]
 
     if not isinstance(entry.get("prices"), list):
-        raise ValueError("Ugyldig prisliste: " + key)
+        raise ValueError(
+            "Ugyldig prishistorik for " + key
+        )
 
     today = now_utc().date().isoformat()
 
@@ -284,86 +417,22 @@ def record_price(history, card, set_name, set_id):
             return False
 
     entry["prices"].append(observation)
-    entry["prices"].sort(key=lambda item: item["date"])
+
+    entry["prices"].sort(
+        key=lambda item: item["date"]
+    )
 
     return True
 
 
-
-def get_all_sets(state):
-    cached = state["cached_sets"]
-
-    if state.get("catalogue_complete", False) and cached:
-        print("Bruger komplet cache med", len(cached), "Pokemon-saet.")
-        return cached
-
-    # Fortsaet fra den senest gemte katalogside.
-    page = state.get("next_catalogue_page", 1)
-
-    if not isinstance(page, int) or page < 1:
-        page = 1
-
-    while True:
-        result = fetch(
-            "/sets",
-            {
-                "game": "pokemon",
-                "page": page,
-                "per_page": PER_PAGE
-            }
-        )
-
-        data = result.get("data", [])
-        meta = result.get("meta", {})
-
-        if not isinstance(data, list):
-            raise ValueError("Ugyldigt saet-svar.")
-
-        cached.extend(data)
-
-        finished = (
-            meta.get("has_more") is False
-            or not data
-            or (
-                len(data) < PER_PAGE
-                and meta.get("has_more") is not True
-            )
-        )
-
-        state["cached_sets"] = cached
-        state["next_catalogue_page"] = page + 1
-        state["catalogue_complete"] = finished
-
-        # Gem efter hver eneste katalogside.
-        save_json(STATE_FILE, state)
-
-        print(
-            "Katalog-checkpoint:",
-            len(cached),
-            "saet | side",
-            page
-        )
-
-        if finished:
-            return cached
-
-        page += 1
-
-
-    state["cached_sets"] = all_sets
-    save_json(STATE_FILE, state)
-
-    print("Pokemon-saet gemt i cache:", len(all_sets))
-
-    return all_sets
-
+# ---------------- CARD PROCESSING ----------------
 
 def process_page(cards, pokemon_set, state, history):
     set_id = pokemon_set["id"]
     set_name = pokemon_set.get("name", "Ukendt")
 
-    new_observations = 0
     candidates_found = 0
+    new_observations = 0
 
     for card in cards:
         if not isinstance(card, dict):
@@ -398,11 +467,18 @@ def process_page(cards, pokemon_set, state, history):
 
             candidates_found += 1
 
-        if record_price(history, card, set_name, set_id):
+        if record_price(
+            history,
+            card,
+            set_name,
+            set_id
+        ):
             new_observations += 1
 
     return candidates_found, new_observations
 
+
+# ---------------- SET SCANNING ----------------
 
 def scan_set(pokemon_set, state, history):
     set_id = pokemon_set["id"]
@@ -411,7 +487,7 @@ def scan_set(pokemon_set, state, history):
     page = state["next_page"]
 
     print()
-    print("SAET:", set_name)
+    print("Scanner saet:", set_name)
     print("Starter paa side:", page)
 
     while True:
@@ -427,20 +503,13 @@ def scan_set(pokemon_set, state, history):
         meta = result.get("meta", {})
 
         if not isinstance(cards, list):
-            raise ValueError("Ugyldigt kort-svar.")
+            raise ValueError("Ugyldigt kortsvar.")
 
         found, observations = process_page(
             cards,
             pokemon_set,
             state,
             history
-        )
-
-        print(
-            "Side:", page,
-            "| Produkter:", len(cards),
-            "| RAW-kandidater:", found,
-            "| Nye observationer:", observations
         )
 
         finished = (
@@ -458,14 +527,20 @@ def scan_set(pokemon_set, state, history):
         else:
             state["next_page"] = page + 1
 
-        # Checkpoint efter HVER side.
+        # Gem fremskridt efter hver kortside.
         save_json(HISTORY_FILE, history)
         save_json(STATE_FILE, state)
 
         print(
-            "Checkpoint gemt:",
-            "saet", state["next_set_index"] + 1,
-            "side", state["next_page"]
+            "Side:", page,
+            "| RAW-kandidater:", found,
+            "| Nye prisobservationer:", observations
+        )
+
+        print(
+            "Checkpoint:",
+            state["next_set_index"],
+            state["next_page"]
         )
 
         if finished:
@@ -474,7 +549,15 @@ def scan_set(pokemon_set, state, history):
         page += 1
 
 
-def save_report(state, history, total_sets, completed, status):
+# ---------------- REPORTING ----------------
+
+def save_report(
+    state,
+    history,
+    total_sets,
+    completed,
+    status
+):
     candidates = sorted(
         state["candidates"].values(),
         key=lambda item: (
@@ -485,12 +568,18 @@ def save_report(state, history, total_sets, completed, status):
 
     report = {
         "scanner": "PokeWatch Opportunity Scanner",
-        "version": "1.9",
+        "version": "1.9.1",
         "generated_at": now_utc().isoformat(),
         "status": status,
         "currency": "USD",
         "next_set_index": state["next_set_index"],
         "next_page": state["next_page"],
+        "next_catalogue_page": state[
+            "next_catalogue_page"
+        ],
+        "catalogue_complete": state[
+            "catalogue_complete"
+        ],
         "total_sets": total_sets,
         "sets_completed_this_run": completed,
         "api_calls": api_calls,
@@ -507,24 +596,26 @@ def save_report(state, history, total_sets, completed, status):
 
     print()
     print("================================")
-    print("POKEWATCH V1.9 RESULTAT")
+    print("POKEWATCH RESULTAT")
     print("================================")
+    print("Version: 1.9.1")
     print("Status:", status)
+    print("API-kald:", api_calls)
     print("Saet faerdige:", completed)
-    print("Naeste saet:", state["next_set_index"] + 1)
-    print("Naeste side:", state["next_page"])
     print("RAW-kandidater:", len(candidates))
     print(
         "Kort med prishistorik:",
         len(history["observations"])
     )
-    print("API-kald:", api_calls)
     print("Alle filer gemt.")
 
 
+# ---------------- MAIN SCANNER ----------------
+
 def main():
     print("================================")
-    print("POKEWATCH OPPORTUNITY SCANNER V1.9")
+    print("POKEWATCH OPPORTUNITY SCANNER")
+    print("VERSION 1.9.1")
     print("================================")
 
     state = load_state()
@@ -539,23 +630,31 @@ def main():
         total_sets = len(all_sets)
 
         if total_sets == 0:
-            raise ValueError("Ingen Pokemon-saet fundet.")
+            raise ValueError(
+                "Ingen Pokemon-saet fundet."
+            )
 
-        start = state.get("next_set_index", 0)
-
-        if not isinstance(start, int) or start < 0:
-            raise ValueError("Ugyldigt saet-indeks.")
+        start = state["next_set_index"]
 
         if start >= total_sets:
             start = 0
             state["next_set_index"] = 0
             state["next_page"] = 1
 
-        target = min(start + BATCH_SIZE, total_sets)
+        target = min(
+            start + BATCH_SIZE,
+            total_sets
+        )
 
-        print("Scanner saet", start + 1, "til", target)
+        print(
+            "Scanner saet",
+            start + 1,
+            "til",
+            target
+        )
 
         while state["next_set_index"] < target:
+
             if api_calls >= MAX_API_CALLS - 2:
                 status = "api_budget_stop"
                 break
@@ -563,7 +662,12 @@ def main():
             index = state["next_set_index"]
             pokemon_set = all_sets[index]
 
-            scan_set(pokemon_set, state, history)
+            scan_set(
+                pokemon_set,
+                state,
+                history
+            )
+
             completed += 1
 
     except RateLimitReached as error:
