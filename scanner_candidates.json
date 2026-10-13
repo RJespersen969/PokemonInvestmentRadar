@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-12T07:49:06.003356+00:00",
+  "generated_at": "2026-10-13T07:48:23.111160+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 30,
+  "next_set_index": 35,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 13,
-  "total_candidates": 917,
-  "cards_with_price_history": 4827,
+  "api_calls": 9,
+  "total_candidates": 975,
+  "cards_with_price_history": 5325,
   "candidates": [
     {
       "card_id": 18754,
@@ -109,6 +109,18 @@
       "market_price_usd": 179.03,
       "market_price_as_of": "2026-10-09",
       "total_listings": 93
+    },
+    {
+      "card_id": 2298981,
+      "name": "Dawn - 087/094 (Ultra Ball League)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "number": "087/094",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 174.99,
+      "market_price_as_of": "2026-10-12",
+      "total_listings": 0
     },
     {
       "card_id": 13481,
@@ -327,6 +339,18 @@
       "total_listings": 194
     },
     {
+      "card_id": 21888,
+      "name": "Blastoise ex - 200/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "200/165",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 115.73,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 253
+    },
+    {
       "card_id": 18188,
       "name": "Milotic ex - 237/191",
       "set_id": 5500180,
@@ -399,6 +423,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 20463,
+      "name": "Charizard ex - 223/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "223/197",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 94.05,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 274
+    },
+    {
       "card_id": 25201,
       "name": "Squirtle",
       "set_id": 5500045,
@@ -409,6 +445,18 @@
       "market_price_usd": 93.04,
       "market_price_as_of": "2026-10-11",
       "total_listings": 162
+    },
+    {
+      "card_id": 21896,
+      "name": "Venusaur ex - 198/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "198/165",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 92.44,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 302
     },
     {
       "card_id": 20779,
@@ -447,6 +495,18 @@
       "total_listings": 176
     },
     {
+      "card_id": 21887,
+      "name": "Charmander - 168/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "168/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 90.24,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 209
+    },
+    {
       "card_id": 2320530,
       "name": "Pikachu ex - 150/128",
       "set_id": 5500219,
@@ -457,6 +517,18 @@
       "market_price_usd": 89.44,
       "market_price_as_of": "2026-10-01",
       "total_listings": 168
+    },
+    {
+      "card_id": 21895,
+      "name": "Squirtle - 170/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "170/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 89.1,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 235
     },
     {
       "card_id": 7227,
@@ -481,6 +553,30 @@
       "market_price_usd": 88.83,
       "market_price_as_of": "2026-10-09",
       "total_listings": 283
+    },
+    {
+      "card_id": 2298505,
+      "name": "Radiant Greninja - 046/189 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "number": "046/189",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 86.66,
+      "market_price_as_of": "2026-10-12",
+      "total_listings": 0
+    },
+    {
+      "card_id": 21878,
+      "name": "Zapdos ex - 202/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "202/165",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 82.82,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 235
     },
     {
       "card_id": 14295,
@@ -747,6 +843,18 @@
       "total_listings": 83
     },
     {
+      "card_id": 21871,
+      "name": "Pikachu - 173/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "173/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 67.78,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 258
+    },
+    {
       "card_id": 2155085,
       "name": "Ampharos - 075 [Staff]",
       "set_id": 5500111,
@@ -879,6 +987,18 @@
       "total_listings": 89
     },
     {
+      "card_id": 21885,
+      "name": "Bulbasaur - 166/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "166/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 61.71,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 321
+    },
+    {
       "card_id": 16060,
       "name": "Morpeko - 206/182",
       "set_id": 5500212,
@@ -913,6 +1033,30 @@
       "market_price_usd": 59.7,
       "market_price_as_of": "2026-10-09",
       "total_listings": 114
+    },
+    {
+      "card_id": 21892,
+      "name": "Psyduck - 175/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "175/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 59.34,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 238
+    },
+    {
+      "card_id": 21894,
+      "name": "Alakazam ex - 201/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "201/165",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 58.95,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 337
     },
     {
       "card_id": 13458,
@@ -961,6 +1105,18 @@
       "market_price_usd": 55.79,
       "market_price_as_of": "2026-10-09",
       "total_listings": 89
+    },
+    {
+      "card_id": 21891,
+      "name": "Charmeleon - 169/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "169/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.79,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 245
     },
     {
       "card_id": 100034357,
@@ -1069,6 +1225,18 @@
       "market_price_usd": 51.95,
       "market_price_as_of": "2026-10-09",
       "total_listings": 55
+    },
+    {
+      "card_id": 21877,
+      "name": "Wartortle - 171/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "171/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 51.28,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 293
     },
     {
       "card_id": 18753,
@@ -1815,6 +1983,30 @@
       "total_listings": 119
     },
     {
+      "card_id": 21886,
+      "name": "Ivysaur - 167/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "167/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.47,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 289
+    },
+    {
+      "card_id": 21897,
+      "name": "Charizard ex - 183/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "183/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.19,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 294
+    },
+    {
       "card_id": 17221,
       "name": "Ditto",
       "set_id": 5500030,
@@ -1849,6 +2041,18 @@
       "market_price_usd": 38.01,
       "market_price_as_of": "2026-10-10",
       "total_listings": 274
+    },
+    {
+      "card_id": 21890,
+      "name": "Dragonair - 181/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "181/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.9,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 271
     },
     {
       "card_id": 14455,
@@ -1947,6 +2151,30 @@
       "total_listings": 278
     },
     {
+      "card_id": 20434,
+      "name": "Cleffa - 202/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "202/197",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.88,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 248
+    },
+    {
+      "card_id": 21864,
+      "name": "Poliwhirl - 176/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "176/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.81,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 302
+    },
+    {
       "card_id": 6904,
       "name": "Mega Gengar ex - 269/217",
       "set_id": 5500112,
@@ -2017,6 +2245,18 @@
       "market_price_usd": 34.56,
       "market_price_as_of": "2026-10-09",
       "total_listings": 123
+    },
+    {
+      "card_id": 20442,
+      "name": "Charizard ex - 228/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "228/197",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.31,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 229
     },
     {
       "card_id": 25276,
@@ -2113,6 +2353,18 @@
       "market_price_usd": 32.58,
       "market_price_as_of": "2026-10-10",
       "total_listings": 125
+    },
+    {
+      "card_id": 20424,
+      "name": "Ninetales -199/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "199/197",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.55,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 283
     },
     {
       "card_id": 13617,
@@ -2617,6 +2869,18 @@
       "market_price_usd": 28.21,
       "market_price_as_of": "2026-10-10",
       "total_listings": 76
+    },
+    {
+      "card_id": 21883,
+      "name": "Mew ex - 193/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "193/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.2,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 255
     },
     {
       "card_id": 15940,
@@ -3147,6 +3411,18 @@
       "total_listings": 88
     },
     {
+      "card_id": 21853,
+      "name": "Mew ex - 205/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "205/165",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.28,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 278
+    },
+    {
       "card_id": 20728,
       "name": "Minccino - 182/162",
       "set_id": 5500066,
@@ -3181,6 +3457,18 @@
       "market_price_usd": 23.75,
       "market_price_as_of": "2026-10-05",
       "total_listings": 40
+    },
+    {
+      "card_id": 21862,
+      "name": "Mew ex - 205/165 (151 Metal Card)",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "205/165",
+      "rarity": "Double Rare",
+      "printing": "Normal",
+      "market_price_usd": 23.74,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 219
     },
     {
       "card_id": 18745,
@@ -3289,6 +3577,18 @@
       "market_price_usd": 23.07,
       "market_price_as_of": "2026-10-10",
       "total_listings": 137
+    },
+    {
+      "card_id": 2298759,
+      "name": "Dusclops - 019/064 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "number": "019/064",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.0,
+      "market_price_as_of": "2026-09-22",
+      "total_listings": 0
     },
     {
       "card_id": 2155097,
@@ -3519,6 +3819,18 @@
       "total_listings": 174
     },
     {
+      "card_id": 20464,
+      "name": "Charizard ex - 215/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "215/197",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.54,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 186
+    },
+    {
       "card_id": 13406,
       "name": "Flareon (Master Ball Pattern)",
       "set_id": 5500017,
@@ -3553,6 +3865,18 @@
       "market_price_usd": 21.11,
       "market_price_as_of": "2026-10-10",
       "total_listings": 194
+    },
+    {
+      "card_id": 21857,
+      "name": "Machoke - 177/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "177/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.06,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 368
     },
     {
       "card_id": 13451,
@@ -3805,6 +4129,18 @@
       "market_price_usd": 19.97,
       "market_price_as_of": "2026-10-09",
       "total_listings": 232
+    },
+    {
+      "card_id": 21881,
+      "name": "Blastoise ex - 184/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "184/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.97,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 338
     },
     {
       "card_id": 14373,
@@ -4311,6 +4647,18 @@
       "total_listings": 121
     },
     {
+      "card_id": 21858,
+      "name": "Nidoking - 174/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "174/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.94,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 333
+    },
+    {
       "card_id": 14301,
       "name": "Purrloin - 136/086",
       "set_id": 5500153,
@@ -4381,6 +4729,18 @@
       "market_price_usd": 17.66,
       "market_price_as_of": "2026-10-09",
       "total_listings": 83
+    },
+    {
+      "card_id": 20426,
+      "name": "Gloom - 198/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "198/197",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.62,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 349
     },
     {
       "card_id": 30168,
@@ -4683,6 +5043,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 21867,
+      "name": "Caterpie - 172/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "172/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.53,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 333
+    },
+    {
       "card_id": 13400,
       "name": "Hearthflame Mask Ogerpon ex - 148/131",
       "set_id": 5500017,
@@ -4983,6 +5355,18 @@
       "total_listings": 94
     },
     {
+      "card_id": 21861,
+      "name": "Erika's Invitation - 203/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "203/165",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.69,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 352
+    },
+    {
       "card_id": 23462,
       "name": "Ivysaur - 134/132",
       "set_id": 5500179,
@@ -4993,6 +5377,18 @@
       "market_price_usd": 15.68,
       "market_price_as_of": "2026-10-09",
       "total_listings": 371
+    },
+    {
+      "card_id": 20449,
+      "name": "Pidgeot ex - 225/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "225/197",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.67,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 349
     },
     {
       "card_id": 18738,
@@ -5463,6 +5859,18 @@
       "total_listings": 92
     },
     {
+      "card_id": 21893,
+      "name": "Ninetales ex - 186/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "186/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.38,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 297
+    },
+    {
       "card_id": 30131,
       "name": "Okidogi",
       "set_id": 5500139,
@@ -5569,6 +5977,30 @@
       "market_price_usd": 14.16,
       "market_price_as_of": "2026-10-09",
       "total_listings": 26
+    },
+    {
+      "card_id": 21833,
+      "name": "Giovanni's Charisma - 204/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "204/165",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.1,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 356
+    },
+    {
+      "card_id": 21850,
+      "name": "Tangela - 178/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "178/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.1,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 344
     },
     {
       "card_id": 16019,
@@ -5715,6 +6147,18 @@
       "total_listings": 182
     },
     {
+      "card_id": 21889,
+      "name": "Venusaur ex - 182/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "182/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.49,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 363
+    },
+    {
       "card_id": 13580,
       "name": "Sandile - 135/086",
       "set_id": 5500093,
@@ -5725,6 +6169,18 @@
       "market_price_usd": 13.45,
       "market_price_as_of": "2026-10-09",
       "total_listings": 160
+    },
+    {
+      "card_id": 20419,
+      "name": "Scizor - 205/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "205/197",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.42,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 412
     },
     {
       "card_id": 13833,
@@ -6195,6 +6651,18 @@
       "total_listings": 166
     },
     {
+      "card_id": 21852,
+      "name": "Mr. Mime - 179/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "179/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.43,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 356
+    },
+    {
       "card_id": 13807,
       "name": "Haxorus (Master Ball Pattern)",
       "set_id": 5500093,
@@ -6363,6 +6831,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 21848,
+      "name": "Omanyte - 180/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "180/165",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.16,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 386
+    },
+    {
       "card_id": 17286,
       "name": "Paldean Wooper - 180/091",
       "set_id": 5500030,
@@ -6421,6 +6901,18 @@
       "market_price_usd": 12.01,
       "market_price_as_of": "2026-10-10",
       "total_listings": 259
+    },
+    {
+      "card_id": 20421,
+      "name": "Pidgey - 207/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "207/197",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.01,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 369
     },
     {
       "card_id": 14497,
@@ -7167,6 +7659,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 20433,
+      "name": "Pidgeotto - 208/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "208/197",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.8,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 337
+    },
+    {
       "card_id": 35204,
       "name": "Zapdos",
       "set_id": 5500053,
@@ -7189,6 +7693,18 @@
       "market_price_usd": 10.77,
       "market_price_as_of": "2026-10-12",
       "total_listings": 183
+    },
+    {
+      "card_id": 20432,
+      "name": "Houndour - 204/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "204/197",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.75,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 304
     },
     {
       "card_id": 14530,
@@ -7225,6 +7741,18 @@
       "market_price_usd": 10.65,
       "market_price_as_of": "2026-10-10",
       "total_listings": 136
+    },
+    {
+      "card_id": 38668,
+      "name": "Pikachu",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "number": "006/015",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.63,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 186
     },
     {
       "card_id": 13449,
@@ -7335,6 +7863,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 21875,
+      "name": "Zapdos ex - 192/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "192/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.38,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 341
+    },
+    {
       "card_id": 23467,
       "name": "Marshadow - 146/132",
       "set_id": 5500179,
@@ -7405,6 +7945,18 @@
       "market_price_usd": 10.28,
       "market_price_as_of": "2026-10-10",
       "total_listings": 155
+    },
+    {
+      "card_id": 20413,
+      "name": "Lechonk - 209/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "209/197",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.28,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 336
     },
     {
       "card_id": 13670,
@@ -7861,6 +8413,18 @@
       "market_price_usd": 9.54,
       "market_price_as_of": "2026-10-09",
       "total_listings": 69
+    },
+    {
+      "card_id": 21880,
+      "name": "Alakazam ex - 188/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "188/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.54,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 382
     },
     {
       "card_id": 13598,
@@ -8367,6 +8931,18 @@
       "total_listings": 172
     },
     {
+      "card_id": 21689,
+      "name": "Gengar",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "094/165",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.64,
+      "market_price_as_of": "2026-10-12",
+      "total_listings": 728
+    },
+    {
       "card_id": 14503,
       "name": "Terrakion (Master Ball Pattern)",
       "set_id": 5500153,
@@ -8823,6 +9399,18 @@
       "total_listings": 131
     },
     {
+      "card_id": 21711,
+      "name": "Charizard ex - 006/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "006/165",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.94,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 494
+    },
+    {
       "card_id": 17110,
       "name": "Gardevoir ex - 217/091",
       "set_id": 5500030,
@@ -9243,6 +9831,30 @@
       "total_listings": 451
     },
     {
+      "card_id": 21703,
+      "name": "Mew ex - 151/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "151/165",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.27,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 682
+    },
+    {
+      "card_id": 21884,
+      "name": "Arbok ex - 185/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "185/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.26,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 435
+    },
+    {
       "card_id": 35163,
       "name": "Ivysaur",
       "set_id": 5500053,
@@ -9469,6 +10081,18 @@
       "market_price_usd": 6.99,
       "market_price_as_of": "2026-10-12",
       "total_listings": 104
+    },
+    {
+      "card_id": 21882,
+      "name": "Wigglytuff ex - 187/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "187/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.99,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 340
     },
     {
       "card_id": 17177,
@@ -10035,6 +10659,18 @@
       "total_listings": 596
     },
     {
+      "card_id": 21879,
+      "name": "Golem ex - 189/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "189/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.07,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 404
+    },
+    {
       "card_id": 25189,
       "name": "Joltik - 150/142",
       "set_id": 5500045,
@@ -10045,6 +10681,18 @@
       "market_price_usd": 6.07,
       "market_price_as_of": "2026-10-11",
       "total_listings": 263
+    },
+    {
+      "card_id": 21876,
+      "name": "Kangaskhan ex - 190/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "190/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.06,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 440
     },
     {
       "card_id": 6912,
@@ -10095,6 +10743,18 @@
       "total_listings": 202
     },
     {
+      "card_id": 21854,
+      "name": "Erika's Invitation - 196/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "196/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.0,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 436
+    },
+    {
       "card_id": 23871,
       "name": "Furret - 168/159",
       "set_id": 5500077,
@@ -10129,6 +10789,18 @@
       "market_price_usd": 5.95,
       "market_price_as_of": "2026-10-11",
       "total_listings": 157
+    },
+    {
+      "card_id": 20410,
+      "name": "Charizard ex - 125/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "125/197",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.94,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 327
     },
     {
       "card_id": 14254,
@@ -10551,6 +11223,18 @@
       "total_listings": 462
     },
     {
+      "card_id": 21872,
+      "name": "Jynx ex - 191/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "number": "191/165",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.54,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 357
+    },
+    {
       "card_id": 15915,
       "name": "Toedscruel - 185/182",
       "set_id": 5500212,
@@ -10849,6 +11533,18 @@
       "market_price_usd": 5.17,
       "market_price_as_of": "2026-10-11",
       "total_listings": 265
+    },
+    {
+      "card_id": 20435,
+      "name": "Bellibolt - 201/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "number": "201/197",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.17,
+      "market_price_as_of": "2026-10-13",
+      "total_listings": 357
     },
     {
       "card_id": 23416,

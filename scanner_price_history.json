@@ -67579,6 +67579,6978 @@
           "market_price_as_of": "2026-10-12"
         }
       ]
+    },
+    "21901:Normal": {
+      "card_id": 21901,
+      "name": "Code Card - 151: Alakazam ex Collection",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.08,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21908:Normal": {
+      "card_id": 21908,
+      "name": "Code Card - 151: Zapdos ex Collection",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.05,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21919:Normal": {
+      "card_id": 21919,
+      "name": "Code Card -151 Poster Collection",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.06,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21693:Reverse Holofoil": {
+      "card_id": 21693,
+      "name": "Bulbasaur - 001/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21700:Reverse Holofoil": {
+      "card_id": 21700,
+      "name": "Ivysaur - 002/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21694:Holofoil": {
+      "card_id": 21694,
+      "name": "Venusaur ex - 003/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21699:Reverse Holofoil": {
+      "card_id": 21699,
+      "name": "Charmander - 004/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.41,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21719:Reverse Holofoil": {
+      "card_id": 21719,
+      "name": "Charmeleon - 005/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21711:Holofoil": {
+      "card_id": 21711,
+      "name": "Charizard ex - 006/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 7.94,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21690:Reverse Holofoil": {
+      "card_id": 21690,
+      "name": "Squirtle - 007/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21710:Reverse Holofoil": {
+      "card_id": 21710,
+      "name": "Wartortle - 008/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.5,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21692:Holofoil": {
+      "card_id": 21692,
+      "name": "Blastoise ex - 009/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.48,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21776:Reverse Holofoil": {
+      "card_id": 21776,
+      "name": "Caterpie - 010/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21752:Reverse Holofoil": {
+      "card_id": 21752,
+      "name": "Metapod",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.77,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21756:Reverse Holofoil": {
+      "card_id": 21756,
+      "name": "Butterfree",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21745:Reverse Holofoil": {
+      "card_id": 21745,
+      "name": "Weedle",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21744:Reverse Holofoil": {
+      "card_id": 21744,
+      "name": "Kakuna",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.84,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21723:Reverse Holofoil": {
+      "card_id": 21723,
+      "name": "Beedrill",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.37,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21718:Reverse Holofoil": {
+      "card_id": 21718,
+      "name": "Pidgey",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21717:Reverse Holofoil": {
+      "card_id": 21717,
+      "name": "Pidgeotto",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21765:Reverse Holofoil": {
+      "card_id": 21765,
+      "name": "Pidgeot",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21818:Reverse Holofoil": {
+      "card_id": 21818,
+      "name": "Rattata",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21842:Reverse Holofoil": {
+      "card_id": 21842,
+      "name": "Raticate",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21749:Reverse Holofoil": {
+      "card_id": 21749,
+      "name": "Spearow",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.13,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21843:Reverse Holofoil": {
+      "card_id": 21843,
+      "name": "Fearow",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21855:Reverse Holofoil": {
+      "card_id": 21855,
+      "name": "Ekans",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21759:Holofoil": {
+      "card_id": 21759,
+      "name": "Arbok ex - 024/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21695:Reverse Holofoil": {
+      "card_id": 21695,
+      "name": "Pikachu - 025/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.92,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21722:Reverse Holofoil": {
+      "card_id": 21722,
+      "name": "Raichu",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.04,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21835:Reverse Holofoil": {
+      "card_id": 21835,
+      "name": "Sandshrew",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21802:Reverse Holofoil": {
+      "card_id": 21802,
+      "name": "Sandslash",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21747:Reverse Holofoil": {
+      "card_id": 21747,
+      "name": "Nidoran F",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.8,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21817:Reverse Holofoil": {
+      "card_id": 21817,
+      "name": "Nidorina",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21815:Reverse Holofoil": {
+      "card_id": 21815,
+      "name": "Nidoqueen",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21751:Reverse Holofoil": {
+      "card_id": 21751,
+      "name": "Nidoran M",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21819:Reverse Holofoil": {
+      "card_id": 21819,
+      "name": "Nidorino",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21715:Reverse Holofoil": {
+      "card_id": 21715,
+      "name": "Nidoking - 034/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.59,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21762:Reverse Holofoil": {
+      "card_id": 21762,
+      "name": "Clefairy",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21813:Reverse Holofoil": {
+      "card_id": 21813,
+      "name": "Clefable",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21707:Reverse Holofoil": {
+      "card_id": 21707,
+      "name": "Vulpix",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21748:Holofoil": {
+      "card_id": 21748,
+      "name": "Ninetales ex - 038/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.85,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21736:Reverse Holofoil": {
+      "card_id": 21736,
+      "name": "Jigglypuff",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21739:Holofoil": {
+      "card_id": 21739,
+      "name": "Wigglytuff ex - 040/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.6,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21870:Reverse Holofoil": {
+      "card_id": 21870,
+      "name": "Zubat",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21832:Reverse Holofoil": {
+      "card_id": 21832,
+      "name": "Golbat",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21803:Reverse Holofoil": {
+      "card_id": 21803,
+      "name": "Oddish",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21786:Reverse Holofoil": {
+      "card_id": 21786,
+      "name": "Gloom",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21731:Reverse Holofoil": {
+      "card_id": 21731,
+      "name": "Vileplume",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.82,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21873:Reverse Holofoil": {
+      "card_id": 21873,
+      "name": "Paras",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21830:Reverse Holofoil": {
+      "card_id": 21830,
+      "name": "Parasect",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21840:Reverse Holofoil": {
+      "card_id": 21840,
+      "name": "Venonat",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21812:Reverse Holofoil": {
+      "card_id": 21812,
+      "name": "Venomoth",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21781:Reverse Holofoil": {
+      "card_id": 21781,
+      "name": "Diglett",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21874:Reverse Holofoil": {
+      "card_id": 21874,
+      "name": "Dugtrio",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21814:Reverse Holofoil": {
+      "card_id": 21814,
+      "name": "Meowth",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21737:Reverse Holofoil": {
+      "card_id": 21737,
+      "name": "Persian",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21701:Reverse Holofoil": {
+      "card_id": 21701,
+      "name": "Psyduck - 054/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.59,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21778:Reverse Holofoil": {
+      "card_id": 21778,
+      "name": "Golduck",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21831:Reverse Holofoil": {
+      "card_id": 21831,
+      "name": "Mankey",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21851:Reverse Holofoil": {
+      "card_id": 21851,
+      "name": "Primeape",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21758:Reverse Holofoil": {
+      "card_id": 21758,
+      "name": "Growlithe",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21769:Reverse Holofoil": {
+      "card_id": 21769,
+      "name": "Arcanine",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21811:Reverse Holofoil": {
+      "card_id": 21811,
+      "name": "Poliwag",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21738:Reverse Holofoil": {
+      "card_id": 21738,
+      "name": "Poliwhirl - 061/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.56,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21788:Reverse Holofoil": {
+      "card_id": 21788,
+      "name": "Poliwrath",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21727:Reverse Holofoil": {
+      "card_id": 21727,
+      "name": "Abra",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21785:Reverse Holofoil": {
+      "card_id": 21785,
+      "name": "Kadabra",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21750:Holofoil": {
+      "card_id": 21750,
+      "name": "Alakazam ex - 065/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.7,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21754:Reverse Holofoil": {
+      "card_id": 21754,
+      "name": "Machop",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21794:Reverse Holofoil": {
+      "card_id": 21794,
+      "name": "Machoke - 067/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21725:Reverse Holofoil": {
+      "card_id": 21725,
+      "name": "Machamp",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.9,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21837:Reverse Holofoil": {
+      "card_id": 21837,
+      "name": "Bellsprout",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21735:Reverse Holofoil": {
+      "card_id": 21735,
+      "name": "Weepinbell",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.67,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21824:Reverse Holofoil": {
+      "card_id": 21824,
+      "name": "Victreebel",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21793:Reverse Holofoil": {
+      "card_id": 21793,
+      "name": "Tentacool",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21821:Reverse Holofoil": {
+      "card_id": 21821,
+      "name": "Tentacruel",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21795:Reverse Holofoil": {
+      "card_id": 21795,
+      "name": "Geodude",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21846:Reverse Holofoil": {
+      "card_id": 21846,
+      "name": "Graveler",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21784:Holofoil": {
+      "card_id": 21784,
+      "name": "Golem ex - 076/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21777:Reverse Holofoil": {
+      "card_id": 21777,
+      "name": "Ponyta",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21791:Reverse Holofoil": {
+      "card_id": 21791,
+      "name": "Rapidash",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21712:Reverse Holofoil": {
+      "card_id": 21712,
+      "name": "Slowpoke",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21809:Reverse Holofoil": {
+      "card_id": 21809,
+      "name": "Slowbro",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21755:Reverse Holofoil": {
+      "card_id": 21755,
+      "name": "Magnemite",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.38,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21766:Reverse Holofoil": {
+      "card_id": 21766,
+      "name": "Magneton",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21841:Reverse Holofoil": {
+      "card_id": 21841,
+      "name": "Farfetch'd",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21836:Reverse Holofoil": {
+      "card_id": 21836,
+      "name": "Doduo",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21720:Reverse Holofoil": {
+      "card_id": 21720,
+      "name": "Dodrio",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.16,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21865:Reverse Holofoil": {
+      "card_id": 21865,
+      "name": "Seel",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21807:Reverse Holofoil": {
+      "card_id": 21807,
+      "name": "Dewgong",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21845:Reverse Holofoil": {
+      "card_id": 21845,
+      "name": "Grimer",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21869:Reverse Holofoil": {
+      "card_id": 21869,
+      "name": "Muk",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21859:Reverse Holofoil": {
+      "card_id": 21859,
+      "name": "Shellder",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21834:Reverse Holofoil": {
+      "card_id": 21834,
+      "name": "Cloyster",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21768:Reverse Holofoil": {
+      "card_id": 21768,
+      "name": "Gastly",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21721:Reverse Holofoil": {
+      "card_id": 21721,
+      "name": "Haunter",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.61,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21689:Reverse Holofoil": {
+      "card_id": 21689,
+      "name": "Gengar",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 8.64,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21790:Reverse Holofoil": {
+      "card_id": 21790,
+      "name": "Onix",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21822:Reverse Holofoil": {
+      "card_id": 21822,
+      "name": "Drowzee",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21792:Reverse Holofoil": {
+      "card_id": 21792,
+      "name": "Hypno",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.65,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21844:Reverse Holofoil": {
+      "card_id": 21844,
+      "name": "Krabby",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21806:Reverse Holofoil": {
+      "card_id": 21806,
+      "name": "Kingler",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21839:Reverse Holofoil": {
+      "card_id": 21839,
+      "name": "Voltorb",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21757:Reverse Holofoil": {
+      "card_id": 21757,
+      "name": "Electrode",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.83,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21810:Reverse Holofoil": {
+      "card_id": 21810,
+      "name": "Exeggcute",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21825:Reverse Holofoil": {
+      "card_id": 21825,
+      "name": "Exeggutor",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.53,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21740:Reverse Holofoil": {
+      "card_id": 21740,
+      "name": "Cubone",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21746:Reverse Holofoil": {
+      "card_id": 21746,
+      "name": "Marowak",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.89,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21820:Reverse Holofoil": {
+      "card_id": 21820,
+      "name": "Hitmonlee",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.84,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21773:Reverse Holofoil": {
+      "card_id": 21773,
+      "name": "Hitmonchan",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21775:Reverse Holofoil": {
+      "card_id": 21775,
+      "name": "Lickitung",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21798:Reverse Holofoil": {
+      "card_id": 21798,
+      "name": "Koffing",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21733:Reverse Holofoil": {
+      "card_id": 21733,
+      "name": "Weezing",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.18,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21838:Reverse Holofoil": {
+      "card_id": 21838,
+      "name": "Rhyhorn",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21808:Reverse Holofoil": {
+      "card_id": 21808,
+      "name": "Rhydon",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21706:Reverse Holofoil": {
+      "card_id": 21706,
+      "name": "Chansey",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.39,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21863:Reverse Holofoil": {
+      "card_id": 21863,
+      "name": "Tangela - 114/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21764:Holofoil": {
+      "card_id": 21764,
+      "name": "Kangaskhan ex - 115/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.98,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21847:Reverse Holofoil": {
+      "card_id": 21847,
+      "name": "Horsea",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21829:Reverse Holofoil": {
+      "card_id": 21829,
+      "name": "Seadra",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21866:Reverse Holofoil": {
+      "card_id": 21866,
+      "name": "Goldeen",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21849:Reverse Holofoil": {
+      "card_id": 21849,
+      "name": "Seaking",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21805:Reverse Holofoil": {
+      "card_id": 21805,
+      "name": "Staryu",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21742:Reverse Holofoil": {
+      "card_id": 21742,
+      "name": "Starmie",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.83,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21782:Reverse Holofoil": {
+      "card_id": 21782,
+      "name": "Mr. Mime - 122/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.78,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21771:Reverse Holofoil": {
+      "card_id": 21771,
+      "name": "Scyther",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.09,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21763:Holofoil": {
+      "card_id": 21763,
+      "name": "Jynx ex - 124/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21827:Reverse Holofoil": {
+      "card_id": 21827,
+      "name": "Electabuzz",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21770:Reverse Holofoil": {
+      "card_id": 21770,
+      "name": "Magmar",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.37,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21823:Reverse Holofoil": {
+      "card_id": 21823,
+      "name": "Pinsir",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.13,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21797:Reverse Holofoil": {
+      "card_id": 21797,
+      "name": "Tauros",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21753:Reverse Holofoil": {
+      "card_id": 21753,
+      "name": "Magikarp",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.43,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21704:Reverse Holofoil": {
+      "card_id": 21704,
+      "name": "Gyarados",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.49,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21729:Reverse Holofoil": {
+      "card_id": 21729,
+      "name": "Lapras",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.8,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21698:Reverse Holofoil": {
+      "card_id": 21698,
+      "name": "Ditto",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.17,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21716:Reverse Holofoil": {
+      "card_id": 21716,
+      "name": "Eevee",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.6,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21709:Reverse Holofoil": {
+      "card_id": 21709,
+      "name": "Vaporeon",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21705:Reverse Holofoil": {
+      "card_id": 21705,
+      "name": "Jolteon",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.46,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21726:Reverse Holofoil": {
+      "card_id": 21726,
+      "name": "Flareon",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.54,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21691:Reverse Holofoil": {
+      "card_id": 21691,
+      "name": "Porygon",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21816:Reverse Holofoil": {
+      "card_id": 21816,
+      "name": "Omanyte - 138/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.46,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21734:Reverse Holofoil": {
+      "card_id": 21734,
+      "name": "Omastar",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.15,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21780:Reverse Holofoil": {
+      "card_id": 21780,
+      "name": "Kabuto",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.76,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21724:Reverse Holofoil": {
+      "card_id": 21724,
+      "name": "Kabutops",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.81,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21708:Reverse Holofoil": {
+      "card_id": 21708,
+      "name": "Aerodactyl",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.21,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21714:Reverse Holofoil": {
+      "card_id": 21714,
+      "name": "Snorlax",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 4.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21713:Reverse Holofoil": {
+      "card_id": 21713,
+      "name": "Articuno",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.34,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21767:Holofoil": {
+      "card_id": 21767,
+      "name": "Zapdos ex - 145/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.62,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21728:Reverse Holofoil": {
+      "card_id": 21728,
+      "name": "Moltres",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21730:Reverse Holofoil": {
+      "card_id": 21730,
+      "name": "Dragonair - 148/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 3.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21697:Reverse Holofoil": {
+      "card_id": 21697,
+      "name": "Dragonite",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.91,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21696:Reverse Holofoil": {
+      "card_id": 21696,
+      "name": "Mewtwo",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 3.95,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21703:Holofoil": {
+      "card_id": 21703,
+      "name": "Mew ex - 151/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 7.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21799:Reverse Holofoil": {
+      "card_id": 21799,
+      "name": "Antique Dome Fossil",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.05,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21761:Reverse Holofoil": {
+      "card_id": 21761,
+      "name": "Antique Helix Fossil",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.02,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21772:Reverse Holofoil": {
+      "card_id": 21772,
+      "name": "Antique Old Amber",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.92,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21801:Reverse Holofoil": {
+      "card_id": 21801,
+      "name": "Big Air Balloon",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "21774:Reverse Holofoil": {
+      "card_id": 21774,
+      "name": "Bill's Transfer - 156/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21826:Reverse Holofoil": {
+      "card_id": 21826,
+      "name": "Cycling Road",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21789:Reverse Holofoil": {
+      "card_id": 21789,
+      "name": "Daisy's Help - 158/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.62,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21760:Reverse Holofoil": {
+      "card_id": 21760,
+      "name": "Energy Sticker",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.03,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21800:Reverse Holofoil": {
+      "card_id": 21800,
+      "name": "Erika's Invitation - 160/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.94,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21796:Reverse Holofoil": {
+      "card_id": 21796,
+      "name": "Giovanni's Charisma - 161/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.05,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21787:Reverse Holofoil": {
+      "card_id": 21787,
+      "name": "Grabber",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21783:Reverse Holofoil": {
+      "card_id": 21783,
+      "name": "Leftovers",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.62,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21779:Reverse Holofoil": {
+      "card_id": 21779,
+      "name": "Protective Goggles",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.66,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21741:Reverse Holofoil": {
+      "card_id": 21741,
+      "name": "Rigid Band",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.9,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21885:Holofoil": {
+      "card_id": 21885,
+      "name": "Bulbasaur - 166/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 61.71,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21886:Holofoil": {
+      "card_id": 21886,
+      "name": "Ivysaur - 167/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 38.47,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21887:Holofoil": {
+      "card_id": 21887,
+      "name": "Charmander - 168/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 90.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21891:Holofoil": {
+      "card_id": 21891,
+      "name": "Charmeleon - 169/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 54.79,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21895:Holofoil": {
+      "card_id": 21895,
+      "name": "Squirtle - 170/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 89.1,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21877:Holofoil": {
+      "card_id": 21877,
+      "name": "Wartortle - 171/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 51.28,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21867:Holofoil": {
+      "card_id": 21867,
+      "name": "Caterpie - 172/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 16.53,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21871:Holofoil": {
+      "card_id": 21871,
+      "name": "Pikachu - 173/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 67.78,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21858:Holofoil": {
+      "card_id": 21858,
+      "name": "Nidoking - 174/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 17.94,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21892:Holofoil": {
+      "card_id": 21892,
+      "name": "Psyduck - 175/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 59.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21864:Holofoil": {
+      "card_id": 21864,
+      "name": "Poliwhirl - 176/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 34.81,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21857:Holofoil": {
+      "card_id": 21857,
+      "name": "Machoke - 177/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 21.06,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21850:Holofoil": {
+      "card_id": 21850,
+      "name": "Tangela - 178/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 14.1,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21852:Holofoil": {
+      "card_id": 21852,
+      "name": "Mr. Mime - 179/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 12.43,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21848:Holofoil": {
+      "card_id": 21848,
+      "name": "Omanyte - 180/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 12.16,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21890:Holofoil": {
+      "card_id": 21890,
+      "name": "Dragonair - 181/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 37.9,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21889:Holofoil": {
+      "card_id": 21889,
+      "name": "Venusaur ex - 182/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 13.49,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21897:Holofoil": {
+      "card_id": 21897,
+      "name": "Charizard ex - 183/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 38.19,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21881:Holofoil": {
+      "card_id": 21881,
+      "name": "Blastoise ex - 184/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 19.97,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21884:Holofoil": {
+      "card_id": 21884,
+      "name": "Arbok ex - 185/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 7.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21893:Holofoil": {
+      "card_id": 21893,
+      "name": "Ninetales ex - 186/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 14.38,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21882:Holofoil": {
+      "card_id": 21882,
+      "name": "Wigglytuff ex - 187/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 6.99,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21880:Holofoil": {
+      "card_id": 21880,
+      "name": "Alakazam ex - 188/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 9.54,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21879:Holofoil": {
+      "card_id": 21879,
+      "name": "Golem ex - 189/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 6.07,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21876:Holofoil": {
+      "card_id": 21876,
+      "name": "Kangaskhan ex - 190/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 6.06,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21872:Holofoil": {
+      "card_id": 21872,
+      "name": "Jynx ex - 191/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 5.54,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21875:Holofoil": {
+      "card_id": 21875,
+      "name": "Zapdos ex - 192/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 10.38,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21883:Holofoil": {
+      "card_id": 21883,
+      "name": "Mew ex - 193/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 28.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21856:Holofoil": {
+      "card_id": 21856,
+      "name": "Bill's Transfer - 194/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.51,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21860:Holofoil": {
+      "card_id": 21860,
+      "name": "Daisy's Help - 195/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 3.08,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21854:Holofoil": {
+      "card_id": 21854,
+      "name": "Erika's Invitation - 196/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 6.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21868:Holofoil": {
+      "card_id": 21868,
+      "name": "Giovanni's Charisma - 197/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 3.89,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21896:Holofoil": {
+      "card_id": 21896,
+      "name": "Venusaur ex - 198/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 92.44,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21898:Holofoil": {
+      "card_id": 21898,
+      "name": "Charizard ex - 199/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 321.54,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21888:Holofoil": {
+      "card_id": 21888,
+      "name": "Blastoise ex - 200/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 115.73,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21894:Holofoil": {
+      "card_id": 21894,
+      "name": "Alakazam ex - 201/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 58.95,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21878:Holofoil": {
+      "card_id": 21878,
+      "name": "Zapdos ex - 202/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 82.82,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21861:Holofoil": {
+      "card_id": 21861,
+      "name": "Erika's Invitation - 203/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 15.69,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21833:Holofoil": {
+      "card_id": 21833,
+      "name": "Giovanni's Charisma - 204/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 14.1,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21853:Holofoil": {
+      "card_id": 21853,
+      "name": "Mew ex - 205/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 24.28,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21862:Normal": {
+      "card_id": 21862,
+      "name": "Mew ex - 205/165 (151 Metal Card)",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 23.74,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21804:Holofoil": {
+      "card_id": 21804,
+      "name": "Switch - 206/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "21828:Holofoil": {
+      "card_id": 21828,
+      "name": "Basic Psychic Energy - 207/165",
+      "set_id": 5500171,
+      "set_name": "SV: Scarlet & Violet 151",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 3.89,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38675:Holofoil": {
+      "card_id": 38675,
+      "name": "Sprigatito",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.81,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38670:Holofoil": {
+      "card_id": 38670,
+      "name": "Fuecoco",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.96,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38669:Holofoil": {
+      "card_id": 38669,
+      "name": "Quaxly",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38680:Normal": {
+      "card_id": 38680,
+      "name": "Cetoddle",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38672:Holofoil": {
+      "card_id": 38672,
+      "name": "Cetitan",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.43,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38668:Holofoil": {
+      "card_id": 38668,
+      "name": "Pikachu",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 10.63,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38676:Normal": {
+      "card_id": 38676,
+      "name": "Pawmi",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38679:Normal": {
+      "card_id": 38679,
+      "name": "Kilowattrel",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38682:Normal": {
+      "card_id": 38682,
+      "name": "Flittle",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38681:Normal": {
+      "card_id": 38681,
+      "name": "Sandaconda",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38674:Holofoil": {
+      "card_id": 38674,
+      "name": "Klawf",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.48,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38678:Normal": {
+      "card_id": 38678,
+      "name": "Blissey",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38673:Normal": {
+      "card_id": 38673,
+      "name": "Tandemaus",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.61,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38671:Normal": {
+      "card_id": 38671,
+      "name": "Cyclizar",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "38677:Normal": {
+      "card_id": 38677,
+      "name": "Kirlia",
+      "set_id": 5500033,
+      "set_name": "McDonald's Promos 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37968:Normal": {
+      "card_id": 37968,
+      "name": "Phantump",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37955:Holofoil": {
+      "card_id": 37955,
+      "name": "Trevenant",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37964:Normal": {
+      "card_id": 37964,
+      "name": "Dhelmise",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.14,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37957:Normal": {
+      "card_id": 37957,
+      "name": "Litwick",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37969:Normal": {
+      "card_id": 37969,
+      "name": "Lampent",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37946:Holofoil": {
+      "card_id": 37946,
+      "name": "Chandelure",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37951:Holofoil": {
+      "card_id": 37951,
+      "name": "Houndoom",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37942:Holofoil": {
+      "card_id": 37942,
+      "name": "Pikachu",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37959:Normal": {
+      "card_id": 37959,
+      "name": "Gastly",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37949:Normal": {
+      "card_id": 37949,
+      "name": "Haunter",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37939:Holofoil": {
+      "card_id": 37939,
+      "name": "Gengar (2022 Copyright Date)",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.03,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37958:Normal": {
+      "card_id": 37958,
+      "name": "Duskull",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.14,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37970:Normal": {
+      "card_id": 37970,
+      "name": "Dusclops",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37952:Holofoil": {
+      "card_id": 37952,
+      "name": "Dusknoir",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.15,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37963:Normal": {
+      "card_id": 37963,
+      "name": "Banette",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37948:Holofoil": {
+      "card_id": 37948,
+      "name": "Marshadow",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37945:Holofoil": {
+      "card_id": 37945,
+      "name": "Spectrier",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37961:Normal": {
+      "card_id": 37961,
+      "name": "Shuppet",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.09,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37944:Normal": {
+      "card_id": 37944,
+      "name": "Mismagius",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.13,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37953:Normal": {
+      "card_id": 37953,
+      "name": "Drifloon",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.1,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37966:Normal": {
+      "card_id": 37966,
+      "name": "Sinistea",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37965:Normal": {
+      "card_id": 37965,
+      "name": "Drifblim",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.09,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37967:Normal": {
+      "card_id": 37967,
+      "name": "Polteageist",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37962:Normal": {
+      "card_id": 37962,
+      "name": "Lycanroc",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37941:Holofoil": {
+      "card_id": 37941,
+      "name": "Mimikyu",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37950:Normal": {
+      "card_id": 37950,
+      "name": "Galarian Runerigus",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37960:Normal": {
+      "card_id": 37960,
+      "name": "Zubat",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37954:Normal": {
+      "card_id": 37954,
+      "name": "Greavard",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.11,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37956:Holofoil": {
+      "card_id": 37956,
+      "name": "Houndstone",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.14,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "37943:Normal": {
+      "card_id": 37943,
+      "name": "Murkrow",
+      "set_id": 5500084,
+      "set_name": "Trick or Trade BOOster Bundle 2023",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.09,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20652:Normal": {
+      "card_id": 20652,
+      "name": "Code Card - Obsidian Flames Build and Battle Box",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20511:Reverse Holofoil": {
+      "card_id": 20511,
+      "name": "Oddish",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20483:Reverse Holofoil": {
+      "card_id": 20483,
+      "name": "Gloom",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20499:Reverse Holofoil": {
+      "card_id": 20499,
+      "name": "Bellossom",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.38,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20467:Reverse Holofoil": {
+      "card_id": 20467,
+      "name": "Scyther",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20542:Reverse Holofoil": {
+      "card_id": 20542,
+      "name": "Shuckle",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20619:Reverse Holofoil": {
+      "card_id": 20619,
+      "name": "Surskit",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20573:Reverse Holofoil": {
+      "card_id": 20573,
+      "name": "Masquerain",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20473:Reverse Holofoil": {
+      "card_id": 20473,
+      "name": "Combee",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20503:Reverse Holofoil": {
+      "card_id": 20503,
+      "name": "Foongus",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20576:Reverse Holofoil": {
+      "card_id": 20576,
+      "name": "Amoonguss",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20561:Reverse Holofoil": {
+      "card_id": 20561,
+      "name": "Phantump",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20525:Reverse Holofoil": {
+      "card_id": 20525,
+      "name": "Trevenant",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20431:Reverse Holofoil": {
+      "card_id": 20431,
+      "name": "Rowlet",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20519:Reverse Holofoil": {
+      "card_id": 20519,
+      "name": "Dartrix",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20497:Holofoil": {
+      "card_id": 20497,
+      "name": "Decidueye ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.06,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20554:Reverse Holofoil": {
+      "card_id": 20554,
+      "name": "Bounsweet",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20604:Reverse Holofoil": {
+      "card_id": 20604,
+      "name": "Steenee",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20532:Reverse Holofoil": {
+      "card_id": 20532,
+      "name": "Tsareena",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20495:Reverse Holofoil": {
+      "card_id": 20495,
+      "name": "Smoliv",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20553:Reverse Holofoil": {
+      "card_id": 20553,
+      "name": "Dolliv",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20540:Reverse Holofoil": {
+      "card_id": 20540,
+      "name": "Arboliva",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20502:Holofoil": {
+      "card_id": 20502,
+      "name": "Toedscruel ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.79,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20593:Reverse Holofoil": {
+      "card_id": 20593,
+      "name": "Capsakid - 023/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20623:Reverse Holofoil": {
+      "card_id": 20623,
+      "name": "Capsakid - 024/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20512:Reverse Holofoil": {
+      "card_id": 20512,
+      "name": "Scovillain",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20459:Reverse Holofoil": {
+      "card_id": 20459,
+      "name": "Charmander",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.38,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20430:Reverse Holofoil": {
+      "card_id": 20430,
+      "name": "Charmeleon",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.46,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20416:Reverse Holofoil": {
+      "card_id": 20416,
+      "name": "Vulpix",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20466:Reverse Holofoil": {
+      "card_id": 20466,
+      "name": "Ninetales",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20409:Reverse Holofoil": {
+      "card_id": 20409,
+      "name": "Entei",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20578:Reverse Holofoil": {
+      "card_id": 20578,
+      "name": "Numel",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20563:Reverse Holofoil": {
+      "card_id": 20563,
+      "name": "Camerupt",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20590:Reverse Holofoil": {
+      "card_id": 20590,
+      "name": "Darumaka",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20588:Reverse Holofoil": {
+      "card_id": 20588,
+      "name": "Darmanitan",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20555:Reverse Holofoil": {
+      "card_id": 20555,
+      "name": "Litwick",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20541:Reverse Holofoil": {
+      "card_id": 20541,
+      "name": "Lampent",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20490:Reverse Holofoil": {
+      "card_id": 20490,
+      "name": "Chandelure",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20631:Reverse Holofoil": {
+      "card_id": 20631,
+      "name": "Heatmor",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20522:Reverse Holofoil": {
+      "card_id": 20522,
+      "name": "Larvesta",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20526:Reverse Holofoil": {
+      "card_id": 20526,
+      "name": "Volcarona",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20472:Holofoil": {
+      "card_id": 20472,
+      "name": "Eiscue ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.09,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20524:Reverse Holofoil": {
+      "card_id": 20524,
+      "name": "Charcadet",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20530:Reverse Holofoil": {
+      "card_id": 20530,
+      "name": "Armarouge",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20440:Reverse Holofoil": {
+      "card_id": 20440,
+      "name": "Lapras",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20625:Reverse Holofoil": {
+      "card_id": 20625,
+      "name": "Carvanha",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20510:Reverse Holofoil": {
+      "card_id": 20510,
+      "name": "Sharpedo",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20565:Reverse Holofoil": {
+      "card_id": 20565,
+      "name": "Buizel",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20591:Reverse Holofoil": {
+      "card_id": 20591,
+      "name": "Floatzel",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20613:Reverse Holofoil": {
+      "card_id": 20613,
+      "name": "Tympole",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.15,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20552:Reverse Holofoil": {
+      "card_id": 20552,
+      "name": "Palpitoad",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20543:Reverse Holofoil": {
+      "card_id": 20543,
+      "name": "Seismitoad",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20587:Reverse Holofoil": {
+      "card_id": 20587,
+      "name": "Cubchoo",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20538:Reverse Holofoil": {
+      "card_id": 20538,
+      "name": "Beartic",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20620:Reverse Holofoil": {
+      "card_id": 20620,
+      "name": "Cryogonal",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20447:Reverse Holofoil": {
+      "card_id": 20447,
+      "name": "Froakie",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20581:Reverse Holofoil": {
+      "card_id": 20581,
+      "name": "Frogadier",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20585:Reverse Holofoil": {
+      "card_id": 20585,
+      "name": "Wiglett",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20611:Reverse Holofoil": {
+      "card_id": 20611,
+      "name": "Wugtrio",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20567:Reverse Holofoil": {
+      "card_id": 20567,
+      "name": "Finizen 60/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20566:Reverse Holofoil": {
+      "card_id": 20566,
+      "name": "Finizen 061/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20491:Reverse Holofoil": {
+      "card_id": 20491,
+      "name": "Palafin",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20610:Reverse Holofoil": {
+      "card_id": 20610,
+      "name": "Magnemite",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20539:Reverse Holofoil": {
+      "card_id": 20539,
+      "name": "Magneton",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20520:Reverse Holofoil": {
+      "card_id": 20520,
+      "name": "Magnezone",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20441:Holofoil": {
+      "card_id": 20441,
+      "name": "Tyranitar ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.57,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20579:Reverse Holofoil": {
+      "card_id": 20579,
+      "name": "Tynamo",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20584:Reverse Holofoil": {
+      "card_id": 20584,
+      "name": "Eelektrik",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20557:Reverse Holofoil": {
+      "card_id": 20557,
+      "name": "Eelektross",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20560:Reverse Holofoil": {
+      "card_id": 20560,
+      "name": "Thundurus",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20547:Normal": {
+      "card_id": 20547,
+      "name": "Toxel",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20518:Reverse Holofoil": {
+      "card_id": 20518,
+      "name": "Toxtricity",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20461:Holofoil": {
+      "card_id": 20461,
+      "name": "Pawmot ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.7,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20572:Reverse Holofoil": {
+      "card_id": 20572,
+      "name": "Tadbulb 074/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20596:Reverse Holofoil": {
+      "card_id": 20596,
+      "name": "Tadbulb 075/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20569:Reverse Holofoil": {
+      "card_id": 20569,
+      "name": "Tadbulb 076/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20508:Reverse Holofoil": {
+      "card_id": 20508,
+      "name": "Bellibolt - 077/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20529:Reverse Holofoil": {
+      "card_id": 20529,
+      "name": "Bellibolt - 078/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20528:Holofoil": {
+      "card_id": 20528,
+      "name": "Miraidon ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20417:Reverse Holofoil": {
+      "card_id": 20417,
+      "name": "Cleffa",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20420:Reverse Holofoil": {
+      "card_id": 20420,
+      "name": "Clefairy",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20479:Holofoil": {
+      "card_id": 20479,
+      "name": "Clefable ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.72,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20451:Reverse Holofoil": {
+      "card_id": 20451,
+      "name": "Togepi",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20489:Reverse Holofoil": {
+      "card_id": 20489,
+      "name": "Togetic",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20427:Reverse Holofoil": {
+      "card_id": 20427,
+      "name": "Togekiss",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20422:Reverse Holofoil": {
+      "card_id": 20422,
+      "name": "Espeon",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.41,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20568:Reverse Holofoil": {
+      "card_id": 20568,
+      "name": "Snubbull",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20632:Reverse Holofoil": {
+      "card_id": 20632,
+      "name": "Granbull",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20551:Reverse Holofoil": {
+      "card_id": 20551,
+      "name": "Mawile - 089/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20635:Reverse Holofoil": {
+      "card_id": 20635,
+      "name": "Spoink",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20575:Reverse Holofoil": {
+      "card_id": 20575,
+      "name": "Grumpig",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20514:Reverse Holofoil": {
+      "card_id": 20514,
+      "name": "Lunatone",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20605:Reverse Holofoil": {
+      "card_id": 20605,
+      "name": "Solrock",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20629:Reverse Holofoil": {
+      "card_id": 20629,
+      "name": "Baltoy",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20527:Reverse Holofoil": {
+      "card_id": 20527,
+      "name": "Claydol",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20500:Holofoil": {
+      "card_id": 20500,
+      "name": "Vespiquen ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.95,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20444:Reverse Holofoil": {
+      "card_id": 20444,
+      "name": "Sinistea",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20598:Reverse Holofoil": {
+      "card_id": 20598,
+      "name": "Polteageist",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20544:Reverse Holofoil": {
+      "card_id": 20544,
+      "name": "Greavard - 099/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20615:Reverse Holofoil": {
+      "card_id": 20615,
+      "name": "Greavard - 100/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20577:Reverse Holofoil": {
+      "card_id": 20577,
+      "name": "Houndstone",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20521:Holofoil": {
+      "card_id": 20521,
+      "name": "Houndstone ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.94,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20548:Normal": {
+      "card_id": 20548,
+      "name": "Diglett",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20586:Reverse Holofoil": {
+      "card_id": 20586,
+      "name": "Dugtrio",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20534:Reverse Holofoil": {
+      "card_id": 20534,
+      "name": "Larvitar",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20570:Reverse Holofoil": {
+      "card_id": 20570,
+      "name": "Pupitar",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20627:Reverse Holofoil": {
+      "card_id": 20627,
+      "name": "Nosepass",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20601:Normal": {
+      "card_id": 20601,
+      "name": "Barboach",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20549:Reverse Holofoil": {
+      "card_id": 20549,
+      "name": "Whiscash",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20428:Reverse Holofoil": {
+      "card_id": 20428,
+      "name": "Bonsly",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20626:Reverse Holofoil": {
+      "card_id": 20626,
+      "name": "Drilbur",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20609:Reverse Holofoil": {
+      "card_id": 20609,
+      "name": "Stunfisk",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20602:Reverse Holofoil": {
+      "card_id": 20602,
+      "name": "Diggersby",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20630:Reverse Holofoil": {
+      "card_id": 20630,
+      "name": "Crabrawler",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20637:Reverse Holofoil": {
+      "card_id": 20637,
+      "name": "Crabominable",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20531:Reverse Holofoil": {
+      "card_id": 20531,
+      "name": "Rockruff",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20550:Reverse Holofoil": {
+      "card_id": 20550,
+      "name": "Lycanroc",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20496:Reverse Holofoil": {
+      "card_id": 20496,
+      "name": "Toedscool",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20603:Reverse Holofoil": {
+      "card_id": 20603,
+      "name": "Toedscruel",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20507:Holofoil": {
+      "card_id": 20507,
+      "name": "Klawf ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.81,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20628:Reverse Holofoil": {
+      "card_id": 20628,
+      "name": "Glimmet - 121/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20622:Reverse Holofoil": {
+      "card_id": 20622,
+      "name": "Glimmet - 122/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20546:Holofoil": {
+      "card_id": 20546,
+      "name": "Glimmora ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.82,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20516:Holofoil": {
+      "card_id": 20516,
+      "name": "Koraidon ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.86,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20410:Holofoil": {
+      "card_id": 20410,
+      "name": "Charizard ex - 125/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 5.94,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20453:Reverse Holofoil": {
+      "card_id": 20453,
+      "name": "Paldean Wooper - 126/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20488:Reverse Holofoil": {
+      "card_id": 20488,
+      "name": "Paldean Wooper - 127/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20457:Reverse Holofoil": {
+      "card_id": 20457,
+      "name": "Paldean Clodsire - 128/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20477:Reverse Holofoil": {
+      "card_id": 20477,
+      "name": "Paldean Clodsire - 129/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20411:Reverse Holofoil": {
+      "card_id": 20411,
+      "name": "Umbreon",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.83,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20523:Reverse Holofoil": {
+      "card_id": 20523,
+      "name": "Houndour - 131/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20504:Reverse Holofoil": {
+      "card_id": 20504,
+      "name": "Houndour - 132/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20481:Reverse Holofoil": {
+      "card_id": 20481,
+      "name": "Houndoom",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20486:Holofoil": {
+      "card_id": 20486,
+      "name": "Houndoom ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.13,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20494:Holofoil": {
+      "card_id": 20494,
+      "name": "Absol ex - 135/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.49,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20465:Reverse Holofoil": {
+      "card_id": 20465,
+      "name": "Darkrai",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20607:Reverse Holofoil": {
+      "card_id": 20607,
+      "name": "Inkay",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20574:Reverse Holofoil": {
+      "card_id": 20574,
+      "name": "Malamar",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20634:Reverse Holofoil": {
+      "card_id": 20634,
+      "name": "Salandit",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20616:Reverse Holofoil": {
+      "card_id": 20616,
+      "name": "Salazzle",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20429:Reverse Holofoil": {
+      "card_id": 20429,
+      "name": "Scizor",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20515:Reverse Holofoil": {
+      "card_id": 20515,
+      "name": "Skarmory",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20537:Reverse Holofoil": {
+      "card_id": 20537,
+      "name": "Mawile - 143/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20452:Reverse Holofoil": {
+      "card_id": 20452,
+      "name": "Bronzor",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20582:Reverse Holofoil": {
+      "card_id": 20582,
+      "name": "Bronzong",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20600:Reverse Holofoil": {
+      "card_id": 20600,
+      "name": "Probopass",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20580:Reverse Holofoil": {
+      "card_id": 20580,
+      "name": "Excadrill",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20595:Reverse Holofoil": {
+      "card_id": 20595,
+      "name": "Pawniard",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20556:Reverse Holofoil": {
+      "card_id": 20556,
+      "name": "Bisharp",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20583:Reverse Holofoil": {
+      "card_id": 20583,
+      "name": "Kingambit",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20636:Reverse Holofoil": {
+      "card_id": 20636,
+      "name": "Togedemaru",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20624:Reverse Holofoil": {
+      "card_id": 20624,
+      "name": "Meltan",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.15,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20505:Holofoil": {
+      "card_id": 20505,
+      "name": "Melmetal ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.87,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20599:Reverse Holofoil": {
+      "card_id": 20599,
+      "name": "Varoom - 154/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20559:Reverse Holofoil": {
+      "card_id": 20559,
+      "name": "Varoom - 155/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20498:Holofoil": {
+      "card_id": 20498,
+      "name": "Revavroom ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.81,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20485:Reverse Holofoil": {
+      "card_id": 20485,
+      "name": "Dragonair",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20439:Holofoil": {
+      "card_id": 20439,
+      "name": "Dragonite ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 3.17,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20475:Reverse Holofoil": {
+      "card_id": 20475,
+      "name": "Altaria",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20618:Reverse Holofoil": {
+      "card_id": 20618,
+      "name": "Drampa",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20445:Reverse Holofoil": {
+      "card_id": 20445,
+      "name": "Pidgey",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20448:Reverse Holofoil": {
+      "card_id": 20448,
+      "name": "Pidgeotto",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20415:Holofoil": {
+      "card_id": 20415,
+      "name": "Pidgeot ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.46,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20536:Reverse Holofoil": {
+      "card_id": 20536,
+      "name": "Kangaskhan",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20423:Reverse Holofoil": {
+      "card_id": 20423,
+      "name": "Eevee",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20589:Reverse Holofoil": {
+      "card_id": 20589,
+      "name": "Zigzagoon",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20617:Reverse Holofoil": {
+      "card_id": 20617,
+      "name": "Linoone",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20594:Reverse Holofoil": {
+      "card_id": 20594,
+      "name": "Swablu",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20443:Reverse Holofoil": {
+      "card_id": 20443,
+      "name": "Lillipup",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20564:Reverse Holofoil": {
+      "card_id": 20564,
+      "name": "Herdier",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20571:Reverse Holofoil": {
+      "card_id": 20571,
+      "name": "Stoutland",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20493:Reverse Holofoil": {
+      "card_id": 20493,
+      "name": "Audino",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20535:Reverse Holofoil": {
+      "card_id": 20535,
+      "name": "Bouffalant",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20471:Reverse Holofoil": {
+      "card_id": 20471,
+      "name": "Bunnelby",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20614:Normal": {
+      "card_id": 20614,
+      "name": "Yungoos",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20621:Reverse Holofoil": {
+      "card_id": 20621,
+      "name": "Gumshoos",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20558:Reverse Holofoil": {
+      "card_id": 20558,
+      "name": "Skwovet",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20506:Holofoil": {
+      "card_id": 20506,
+      "name": "Greedent ex",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.91,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20474:Reverse Holofoil": {
+      "card_id": 20474,
+      "name": "Lechonk - 180/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20476:Reverse Holofoil": {
+      "card_id": 20476,
+      "name": "Lechonk - 181/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20513:Reverse Holofoil": {
+      "card_id": 20513,
+      "name": "Lechonk - 182/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20597:Reverse Holofoil": {
+      "card_id": 20597,
+      "name": "Oinkologne - 183/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20608:Reverse Holofoil": {
+      "card_id": 20608,
+      "name": "Oinkologne - 184/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20436:Reverse Holofoil": {
+      "card_id": 20436,
+      "name": "Flamigo",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20406:Reverse Holofoil": {
+      "card_id": 20406,
+      "name": "Arven",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.01,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20606:Reverse Holofoil": {
+      "card_id": 20606,
+      "name": "Brassius",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20492:Reverse Holofoil": {
+      "card_id": 20492,
+      "name": "Geeta",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20487:Reverse Holofoil": {
+      "card_id": 20487,
+      "name": "Letter of Encouragement",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20562:Reverse Holofoil": {
+      "card_id": 20562,
+      "name": "Ortega",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20612:Reverse Holofoil": {
+      "card_id": 20612,
+      "name": "Patrol Cap",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20533:Reverse Holofoil": {
+      "card_id": 20533,
+      "name": "Pokemon League Headquarters",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20545:Reverse Holofoil": {
+      "card_id": 20545,
+      "name": "Poppy",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20517:Reverse Holofoil": {
+      "card_id": 20517,
+      "name": "Ryme",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20592:Reverse Holofoil": {
+      "card_id": 20592,
+      "name": "Team Star Grunt",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20408:Reverse Holofoil": {
+      "card_id": 20408,
+      "name": "Town Store",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20509:Reverse Holofoil": {
+      "card_id": 20509,
+      "name": "Vengeful Punch",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "20426:Holofoil": {
+      "card_id": 20426,
+      "name": "Gloom - 198/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 17.62,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20424:Holofoil": {
+      "card_id": 20424,
+      "name": "Ninetales -199/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 32.55,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20414:Holofoil": {
+      "card_id": 20414,
+      "name": "Palafin - 200/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 3.85,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20435:Holofoil": {
+      "card_id": 20435,
+      "name": "Bellibolt - 201/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 5.17,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20434:Holofoil": {
+      "card_id": 20434,
+      "name": "Cleffa - 202/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 34.88,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20446:Holofoil": {
+      "card_id": 20446,
+      "name": "Larvitar - 203/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 4.92,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20432:Holofoil": {
+      "card_id": 20432,
+      "name": "Houndour - 204/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 10.75,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20419:Holofoil": {
+      "card_id": 20419,
+      "name": "Scizor - 205/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 13.42,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20450:Holofoil": {
+      "card_id": 20450,
+      "name": "Varoom - 206/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.72,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20421:Holofoil": {
+      "card_id": 20421,
+      "name": "Pidgey - 207/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 12.01,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20433:Holofoil": {
+      "card_id": 20433,
+      "name": "Pidgeotto - 208/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 10.8,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20413:Holofoil": {
+      "card_id": 20413,
+      "name": "Lechonk - 209/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 10.28,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20468:Holofoil": {
+      "card_id": 20468,
+      "name": "Eiscue ex - 210/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.87,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20438:Holofoil": {
+      "card_id": 20438,
+      "name": "Tyranitar ex - 211/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 4.86,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20482:Holofoil": {
+      "card_id": 20482,
+      "name": "Vespiquen ex - 212/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.42,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20455:Holofoil": {
+      "card_id": 20455,
+      "name": "Glimmora ex - 213/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.84,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20480:Holofoil": {
+      "card_id": 20480,
+      "name": "Absol ex - 214/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.79,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20464:Holofoil": {
+      "card_id": 20464,
+      "name": "Charizard ex - 215/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 21.54,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20484:Holofoil": {
+      "card_id": 20484,
+      "name": "Revavroom ex - 216/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.75,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20458:Holofoil": {
+      "card_id": 20458,
+      "name": "Pidgeot ex - 217/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20460:Holofoil": {
+      "card_id": 20460,
+      "name": "Geeta - 218/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.15,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20478:Holofoil": {
+      "card_id": 20478,
+      "name": "Ortega - 219/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.15,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20454:Holofoil": {
+      "card_id": 20454,
+      "name": "Poppy - 220/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.35,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20469:Holofoil": {
+      "card_id": 20469,
+      "name": "Ryme - 221/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20456:Holofoil": {
+      "card_id": 20456,
+      "name": "Eiscue ex - 222/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 4.73,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20463:Holofoil": {
+      "card_id": 20463,
+      "name": "Charizard ex - 223/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 94.05,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20437:Holofoil": {
+      "card_id": 20437,
+      "name": "Revavroom ex - 224/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 4.44,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20449:Holofoil": {
+      "card_id": 20449,
+      "name": "Pidgeot ex - 225/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 15.67,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20470:Holofoil": {
+      "card_id": 20470,
+      "name": "Geeta - 226/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.98,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20462:Holofoil": {
+      "card_id": 20462,
+      "name": "Poppy - 227/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.75,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20442:Holofoil": {
+      "card_id": 20442,
+      "name": "Charizard ex - 228/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 34.31,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20425:Holofoil": {
+      "card_id": 20425,
+      "name": "Artazon - 229/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "20418:Holofoil": {
+      "card_id": 20418,
+      "name": "Basic Fire Energy - 230/197",
+      "set_id": 5500138,
+      "set_name": "SV03: Obsidian Flames",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 2.66,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "100016868:Normal": {
+      "card_id": 100016868,
+      "name": "Shaymin - 010/182 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "2298759:Holofoil": {
+      "card_id": 2298759,
+      "name": "Dusclops - 019/064 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 23.0,
+          "market_price_as_of": "2026-09-22"
+        }
+      ]
+    },
+    "100016876:Normal": {
+      "card_id": 100016876,
+      "name": "Eelektrik - 031/086 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "2298505:Holofoil": {
+      "card_id": 2298505,
+      "name": "Radiant Greninja - 046/189 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 86.66,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "100009834:Normal": {
+      "card_id": 100009834,
+      "name": "Solrock - 075/132 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "2298721:Holofoil": {
+      "card_id": 2298721,
+      "name": "Latias ex - 076/191 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.94,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "2298981:Holofoil": {
+      "card_id": 2298981,
+      "name": "Dawn - 087/094 (Ultra Ball League)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 174.99,
+          "market_price_as_of": "2026-10-12"
+        }
+      ]
+    },
+    "100016850:Normal": {
+      "card_id": 100016850,
+      "name": "Iron Defender - 118/132 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "100016855:Normal": {
+      "card_id": 100016855,
+      "name": "Mega Signal - 121/132 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.99,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "100016867:Normal": {
+      "card_id": 100016867,
+      "name": "Mystery Garden - 122/132 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.99,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "100016871:Normal": {
+      "card_id": 100016871,
+      "name": "Premium Power Pro - 124/132 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.1,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "100016863:Normal": {
+      "card_id": 100016863,
+      "name": "Strange Timepiece - 128/132 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "100016872:Normal": {
+      "card_id": 100016872,
+      "name": "Wally's Compassion - 132/132 (GYM)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
+    },
+    "2298984:Holofoil": {
+      "card_id": 2298984,
+      "name": "Wally's Compassion - 132/132 (Ultra Ball League)",
+      "set_id": 5500237,
+      "set_name": "Southeast Asia Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-13",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-13"
+        }
+      ]
     }
   }
 }
