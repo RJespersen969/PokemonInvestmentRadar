@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-13T07:48:23.111160+00:00",
+  "generated_at": "2026-10-14T08:02:53.180192+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 35,
+  "next_set_index": 40,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 9,
-  "total_candidates": 975,
-  "cards_with_price_history": 5325,
+  "api_calls": 13,
+  "total_candidates": 1222,
+  "cards_with_price_history": 6223,
   "candidates": [
     {
       "card_id": 18754,
@@ -25,6 +25,18 @@
       "market_price_usd": 195.91,
       "market_price_as_of": "2026-10-10",
       "total_listings": 172
+    },
+    {
+      "card_id": 36757,
+      "name": "Arceus VSTAR (Secret)",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG70/GG70",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 189.8,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 124
     },
     {
       "card_id": 7381,
@@ -195,6 +207,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 18454,
+      "name": "Pikachu - 027 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "027",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 161.48,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 54
+    },
+    {
       "card_id": 20371,
       "name": "Perrin - 220/167",
       "set_id": 5500051,
@@ -243,6 +267,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 18445,
+      "name": "Hop's Snorlax - 184 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "184",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 141.3,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 8
+    },
+    {
       "card_id": 7193,
       "name": "N's Zoroark ex - 286/217",
       "set_id": 5500112,
@@ -279,6 +315,18 @@
       "total_listings": 118
     },
     {
+      "card_id": 18493,
+      "name": "Hawlucha - 007 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "007",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 137.71,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 11
+    },
+    {
       "card_id": 100031558,
       "name": "Pikachu - 093 (Winner)",
       "set_id": 5500111,
@@ -289,6 +337,18 @@
       "market_price_usd": 137.05,
       "market_price_as_of": "2026-10-09",
       "total_listings": 17
+    },
+    {
+      "card_id": 18474,
+      "name": "Pikachu - 225 (World Championship 2025) [Winner]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "225",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 131.43,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 18
     },
     {
       "card_id": 2153371,
@@ -337,6 +397,18 @@
       "market_price_usd": 124.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 194
+    },
+    {
+      "card_id": 36751,
+      "name": "Origin Forme Dialga VSTAR (Secret)",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG68/GG70",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 121.55,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 102
     },
     {
       "card_id": 21888,
@@ -399,6 +471,18 @@
       "total_listings": 184
     },
     {
+      "card_id": 18437,
+      "name": "Team Rocket's Wobbuffet (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "203",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 100.51,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 67
+    },
+    {
       "card_id": 100008306,
       "name": "Zeraora - 103 (30th Celebration)",
       "set_id": 5500111,
@@ -421,6 +505,30 @@
       "market_price_usd": 98.26,
       "market_price_as_of": "2026-10-10",
       "total_listings": 84
+    },
+    {
+      "card_id": 15660,
+      "name": "Raichu - 211/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "211/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 97.13,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 117
+    },
+    {
+      "card_id": 36756,
+      "name": "Origin Forme Palkia VSTAR (Secret)",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG67/GG70",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 96.34,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 114
     },
     {
       "card_id": 20463,
@@ -555,6 +663,18 @@
       "total_listings": 283
     },
     {
+      "card_id": 36753,
+      "name": "Leafeon VSTAR",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG35/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 86.9,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 107
+    },
+    {
       "card_id": 2298505,
       "name": "Radiant Greninja - 046/189 (GYM)",
       "set_id": 5500237,
@@ -565,6 +685,18 @@
       "market_price_usd": 86.66,
       "market_price_as_of": "2026-10-12",
       "total_listings": 0
+    },
+    {
+      "card_id": 15704,
+      "name": "Maushold - 226/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "226/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 86.48,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 107
     },
     {
       "card_id": 21878,
@@ -591,6 +723,18 @@
       "total_listings": 105
     },
     {
+      "card_id": 18345,
+      "name": "Greninja ex - 132",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "132",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 82.46,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 160
+    },
+    {
       "card_id": 100018065,
       "name": "Magikarp",
       "set_id": 5500238,
@@ -601,6 +745,30 @@
       "market_price_usd": 82.27,
       "market_price_as_of": "2026-10-09",
       "total_listings": 96
+    },
+    {
+      "card_id": 36740,
+      "name": "Darkrai VSTAR",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG50/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 82.13,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 172
+    },
+    {
+      "card_id": 18428,
+      "name": "Eevee - 173 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "173",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 80.85,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 159
     },
     {
       "card_id": 100034352,
@@ -637,6 +805,18 @@
       "market_price_usd": 77.58,
       "market_price_as_of": "2026-10-10",
       "total_listings": 171
+    },
+    {
+      "card_id": 18315,
+      "name": "Kingdra ex - 131",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "131",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 77.47,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 148
     },
     {
       "card_id": 37860,
@@ -795,6 +975,18 @@
       "total_listings": 146
     },
     {
+      "card_id": 15727,
+      "name": "Tyranitar - 222/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "222/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 70.93,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 149
+    },
+    {
       "card_id": 25304,
       "name": "Dachsbun ex - 169/142",
       "set_id": 5500045,
@@ -817,6 +1009,18 @@
       "market_price_usd": 68.52,
       "market_price_as_of": "2026-10-09",
       "total_listings": 138
+    },
+    {
+      "card_id": 16242,
+      "name": "Gardevoir ex - 245/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "245/198",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 68.5,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 226
     },
     {
       "card_id": 2299717,
@@ -891,6 +1095,54 @@
       "total_listings": 142
     },
     {
+      "card_id": 36691,
+      "name": "Mew",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG10/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 66.39,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 221
+    },
+    {
+      "card_id": 18419,
+      "name": "Mimikyu - 075 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "075",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 66.24,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 79
+    },
+    {
+      "card_id": 36755,
+      "name": "Glaceon VSTAR",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG40/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.73,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 95
+    },
+    {
+      "card_id": 18463,
+      "name": "Infernape - 116 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "116",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 65.24,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 7
+    },
+    {
       "card_id": 13469,
       "name": "Raging Bolt ex",
       "set_id": 5500017,
@@ -937,6 +1189,18 @@
       "market_price_usd": 63.27,
       "market_price_as_of": "2026-10-09",
       "total_listings": 87
+    },
+    {
+      "card_id": 18250,
+      "name": "Mew ex - 053",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "053",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 63.13,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 307
     },
     {
       "card_id": 2158854,
@@ -1023,6 +1287,30 @@
       "total_listings": 194
     },
     {
+      "card_id": 18426,
+      "name": "Magneton - 159 (Pokémon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "159",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 61.45,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 122
+    },
+    {
+      "card_id": 18456,
+      "name": "Miraidon - 013 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "013",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 61.44,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 84
+    },
+    {
       "card_id": 38860,
       "name": "First Partner Illustration Collection (Series 1)",
       "set_id": 5500183,
@@ -1047,6 +1335,18 @@
       "total_listings": 238
     },
     {
+      "card_id": 18486,
+      "name": "Cleffa - 037 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "037",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 59.05,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 5
+    },
+    {
       "card_id": 21894,
       "name": "Alakazam ex - 201/165",
       "set_id": 5500171,
@@ -1059,6 +1359,18 @@
       "total_listings": 337
     },
     {
+      "card_id": 18499,
+      "name": "Tatsugiri - 118 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "118",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 58.76,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 11
+    },
+    {
       "card_id": 13458,
       "name": "Bloodmoon Ursaluna ex",
       "set_id": 5500017,
@@ -1069,6 +1381,18 @@
       "market_price_usd": 58.46,
       "market_price_as_of": "2026-10-10",
       "total_listings": 119
+    },
+    {
+      "card_id": 18494,
+      "name": "Chi-Yu - 057 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "057",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 58.3,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 22
     },
     {
       "card_id": 30150,
@@ -1095,6 +1419,42 @@
       "total_listings": 83
     },
     {
+      "card_id": 18476,
+      "name": "Feraligatr - 089 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "089",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 57.64,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 6
+    },
+    {
+      "card_id": 18468,
+      "name": "Chien-Pao - 152 (Staff)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "152",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 56.6,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 9
+    },
+    {
+      "card_id": 36725,
+      "name": "Suicune V",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG38/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 56.19,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 143
+    },
+    {
       "card_id": 13743,
       "name": "Volcarona - 100/086",
       "set_id": 5500093,
@@ -1105,6 +1465,42 @@
       "market_price_usd": 55.79,
       "market_price_as_of": "2026-10-09",
       "total_listings": 89
+    },
+    {
+      "card_id": 36754,
+      "name": "Deoxys VMAX",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG45/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 55.76,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 164
+    },
+    {
+      "card_id": 15640,
+      "name": "Sprigatito - 196/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "196/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 55.55,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 180
+    },
+    {
+      "card_id": 18485,
+      "name": "Pawmot - 006 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "006",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 55.37,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 4
     },
     {
       "card_id": 21891,
@@ -1191,6 +1587,30 @@
       "total_listings": 184
     },
     {
+      "card_id": 18461,
+      "name": "Koraidon - 014 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "014",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 52.83,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 76
+    },
+    {
+      "card_id": 18470,
+      "name": "Mawile - 039 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "039",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 52.66,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 12
+    },
+    {
       "card_id": 13390,
       "name": "Pikachu ex - 179/131",
       "set_id": 5500017,
@@ -1201,6 +1621,18 @@
       "market_price_usd": 52.54,
       "market_price_as_of": "2026-10-10",
       "total_listings": 164
+    },
+    {
+      "card_id": 18370,
+      "name": "Marnie’s Morpeko",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "206",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 52.31,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 67
     },
     {
       "card_id": 20785,
@@ -1275,6 +1707,18 @@
       "total_listings": 93
     },
     {
+      "card_id": 18244,
+      "name": "Charmander - 044",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "044",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 50.65,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 369
+    },
+    {
       "card_id": 20773,
       "name": "Gengar ex - 193/162",
       "set_id": 5500066,
@@ -1309,6 +1753,18 @@
       "market_price_usd": 50.47,
       "market_price_as_of": "2026-10-11",
       "total_listings": 139
+    },
+    {
+      "card_id": 36717,
+      "name": "Entei V",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG36/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 50.0,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 143
     },
     {
       "card_id": 13683,
@@ -1383,6 +1839,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 18444,
+      "name": "Froslass - 117 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "117",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 48.81,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 14
+    },
+    {
       "card_id": 13786,
       "name": "Lilligant - 092/086",
       "set_id": 5500093,
@@ -1393,6 +1861,18 @@
       "market_price_usd": 48.69,
       "market_price_as_of": "2026-10-09",
       "total_listings": 91
+    },
+    {
+      "card_id": 15788,
+      "name": "Marill - 204/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "204/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 48.67,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 151
     },
     {
       "card_id": 17198,
@@ -1467,6 +1947,30 @@
       "total_listings": 176
     },
     {
+      "card_id": 36743,
+      "name": "Deoxys VSTAR",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG46/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.31,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 144
+    },
+    {
+      "card_id": 15651,
+      "name": "Iono - 269/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "269/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.12,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 170
+    },
+    {
       "card_id": 35175,
       "name": "Blastoise",
       "set_id": 5500053,
@@ -1479,6 +1983,30 @@
       "total_listings": 21
     },
     {
+      "card_id": 36748,
+      "name": "Hisuian Zoroark VSTAR",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG56/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.03,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 131
+    },
+    {
+      "card_id": 15630,
+      "name": "Chi-Yu ex - 259/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "259/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.02,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 117
+    },
+    {
       "card_id": 7186,
       "name": "Marnie's Grimmsnarl ex",
       "set_id": 5500112,
@@ -1489,6 +2017,18 @@
       "market_price_usd": 46.13,
       "market_price_as_of": "2026-10-09",
       "total_listings": 205
+    },
+    {
+      "card_id": 16227,
+      "name": "Drowzee - 210/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "210/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.92,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 203
     },
     {
       "card_id": 20367,
@@ -1599,6 +2139,18 @@
       "total_listings": 308
     },
     {
+      "card_id": 18477,
+      "name": "Murkrow - 021 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "021",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 44.84,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 3
+    },
+    {
       "card_id": 16027,
       "name": "Minun - 194/182",
       "set_id": 5500212,
@@ -1681,6 +2233,18 @@
       "market_price_usd": 43.52,
       "market_price_as_of": "2026-10-09",
       "total_listings": 162
+    },
+    {
+      "card_id": 15671,
+      "name": "Fuecoco - 201/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "201/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.06,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 157
     },
     {
       "card_id": 20756,
@@ -1767,6 +2331,42 @@
       "total_listings": 325
     },
     {
+      "card_id": 16276,
+      "name": "Ralts - 211/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "211/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.86,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 199
+    },
+    {
+      "card_id": 18473,
+      "name": "Scream Tail - 065 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "065",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 41.74,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 35
+    },
+    {
+      "card_id": 18489,
+      "name": "Baxcalibur - 019 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "019",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 41.69,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 12
+    },
+    {
       "card_id": 2163468,
       "name": "Mega Zeraora ex - 114/084",
       "set_id": 5500216,
@@ -1801,6 +2401,18 @@
       "market_price_usd": 41.2,
       "market_price_as_of": "2026-10-11",
       "total_listings": 100
+    },
+    {
+      "card_id": 36733,
+      "name": "Raikou V",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG41/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.17,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 152
     },
     {
       "card_id": 14375,
@@ -1839,6 +2451,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 18495,
+      "name": "Revavroom - 008 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "008",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.44,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 6
+    },
+    {
       "card_id": 37861,
       "name": "Toxtricity - 017 [Staff]",
       "set_id": 5500111,
@@ -1875,6 +2499,54 @@
       "total_listings": 283
     },
     {
+      "card_id": 18254,
+      "name": "Mewtwo - 052",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "052",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.16,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 336
+    },
+    {
+      "card_id": 18475,
+      "name": "Metang - 090 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "090",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.11,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 10
+    },
+    {
+      "card_id": 18411,
+      "name": "N's Zorua - 189 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "189",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.07,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 73
+    },
+    {
+      "card_id": 18498,
+      "name": "Quaquaval - 005 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "005",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.01,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 9
+    },
+    {
       "card_id": 37863,
       "name": "Inteleon - 002 [Staff]",
       "set_id": 5500111,
@@ -1885,6 +2557,18 @@
       "market_price_usd": 39.93,
       "market_price_as_of": "2026-10-09",
       "total_listings": 9
+    },
+    {
+      "card_id": 18479,
+      "name": "Togekiss - 038 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "038",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.82,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 13
     },
     {
       "card_id": 13459,
@@ -1947,6 +2631,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 18496,
+      "name": "Palafin - 036 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "036",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.17,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 19
+    },
+    {
       "card_id": 14448,
       "name": "Vanilluxe - 113/086",
       "set_id": 5500153,
@@ -1971,6 +2667,18 @@
       "total_listings": 125
     },
     {
+      "card_id": 36692,
+      "name": "Pikachu",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG30/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.99,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 256
+    },
+    {
       "card_id": 18179,
       "name": "Durant ex - 236/191",
       "set_id": 5500180,
@@ -1981,6 +2689,30 @@
       "market_price_usd": 38.71,
       "market_price_as_of": "2026-10-10",
       "total_listings": 119
+    },
+    {
+      "card_id": 18459,
+      "name": "Thwackey - 115 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "115",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 38.64,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 16
+    },
+    {
+      "card_id": 18410,
+      "name": "Pikachu - 101",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "101",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 38.48,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 29
     },
     {
       "card_id": 21886,
@@ -2017,6 +2749,18 @@
       "market_price_usd": 38.12,
       "market_price_as_of": "2026-10-12",
       "total_listings": 120
+    },
+    {
+      "card_id": 18488,
+      "name": "Magneton - 153 (Staff)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "153",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 38.06,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 8
     },
     {
       "card_id": 37855,
@@ -2067,6 +2811,30 @@
       "total_listings": 77
     },
     {
+      "card_id": 16224,
+      "name": "Slowpoke - 204/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "204/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.64,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 138
+    },
+    {
+      "card_id": 18464,
+      "name": "Iron Thorns - 098 (Pokemon Center)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "098",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 37.55,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 61
+    },
+    {
       "card_id": 25306,
       "name": "Hydrapple ex - 167/142",
       "set_id": 5500045,
@@ -2115,6 +2883,18 @@
       "total_listings": 135
     },
     {
+      "card_id": 16263,
+      "name": "Kirlia - 212/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "212/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.81,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 191
+    },
+    {
       "card_id": 18181,
       "name": "Hydreigon ex - 240/191",
       "set_id": 5500180,
@@ -2137,6 +2917,18 @@
       "market_price_usd": 35.34,
       "market_price_as_of": "2026-10-12",
       "total_listings": 22
+    },
+    {
+      "card_id": 18490,
+      "name": "Gouging Fire - 151 (Staff)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "151",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 35.33,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 16
     },
     {
       "card_id": 2163514,
@@ -2247,6 +3039,18 @@
       "total_listings": 123
     },
     {
+      "card_id": 15653,
+      "name": "Skeledirge ex - 258/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "258/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.46,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 152
+    },
+    {
       "card_id": 20442,
       "name": "Charizard ex - 228/197",
       "set_id": 5500138,
@@ -2257,6 +3061,18 @@
       "market_price_usd": 34.31,
       "market_price_as_of": "2026-10-13",
       "total_listings": 229
+    },
+    {
+      "card_id": 15659,
+      "name": "Mismagius - 212/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "212/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.3,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 163
     },
     {
       "card_id": 25276,
@@ -2295,6 +3111,18 @@
       "total_listings": 36
     },
     {
+      "card_id": 18448,
+      "name": "Flutter Mane - 097 (Pokemon Center)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "097",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 33.74,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 59
+    },
+    {
       "card_id": 13719,
       "name": "Klinklang - 141/086",
       "set_id": 5500093,
@@ -2305,6 +3133,18 @@
       "market_price_usd": 33.63,
       "market_price_as_of": "2026-10-09",
       "total_listings": 38
+    },
+    {
+      "card_id": 18441,
+      "name": "N's Darmanitan - 181 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "181",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 33.36,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 21
     },
     {
       "card_id": 15927,
@@ -2439,6 +3279,30 @@
       "total_listings": 136
     },
     {
+      "card_id": 15795,
+      "name": "Heracross - 194/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "194/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.75,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 149
+    },
+    {
+      "card_id": 18497,
+      "name": "Pelipper - 022 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "022",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 31.72,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 10
+    },
+    {
       "card_id": 30130,
       "name": "Dusknoir - 070/064",
       "set_id": 5500139,
@@ -2449,6 +3313,30 @@
       "market_price_usd": 31.66,
       "market_price_as_of": "2026-10-11",
       "total_listings": 90
+    },
+    {
+      "card_id": 15601,
+      "name": "Baxcalibur - 210/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "210/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.63,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 198
+    },
+    {
+      "card_id": 15756,
+      "name": "Sudowoodo - 219/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "219/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.52,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 116
     },
     {
       "card_id": 37859,
@@ -2485,6 +3373,30 @@
       "market_price_usd": 31.28,
       "market_price_as_of": "2026-10-09",
       "total_listings": 93
+    },
+    {
+      "card_id": 18452,
+      "name": "Noctowl - 141 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "141",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 31.27,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 104
+    },
+    {
+      "card_id": 16294,
+      "name": "Riolu - 215/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "215/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.22,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 232
     },
     {
       "card_id": 2299711,
@@ -2595,6 +3507,30 @@
       "total_listings": 111
     },
     {
+      "card_id": 18471,
+      "name": "Miraidon - 092 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "092",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 30.14,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 18
+    },
+    {
+      "card_id": 36747,
+      "name": "Simisear VSTAR",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG37/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.87,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 127
+    },
+    {
       "card_id": 13735,
       "name": "Unfezant - 150/086",
       "set_id": 5500093,
@@ -2605,6 +3541,18 @@
       "market_price_usd": 29.81,
       "market_price_as_of": "2026-10-09",
       "total_listings": 85
+    },
+    {
+      "card_id": 36741,
+      "name": "Zacian V",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG48/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.76,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 172
     },
     {
       "card_id": 18744,
@@ -2715,6 +3663,18 @@
       "total_listings": 127
     },
     {
+      "card_id": 18460,
+      "name": "Iono's Kilowattrel - 182 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "182",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.02,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 19
+    },
+    {
       "card_id": 20737,
       "name": "Arbok - 176/162",
       "set_id": 5500066,
@@ -2739,6 +3699,18 @@
       "total_listings": 66
     },
     {
+      "card_id": 18356,
+      "name": "Steven's Beldum - 207",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "207",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 28.75,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 99
+    },
+    {
       "card_id": 18740,
       "name": "Cynthia's Garchomp ex - 241/182",
       "set_id": 5500009,
@@ -2761,6 +3733,18 @@
       "market_price_usd": 28.61,
       "market_price_as_of": "2026-10-10",
       "total_listings": 78
+    },
+    {
+      "card_id": 36744,
+      "name": "Zeraora VMAX",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG42/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.57,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 137
     },
     {
       "card_id": 13628,
@@ -2859,6 +3843,18 @@
       "total_listings": 150
     },
     {
+      "card_id": 15631,
+      "name": "Meowscarada ex - 256/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "256/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.23,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 169
+    },
+    {
       "card_id": 13404,
       "name": "Jolteon (Master Ball Pattern)",
       "set_id": 5500017,
@@ -2919,6 +3915,18 @@
       "total_listings": 63
     },
     {
+      "card_id": 18458,
+      "name": "Lillie's Ribombee - 183 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "183",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 27.9,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 21
+    },
+    {
       "card_id": 100009843,
       "name": "Pikachu & Zekrom GX",
       "set_id": 5500238,
@@ -2967,6 +3975,18 @@
       "total_listings": 243
     },
     {
+      "card_id": 15713,
+      "name": "Chien-Pao ex - 261/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "261/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.38,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 177
+    },
+    {
       "card_id": 17188,
       "name": "Tandemaus - 209/091",
       "set_id": 5500030,
@@ -2977,6 +3997,18 @@
       "market_price_usd": 27.31,
       "market_price_as_of": "2026-10-12",
       "total_listings": 86
+    },
+    {
+      "card_id": 18482,
+      "name": "Bouffalant - 136 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "136",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 27.28,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 4
     },
     {
       "card_id": 30157,
@@ -3013,6 +4045,18 @@
       "market_price_usd": 27.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 17
+    },
+    {
+      "card_id": 18253,
+      "name": "Umbreon ex - 176",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "SVP 176",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 26.83,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 246
     },
     {
       "card_id": 2163555,
@@ -3193,6 +4237,42 @@
       "market_price_usd": 25.81,
       "market_price_as_of": "2026-10-09",
       "total_listings": 248
+    },
+    {
+      "card_id": 18481,
+      "name": "Ledian - 133 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "133",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.63,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 14
+    },
+    {
+      "card_id": 18478,
+      "name": "Aegislash - 060 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "060",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.54,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 10
+    },
+    {
+      "card_id": 18469,
+      "name": "Koraidon - 091 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "091",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.41,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 27
     },
     {
       "card_id": 13419,
@@ -3423,6 +4503,18 @@
       "total_listings": 278
     },
     {
+      "card_id": 16258,
+      "name": "Fidough - 213/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "213/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.22,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 184
+    },
+    {
       "card_id": 20728,
       "name": "Minccino - 182/162",
       "set_id": 5500066,
@@ -3505,6 +4597,18 @@
       "market_price_usd": 23.66,
       "market_price_as_of": "2026-10-10",
       "total_listings": 304
+    },
+    {
+      "card_id": 36749,
+      "name": "Cynthia's Ambition",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG60/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.63,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 136
     },
     {
       "card_id": 18637,
@@ -3603,6 +4707,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 15820,
+      "name": "Eiscue - 205/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "205/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.77,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 119
+    },
+    {
       "card_id": 13454,
       "name": "Iron Hands ex - 154/131",
       "set_id": 5500017,
@@ -3651,6 +4767,18 @@
       "total_listings": 31
     },
     {
+      "card_id": 36739,
+      "name": "Zeraora VSTAR",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG43/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.47,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 160
+    },
+    {
       "card_id": 17196,
       "name": "Jigglypuff",
       "set_id": 5500030,
@@ -3685,6 +4813,30 @@
       "market_price_usd": 22.4,
       "market_price_as_of": "2026-10-09",
       "total_listings": 311
+    },
+    {
+      "card_id": 18484,
+      "name": "Indeedee - 154 (Staff)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "154",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.39,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 11
+    },
+    {
+      "card_id": 18466,
+      "name": "Drifblim - 135 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "135",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.3,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 15
     },
     {
       "card_id": 13756,
@@ -3795,6 +4947,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 15625,
+      "name": "Frigibax - 208/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "208/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.7,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 181
+    },
+    {
       "card_id": 30172,
       "name": "Okidogi ex - 090/064",
       "set_id": 5500139,
@@ -3831,6 +4995,18 @@
       "total_listings": 186
     },
     {
+      "card_id": 16285,
+      "name": "Koraidon ex - 247/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "247/198",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.49,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 253
+    },
+    {
       "card_id": 13406,
       "name": "Flareon (Master Ball Pattern)",
       "set_id": 5500017,
@@ -3841,6 +5017,42 @@
       "market_price_usd": 21.28,
       "market_price_as_of": "2026-10-10",
       "total_listings": 108
+    },
+    {
+      "card_id": 36727,
+      "name": "Regigigas VSTAR",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG55/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.2,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 131
+    },
+    {
+      "card_id": 18440,
+      "name": "Teal Mask Ogerpon - 123 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "123",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.18,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 79
+    },
+    {
+      "card_id": 18472,
+      "name": "Xatu - 059 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "059",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.18,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 7
     },
     {
       "card_id": 30176,
@@ -3889,6 +5101,18 @@
       "market_price_usd": 21.04,
       "market_price_as_of": "2026-10-10",
       "total_listings": 135
+    },
+    {
+      "card_id": 16213,
+      "name": "Greavard - 214/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "214/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.04,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 178
     },
     {
       "card_id": 13824,
@@ -3949,6 +5173,18 @@
       "market_price_usd": 20.84,
       "market_price_as_of": "2026-10-12",
       "total_listings": 122
+    },
+    {
+      "card_id": 16240,
+      "name": "Miraidon ex - 244/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "244/198",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.84,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 270
     },
     {
       "card_id": 15943,
@@ -4035,6 +5271,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 36730,
+      "name": "Lumineon V",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG39/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.64,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 155
+    },
+    {
       "card_id": 13682,
       "name": "Petilil - 091/086",
       "set_id": 5500093,
@@ -4071,6 +5319,18 @@
       "total_listings": 105
     },
     {
+      "card_id": 36719,
+      "name": "Lapras",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG05/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.28,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 217
+    },
+    {
       "card_id": 18743,
       "name": "Ethan's Ho-Oh ex - 239/182",
       "set_id": 5500009,
@@ -4093,6 +5353,18 @@
       "market_price_usd": 20.14,
       "market_price_as_of": "2026-10-09",
       "total_listings": 124
+    },
+    {
+      "card_id": 15628,
+      "name": "Grusha - 268/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "268/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.11,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 145
     },
     {
       "card_id": 37639,
@@ -4191,6 +5463,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 16314,
+      "name": "Wiglett - 206/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "206/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.84,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 276
+    },
+    {
       "card_id": 17169,
       "name": "Lucario",
       "set_id": 5500030,
@@ -4227,6 +5511,18 @@
       "total_listings": 99
     },
     {
+      "card_id": 18273,
+      "name": "Charizard ex - 074",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "074",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.78,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 216
+    },
+    {
       "card_id": 20824,
       "name": "Eri - 210/162",
       "set_id": 5500066,
@@ -4237,6 +5533,18 @@
       "market_price_usd": 19.74,
       "market_price_as_of": "2026-10-12",
       "total_listings": 76
+    },
+    {
+      "card_id": 18257,
+      "name": "Pikachu - 088",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "088",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.71,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 279
     },
     {
       "card_id": 2299720,
@@ -4357,6 +5665,18 @@
       "market_price_usd": 19.29,
       "market_price_as_of": "2026-10-12",
       "total_listings": 133
+    },
+    {
+      "card_id": 18442,
+      "name": "Pecharunt - 129 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "129",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.26,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 69
     },
     {
       "card_id": 2155076,
@@ -4491,6 +5811,30 @@
       "total_listings": 20
     },
     {
+      "card_id": 16301,
+      "name": "Miriam - 251/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "251/198",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.76,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 275
+    },
+    {
+      "card_id": 15614,
+      "name": "Floragato - 197/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "197/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.7,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 143
+    },
+    {
       "card_id": 27842,
       "name": "Dawn - 129/094",
       "set_id": 5500152,
@@ -4537,6 +5881,18 @@
       "market_price_usd": 18.51,
       "market_price_as_of": "2026-10-09",
       "total_listings": 139
+    },
+    {
+      "card_id": 15793,
+      "name": "Fletchinder - 199/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "199/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.48,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 137
     },
     {
       "card_id": 14536,
@@ -4599,6 +5955,18 @@
       "total_listings": 62
     },
     {
+      "card_id": 36742,
+      "name": "Zamazenta V",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG54/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.22,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 163
+    },
+    {
       "card_id": 23465,
       "name": "Vulpix - 138/132",
       "set_id": 5500179,
@@ -4609,6 +5977,18 @@
       "market_price_usd": 18.19,
       "market_price_as_of": "2026-10-09",
       "total_listings": 398
+    },
+    {
+      "card_id": 36752,
+      "name": "Hisuian Samurott V",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG51/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.15,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 190
     },
     {
       "card_id": 13817,
@@ -4645,6 +6025,30 @@
       "market_price_usd": 18.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 121
+    },
+    {
+      "card_id": 15656,
+      "name": "Quaxly - 206/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "206/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.94,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 187
+    },
+    {
+      "card_id": 18467,
+      "name": "Crabominable - 134 (Prerelease) [Staff]",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "134/142",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.94,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 14
     },
     {
       "card_id": 21858,
@@ -4731,6 +6135,30 @@
       "total_listings": 83
     },
     {
+      "card_id": 18242,
+      "name": "Pikachu - 027",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "027",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.64,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 320
+    },
+    {
+      "card_id": 16234,
+      "name": "Pachirisu - 208/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "208/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.63,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 209
+    },
+    {
       "card_id": 20426,
       "name": "Gloom - 198/197",
       "set_id": 5500138,
@@ -4767,6 +6195,18 @@
       "total_listings": 163
     },
     {
+      "card_id": 15718,
+      "name": "Paldean Wooper - 221/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "221/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.43,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 124
+    },
+    {
       "card_id": 13830,
       "name": "Lilligant (Master Ball Pattern)",
       "set_id": 5500093,
@@ -4777,6 +6217,18 @@
       "market_price_usd": 17.42,
       "market_price_as_of": "2026-10-09",
       "total_listings": 26
+    },
+    {
+      "card_id": 18243,
+      "name": "Espeon ex - 175",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "SVP 175",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.41,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 211
     },
     {
       "card_id": 30152,
@@ -4791,6 +6243,18 @@
       "total_listings": 128
     },
     {
+      "card_id": 18381,
+      "name": "Thundurus - 209 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "209",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.36,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 136
+    },
+    {
       "card_id": 14500,
       "name": "Swoobat (Master Ball Pattern)",
       "set_id": 5500153,
@@ -4803,6 +6267,30 @@
       "total_listings": 29
     },
     {
+      "card_id": 18227,
+      "name": "Snorlax - 051",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "051",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.29,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 448
+    },
+    {
+      "card_id": 18348,
+      "name": "Hop's Snorlax - 184 (Prerelease)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "184",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.23,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 47
+    },
+    {
       "card_id": 13677,
       "name": "Munna - 116/086",
       "set_id": 5500093,
@@ -4813,6 +6301,18 @@
       "market_price_usd": 17.21,
       "market_price_as_of": "2026-10-09",
       "total_listings": 125
+    },
+    {
+      "card_id": 15629,
+      "name": "Arctibax - 209/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "209/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.2,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 130
     },
     {
       "card_id": 14372,
@@ -4911,6 +6411,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 18299,
+      "name": "Pikachu - 214 (Illustration Contest 2024)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "214",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 17.0,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 128
+    },
+    {
       "card_id": 13668,
       "name": "Foongus - 095/086",
       "set_id": 5500093,
@@ -4933,6 +6445,30 @@
       "market_price_usd": 16.97,
       "market_price_as_of": "2026-10-09",
       "total_listings": 83
+    },
+    {
+      "card_id": 15697,
+      "name": "Paldean Tauros - 218/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "218/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.94,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 164
+    },
+    {
+      "card_id": 15680,
+      "name": "Dedenne ex - 239/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "239/193",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.86,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 164
     },
     {
       "card_id": 14537,
@@ -5007,6 +6543,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 36710,
+      "name": "Latias",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG20/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.68,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 231
+    },
+    {
       "card_id": 13655,
       "name": "Tynamo - 113/086",
       "set_id": 5500093,
@@ -5031,6 +6579,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 16296,
+      "name": "Starly - 221/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "221/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.56,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 180
+    },
+    {
       "card_id": 2155078,
       "name": "Barbaracle - 065 [Staff]",
       "set_id": 5500111,
@@ -5041,6 +6601,18 @@
       "market_price_usd": 16.55,
       "market_price_as_of": "2026-10-09",
       "total_listings": 25
+    },
+    {
+      "card_id": 18277,
+      "name": "Eevee ex - 174",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "174",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.54,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 320
     },
     {
       "card_id": 21867,
@@ -5113,6 +6685,18 @@
       "market_price_usd": 16.35,
       "market_price_as_of": "2026-10-09",
       "total_listings": 135
+    },
+    {
+      "card_id": 36705,
+      "name": "Deoxys",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG12/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.31,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 205
     },
     {
       "card_id": 13829,
@@ -5259,6 +6843,18 @@
       "total_listings": 44
     },
     {
+      "card_id": 36715,
+      "name": "Altaria",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG19/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.02,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 249
+    },
+    {
       "card_id": 16038,
       "name": "Loudred - 212/182",
       "set_id": 5500212,
@@ -5269,6 +6865,18 @@
       "market_price_usd": 16.0,
       "market_price_as_of": "2026-10-12",
       "total_listings": 144
+    },
+    {
+      "card_id": 15620,
+      "name": "Crocalor - 202/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "202/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.97,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 205
     },
     {
       "card_id": 17276,
@@ -5293,6 +6901,18 @@
       "market_price_usd": 15.88,
       "market_price_as_of": "2026-10-09",
       "total_listings": 22
+    },
+    {
+      "card_id": 36745,
+      "name": "Gardenia's Vigor",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG61/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.86,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 167
     },
     {
       "card_id": 13794,
@@ -5439,6 +7059,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 18347,
+      "name": "Lillie's Clefairy ex - 195",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "195",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.51,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 105
+    },
+    {
       "card_id": 14521,
       "name": "Archen (Master Ball Pattern)",
       "set_id": 5500153,
@@ -5475,6 +7107,18 @@
       "total_listings": 168
     },
     {
+      "card_id": 15760,
+      "name": "Pyroar - 200/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "200/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.45,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 157
+    },
+    {
       "card_id": 2153425,
       "name": "Roxie's Performance - 121/086",
       "set_id": 5500213,
@@ -5497,6 +7141,18 @@
       "market_price_usd": 15.42,
       "market_price_as_of": "2026-10-12",
       "total_listings": 74
+    },
+    {
+      "card_id": 36722,
+      "name": "Keldeo",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG07/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.42,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 229
     },
     {
       "card_id": 20744,
@@ -5667,6 +7323,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 15754,
+      "name": "Saguaro - 270/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "270/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.92,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 117
+    },
+    {
       "card_id": 13602,
       "name": "Duosion - 119/086",
       "set_id": 5500093,
@@ -5677,6 +7345,18 @@
       "market_price_usd": 14.91,
       "market_price_as_of": "2026-10-09",
       "total_listings": 106
+    },
+    {
+      "card_id": 36704,
+      "name": "Ditto",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG22/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.9,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 237
     },
     {
       "card_id": 20278,
@@ -5701,6 +7381,18 @@
       "market_price_usd": 14.79,
       "market_price_as_of": "2026-10-11",
       "total_listings": 142
+    },
+    {
+      "card_id": 18398,
+      "name": "Tornadus - 210 (Pokemon Center Exclusive)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "210",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.77,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 174
     },
     {
       "card_id": 20880,
@@ -5797,6 +7489,18 @@
       "market_price_usd": 14.58,
       "market_price_as_of": "2026-10-10",
       "total_listings": 274
+    },
+    {
+      "card_id": 15706,
+      "name": "Tropius - 195/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "195/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.54,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 126
     },
     {
       "card_id": 35218,
@@ -5979,6 +7683,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 15732,
+      "name": "Wo-Chien ex - 257/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "257/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.12,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 168
+    },
+    {
       "card_id": 21833,
       "name": "Giovanni's Charisma - 204/165",
       "set_id": 5500171,
@@ -6015,6 +7731,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 18239,
+      "name": "Charizard ex - 056",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "056",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.06,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 306
+    },
+    {
       "card_id": 17165,
       "name": "Charmeleon - 110/091",
       "set_id": 5500030,
@@ -6049,6 +7777,18 @@
       "market_price_usd": 13.84,
       "market_price_as_of": "2026-10-09",
       "total_listings": 22
+    },
+    {
+      "card_id": 36735,
+      "name": "Hoopa V",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG53/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.84,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 146
     },
     {
       "card_id": 13816,
@@ -6111,6 +7851,18 @@
       "total_listings": 225
     },
     {
+      "card_id": 16259,
+      "name": "Arcanine ex - 224/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "224/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.63,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 204
+    },
+    {
       "card_id": 13809,
       "name": "Duosion (Master Ball Pattern)",
       "set_id": 5500093,
@@ -6147,6 +7899,30 @@
       "total_listings": 182
     },
     {
+      "card_id": 15794,
+      "name": "Gothorita - 213/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "213/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.51,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 137
+    },
+    {
+      "card_id": 16308,
+      "name": "Dondozo - 207/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "207/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.51,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 224
+    },
+    {
       "card_id": 21889,
       "name": "Venusaur ex - 182/165",
       "set_id": 5500171,
@@ -6157,6 +7933,18 @@
       "market_price_usd": 13.49,
       "market_price_as_of": "2026-10-13",
       "total_listings": 363
+    },
+    {
+      "card_id": 16222,
+      "name": "Armarouge - 203/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "203/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.48,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 239
     },
     {
       "card_id": 13580,
@@ -6205,6 +7993,18 @@
       "market_price_usd": 13.4,
       "market_price_as_of": "2026-10-09",
       "total_listings": 25
+    },
+    {
+      "card_id": 15606,
+      "name": "Boss's Orders - 265/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "265/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.39,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 199
     },
     {
       "card_id": 13423,
@@ -6399,6 +8199,18 @@
       "total_listings": 216
     },
     {
+      "card_id": 15635,
+      "name": "Quaquaval ex - 260/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "260/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.98,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 198
+    },
+    {
       "card_id": 27849,
       "name": "Rotom ex - 126/094",
       "set_id": 5500152,
@@ -6519,6 +8331,18 @@
       "total_listings": 126
     },
     {
+      "card_id": 15733,
+      "name": "Farigiraf - 228/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "228/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.75,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 136
+    },
+    {
       "card_id": 18127,
       "name": "Archaludon ex - 241/191",
       "set_id": 5500180,
@@ -6553,6 +8377,18 @@
       "market_price_usd": 12.65,
       "market_price_as_of": "2026-10-09",
       "total_listings": 23
+    },
+    {
+      "card_id": 18346,
+      "name": "Sprigatito - 076",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "076",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.65,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 47
     },
     {
       "card_id": 14525,
@@ -6591,6 +8427,18 @@
       "total_listings": 147
     },
     {
+      "card_id": 18375,
+      "name": "Thwackey - 115",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "115",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.51,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 75
+    },
+    {
       "card_id": 27845,
       "name": "Mega Lopunny ex - 128/094",
       "set_id": 5500152,
@@ -6613,6 +8461,18 @@
       "market_price_usd": 12.48,
       "market_price_as_of": "2026-10-11",
       "total_listings": 165
+    },
+    {
+      "card_id": 36746,
+      "name": "Hisuian Samurott VSTAR",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG52/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.47,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 168
     },
     {
       "card_id": 13671,
@@ -6711,6 +8571,18 @@
       "total_listings": 187
     },
     {
+      "card_id": 16223,
+      "name": "Tarountula - 199/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "199/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.36,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 241
+    },
+    {
       "card_id": 13402,
       "name": "Suicune (Master Ball Pattern)",
       "set_id": 5500017,
@@ -6721,6 +8593,18 @@
       "market_price_usd": 12.35,
       "market_price_as_of": "2026-10-10",
       "total_listings": 94
+    },
+    {
+      "card_id": 16261,
+      "name": "Great Tusk ex - 246/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "246/198",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.32,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 227
     },
     {
       "card_id": 13634,
@@ -6867,6 +8751,30 @@
       "total_listings": 209
     },
     {
+      "card_id": 36723,
+      "name": "Miltank",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG24/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.13,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 246
+    },
+    {
+      "card_id": 15692,
+      "name": "Dudunsparce - 229/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "229/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.1,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 83
+    },
+    {
       "card_id": 13827,
       "name": "Krokorok (Master Ball Pattern)",
       "set_id": 5500093,
@@ -6877,6 +8785,18 @@
       "market_price_usd": 12.04,
       "market_price_as_of": "2026-10-09",
       "total_listings": 32
+    },
+    {
+      "card_id": 15658,
+      "name": "Squawkabilly ex - 264/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "264/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.04,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 127
     },
     {
       "card_id": 30139,
@@ -6963,6 +8883,18 @@
       "total_listings": 321
     },
     {
+      "card_id": 36724,
+      "name": "Drapion V",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG49/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.97,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 125
+    },
+    {
       "card_id": 14494,
       "name": "Zebstrika (Master Ball Pattern)",
       "set_id": 5500153,
@@ -7035,6 +8967,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 15636,
+      "name": "Flamigo - 227/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "227/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.84,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 108
+    },
+    {
       "card_id": 30142,
       "name": "Fezandipiti",
       "set_id": 5500139,
@@ -7093,6 +9037,18 @@
       "market_price_usd": 11.75,
       "market_price_as_of": "2026-10-11",
       "total_listings": 323
+    },
+    {
+      "card_id": 36712,
+      "name": "Magmortar",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG03/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.75,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 243
     },
     {
       "card_id": 17243,
@@ -7239,6 +9195,30 @@
       "total_listings": 150
     },
     {
+      "card_id": 18235,
+      "name": "Mimikyu - 075",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "075",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.58,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 326
+    },
+    {
+      "card_id": 18304,
+      "name": "Iono - 124",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "124",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.58,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 183
+    },
+    {
       "card_id": 13650,
       "name": "Elgyem - 120/086",
       "set_id": 5500093,
@@ -7383,6 +9363,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 18447,
+      "name": "Sprigatito - 001",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "001",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.36,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 53
+    },
+    {
       "card_id": 15941,
       "name": "Blitzle - 195/182",
       "set_id": 5500212,
@@ -7503,6 +9495,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 15780,
+      "name": "Sandygast - 214/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "214/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.04,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 115
+    },
+    {
       "card_id": 23854,
       "name": "Wailord - 162/159",
       "set_id": 5500077,
@@ -7525,6 +9529,18 @@
       "market_price_usd": 11.02,
       "market_price_as_of": "2026-10-11",
       "total_listings": 192
+    },
+    {
+      "card_id": 18385,
+      "name": "Snorlax - 122",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "122",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.97,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 113
     },
     {
       "card_id": 2155086,
@@ -7647,6 +9663,30 @@
       "total_listings": 29
     },
     {
+      "card_id": 15816,
+      "name": "Rookidee - 225/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "225/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.83,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 107
+    },
+    {
+      "card_id": 18314,
+      "name": "Lapras ex - 164",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "164",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.82,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 136
+    },
+    {
       "card_id": 13439,
       "name": "Exeggutor (Master Ball Pattern)",
       "set_id": 5500017,
@@ -7693,6 +9733,18 @@
       "market_price_usd": 10.77,
       "market_price_as_of": "2026-10-12",
       "total_listings": 183
+    },
+    {
+      "card_id": 15693,
+      "name": "Bramblin - 198/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "198/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.75,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 142
     },
     {
       "card_id": 20432,
@@ -7849,6 +9901,18 @@
       "market_price_usd": 10.45,
       "market_price_as_of": "2026-10-12",
       "total_listings": 100
+    },
+    {
+      "card_id": 36709,
+      "name": "Lunatone",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG11/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.43,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 234
     },
     {
       "card_id": 14523,
@@ -8031,6 +10095,18 @@
       "total_listings": 112
     },
     {
+      "card_id": 15578,
+      "name": "Boss's Orders - 248/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "248/193",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.19,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 215
+    },
+    {
       "card_id": 35190,
       "name": "Onix",
       "set_id": 5500053,
@@ -8077,6 +10153,18 @@
       "market_price_usd": 10.11,
       "market_price_as_of": "2026-10-12",
       "total_listings": 108
+    },
+    {
+      "card_id": 15595,
+      "name": "Basic Grass Energy - 278/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "278/193",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.09,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 153
     },
     {
       "card_id": 14495,
@@ -8127,6 +10215,18 @@
       "total_listings": 493
     },
     {
+      "card_id": 18367,
+      "name": "Chien-Pao - 152",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "152",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.97,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 76
+    },
+    {
       "card_id": 100008293,
       "name": "Mewtwo - 104 (30th Celebration)",
       "set_id": 5500111,
@@ -8175,6 +10275,30 @@
       "total_listings": 65
     },
     {
+      "card_id": 15737,
+      "name": "Slowking ex - 238/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "238/193",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.83,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 128
+    },
+    {
+      "card_id": 18270,
+      "name": "Pikachu - 190",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "190",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 9.82,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 107
+    },
+    {
       "card_id": 6800,
       "name": "N's Zekrom",
       "set_id": 5500112,
@@ -8185,6 +10309,18 @@
       "market_price_usd": 9.81,
       "market_price_as_of": "2026-10-05",
       "total_listings": 1503
+    },
+    {
+      "card_id": 15814,
+      "name": "Meowscarada ex - 271/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "271/193",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.79,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 142
     },
     {
       "card_id": 37849,
@@ -8223,6 +10359,18 @@
       "total_listings": 425
     },
     {
+      "card_id": 36696,
+      "name": "Turtwig",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG31/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.72,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 299
+    },
+    {
       "card_id": 18023,
       "name": "Spheal - 199/191",
       "set_id": 5500180,
@@ -8257,6 +10405,18 @@
       "market_price_usd": 9.69,
       "market_price_as_of": "2026-10-10",
       "total_listings": 216
+    },
+    {
+      "card_id": 36697,
+      "name": "Riolu",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG26/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.69,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 244
     },
     {
       "card_id": 25232,
@@ -8341,6 +10501,18 @@
       "market_price_usd": 9.58,
       "market_price_as_of": "2026-10-09",
       "total_listings": 111
+    },
+    {
+      "card_id": 15585,
+      "name": "Iono - 254/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "254/193",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.58,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 313
     },
     {
       "card_id": 13636,
@@ -8571,6 +10743,18 @@
       "total_listings": 49
     },
     {
+      "card_id": 16291,
+      "name": "Skwovet - 222/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "222/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.33,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 180
+    },
+    {
       "card_id": 14328,
       "name": "Roggenrola - 127/086",
       "set_id": 5500153,
@@ -8691,6 +10875,30 @@
       "total_listings": 113
     },
     {
+      "card_id": 16295,
+      "name": "Pawmot - 209/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "209/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.08,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 224
+    },
+    {
+      "card_id": 36721,
+      "name": "Electivire",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG08/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.08,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 240
+    },
+    {
       "card_id": 15935,
       "name": "Mela - 254/182",
       "set_id": 5500212,
@@ -8751,6 +10959,18 @@
       "total_listings": 155
     },
     {
+      "card_id": 36700,
+      "name": "Mareep",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG34/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.94,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 236
+    },
+    {
       "card_id": 13611,
       "name": "Beartic - 110/086",
       "set_id": 5500093,
@@ -8787,6 +11007,18 @@
       "total_listings": 392
     },
     {
+      "card_id": 18225,
+      "name": "Eevee - 173",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "173",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.9,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 632
+    },
+    {
       "card_id": 17215,
       "name": "Staryu",
       "set_id": 5500030,
@@ -8799,6 +11031,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 18480,
+      "name": "Miraidon - 148",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "148",
+      "rarity": "Promo",
+      "printing": "Foil",
+      "market_price_usd": 8.87,
+      "market_price_as_of": "2026-10-03",
+      "total_listings": 1
+    },
+    {
       "card_id": 15958,
       "name": "Professor Sada's Vitality - 256/182",
       "set_id": 5500212,
@@ -8809,6 +11053,42 @@
       "market_price_usd": 8.86,
       "market_price_as_of": "2026-10-12",
       "total_listings": 151
+    },
+    {
+      "card_id": 16195,
+      "name": "Gyarados ex - 225/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "225/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.84,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 225
+    },
+    {
+      "card_id": 18245,
+      "name": "N's Zorua - 189",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "189",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.82,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 326
+    },
+    {
+      "card_id": 18414,
+      "name": "Metang - 090 (Prerelease)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "090",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.81,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 81
     },
     {
       "card_id": 35198,
@@ -8881,6 +11161,18 @@
       "market_price_usd": 8.68,
       "market_price_as_of": "2026-10-09",
       "total_listings": 126
+    },
+    {
+      "card_id": 16237,
+      "name": "Kingambit - 220/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "220/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.67,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 259
     },
     {
       "card_id": 20830,
@@ -8967,6 +11259,18 @@
       "total_listings": 91
     },
     {
+      "card_id": 18412,
+      "name": "Kangaskhan ex - 055",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "055",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.59,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 108
+    },
+    {
       "card_id": 30112,
       "name": "Pecharunt ex - 085/064",
       "set_id": 5500139,
@@ -8989,6 +11293,18 @@
       "market_price_usd": 8.54,
       "market_price_as_of": "2026-10-09",
       "total_listings": 444
+    },
+    {
+      "card_id": 16215,
+      "name": "Spidops ex - 243/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "243/198",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.53,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 268
     },
     {
       "card_id": 18581,
@@ -9027,6 +11343,18 @@
       "total_listings": 93
     },
     {
+      "card_id": 36689,
+      "name": "Paras",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG32/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.4,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 292
+    },
+    {
       "card_id": 17133,
       "name": "Arven",
       "set_id": 5500030,
@@ -9037,6 +11365,18 @@
       "market_price_usd": 8.38,
       "market_price_as_of": "2026-10-12",
       "total_listings": 212
+    },
+    {
+      "card_id": 15617,
+      "name": "Basic Water Energy - 279/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "279/193",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.36,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 176
     },
     {
       "card_id": 35177,
@@ -9169,6 +11509,30 @@
       "market_price_usd": 8.22,
       "market_price_as_of": "2026-10-10",
       "total_listings": 111
+    },
+    {
+      "card_id": 15752,
+      "name": "Dendra - 266/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "266/193",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.22,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 193
+    },
+    {
+      "card_id": 15655,
+      "name": "Quaxwell - 207/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "207/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.21,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 224
     },
     {
       "card_id": 17991,
@@ -9363,6 +11727,18 @@
       "total_listings": 363
     },
     {
+      "card_id": 36718,
+      "name": "Absol",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG16/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.01,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 262
+    },
+    {
       "card_id": 17214,
       "name": "Armarouge - 115/091",
       "set_id": 5500030,
@@ -9373,6 +11749,18 @@
       "market_price_usd": 8.0,
       "market_price_as_of": "2026-10-12",
       "total_listings": 73
+    },
+    {
+      "card_id": 16281,
+      "name": "Clauncher - 205/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "205/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.99,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 212
     },
     {
       "card_id": 13283,
@@ -9411,6 +11799,18 @@
       "total_listings": 494
     },
     {
+      "card_id": 36734,
+      "name": "Melony",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG64/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.93,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 176
+    },
+    {
       "card_id": 17110,
       "name": "Gardevoir ex - 217/091",
       "set_id": 5500030,
@@ -9445,6 +11845,30 @@
       "market_price_usd": 7.92,
       "market_price_as_of": "2026-10-11",
       "total_listings": 241
+    },
+    {
+      "card_id": 36732,
+      "name": "Irida",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG63/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.92,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 261
+    },
+    {
+      "card_id": 16270,
+      "name": "Mabosstiff - 218/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "218/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.91,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 195
     },
     {
       "card_id": 13415,
@@ -9495,6 +11919,42 @@
       "total_listings": 304
     },
     {
+      "card_id": 18401,
+      "name": "Feraligatr - 089 (Prerelease)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "089",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.78,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 26
+    },
+    {
+      "card_id": 15726,
+      "name": "Grafaiai - 223/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "223/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.77,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 163
+    },
+    {
+      "card_id": 16287,
+      "name": "Dolliv - 200/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "200/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.77,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 217
+    },
+    {
       "card_id": 13427,
       "name": "Furfrou (Master Ball Pattern)",
       "set_id": 5500017,
@@ -9541,6 +12001,18 @@
       "market_price_usd": 7.69,
       "market_price_as_of": "2026-10-09",
       "total_listings": 0
+    },
+    {
+      "card_id": 16312,
+      "name": "Miraidon ex - 253/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "253/198",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.67,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 252
     },
     {
       "card_id": 37626,
@@ -9661,6 +12133,18 @@
       "market_price_usd": 7.56,
       "market_price_as_of": "2026-10-09",
       "total_listings": 156
+    },
+    {
+      "card_id": 36738,
+      "name": "Hatterene VMAX",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG47/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.55,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 201
     },
     {
       "card_id": 15978,
@@ -9807,6 +12291,18 @@
       "total_listings": 89
     },
     {
+      "card_id": 18402,
+      "name": "Cleffa - 037 (Prerelease)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "037",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.36,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 103
+    },
+    {
       "card_id": 13645,
       "name": "Pawniard - 142/086",
       "set_id": 5500093,
@@ -9829,6 +12325,18 @@
       "market_price_usd": 7.3,
       "market_price_as_of": "2026-10-09",
       "total_listings": 451
+    },
+    {
+      "card_id": 18405,
+      "name": "Oddish - 102",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "102",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 7.27,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 45
     },
     {
       "card_id": 21703,
@@ -9889,6 +12397,30 @@
       "market_price_usd": 7.22,
       "market_price_as_of": "2026-10-10",
       "total_listings": 331
+    },
+    {
+      "card_id": 15707,
+      "name": "Nacli - 220/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "220/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.19,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 143
+    },
+    {
+      "card_id": 36711,
+      "name": "Kricketune",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG02/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.19,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 277
     },
     {
       "card_id": 20258,
@@ -10131,6 +12663,18 @@
       "total_listings": 124
     },
     {
+      "card_id": 18276,
+      "name": "Charizard ex - 161",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "161",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.84,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 290
+    },
+    {
       "card_id": 14272,
       "name": "Heatmor - 104/086",
       "set_id": 5500153,
@@ -10165,6 +12709,30 @@
       "market_price_usd": 6.79,
       "market_price_as_of": "2026-10-12",
       "total_listings": 81
+    },
+    {
+      "card_id": 36699,
+      "name": "Manaphy",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG06/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.79,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 293
+    },
+    {
+      "card_id": 18361,
+      "name": "Meowscarada ex - 078",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "078",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.77,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 52
     },
     {
       "card_id": 15971,
@@ -10215,6 +12783,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 15669,
+      "name": "Annihilape ex - 242/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "242/193",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.73,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 166
+    },
+    {
       "card_id": 100018036,
       "name": "Zapdos - 133/128",
       "set_id": 5500219,
@@ -10249,6 +12829,18 @@
       "market_price_usd": 6.68,
       "market_price_as_of": "2026-10-09",
       "total_listings": 137
+    },
+    {
+      "card_id": 18341,
+      "name": "Froslass - 117",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "117",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.68,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 99
     },
     {
       "card_id": 17290,
@@ -10359,6 +12951,30 @@
       "total_listings": 593
     },
     {
+      "card_id": 18351,
+      "name": "N's Darmanitan - 181 (Prerelease)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "181",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.54,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 99
+    },
+    {
+      "card_id": 18395,
+      "name": "Tatsugiri - 118",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "118",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.54,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 56
+    },
+    {
       "card_id": 18737,
       "name": "Jamming Tower",
       "set_id": 5500009,
@@ -10369,6 +12985,18 @@
       "market_price_usd": 6.52,
       "market_price_as_of": "2026-10-10",
       "total_listings": 352
+    },
+    {
+      "card_id": 15691,
+      "name": "Chien-Pao ex - 274/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "274/193",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.51,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 156
     },
     {
       "card_id": 13588,
@@ -10443,6 +13071,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 36713,
+      "name": "Solrock",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG15/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.42,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 225
+    },
+    {
       "card_id": 13581,
       "name": "Klang - 140/086",
       "set_id": 5500093,
@@ -10491,6 +13131,18 @@
       "total_listings": 74
     },
     {
+      "card_id": 15712,
+      "name": "Orthworm - 224/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "224/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.31,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 114
+    },
+    {
       "card_id": 25151,
       "name": "Crispin - 164/142",
       "set_id": 5500045,
@@ -10501,6 +13153,18 @@
       "market_price_usd": 6.31,
       "market_price_as_of": "2026-10-11",
       "total_listings": 290
+    },
+    {
+      "card_id": 18391,
+      "name": "Magneton - 153",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "153",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.3,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 91
     },
     {
       "card_id": 2163475,
@@ -10573,6 +13237,18 @@
       "market_price_usd": 6.24,
       "market_price_as_of": "2026-10-12",
       "total_listings": 34
+    },
+    {
+      "card_id": 15786,
+      "name": "Rabsca - 215/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "215/193",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.18,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 165
     },
     {
       "card_id": 100018067,
@@ -10659,6 +13335,18 @@
       "total_listings": 596
     },
     {
+      "card_id": 18316,
+      "name": "Fuecoco - 079",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "079",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.08,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 52
+    },
+    {
       "card_id": 21879,
       "name": "Golem ex - 189/165",
       "set_id": 5500171,
@@ -10681,6 +13369,18 @@
       "market_price_usd": 6.07,
       "market_price_as_of": "2026-10-11",
       "total_listings": 263
+    },
+    {
+      "card_id": 16277,
+      "name": "Koraidon ex - 254/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "254/198",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.06,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 192
     },
     {
       "card_id": 21876,
@@ -10731,6 +13431,18 @@
       "total_listings": 301
     },
     {
+      "card_id": 36695,
+      "name": "Swablu",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG27/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.04,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 291
+    },
+    {
       "card_id": 17109,
       "name": "Alakazam ex",
       "set_id": 5500030,
@@ -10765,6 +13477,30 @@
       "market_price_usd": 6.0,
       "market_price_as_of": "2026-10-10",
       "total_listings": 516
+    },
+    {
+      "card_id": 36706,
+      "name": "Bidoof",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG29/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.98,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 328
+    },
+    {
+      "card_id": 16257,
+      "name": "Scovillain - 202/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "202/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.97,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 250
     },
     {
       "card_id": 7021,
@@ -10863,6 +13599,18 @@
       "total_listings": 209
     },
     {
+      "card_id": 16225,
+      "name": "Rare Candy - 256/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "256/198",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.86,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 317
+    },
+    {
       "card_id": 13603,
       "name": "Crustle - 130/086",
       "set_id": 5500093,
@@ -10873,6 +13621,18 @@
       "market_price_usd": 5.83,
       "market_price_as_of": "2026-10-09",
       "total_listings": 116
+    },
+    {
+      "card_id": 36731,
+      "name": "Roxanne",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG66/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.83,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 208
     },
     {
       "card_id": 15938,
@@ -10923,6 +13683,30 @@
       "total_listings": 95
     },
     {
+      "card_id": 18283,
+      "name": "Scream Tail - 065",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "065",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.78,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 225
+    },
+    {
+      "card_id": 18425,
+      "name": "Lucario ex - 017",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "017",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.78,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 179
+    },
+    {
       "card_id": 6938,
       "name": "Solrock",
       "set_id": 5500112,
@@ -10933,6 +13717,30 @@
       "market_price_usd": 5.78,
       "market_price_as_of": "2026-10-09",
       "total_listings": 1800
+    },
+    {
+      "card_id": 15750,
+      "name": "Skeledirge ex - 272/193",
+      "set_id": 5500150,
+      "set_name": "SV02: Paldea Evolved",
+      "number": "272/193",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.77,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 151
+    },
+    {
+      "card_id": 16309,
+      "name": "Sandile - 216/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "216/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.77,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 220
     },
     {
       "card_id": 23414,
@@ -10969,6 +13777,18 @@
       "market_price_usd": 5.74,
       "market_price_as_of": "2026-10-10",
       "total_listings": 101
+    },
+    {
+      "card_id": 18301,
+      "name": "Eevee - 043",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "043",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.74,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 145
     },
     {
       "card_id": 2299640,
@@ -11089,6 +13909,30 @@
       "market_price_usd": 5.63,
       "market_price_as_of": "2026-10-10",
       "total_listings": 335
+    },
+    {
+      "card_id": 18396,
+      "name": "Infernape - 116",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "116",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.63,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 57
+    },
+    {
+      "card_id": 18298,
+      "name": "Cynthia's Garchomp ex",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "204",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.62,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 198
     },
     {
       "card_id": 13438,
@@ -11235,6 +14079,18 @@
       "total_listings": 357
     },
     {
+      "card_id": 18407,
+      "name": "Greninja ex - 054",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "054",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.5,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 216
+    },
+    {
       "card_id": 15915,
       "name": "Toedscruel - 185/182",
       "set_id": 5500212,
@@ -11271,6 +14127,18 @@
       "total_listings": 217
     },
     {
+      "card_id": 18226,
+      "name": "Magneton - 159",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "159",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.46,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 529
+    },
+    {
       "card_id": 13623,
       "name": "Tranquill - 149/086",
       "set_id": 5500093,
@@ -11281,6 +14149,18 @@
       "market_price_usd": 5.43,
       "market_price_as_of": "2026-10-09",
       "total_listings": 85
+    },
+    {
+      "card_id": 16231,
+      "name": "Penny - 252/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "252/198",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.43,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 365
     },
     {
       "card_id": 2133475,
@@ -11317,6 +14197,18 @@
       "market_price_usd": 5.41,
       "market_price_as_of": "2026-10-09",
       "total_listings": 658
+    },
+    {
+      "card_id": 36694,
+      "name": "Poochyena",
+      "set_id": 5500218,
+      "set_name": "SWSH: Crown Zenith: Galarian Gallery",
+      "number": "GG33/GG70",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.41,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 189
     },
     {
       "card_id": 2133548,
@@ -11439,6 +14331,30 @@
       "total_listings": 580
     },
     {
+      "card_id": 18329,
+      "name": "Cinderace ex - 163",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "163",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.29,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 151
+    },
+    {
+      "card_id": 18446,
+      "name": "Fuecoco - 002",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "002",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.29,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 65
+    },
+    {
       "card_id": 20211,
       "name": "Chimecho - 179/167",
       "set_id": 5500051,
@@ -11523,6 +14439,18 @@
       "total_listings": 328
     },
     {
+      "card_id": 18417,
+      "name": "Togekiss - 038 (Prerelease)",
+      "set_id": 5500070,
+      "set_name": "SV: Scarlet & Violet Promo Cards",
+      "number": "038",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.19,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 87
+    },
+    {
       "card_id": 20254,
       "name": "Perrin - 209/167",
       "set_id": 5500051,
@@ -11557,6 +14485,18 @@
       "market_price_usd": 5.17,
       "market_price_as_of": "2026-10-09",
       "total_listings": 422
+    },
+    {
+      "card_id": 16262,
+      "name": "Gardevoir ex - 228/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "228/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.16,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 236
     },
     {
       "card_id": 13774,
@@ -11655,6 +14595,18 @@
       "total_listings": 717
     },
     {
+      "card_id": 16280,
+      "name": "Bombirdier - 219/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "219/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.07,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 233
+    },
+    {
       "card_id": 17281,
       "name": "Pidgeotto",
       "set_id": 5500030,
@@ -11701,6 +14653,18 @@
       "market_price_usd": 5.04,
       "market_price_as_of": "2026-10-12",
       "total_listings": 107
+    },
+    {
+      "card_id": 16266,
+      "name": "Toedscool - 201/198",
+      "set_id": 5500032,
+      "set_name": "SV01: Scarlet & Violet Base Set",
+      "number": "201/198",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.02,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 284
     },
     {
       "card_id": 2133508,
