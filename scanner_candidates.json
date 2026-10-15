@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-14T08:02:53.180192+00:00",
+  "generated_at": "2026-10-15T08:03:16.251649+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 40,
+  "next_set_index": 45,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 13,
-  "total_candidates": 1222,
-  "cards_with_price_history": 6223,
+  "api_calls": 17,
+  "total_candidates": 1507,
+  "cards_with_price_history": 7531,
   "candidates": [
     {
       "card_id": 18754,
@@ -25,6 +25,18 @@
       "market_price_usd": 195.91,
       "market_price_as_of": "2026-10-10",
       "total_listings": 172
+    },
+    {
+      "card_id": 6032,
+      "name": "Espeon VMAX - 065/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "065/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 191.49,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 5
     },
     {
       "card_id": 36757,
@@ -75,6 +87,30 @@
       "total_listings": 101
     },
     {
+      "card_id": 6119,
+      "name": "Jolteon VMAX - 051/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "051/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 182.85,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 8
+    },
+    {
+      "card_id": 38189,
+      "name": "Rayquaza VMAX",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG20/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 182.16,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 118
+    },
+    {
       "card_id": 13475,
       "name": "Flareon ex - 146/131",
       "set_id": 5500017,
@@ -121,6 +157,18 @@
       "market_price_usd": 179.03,
       "market_price_as_of": "2026-10-09",
       "total_listings": 93
+    },
+    {
+      "card_id": 6014,
+      "name": "Charizard V - 019/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "019/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 175.28,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 1
     },
     {
       "card_id": 2298981,
@@ -195,6 +243,18 @@
       "total_listings": 95
     },
     {
+      "card_id": 6048,
+      "name": "Mew V - 113/264",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "113/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 163.45,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 4
+    },
+    {
       "card_id": 13462,
       "name": "Roaring Moon ex",
       "set_id": 5500017,
@@ -231,6 +291,30 @@
       "total_listings": 82
     },
     {
+      "card_id": 6004,
+      "name": "Glaceon VMAX - 041/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "041/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 154.53,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 4
+    },
+    {
+      "card_id": 6157,
+      "name": "Inteleon VMAX - 079/264",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "079/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 150.0,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 1
+    },
+    {
       "card_id": 2163518,
       "name": "Mega Darkrai ex - 116/084",
       "set_id": 5500216,
@@ -241,6 +325,18 @@
       "market_price_usd": 149.83,
       "market_price_as_of": "2026-10-09",
       "total_listings": 232
+    },
+    {
+      "card_id": 6127,
+      "name": "Vaporeon VMAX - 030/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "030/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 144.93,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 3
     },
     {
       "card_id": 18747,
@@ -265,6 +361,18 @@
       "market_price_usd": 142.82,
       "market_price_as_of": "2026-10-09",
       "total_listings": 119
+    },
+    {
+      "card_id": 6171,
+      "name": "Togekiss VMAX - 141/185",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "141/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 141.46,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 10
     },
     {
       "card_id": 18445,
@@ -327,6 +435,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 5933,
+      "name": "Charizard V - 017/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "017/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 137.52,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 1
+    },
+    {
       "card_id": 100031558,
       "name": "Pikachu - 093 (Winner)",
       "set_id": 5500111,
@@ -337,6 +457,18 @@
       "market_price_usd": 137.05,
       "market_price_as_of": "2026-10-09",
       "total_listings": 17
+    },
+    {
+      "card_id": 6143,
+      "name": "Radiant Greninja - 046/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "046/189",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 133.39,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 11
     },
     {
       "card_id": 18474,
@@ -375,6 +507,18 @@
       "total_listings": 141
     },
     {
+      "card_id": 6154,
+      "name": "Boltund VMAX - 104/264",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "104/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 126.37,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 1
+    },
+    {
       "card_id": 37866,
       "name": "Meganium - 001 [Staff]",
       "set_id": 5500111,
@@ -397,6 +541,18 @@
       "market_price_usd": 124.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 194
+    },
+    {
+      "card_id": 6007,
+      "name": "Mewtwo VSTAR - 031/078",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "031/078",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 123.05,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 16
     },
     {
       "card_id": 36751,
@@ -423,6 +579,102 @@
       "total_listings": 253
     },
     {
+      "card_id": 6036,
+      "name": "Leafeon VMAX - 008/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "008/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 115.65,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 5
+    },
+    {
+      "card_id": 6141,
+      "name": "Tyranitar V - 097/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "097/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 115.5,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 2
+    },
+    {
+      "card_id": 38128,
+      "name": "Pikachu V",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG16/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 114.33,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 127
+    },
+    {
+      "card_id": 6125,
+      "name": "Flareon VMAX - 018/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "018/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 113.94,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 4
+    },
+    {
+      "card_id": 5942,
+      "name": "Radiant Alakazam - 059/195",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "059/195",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 113.39,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 6
+    },
+    {
+      "card_id": 6151,
+      "name": "Shaymin VSTAR - 014/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "014/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 112.85,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 1
+    },
+    {
+      "card_id": 5849,
+      "name": "Umbreon V - 094/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "094/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 111.26,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 12
+    },
+    {
+      "card_id": 6101,
+      "name": "Radiant Gardevoir - 069/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "069/196",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 109.84,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 7
+    },
+    {
       "card_id": 18188,
       "name": "Milotic ex - 237/191",
       "set_id": 5500180,
@@ -445,6 +697,30 @@
       "market_price_usd": 105.14,
       "market_price_as_of": "2026-10-12",
       "total_listings": 137
+    },
+    {
+      "card_id": 6000,
+      "name": "Radiant Jirachi - 120/195",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "120/195",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 103.9,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 16
+    },
+    {
+      "card_id": 38130,
+      "name": "Pikachu VMAX",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG17/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 103.28,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 115
     },
     {
       "card_id": 13409,
@@ -495,6 +771,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 6152,
+      "name": "Alcremie VMAX - 023/073",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "023/073",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 98.98,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 4
+    },
+    {
       "card_id": 13464,
       "name": "Ceruledge ex",
       "set_id": 5500017,
@@ -529,6 +817,18 @@
       "market_price_usd": 96.34,
       "market_price_as_of": "2026-10-14",
       "total_listings": 114
+    },
+    {
+      "card_id": 5940,
+      "name": "Sylveon V - 074/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "074/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 94.9,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 10
     },
     {
       "card_id": 20463,
@@ -663,6 +963,18 @@
       "total_listings": 283
     },
     {
+      "card_id": 6166,
+      "name": "Zacian V - 138/202",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "138/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 88.83,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 7
+    },
+    {
       "card_id": 36753,
       "name": "Leafeon VSTAR",
       "set_id": 5500218,
@@ -697,6 +1009,18 @@
       "market_price_usd": 86.48,
       "market_price_as_of": "2026-10-14",
       "total_listings": 107
+    },
+    {
+      "card_id": 5984,
+      "name": "Mimikyu ex - 004",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "004",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 85.07,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 6
     },
     {
       "card_id": 21878,
@@ -769,6 +1093,18 @@
       "market_price_usd": 80.85,
       "market_price_as_of": "2026-10-14",
       "total_listings": 159
+    },
+    {
+      "card_id": 6146,
+      "name": "Corviknight VMAX - 110/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "110/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 80.36,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 1
     },
     {
       "card_id": 100034352,
@@ -855,6 +1191,18 @@
       "total_listings": 82
     },
     {
+      "card_id": 6045,
+      "name": "Zeraora V - 053/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "053/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 75.0,
+      "market_price_as_of": "2026-10-14",
+      "total_listings": 0
+    },
+    {
       "card_id": 30159,
       "name": "Persian - 078/064",
       "set_id": 5500139,
@@ -901,6 +1249,18 @@
       "market_price_usd": 73.76,
       "market_price_as_of": "2026-10-09",
       "total_listings": 86
+    },
+    {
+      "card_id": 4447,
+      "name": "Play! Pokemon Prize Pack Series One",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 73.55,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 17
     },
     {
       "card_id": 14461,
@@ -987,6 +1347,18 @@
       "total_listings": 149
     },
     {
+      "card_id": 6158,
+      "name": "Crobat V - 104/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "104/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 70.49,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 3
+    },
+    {
       "card_id": 25304,
       "name": "Dachsbun ex - 169/142",
       "set_id": 5500045,
@@ -1021,6 +1393,18 @@
       "market_price_usd": 68.5,
       "market_price_as_of": "2026-10-14",
       "total_listings": 226
+    },
+    {
+      "card_id": 5868,
+      "name": "Glaceon V - 040/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "040/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 68.46,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 10
     },
     {
       "card_id": 2299717,
@@ -1107,6 +1491,18 @@
       "total_listings": 221
     },
     {
+      "card_id": 5963,
+      "name": "Snorlax - 131/185",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "131/185",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 66.35,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 25
+    },
+    {
       "card_id": 18419,
       "name": "Mimikyu - 075 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -1143,6 +1539,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 5901,
+      "name": "Espeon V - 064/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "064/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.01,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 13
+    },
+    {
       "card_id": 13469,
       "name": "Raging Bolt ex",
       "set_id": 5500017,
@@ -1153,6 +1561,18 @@
       "market_price_usd": 64.83,
       "market_price_as_of": "2026-10-10",
       "total_listings": 106
+    },
+    {
+      "card_id": 6096,
+      "name": "Rayquaza V - 110/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "110/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 64.68,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 7
     },
     {
       "card_id": 37864,
@@ -1189,6 +1609,18 @@
       "market_price_usd": 63.27,
       "market_price_as_of": "2026-10-09",
       "total_listings": 87
+    },
+    {
+      "card_id": 5782,
+      "name": "Unfair Stamp - 165/167",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "165/167",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 63.15,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 14
     },
     {
       "card_id": 18250,
@@ -1251,6 +1683,18 @@
       "total_listings": 89
     },
     {
+      "card_id": 6133,
+      "name": "Blaziken V - 020/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "020/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 61.94,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 4
+    },
+    {
       "card_id": 21885,
       "name": "Bulbasaur - 166/165",
       "set_id": 5500171,
@@ -1311,6 +1755,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 6135,
+      "name": "Zamazenta V - 139/202",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "139/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 61.33,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 6
+    },
+    {
       "card_id": 38860,
       "name": "First Partner Illustration Collection (Series 1)",
       "set_id": 5500183,
@@ -1323,6 +1779,30 @@
       "total_listings": 114
     },
     {
+      "card_id": 5524,
+      "name": "Umbreon ex - 060/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "060/131",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 59.58,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 45
+    },
+    {
+      "card_id": 5881,
+      "name": "Mewtwo V - 030/078",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "030/078",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 59.55,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 5
+    },
+    {
       "card_id": 21892,
       "name": "Psyduck - 175/165",
       "set_id": 5500171,
@@ -1333,6 +1813,18 @@
       "market_price_usd": 59.34,
       "market_price_as_of": "2026-10-13",
       "total_listings": 238
+    },
+    {
+      "card_id": 4306,
+      "name": "Play! Pokemon Prize Pack Series Two",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 59.15,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 15
     },
     {
       "card_id": 18486,
@@ -1611,6 +2103,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 6055,
+      "name": "Radiant Hawlucha - 081/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "081/189",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 52.64,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 15
+    },
+    {
       "card_id": 13390,
       "name": "Pikachu ex - 179/131",
       "set_id": 5500017,
@@ -1657,6 +2161,18 @@
       "market_price_usd": 51.95,
       "market_price_as_of": "2026-10-09",
       "total_listings": 55
+    },
+    {
+      "card_id": 6028,
+      "name": "Radiant Charjabug - 051/159",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "051/159",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 51.88,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 13
     },
     {
       "card_id": 21877,
@@ -1791,6 +2307,30 @@
       "total_listings": 84
     },
     {
+      "card_id": 6145,
+      "name": "Empoleon V - 040/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "040/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 49.49,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 6
+    },
+    {
+      "card_id": 6136,
+      "name": "Whimsicott VSTAR - 065/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "065/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 49.31,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 1
+    },
+    {
       "card_id": 13470,
       "name": "Iron Valiant ex",
       "set_id": 5500017,
@@ -1839,6 +2379,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 2302179,
+      "name": "Mega Gengar ex - 056/094",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "056/094",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 48.88,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 61
+    },
+    {
       "card_id": 18444,
       "name": "Froslass - 117 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -1873,6 +2425,30 @@
       "market_price_usd": 48.67,
       "market_price_as_of": "2026-10-14",
       "total_listings": 151
+    },
+    {
+      "card_id": 5978,
+      "name": "Jolteon V - SWSH151",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "SWSH151",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 48.67,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 5
+    },
+    {
+      "card_id": 5846,
+      "name": "Charizard - 025/185",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "025/185",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 48.52,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 5
     },
     {
       "card_id": 17198,
@@ -2007,6 +2583,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 5632,
+      "name": "Lugia V - 138/195",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "138/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 46.83,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 37
+    },
+    {
       "card_id": 7186,
       "name": "Marnie's Grimmsnarl ex",
       "set_id": 5500112,
@@ -2041,6 +2629,18 @@
       "market_price_usd": 45.79,
       "market_price_as_of": "2026-10-11",
       "total_listings": 136
+    },
+    {
+      "card_id": 38103,
+      "name": "Gengar",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG06/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.74,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 304
     },
     {
       "card_id": 7216,
@@ -2091,6 +2691,18 @@
       "total_listings": 43
     },
     {
+      "card_id": 5943,
+      "name": "Galarian Zapdos V - 080/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "080/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.32,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 10
+    },
+    {
       "card_id": 15949,
       "name": "Altaria ex - 253/182",
       "set_id": 5500212,
@@ -2113,6 +2725,18 @@
       "market_price_usd": 45.22,
       "market_price_as_of": "2026-10-10",
       "total_listings": 91
+    },
+    {
+      "card_id": 6130,
+      "name": "Radiant Steelix - 124/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "124/196",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.1,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 5
     },
     {
       "card_id": 7217,
@@ -2187,6 +2811,30 @@
       "total_listings": 119
     },
     {
+      "card_id": 6076,
+      "name": "Genesect V - 185/264",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "185/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.24,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 8
+    },
+    {
+      "card_id": 2302273,
+      "name": "Mega Charizard X ex - 013/094",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "013/094",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.21,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 60
+    },
+    {
       "card_id": 13730,
       "name": "Krookodile - 137/086",
       "set_id": 5500093,
@@ -2235,6 +2883,18 @@
       "total_listings": 162
     },
     {
+      "card_id": 5906,
+      "name": "Leafeon V - 007/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "007/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.25,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 13
+    },
+    {
       "card_id": 15671,
       "name": "Fuecoco - 201/193",
       "set_id": 5500150,
@@ -2271,6 +2931,30 @@
       "total_listings": 67
     },
     {
+      "card_id": 6013,
+      "name": "Suicune V - 031/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "031/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.69,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 8
+    },
+    {
+      "card_id": 5597,
+      "name": "Mew ex - 151/165",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "151/165",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.5,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 79
+    },
+    {
       "card_id": 14426,
       "name": "Liepard - 137/086",
       "set_id": 5500153,
@@ -2293,6 +2977,18 @@
       "market_price_usd": 42.36,
       "market_price_as_of": "2026-10-09",
       "total_listings": 90
+    },
+    {
+      "card_id": 6102,
+      "name": "Radiant Eternatus - 105/159",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "105/159",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.32,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 10
     },
     {
       "card_id": 100018021,
@@ -2331,6 +3027,18 @@
       "total_listings": 325
     },
     {
+      "card_id": 6016,
+      "name": "Single Strike Urshifu VMAX - 086/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "086/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.0,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 13
+    },
+    {
       "card_id": 16276,
       "name": "Ralts - 211/198",
       "set_id": 5500032,
@@ -2353,6 +3061,18 @@
       "market_price_usd": 41.74,
       "market_price_as_of": "2026-10-14",
       "total_listings": 35
+    },
+    {
+      "card_id": 6005,
+      "name": "Lucario ex - 017",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "017",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 41.73,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 19
     },
     {
       "card_id": 18489,
@@ -2475,6 +3195,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 6043,
+      "name": "Hisuian Arcanine V - 090/195",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "090/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.35,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 14
+    },
+    {
       "card_id": 17207,
       "name": "Charmander - 109/091",
       "set_id": 5500030,
@@ -2559,6 +3291,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 2302158,
+      "name": "Mega Charizard Y ex - 022/217",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "022/217",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.83,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 46
+    },
+    {
       "card_id": 18479,
       "name": "Togekiss - 038 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -2607,6 +3351,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 24069,
+      "name": "Pikachu (Secret)",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "160/159",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.57,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 267
+    },
+    {
       "card_id": 2119583,
       "name": "Mega Clefable ex - 119/088",
       "set_id": 5500047,
@@ -2629,6 +3385,18 @@
       "market_price_usd": 39.28,
       "market_price_as_of": "2026-10-09",
       "total_listings": 90
+    },
+    {
+      "card_id": 6011,
+      "name": "Legacy Energy - 167/167",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "167/167",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.25,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 12
     },
     {
       "card_id": 18496,
@@ -2691,6 +3459,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 21633,
+      "name": "Lugia VSTAR (Secret) (202)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "202/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.7,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 73
+    },
+    {
       "card_id": 18459,
       "name": "Thwackey - 115 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -2725,6 +3505,30 @@
       "market_price_usd": 38.47,
       "market_price_as_of": "2026-10-13",
       "total_listings": 289
+    },
+    {
+      "card_id": 38107,
+      "name": "Pikachu",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG05/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.24,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 292
+    },
+    {
+      "card_id": 6031,
+      "name": "Eternatus V - 116/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "116/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.23,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 3
     },
     {
       "card_id": 21897,
@@ -2835,6 +3639,18 @@
       "total_listings": 61
     },
     {
+      "card_id": 5926,
+      "name": "Ho-Oh V - 140/195",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "140/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.51,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 16
+    },
+    {
       "card_id": 25306,
       "name": "Hydrapple ex - 167/142",
       "set_id": 5500045,
@@ -2881,6 +3697,18 @@
       "market_price_usd": 36.46,
       "market_price_as_of": "2026-10-12",
       "total_listings": 135
+    },
+    {
+      "card_id": 6038,
+      "name": "Flareon V - SWSH149",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "SWSH149",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 35.9,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 10
     },
     {
       "card_id": 16263,
@@ -3087,6 +3915,42 @@
       "total_listings": 137
     },
     {
+      "card_id": 6138,
+      "name": "Ice Rider Calyrex VMAX - 046/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "046/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.94,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 5
+    },
+    {
+      "card_id": 5805,
+      "name": "Hero's Cape - 152/162",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "152/162",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.93,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 8
+    },
+    {
+      "card_id": 6039,
+      "name": "Galarian Rapidash V - SWSH111",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "SWSH111",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 33.92,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 8
+    },
+    {
       "card_id": 20364,
       "name": "Lana's Aid - 219/167",
       "set_id": 5500051,
@@ -3109,6 +3973,18 @@
       "market_price_usd": 33.82,
       "market_price_as_of": "2026-10-09",
       "total_listings": 36
+    },
+    {
+      "card_id": 6070,
+      "name": "Shaymin V - 013/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "013/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.75,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 8
     },
     {
       "card_id": 18448,
@@ -3181,6 +4057,18 @@
       "market_price_usd": 33.03,
       "market_price_as_of": "2026-10-08",
       "total_listings": 1
+    },
+    {
+      "card_id": 38178,
+      "name": "Blaziken VMAX",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG15/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.63,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 180
     },
     {
       "card_id": 13456,
@@ -3289,6 +4177,18 @@
       "market_price_usd": 31.75,
       "market_price_as_of": "2026-10-14",
       "total_listings": 149
+    },
+    {
+      "card_id": 5981,
+      "name": "Vaporeon V - SWSH150",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "SWSH150",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 31.74,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 11
     },
     {
       "card_id": 18497,
@@ -3423,6 +4323,18 @@
       "total_listings": 87
     },
     {
+      "card_id": 5973,
+      "name": "Neo Upper Energy - 162/162",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "162/162",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.06,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 33
+    },
+    {
       "card_id": 37631,
       "name": "Pikachu (Blue Border)",
       "set_id": 5500165,
@@ -3435,6 +4347,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 5562,
+      "name": "Eevee ex - 075/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "075/131",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.83,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 18
+    },
+    {
       "card_id": 20869,
       "name": "Iron Leaves ex - 203/162",
       "set_id": 5500066,
@@ -3445,6 +4369,18 @@
       "market_price_usd": 30.68,
       "market_price_as_of": "2026-10-12",
       "total_listings": 80
+    },
+    {
+      "card_id": 6095,
+      "name": "Radiant Hisuian Sneasler - 123/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "123/196",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.68,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 6
     },
     {
       "card_id": 13753,
@@ -3469,6 +4405,18 @@
       "market_price_usd": 30.56,
       "market_price_as_of": "2026-10-11",
       "total_listings": 57
+    },
+    {
+      "card_id": 6161,
+      "name": "Alcremie V - 022/073",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "022/073",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.56,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 3
     },
     {
       "card_id": 15944,
@@ -3517,6 +4465,18 @@
       "market_price_usd": 30.14,
       "market_price_as_of": "2026-10-14",
       "total_listings": 18
+    },
+    {
+      "card_id": 21555,
+      "name": "Unown V (Alternate Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "177/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.94,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 129
     },
     {
       "card_id": 36747,
@@ -3783,6 +4743,18 @@
       "total_listings": 211
     },
     {
+      "card_id": 38187,
+      "name": "Blaziken V",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG14/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.38,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 104
+    },
+    {
       "card_id": 13728,
       "name": "Solosis - 118/086",
       "set_id": 5500093,
@@ -3805,6 +4777,18 @@
       "market_price_usd": 28.33,
       "market_price_as_of": "2026-10-12",
       "total_listings": 132
+    },
+    {
+      "card_id": 6159,
+      "name": "Eldegoss V - 019/192",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "019/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.33,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 13
     },
     {
       "card_id": 37853,
@@ -3879,6 +4863,18 @@
       "total_listings": 255
     },
     {
+      "card_id": 6064,
+      "name": "Togekiss V - 140/185",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "140/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.16,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 4
+    },
+    {
       "card_id": 15940,
       "name": "Minior - 201/182",
       "set_id": 5500212,
@@ -3915,6 +4911,18 @@
       "total_listings": 63
     },
     {
+      "card_id": 38112,
+      "name": "Mew VMAX (Secret)",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG30/TG30",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.93,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 155
+    },
+    {
       "card_id": 18458,
       "name": "Lillie's Ribombee - 183 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -3925,6 +4933,18 @@
       "market_price_usd": 27.9,
       "market_price_as_of": "2026-10-14",
       "total_listings": 21
+    },
+    {
+      "card_id": 4191,
+      "name": "Play! Pokemon Prize Pack Series Three",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 27.84,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 20
     },
     {
       "card_id": 100009843,
@@ -3987,6 +5007,18 @@
       "total_listings": 177
     },
     {
+      "card_id": 5522,
+      "name": "Pikachu ex - 057/191",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "057/191",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.37,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 33
+    },
+    {
       "card_id": 17188,
       "name": "Tandemaus - 209/091",
       "set_id": 5500030,
@@ -4021,6 +5053,18 @@
       "market_price_usd": 27.27,
       "market_price_as_of": "2026-10-11",
       "total_listings": 128
+    },
+    {
+      "card_id": 38104,
+      "name": "Charizard",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG03/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.2,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 272
     },
     {
       "card_id": 14438,
@@ -4143,6 +5187,30 @@
       "total_listings": 72
     },
     {
+      "card_id": 11096,
+      "name": "Sparkling Crystal - 129/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "129/131",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.42,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 17
+    },
+    {
+      "card_id": 21495,
+      "name": "Lugia VSTAR (Secret) (211)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "211/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.36,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 120
+    },
+    {
       "card_id": 30109,
       "name": "Dusclops - 069/064",
       "set_id": 5500139,
@@ -4191,6 +5259,18 @@
       "total_listings": 88
     },
     {
+      "card_id": 5903,
+      "name": "Lucario - 079/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "079/172",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 26.21,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 10
+    },
+    {
       "card_id": 6930,
       "name": "Mega Dragonite ex - 271/217",
       "set_id": 5500112,
@@ -4237,6 +5317,18 @@
       "market_price_usd": 25.81,
       "market_price_as_of": "2026-10-09",
       "total_listings": 248
+    },
+    {
+      "card_id": 21516,
+      "name": "Regidrago V (Alternate Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "184/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.8,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 130
     },
     {
       "card_id": 18481,
@@ -4323,6 +5415,18 @@
       "total_listings": 214
     },
     {
+      "card_id": 6137,
+      "name": "Gardevoir - 061/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "061/198",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 25.19,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 14
+    },
+    {
       "card_id": 13805,
       "name": "Musharna (Master Ball Pattern)",
       "set_id": 5500093,
@@ -4369,6 +5473,30 @@
       "market_price_usd": 25.0,
       "market_price_as_of": "2026-10-09",
       "total_listings": 76
+    },
+    {
+      "card_id": 6112,
+      "name": "Pumpkaboo - 076/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "076/203",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 24.97,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 7
+    },
+    {
+      "card_id": 5735,
+      "name": "Dragapult ex - 130/167",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "130/167",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.96,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 19
     },
     {
       "card_id": 37830,
@@ -4443,6 +5571,30 @@
       "total_listings": 133
     },
     {
+      "card_id": 38113,
+      "name": "Pikachu VMAX (Secret)",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG29/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.63,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 137
+    },
+    {
+      "card_id": 2302212,
+      "name": "Mega Dragonite ex - 152/217",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "152/217",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.58,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 43
+    },
+    {
       "card_id": 7185,
       "name": "Canari - 291/217",
       "set_id": 5500112,
@@ -4477,6 +5629,18 @@
       "market_price_usd": 24.44,
       "market_price_as_of": "2026-10-12",
       "total_listings": 162
+    },
+    {
+      "card_id": 38173,
+      "name": "Rayquaza VMAX (Secret)",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG29/TG30",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.38,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 175
     },
     {
       "card_id": 30170,
@@ -4527,6 +5691,30 @@
       "total_listings": 148
     },
     {
+      "card_id": 21617,
+      "name": "Alolan Vulpix VSTAR (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "197/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.15,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 72
+    },
+    {
+      "card_id": 6172,
+      "name": "Corviknight V - 109/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "109/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.1,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 1
+    },
+    {
       "card_id": 2153334,
       "name": "Mega Floette ex - 117/086",
       "set_id": 5500213,
@@ -4573,6 +5761,18 @@
       "market_price_usd": 23.7,
       "market_price_as_of": "2026-10-10",
       "total_listings": 229
+    },
+    {
+      "card_id": 6087,
+      "name": "Duraludon VMAX - 123/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "123/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.68,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 4
     },
     {
       "card_id": 13733,
@@ -4743,6 +5943,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 38101,
+      "name": "Snorlax",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG10/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.7,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 238
+    },
+    {
       "card_id": 30141,
       "name": "Zorua - 075/064",
       "set_id": 5500139,
@@ -4753,6 +5965,18 @@
       "market_price_usd": 22.66,
       "market_price_as_of": "2026-10-11",
       "total_listings": 119
+    },
+    {
+      "card_id": 5544,
+      "name": "Flareon ex - 014/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "014/131",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.65,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 33
     },
     {
       "card_id": 35158,
@@ -4779,6 +6003,18 @@
       "total_listings": 160
     },
     {
+      "card_id": 6120,
+      "name": "Galarian Moltres V - 097/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "097/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.47,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 6
+    },
+    {
       "card_id": 17196,
       "name": "Jigglypuff",
       "set_id": 5500030,
@@ -4789,6 +6025,18 @@
       "market_price_usd": 22.46,
       "market_price_as_of": "2026-10-12",
       "total_listings": 96
+    },
+    {
+      "card_id": 6170,
+      "name": "Galarian Articuno V - 058/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "058/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.44,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 14
     },
     {
       "card_id": 13466,
@@ -4863,6 +6111,18 @@
       "total_listings": 121
     },
     {
+      "card_id": 6058,
+      "name": "Shadow Rider Calyrex VMAX - 075/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "075/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.22,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 11
+    },
+    {
       "card_id": 14296,
       "name": "Druddigon - 151/086",
       "set_id": 5500153,
@@ -4885,6 +6145,30 @@
       "market_price_usd": 22.07,
       "market_price_as_of": "2026-10-09",
       "total_listings": 109
+    },
+    {
+      "card_id": 5582,
+      "name": "Sylveon ex - 086/191",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "086/191",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.97,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 47
+    },
+    {
+      "card_id": 6153,
+      "name": "Garchomp - 109/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "109/172",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 21.94,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 14
     },
     {
       "card_id": 14404,
@@ -4971,6 +6255,18 @@
       "total_listings": 103
     },
     {
+      "card_id": 5823,
+      "name": "Alolan Vulpix VSTAR - 034/195",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "034/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.57,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 19
+    },
+    {
       "card_id": 20286,
       "name": "Tatsugiri - 186/167",
       "set_id": 5500051,
@@ -5005,6 +6301,30 @@
       "market_price_usd": 21.49,
       "market_price_as_of": "2026-10-14",
       "total_listings": 253
+    },
+    {
+      "card_id": 5666,
+      "name": "Lugia VSTAR - 139/195",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "139/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.35,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 37
+    },
+    {
+      "card_id": 5717,
+      "name": "Gengar - 066/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "066/196",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 21.31,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 51
     },
     {
       "card_id": 13406,
@@ -5139,6 +6459,18 @@
       "total_listings": 128
     },
     {
+      "card_id": 6163,
+      "name": "Radiant Heatran - 027/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "027/189",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.93,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 18
+    },
+    {
       "card_id": 23539,
       "name": "Wally's Compassion - 186/132",
       "set_id": 5500179,
@@ -5247,6 +6579,18 @@
       "total_listings": 221
     },
     {
+      "card_id": 38184,
+      "name": "Serperior V",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG13/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.73,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 121
+    },
+    {
       "card_id": 18746,
       "name": "Arven's Mabosstiff ex - 235/182",
       "set_id": 5500009,
@@ -5257,6 +6601,18 @@
       "market_price_usd": 20.71,
       "market_price_as_of": "2026-10-10",
       "total_listings": 207
+    },
+    {
+      "card_id": 5944,
+      "name": "Alolan Vulpix V - 033/195",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "033/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.69,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 26
     },
     {
       "card_id": 100018075,
@@ -5271,6 +6627,30 @@
       "total_listings": 108
     },
     {
+      "card_id": 6144,
+      "name": "Radiant Tsareena - 016/195",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "016/195",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.66,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 20
+    },
+    {
+      "card_id": 38185,
+      "name": "Blissey V",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG22/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.65,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 103
+    },
+    {
       "card_id": 36730,
       "name": "Lumineon V",
       "set_id": 5500218,
@@ -5283,6 +6663,18 @@
       "total_listings": 155
     },
     {
+      "card_id": 5789,
+      "name": "Mewtwo ex - 058/182",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "058/182",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.6,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 25
+    },
+    {
       "card_id": 13682,
       "name": "Petilil - 091/086",
       "set_id": 5500093,
@@ -5293,6 +6685,18 @@
       "market_price_usd": 20.52,
       "market_price_as_of": "2026-10-09",
       "total_listings": 135
+    },
+    {
+      "card_id": 5912,
+      "name": "Arceus VSTAR - 123/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "123/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.51,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 27
     },
     {
       "card_id": 15965,
@@ -5535,6 +6939,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 5678,
+      "name": "Team Rocket's Mewtwo ex - 081/182",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "081/182",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.72,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 75
+    },
+    {
       "card_id": 18257,
       "name": "Pikachu - 088",
       "set_id": 5500070,
@@ -5619,6 +7035,18 @@
       "total_listings": 359
     },
     {
+      "card_id": 5548,
+      "name": "Vaporeon ex - 023/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "023/131",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.53,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 39
+    },
+    {
       "card_id": 14505,
       "name": "Herdier (Master Ball Pattern)",
       "set_id": 5500153,
@@ -5629,6 +7057,18 @@
       "market_price_usd": 19.49,
       "market_price_as_of": "2026-10-09",
       "total_listings": 29
+    },
+    {
+      "card_id": 5948,
+      "name": "Raichu V - 045/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "045/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.46,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 7
     },
     {
       "card_id": 30175,
@@ -5677,6 +7117,18 @@
       "market_price_usd": 19.26,
       "market_price_as_of": "2026-10-14",
       "total_listings": 69
+    },
+    {
+      "card_id": 5563,
+      "name": "Charizard ex - 125/197",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "125/197",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.24,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 91
     },
     {
       "card_id": 2155076,
@@ -5895,6 +7347,18 @@
       "total_listings": 137
     },
     {
+      "card_id": 6132,
+      "name": "Boltund V - 103/264",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "103/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.48,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 11
+    },
+    {
       "card_id": 14536,
       "name": "Dewott (Master Ball Pattern)",
       "set_id": 5500153,
@@ -6025,6 +7489,18 @@
       "market_price_usd": 18.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 121
+    },
+    {
+      "card_id": 5595,
+      "name": "Jolteon ex - 030/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "030/131",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.99,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 50
     },
     {
       "card_id": 15656,
@@ -6183,6 +7659,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 5587,
+      "name": "Leafeon ex - 006/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "006/131",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.49,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 34
+    },
+    {
       "card_id": 15966,
       "name": "Brute Bonnet - 207/182",
       "set_id": 5500212,
@@ -6265,6 +7753,18 @@
       "market_price_usd": 17.35,
       "market_price_as_of": "2026-10-09",
       "total_listings": 29
+    },
+    {
+      "card_id": 6124,
+      "name": "Blissey V - 119/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "119/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.3,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 13
     },
     {
       "card_id": 18227,
@@ -6435,6 +7935,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 21499,
+      "name": "Lugia V (Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "185/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.99,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 96
+    },
+    {
       "card_id": 13722,
       "name": "Escavalier - 138/086",
       "set_id": 5500093,
@@ -6579,6 +8091,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 5854,
+      "name": "Scoop Up Cyclone - 162/167",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "162/167",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.57,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 21
+    },
+    {
       "card_id": 16296,
       "name": "Starly - 221/198",
       "set_id": 5500032,
@@ -6637,6 +8161,18 @@
       "market_price_usd": 16.52,
       "market_price_as_of": "2026-10-10",
       "total_listings": 131
+    },
+    {
+      "card_id": 2302127,
+      "name": "Meowth ex - 062/088",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "062/088",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.5,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 54
     },
     {
       "card_id": 18607,
@@ -6855,6 +8391,30 @@
       "total_listings": 249
     },
     {
+      "card_id": 6035,
+      "name": "Inteleon V - 078/264",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "078/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.02,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 3
+    },
+    {
+      "card_id": 5934,
+      "name": "Ampharos ex - 016",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "016",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 16.01,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 15
+    },
+    {
       "card_id": 16038,
       "name": "Loudred - 212/182",
       "set_id": 5500212,
@@ -6891,6 +8451,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 6084,
+      "name": "Precious Trolley - 185/191",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "185/191",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.91,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 40
+    },
+    {
       "card_id": 14517,
       "name": "Leavanny (Master Ball Pattern)",
       "set_id": 5500153,
@@ -6913,6 +8485,18 @@
       "market_price_usd": 15.86,
       "market_price_as_of": "2026-10-14",
       "total_listings": 167
+    },
+    {
+      "card_id": 5997,
+      "name": "Grand Tree - 136/142",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "136/142",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.86,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 23
     },
     {
       "card_id": 13794,
@@ -6951,6 +8535,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 6077,
+      "name": "Kyurem VMAX - 049/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "049/196",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.8,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 27
+    },
+    {
       "card_id": 25185,
       "name": "Milcery - 152/142",
       "set_id": 5500045,
@@ -6961,6 +8557,18 @@
       "market_price_usd": 15.77,
       "market_price_as_of": "2026-10-11",
       "total_listings": 158
+    },
+    {
+      "card_id": 6114,
+      "name": "Medicham V - 083/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "083/203",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.73,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 7
     },
     {
       "card_id": 14384,
@@ -7047,6 +8655,18 @@
       "total_listings": 109
     },
     {
+      "card_id": 21654,
+      "name": "Serena (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "207/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.53,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 158
+    },
+    {
       "card_id": 14520,
       "name": "Boldore (Master Ball Pattern)",
       "set_id": 5500153,
@@ -7105,6 +8725,18 @@
       "market_price_usd": 15.46,
       "market_price_as_of": "2026-10-09",
       "total_listings": 168
+    },
+    {
+      "card_id": 5601,
+      "name": "Espeon ex - 034/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "034/131",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.46,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 29
     },
     {
       "card_id": 15760,
@@ -7203,6 +8835,30 @@
       "total_listings": 57
     },
     {
+      "card_id": 5882,
+      "name": "Entei V - 022/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "022/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.25,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 7
+    },
+    {
+      "card_id": 6109,
+      "name": "Rapid Strike Urshifu VMAX - 088/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "088/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.24,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 4
+    },
+    {
       "card_id": 13420,
       "name": "Riolu (Master Ball Pattern)",
       "set_id": 5500017,
@@ -7261,6 +8917,18 @@
       "market_price_usd": 15.19,
       "market_price_as_of": "2026-10-09",
       "total_listings": 168
+    },
+    {
+      "card_id": 38183,
+      "name": "Corviknight V",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG18/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.18,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 154
     },
     {
       "card_id": 13813,
@@ -7383,6 +9051,18 @@
       "total_listings": 142
     },
     {
+      "card_id": 24196,
+      "name": "Elesa's Sparkle (Full Art)",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "147/159",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.79,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 180
+    },
+    {
       "card_id": 18398,
       "name": "Tornadus - 210 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -7417,6 +9097,18 @@
       "market_price_usd": 14.76,
       "market_price_as_of": "2026-10-12",
       "total_listings": 13
+    },
+    {
+      "card_id": 5571,
+      "name": "Glaceon ex - 026/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "026/131",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.75,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 47
     },
     {
       "card_id": 15964,
@@ -7659,6 +9351,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 38188,
+      "name": "Zeraora V",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG16/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.19,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 116
+    },
+    {
       "card_id": 20240,
       "name": "Infernape - 173/167",
       "set_id": 5500051,
@@ -7731,6 +9435,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 6094,
+      "name": "Whimsicott V - 064/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "064/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.08,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 4
+    },
+    {
       "card_id": 18239,
       "name": "Charizard ex - 056",
       "set_id": 5500070,
@@ -7755,6 +9471,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 21550,
+      "name": "Serena (Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "193/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.01,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 175
+    },
+    {
       "card_id": 13845,
       "name": "Landorus (Master Ball Pattern)",
       "set_id": 5500093,
@@ -7765,6 +9493,18 @@
       "market_price_usd": 14.0,
       "market_price_as_of": "2026-10-09",
       "total_listings": 41
+    },
+    {
+      "card_id": 38127,
+      "name": "Eternatus VMAX",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG22/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.92,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 114
     },
     {
       "card_id": 14509,
@@ -7947,6 +9687,18 @@
       "total_listings": 239
     },
     {
+      "card_id": 5842,
+      "name": "Battle VIP Pass - 225/264",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "225/264",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 13.46,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 28
+    },
+    {
       "card_id": 13580,
       "name": "Sandile - 135/086",
       "set_id": 5500093,
@@ -8055,6 +9807,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 2302272,
+      "name": "Mega Sharpedo ex - 061/094",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "061/094",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.34,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 35
+    },
+    {
       "card_id": 2299693,
       "name": "Dhelmise - 084 (Prerelease)",
       "set_id": 5500111,
@@ -8139,6 +9903,18 @@
       "total_listings": 100
     },
     {
+      "card_id": 5598,
+      "name": "Snorlax - 143/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "143/196",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 13.07,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 35
+    },
+    {
       "card_id": 14514,
       "name": "Scrafty (Master Ball Pattern)",
       "set_id": 5500153,
@@ -8161,6 +9937,18 @@
       "market_price_usd": 13.06,
       "market_price_as_of": "2026-10-09",
       "total_listings": 610
+    },
+    {
+      "card_id": 24060,
+      "name": "Snorlax",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "109/159",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.05,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 457
     },
     {
       "card_id": 14507,
@@ -8235,6 +10023,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 21437,
+      "name": "Lugia V",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "138/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.95,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 296
+    },
+    {
       "card_id": 14524,
       "name": "Virizion (Master Ball Pattern)",
       "set_id": 5500153,
@@ -8307,6 +10107,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 38115,
+      "name": "Nessa",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG27/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.8,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 164
+    },
+    {
       "card_id": 17210,
       "name": "Entei",
       "set_id": 5500030,
@@ -8317,6 +10129,18 @@
       "market_price_usd": 12.79,
       "market_price_as_of": "2026-10-12",
       "total_listings": 92
+    },
+    {
+      "card_id": 6017,
+      "name": "Neutralization Zone - 060/064",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "060/064",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.78,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 17
     },
     {
       "card_id": 13606,
@@ -8365,6 +10189,18 @@
       "market_price_usd": 12.68,
       "market_price_as_of": "2026-10-11",
       "total_listings": 179
+    },
+    {
+      "card_id": 38122,
+      "name": "Enamorus V",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG18/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.67,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 147
     },
     {
       "card_id": 13804,
@@ -8427,6 +10263,30 @@
       "total_listings": 147
     },
     {
+      "card_id": 5955,
+      "name": "Zamazenta V - 105/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "105/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.56,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 7
+    },
+    {
+      "card_id": 38181,
+      "name": "Mawile V",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG17/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.52,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 135
+    },
+    {
       "card_id": 18375,
       "name": "Thwackey - 115",
       "set_id": 5500070,
@@ -8449,6 +10309,18 @@
       "market_price_usd": 12.51,
       "market_price_as_of": "2026-10-09",
       "total_listings": 395
+    },
+    {
+      "card_id": 5888,
+      "name": "Dedenne ex - 093/193",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "093/193",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.51,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 28
     },
     {
       "card_id": 25239,
@@ -8775,6 +10647,30 @@
       "total_listings": 83
     },
     {
+      "card_id": 2301885,
+      "name": "Psyduck - 039/217 (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "039/217",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 12.1,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 41
+    },
+    {
+      "card_id": 38124,
+      "name": "Crobat V",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG20/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.06,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 130
+    },
+    {
       "card_id": 13827,
       "name": "Krokorok (Master Ball Pattern)",
       "set_id": 5500093,
@@ -8809,6 +10705,18 @@
       "market_price_usd": 12.04,
       "market_price_as_of": "2026-10-11",
       "total_listings": 161
+    },
+    {
+      "card_id": 5857,
+      "name": "Tyranitar ex - 066/197",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "066/197",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.02,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 30
     },
     {
       "card_id": 18736,
@@ -8967,6 +10875,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 5772,
+      "name": "Maximum Belt - 154/162",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "154/162",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.85,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 25
+    },
+    {
       "card_id": 15636,
       "name": "Flamigo - 227/193",
       "set_id": 5500150,
@@ -9013,6 +10933,18 @@
       "market_price_usd": 11.81,
       "market_price_as_of": "2026-10-09",
       "total_listings": 37
+    },
+    {
+      "card_id": 24076,
+      "name": "Charizard VSTAR",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "019/159",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.81,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 206
     },
     {
       "card_id": 14346,
@@ -9085,6 +11017,18 @@
       "market_price_usd": 11.71,
       "market_price_as_of": "2026-10-09",
       "total_listings": 321
+    },
+    {
+      "card_id": 24109,
+      "name": "Rayquaza VMAX (102)",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "102/159",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.71,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 145
     },
     {
       "card_id": 37638,
@@ -9171,6 +11115,18 @@
       "total_listings": 272
     },
     {
+      "card_id": 5592,
+      "name": "Houndoom - 096/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "096/163",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.62,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 25
+    },
+    {
       "card_id": 13413,
       "name": "Amarys - 170/131",
       "set_id": 5500017,
@@ -9219,6 +11175,18 @@
       "total_listings": 183
     },
     {
+      "card_id": 38119,
+      "name": "Orbeetle VMAX",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG13/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.58,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 143
+    },
+    {
       "card_id": 13650,
       "name": "Elgyem - 120/086",
       "set_id": 5500093,
@@ -9255,6 +11223,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 21566,
+      "name": "Alolan Vulpix V (Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "173/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.51,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 81
+    },
+    {
       "card_id": 27781,
       "name": "Piplup - 098/094",
       "set_id": 5500152,
@@ -9277,6 +11257,18 @@
       "market_price_usd": 11.5,
       "market_price_as_of": "2026-10-09",
       "total_listings": 31
+    },
+    {
+      "card_id": 5869,
+      "name": "Bunnelby - 150/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "150/189",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 11.49,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 11
     },
     {
       "card_id": 17277,
@@ -9409,6 +11401,30 @@
       "market_price_usd": 11.27,
       "market_price_as_of": "2026-10-11",
       "total_listings": 218
+    },
+    {
+      "card_id": 6082,
+      "name": "Crobat - 091/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "091/163",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 11.25,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 8
+    },
+    {
+      "card_id": 38190,
+      "name": "Duraludon VMAX",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG21/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.2,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 139
     },
     {
       "card_id": 14513,
@@ -9603,6 +11619,18 @@
       "total_listings": 72
     },
     {
+      "card_id": 21549,
+      "name": "Skuntank V (Alternate Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "181/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.9,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 140
+    },
+    {
       "card_id": 20791,
       "name": "Charjabug - 169/162",
       "set_id": 5500066,
@@ -9613,6 +11641,18 @@
       "market_price_usd": 10.89,
       "market_price_as_of": "2026-10-12",
       "total_listings": 148
+    },
+    {
+      "card_id": 2302225,
+      "name": "Mega Starmie ex - 021/088",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "021/088",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.89,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 46
     },
     {
       "card_id": 17157,
@@ -9663,6 +11703,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 5508,
+      "name": "Ditto - 132/165 (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "132/165",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.86,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 72
+    },
+    {
       "card_id": 15816,
       "name": "Rookidee - 225/193",
       "set_id": 5500150,
@@ -9685,6 +11737,18 @@
       "market_price_usd": 10.82,
       "market_price_as_of": "2026-10-14",
       "total_listings": 136
+    },
+    {
+      "card_id": 5923,
+      "name": "Dedenne - 078/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "078/189",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 10.82,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 16
     },
     {
       "card_id": 13439,
@@ -9771,6 +11835,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 2301878,
+      "name": "Play! Pokemon Prize Pack Series Nine",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 10.67,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 42
+    },
+    {
       "card_id": 14324,
       "name": "Simisear - 100/086",
       "set_id": 5500153,
@@ -9783,6 +11859,18 @@
       "total_listings": 155
     },
     {
+      "card_id": 5686,
+      "name": "Slowbro - 043/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "043/198",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 10.66,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 15
+    },
+    {
       "card_id": 18167,
       "name": "Alolan Exeggutor ex - 248/191",
       "set_id": 5500180,
@@ -9793,6 +11881,18 @@
       "market_price_usd": 10.65,
       "market_price_as_of": "2026-10-10",
       "total_listings": 136
+    },
+    {
+      "card_id": 21620,
+      "name": "Unown VSTAR (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "199/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.64,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 66
     },
     {
       "card_id": 38668,
@@ -9867,6 +11967,30 @@
       "total_listings": 368
     },
     {
+      "card_id": 24132,
+      "name": "Rayquaza VMAX (101)",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "101/159",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.55,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 140
+    },
+    {
+      "card_id": 5572,
+      "name": "Greninja ex - 106/167",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "106/167",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.52,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 60
+    },
+    {
       "card_id": 20778,
       "name": "Shiftry - 163/162",
       "set_id": 5500066,
@@ -9903,6 +12027,18 @@
       "total_listings": 100
     },
     {
+      "card_id": 2302166,
+      "name": "Mega Skarmory ex - 055/088",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "055/088",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.43,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 46
+    },
+    {
       "card_id": 36709,
       "name": "Lunatone",
       "set_id": 5500218,
@@ -9915,6 +12051,18 @@
       "total_listings": 234
     },
     {
+      "card_id": 5856,
+      "name": "Raikou V - 048/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "048/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.43,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 15
+    },
+    {
       "card_id": 14523,
       "name": "Tornadus (Master Ball Pattern)",
       "set_id": 5500153,
@@ -9925,6 +12073,18 @@
       "market_price_usd": 10.4,
       "market_price_as_of": "2026-10-09",
       "total_listings": 35
+    },
+    {
+      "card_id": 2302264,
+      "name": "Mega Zygarde ex - 047/088",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "047/088",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.4,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 68
     },
     {
       "card_id": 21875,
@@ -10215,6 +12375,18 @@
       "total_listings": 493
     },
     {
+      "card_id": 4197,
+      "name": "Play! Pokemon Prize Pack Series Five",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 9.99,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 17
+    },
+    {
       "card_id": 18367,
       "name": "Chien-Pao - 152",
       "set_id": 5500070,
@@ -10249,6 +12421,30 @@
       "market_price_usd": 9.94,
       "market_price_as_of": "2026-10-09",
       "total_listings": 48
+    },
+    {
+      "card_id": 5905,
+      "name": "Crushing Hammer - 159/202",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "159/202",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 9.94,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 15
+    },
+    {
+      "card_id": 38186,
+      "name": "Corviknight VMAX",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG19/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.92,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 135
     },
     {
       "card_id": 18606,
@@ -10335,6 +12531,18 @@
       "total_listings": 148
     },
     {
+      "card_id": 5633,
+      "name": "Latias ex - 076/191",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "076/191",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.79,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 36
+    },
+    {
       "card_id": 17204,
       "name": "Scizor",
       "set_id": 5500030,
@@ -10345,6 +12553,30 @@
       "market_price_usd": 9.75,
       "market_price_as_of": "2026-10-12",
       "total_listings": 96
+    },
+    {
+      "card_id": 38125,
+      "name": "Gallade V",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG19/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.75,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 156
+    },
+    {
+      "card_id": 6111,
+      "name": "Galarian Articuno - 063/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "063/203",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 9.73,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 5
     },
     {
       "card_id": 6965,
@@ -10551,6 +12783,18 @@
       "total_listings": 509
     },
     {
+      "card_id": 24056,
+      "name": "Radiant Charizard",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "020/159",
+      "rarity": "Radiant Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.56,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 271
+    },
+    {
       "card_id": 14221,
       "name": "Hilda - 164/086",
       "set_id": 5500153,
@@ -10659,6 +12903,30 @@
       "total_listings": 300
     },
     {
+      "card_id": 5761,
+      "name": "Cinccino - 147/202",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "147/202",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.49,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 15
+    },
+    {
+      "card_id": 5899,
+      "name": "Boss's Orders [Lysandre] - 058/072",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "058/072",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.48,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 39
+    },
+    {
       "card_id": 100008227,
       "name": "Pikachu - 093",
       "set_id": 5500111,
@@ -10695,6 +12963,18 @@
       "total_listings": 321
     },
     {
+      "card_id": 4200,
+      "name": "Play! Pokemon Prize Pack Series Four",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 9.44,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 13
+    },
+    {
       "card_id": 14285,
       "name": "Yamask - 122/086",
       "set_id": 5500153,
@@ -10719,6 +12999,30 @@
       "total_listings": 17
     },
     {
+      "card_id": 2302270,
+      "name": "Mega Eelektross ex - 061/217",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "061/217",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.39,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 39
+    },
+    {
+      "card_id": 6100,
+      "name": "Ice Rider Calyrex V - 045/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "045/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.39,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 9
+    },
+    {
       "card_id": 13604,
       "name": "Gurdurr - 126/086",
       "set_id": 5500093,
@@ -10741,6 +13045,18 @@
       "market_price_usd": 9.36,
       "market_price_as_of": "2026-10-09",
       "total_listings": 49
+    },
+    {
+      "card_id": 5884,
+      "name": "Galarian Zapdos - 082/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "082/203",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 9.34,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 6
     },
     {
       "card_id": 16291,
@@ -10777,6 +13093,18 @@
       "market_price_usd": 9.27,
       "market_price_as_of": "2026-10-09",
       "total_listings": 204
+    },
+    {
+      "card_id": 5806,
+      "name": "Mega Kangaskhan ex - 104/132",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "104/132",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.27,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 3
     },
     {
       "card_id": 15936,
@@ -10899,6 +13227,18 @@
       "total_listings": 240
     },
     {
+      "card_id": 5936,
+      "name": "Arceus V - 122/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "122/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.08,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 26
+    },
+    {
       "card_id": 15935,
       "name": "Mela - 254/182",
       "set_id": 5500212,
@@ -10909,6 +13249,18 @@
       "market_price_usd": 9.07,
       "market_price_as_of": "2026-10-12",
       "total_listings": 137
+    },
+    {
+      "card_id": 5939,
+      "name": "Origin Forme Dialga VSTAR - 114/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "114/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.02,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 18
     },
     {
       "card_id": 2299691,
@@ -11127,6 +13479,18 @@
       "total_listings": 152
     },
     {
+      "card_id": 21630,
+      "name": "Regidrago VSTAR (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "201/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.76,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 106
+    },
+    {
       "card_id": 20735,
       "name": "Bronzor - 170/162",
       "set_id": 5500066,
@@ -11173,6 +13537,30 @@
       "market_price_usd": 8.67,
       "market_price_as_of": "2026-10-14",
       "total_listings": 259
+    },
+    {
+      "card_id": 4040,
+      "name": "Play! Pokemon Prize Pack Series Six",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 8.67,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 21
+    },
+    {
+      "card_id": 5751,
+      "name": "Max Rod - 116/131",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "116/131",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.67,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 80
     },
     {
       "card_id": 20830,
@@ -11235,6 +13623,18 @@
       "total_listings": 728
     },
     {
+      "card_id": 5874,
+      "name": "Quick Ball - 179/202",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "179/202",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 8.64,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 21
+    },
+    {
       "card_id": 14503,
       "name": "Terrakion (Master Ball Pattern)",
       "set_id": 5500153,
@@ -11257,6 +13657,30 @@
       "market_price_usd": 8.62,
       "market_price_as_of": "2026-10-12",
       "total_listings": 91
+    },
+    {
+      "card_id": 6105,
+      "name": "Shadow Rider Calyrex V - 074/198",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "074/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.62,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 9
+    },
+    {
+      "card_id": 5858,
+      "name": "Scramble Switch - 186/191",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "186/191",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.61,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 77
     },
     {
       "card_id": 18412,
@@ -11283,6 +13707,18 @@
       "total_listings": 164
     },
     {
+      "card_id": 5860,
+      "name": "Rillaboom - 014/072",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "014/072",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 8.55,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 1
+    },
+    {
       "card_id": 6922,
       "name": "Cynthia's Spiritomb - 244/217",
       "set_id": 5500112,
@@ -11307,6 +13743,54 @@
       "total_listings": 268
     },
     {
+      "card_id": 38114,
+      "name": "Boss's Orders",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG24/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.52,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 218
+    },
+    {
+      "card_id": 4041,
+      "name": "Play! Pokemon Prize Pack Series Seven",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 8.5,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 27
+    },
+    {
+      "card_id": 38176,
+      "name": "Friends in Galar",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG23/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.49,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 196
+    },
+    {
+      "card_id": 5876,
+      "name": "Hisuian Zoroark V - 146/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "146/196",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.44,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 18
+    },
+    {
       "card_id": 18581,
       "name": "Kangaskhan - 204/182",
       "set_id": 5500009,
@@ -11317,6 +13801,18 @@
       "market_price_usd": 8.43,
       "market_price_as_of": "2026-10-10",
       "total_listings": 458
+    },
+    {
+      "card_id": 21570,
+      "name": "Ho-Oh V (Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "187/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.42,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 112
     },
     {
       "card_id": 13436,
@@ -11401,6 +13897,18 @@
       "market_price_usd": 8.34,
       "market_price_as_of": "2026-10-12",
       "total_listings": 104
+    },
+    {
+      "card_id": 5736,
+      "name": "Pecharunt ex - 039/064",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "039/064",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.34,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 17
     },
     {
       "card_id": 13432,
@@ -11559,6 +14067,18 @@
       "total_listings": 401
     },
     {
+      "card_id": 5759,
+      "name": "Mega Venusaur ex - 003/132",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "003/132",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.19,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 45
+    },
+    {
       "card_id": 13424,
       "name": "Roaring Moon (Master Ball Pattern)",
       "set_id": 5500017,
@@ -11703,6 +14223,18 @@
       "total_listings": 445
     },
     {
+      "card_id": 38120,
+      "name": "Centiskorch VMAX",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG15/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.08,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 143
+    },
+    {
       "card_id": 17231,
       "name": "Vileplume",
       "set_id": 5500030,
@@ -11725,6 +14257,18 @@
       "market_price_usd": 8.04,
       "market_price_as_of": "2026-10-09",
       "total_listings": 363
+    },
+    {
+      "card_id": 21645,
+      "name": "Regieleki VMAX (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "198/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.01,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 119
     },
     {
       "card_id": 36718,
@@ -11763,6 +14307,18 @@
       "total_listings": 212
     },
     {
+      "card_id": 5851,
+      "name": "Fire Energy (Prize Pack Series 3) (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 7.99,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 25
+    },
+    {
       "card_id": 13283,
       "name": "Teal Mask Ogerpon ex - 177/131",
       "set_id": 5500017,
@@ -11785,6 +14341,18 @@
       "market_price_usd": 7.96,
       "market_price_as_of": "2026-10-11",
       "total_listings": 131
+    },
+    {
+      "card_id": 2302400,
+      "name": "Boss's Orders [Cyrus] - 132/172 (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "132/172",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.95,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 42
     },
     {
       "card_id": 21711,
@@ -11881,6 +14449,18 @@
       "market_price_usd": 7.88,
       "market_price_as_of": "2026-10-10",
       "total_listings": 80
+    },
+    {
+      "card_id": 21538,
+      "name": "Reshiram V (Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "172/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.86,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 104
     },
     {
       "card_id": 18036,
@@ -12051,6 +14631,18 @@
       "total_listings": 81
     },
     {
+      "card_id": 6019,
+      "name": "Origin Forme Palkia VSTAR - 040/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "040/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.66,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 15
+    },
+    {
       "card_id": 13591,
       "name": "Rufflet - 154/086",
       "set_id": 5500093,
@@ -12063,6 +14655,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 21625,
+      "name": "Mawile VSTAR (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "200/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.65,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 123
+    },
+    {
       "card_id": 13599,
       "name": "Cryogonal - 111/086",
       "set_id": 5500093,
@@ -12073,6 +14677,18 @@
       "market_price_usd": 7.64,
       "market_price_as_of": "2026-10-09",
       "total_listings": 117
+    },
+    {
+      "card_id": 5961,
+      "name": "Hisuian Zoroark VSTAR - 147/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "147/196",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.62,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 10
     },
     {
       "card_id": 18017,
@@ -12123,6 +14739,30 @@
       "total_listings": 156
     },
     {
+      "card_id": 5459,
+      "name": "Lillie's Determination - 119/132",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "119/132",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 7.57,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 92
+    },
+    {
+      "card_id": 5743,
+      "name": "Fezandipiti ex - 038/064",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "038/064",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.57,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 35
+    },
+    {
       "card_id": 13618,
       "name": "Throh - 128/086",
       "set_id": 5500093,
@@ -12157,6 +14797,18 @@
       "market_price_usd": 7.52,
       "market_price_as_of": "2026-10-12",
       "total_listings": 217
+    },
+    {
+      "card_id": 6160,
+      "name": "Galarian Moltres - 093/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "093/203",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 7.52,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 13
     },
     {
       "card_id": 100018087,
@@ -12219,6 +14871,18 @@
       "total_listings": 270
     },
     {
+      "card_id": 24071,
+      "name": "Charizard V",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "018/159",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.45,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 292
+    },
+    {
       "card_id": 2336548,
       "name": "Alolan Meowth - 139/128",
       "set_id": 5500219,
@@ -12229,6 +14893,18 @@
       "market_price_usd": 7.44,
       "market_price_as_of": "2026-10-09",
       "total_listings": 286
+    },
+    {
+      "card_id": 24162,
+      "name": "Friends in Sinnoh (Full Art)",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "149/159",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.42,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 226
     },
     {
       "card_id": 15994,
@@ -12253,6 +14929,30 @@
       "market_price_usd": 7.41,
       "market_price_as_of": "2026-10-09",
       "total_listings": 374
+    },
+    {
+      "card_id": 24079,
+      "name": "Eevee V",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "108/159",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.4,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 250
+    },
+    {
+      "card_id": 2302000,
+      "name": "Telepathic Psychic Energy - 088/088 (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "088/088",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.39,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 20
     },
     {
       "card_id": 25173,
@@ -12483,6 +15183,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 24081,
+      "name": "Mew V",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "060/159",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.13,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 175
+    },
+    {
       "card_id": 14501,
       "name": "Zorua (Master Ball Pattern)",
       "set_id": 5500153,
@@ -12555,6 +15267,30 @@
       "total_listings": 58
     },
     {
+      "card_id": 38169,
+      "name": "Gardevoir",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG05/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.05,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 368
+    },
+    {
+      "card_id": 6042,
+      "name": "Single Strike Urshifu V - 085/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "085/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.04,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 2
+    },
+    {
       "card_id": 18579,
       "name": "Rapidash - 189/182",
       "set_id": 5500009,
@@ -12603,6 +15339,18 @@
       "total_listings": 323
     },
     {
+      "card_id": 4046,
+      "name": "Play! Pokemon Prize Pack Series Eight",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 7.0,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 23
+    },
+    {
       "card_id": 17161,
       "name": "Charcadet - 114/091",
       "set_id": 5500030,
@@ -12627,6 +15375,18 @@
       "total_listings": 340
     },
     {
+      "card_id": 5810,
+      "name": "Aurora Energy - 186/202",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "186/202",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 6.96,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 27
+    },
+    {
       "card_id": 17177,
       "name": "Jumpluff",
       "set_id": 5500030,
@@ -12649,6 +15409,30 @@
       "market_price_usd": 6.91,
       "market_price_as_of": "2026-10-09",
       "total_listings": 491
+    },
+    {
+      "card_id": 38174,
+      "name": "Judge",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG25/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.88,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 109
+    },
+    {
+      "card_id": 5989,
+      "name": "Grass Energy (Prize Pack Series 3) (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 6.87,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 31
     },
     {
       "card_id": 13652,
@@ -12699,6 +15483,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 5829,
+      "name": "Water Energy (Prize Pack Series 3) (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 6.81,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 31
+    },
+    {
       "card_id": 17219,
       "name": "Luxio",
       "set_id": 5500030,
@@ -12721,6 +15517,18 @@
       "market_price_usd": 6.79,
       "market_price_as_of": "2026-10-14",
       "total_listings": 293
+    },
+    {
+      "card_id": 38161,
+      "name": "Milotic",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG02/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.79,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 401
     },
     {
       "card_id": 18361,
@@ -12807,6 +15615,30 @@
       "total_listings": 340
     },
     {
+      "card_id": 2301883,
+      "name": "Poke Pad - 081/088 (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "081/088",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 6.72,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 69
+    },
+    {
+      "card_id": 5879,
+      "name": "Hisuian Arcanine - 084/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "084/196",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.71,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 17
+    },
+    {
       "card_id": 15916,
       "name": "Roaring Moon ex - 262/182",
       "set_id": 5500212,
@@ -12867,6 +15699,18 @@
       "total_listings": 641
     },
     {
+      "card_id": 5612,
+      "name": "Teal Mask Ogerpon ex - 025/167 (Prize Pack Series 6)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "025/167",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.66,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 35
+    },
+    {
       "card_id": 17178,
       "name": "Wo-Chien ex",
       "set_id": 5500030,
@@ -12891,6 +15735,30 @@
       "total_listings": 237
     },
     {
+      "card_id": 5909,
+      "name": "Survival Brace - 164/167",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "164/167",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.62,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 39
+    },
+    {
+      "card_id": 5781,
+      "name": "Darkness Energy (Prize Pack Series 3) (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 6.61,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 20
+    },
+    {
       "card_id": 100018070,
       "name": "Zacian V",
       "set_id": 5500238,
@@ -12901,6 +15769,18 @@
       "market_price_usd": 6.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 61
+    },
+    {
+      "card_id": 5580,
+      "name": "Jirachi - 126/182 (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "126/182",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 6.58,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 26
     },
     {
       "card_id": 17138,
@@ -13011,6 +15891,18 @@
       "total_listings": 115
     },
     {
+      "card_id": 21441,
+      "name": "Lugia VSTAR",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "139/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.48,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 241
+    },
+    {
       "card_id": 35217,
       "name": "Clefable",
       "set_id": 5500053,
@@ -13033,6 +15925,18 @@
       "market_price_usd": 6.47,
       "market_price_as_of": "2026-10-10",
       "total_listings": 410
+    },
+    {
+      "card_id": 5635,
+      "name": "Ceruledge ex - 036/191",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "036/191",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.47,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 57
     },
     {
       "card_id": 20242,
@@ -13107,6 +16011,18 @@
       "total_listings": 220
     },
     {
+      "card_id": 5700,
+      "name": "Ultra Ball - 150/172",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "150/172",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 6.39,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 35
+    },
+    {
       "card_id": 18728,
       "name": "Levincia",
       "set_id": 5500009,
@@ -13117,6 +16033,18 @@
       "market_price_usd": 6.34,
       "market_price_as_of": "2026-10-10",
       "total_listings": 302
+    },
+    {
+      "card_id": 5793,
+      "name": "Latias - 193/264",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "193/264",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.34,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 11
     },
     {
       "card_id": 100018061,
@@ -13179,6 +16107,18 @@
       "total_listings": 408
     },
     {
+      "card_id": 6040,
+      "name": "Fire Energy (Prize Pack Series 1)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": null,
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 6.3,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 43
+    },
+    {
       "card_id": 16011,
       "name": "Ferrothorn - 209/182",
       "set_id": 5500212,
@@ -13189,6 +16129,18 @@
       "market_price_usd": 6.29,
       "market_price_as_of": "2026-10-12",
       "total_listings": 139
+    },
+    {
+      "card_id": 5683,
+      "name": "Cynthia's Garchomp ex - 104/182",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "104/182",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.27,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 48
     },
     {
       "card_id": 13214,
@@ -13237,6 +16189,18 @@
       "market_price_usd": 6.24,
       "market_price_as_of": "2026-10-12",
       "total_listings": 34
+    },
+    {
+      "card_id": 21646,
+      "name": "Furisode Girl (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "205/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.2,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 97
     },
     {
       "card_id": 15786,
@@ -13299,6 +16263,30 @@
       "total_listings": 271
     },
     {
+      "card_id": 5708,
+      "name": "Fezandipiti ex - 038/064 (Series 7)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "038/064",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.12,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 40
+    },
+    {
+      "card_id": 6097,
+      "name": "Hoopa - 111/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "111/189",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.12,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 5
+    },
+    {
       "card_id": 13629,
       "name": "Beheeyem - 121/086",
       "set_id": 5500093,
@@ -13321,6 +16309,18 @@
       "market_price_usd": 6.1,
       "market_price_as_of": "2026-10-12",
       "total_listings": 104
+    },
+    {
+      "card_id": 21631,
+      "name": "Wallace (Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "194/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.09,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 114
     },
     {
       "card_id": 6859,
@@ -13443,6 +16443,18 @@
       "total_listings": 291
     },
     {
+      "card_id": 5945,
+      "name": "Latios - 194/264",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "194/264",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.02,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 17
+    },
+    {
       "card_id": 17109,
       "name": "Alakazam ex",
       "set_id": 5500030,
@@ -13491,6 +16503,18 @@
       "total_listings": 328
     },
     {
+      "card_id": 38121,
+      "name": "Eternatus V",
+      "set_id": 5500130,
+      "set_name": "SWSH11: Lost Origin Trainer Gallery",
+      "number": "TG21/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.98,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 162
+    },
+    {
       "card_id": 16257,
       "name": "Scovillain - 202/198",
       "set_id": 5500032,
@@ -13501,6 +16525,18 @@
       "market_price_usd": 5.97,
       "market_price_as_of": "2026-10-14",
       "total_listings": 250
+    },
+    {
+      "card_id": 21647,
+      "name": "Lance (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "206/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.96,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 128
     },
     {
       "card_id": 7021,
@@ -13537,6 +16573,30 @@
       "market_price_usd": 5.94,
       "market_price_as_of": "2026-10-13",
       "total_listings": 327
+    },
+    {
+      "card_id": 6091,
+      "name": "Rapid Strike Urshifu V - 087/163",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "087/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.94,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 7
+    },
+    {
+      "card_id": 21638,
+      "name": "Serperior VSTAR (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "196/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.92,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 128
     },
     {
       "card_id": 14254,
@@ -13633,6 +16693,18 @@
       "market_price_usd": 5.83,
       "market_price_as_of": "2026-10-14",
       "total_listings": 208
+    },
+    {
+      "card_id": 6037,
+      "name": "Zoroark - 103/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "103/203",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.83,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 17
     },
     {
       "card_id": 15938,
@@ -13815,6 +16887,18 @@
       "total_listings": 149
     },
     {
+      "card_id": 21546,
+      "name": "Serperior VSTAR (Secret) (210)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "210/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.73,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 144
+    },
+    {
       "card_id": 17211,
       "name": "Spiritomb",
       "set_id": 5500030,
@@ -13825,6 +16909,30 @@
       "market_price_usd": 5.72,
       "market_price_as_of": "2026-10-12",
       "total_listings": 113
+    },
+    {
+      "card_id": 2301890,
+      "name": "Hop's Snorlax - 117/159 (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "117/159",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.72,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 16
+    },
+    {
+      "card_id": 38162,
+      "name": "Rockruff",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG07/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.72,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 306
     },
     {
       "card_id": 100018069,
@@ -13899,6 +17007,30 @@
       "total_listings": 320
     },
     {
+      "card_id": 5704,
+      "name": "Sparkling Crystal - 142/142",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "142/142",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.67,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 54
+    },
+    {
+      "card_id": 5875,
+      "name": "Ludicolo - 034/203",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "034/203",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.67,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 11
+    },
+    {
       "card_id": 18035,
       "name": "Clobbopus - 207/191",
       "set_id": 5500180,
@@ -13933,6 +17065,18 @@
       "market_price_usd": 5.62,
       "market_price_as_of": "2026-10-14",
       "total_listings": 198
+    },
+    {
+      "card_id": 5969,
+      "name": "Origin Forme Dialga V - 113/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "113/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.62,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 13
     },
     {
       "card_id": 13438,
@@ -13993,6 +17137,18 @@
       "market_price_usd": 5.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 520
+    },
+    {
+      "card_id": 5534,
+      "name": "Dodrio - 085/165 (Cosmos Holo)",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "085/165",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.59,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 73
     },
     {
       "card_id": 6850,
@@ -14079,6 +17235,18 @@
       "total_listings": 357
     },
     {
+      "card_id": 24129,
+      "name": "Friends in Hisui (Full Art)",
+      "set_id": 5500217,
+      "set_name": "SWSH: Crown Zenith",
+      "number": "148/159",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.54,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 226
+    },
+    {
       "card_id": 18407,
       "name": "Greninja ex - 054",
       "set_id": 5500070,
@@ -14163,6 +17331,30 @@
       "total_listings": 365
     },
     {
+      "card_id": 21526,
+      "name": "Hisuian Arcanine V (Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "179/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.43,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 118
+    },
+    {
+      "card_id": 6108,
+      "name": "Energy Search Pro - 176/191",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "176/191",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.43,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 60
+    },
+    {
       "card_id": 2133475,
       "name": "Chimchar - 041",
       "set_id": 5500111,
@@ -14223,6 +17415,42 @@
       "total_listings": 379
     },
     {
+      "card_id": 21648,
+      "name": "Candice (Secret)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "204/195",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.4,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 127
+    },
+    {
+      "card_id": 5488,
+      "name": "Mist Energy - 161/162",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "161/162",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 5.39,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 62
+    },
+    {
+      "card_id": 6046,
+      "name": "Kyurem V - 048/196",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "048/196",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.39,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 6
+    },
+    {
       "card_id": 16014,
       "name": "Crustle - 183/182",
       "set_id": 5500212,
@@ -14245,6 +17473,18 @@
       "market_price_usd": 5.38,
       "market_price_as_of": "2026-10-09",
       "total_listings": 967
+    },
+    {
+      "card_id": 6116,
+      "name": "Evolution Incense - 163/202",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "163/202",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.38,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 10
     },
     {
       "card_id": 6935,
@@ -14331,6 +17571,18 @@
       "total_listings": 580
     },
     {
+      "card_id": 38168,
+      "name": "Braixen",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG01/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.3,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 334
+    },
+    {
       "card_id": 18329,
       "name": "Cinderace ex - 163",
       "set_id": 5500070,
@@ -14352,6 +17604,54 @@
       "printing": "Holofoil",
       "market_price_usd": 5.29,
       "market_price_as_of": "2026-10-14",
+      "total_listings": 65
+    },
+    {
+      "card_id": 5614,
+      "name": "Ditto - 107/159",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "107/159",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.29,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 47
+    },
+    {
+      "card_id": 5767,
+      "name": "Team Rocket's Crobat ex - 122/182",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "122/182",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.29,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 73
+    },
+    {
+      "card_id": 5891,
+      "name": "Galarian Mr. Rime - 036/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "036/189",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.29,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 12
+    },
+    {
+      "card_id": 5907,
+      "name": "Brilliant Blender - 164/191",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "164/191",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.29,
+      "market_price_as_of": "2026-10-15",
       "total_listings": 65
     },
     {
@@ -14427,6 +17727,18 @@
       "total_listings": 360
     },
     {
+      "card_id": 5726,
+      "name": "Mega Absol ex - 086/132",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "086/132",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.23,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 56
+    },
+    {
       "card_id": 100018055,
       "name": "Morpeko - 135/128",
       "set_id": 5500219,
@@ -14487,6 +17799,18 @@
       "total_listings": 422
     },
     {
+      "card_id": 5835,
+      "name": "Mega Gardevoir ex - 060/132",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "060/132",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.17,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 57
+    },
+    {
       "card_id": 16262,
       "name": "Gardevoir ex - 228/198",
       "set_id": 5500032,
@@ -14497,6 +17821,30 @@
       "market_price_usd": 5.16,
       "market_price_as_of": "2026-10-14",
       "total_listings": 236
+    },
+    {
+      "card_id": 5765,
+      "name": "Ethan's Ho-Oh ex - 039/182",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "039/182",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.16,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 54
+    },
+    {
+      "card_id": 21552,
+      "name": "Candice (Full Art)",
+      "set_id": 5500161,
+      "set_name": "SWSH12: Silver Tempest",
+      "number": "189/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.15,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 210
     },
     {
       "card_id": 13774,
@@ -14535,6 +17883,18 @@
       "total_listings": 348
     },
     {
+      "card_id": 5456,
+      "name": "Hop's Snorlax - 117/159",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "117/159",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.14,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 97
+    },
+    {
       "card_id": 6925,
       "name": "Mightyena - 243/217",
       "set_id": 5500112,
@@ -14559,6 +17919,18 @@
       "total_listings": 551
     },
     {
+      "card_id": 38170,
+      "name": "Altaria",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG11/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.13,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 284
+    },
+    {
       "card_id": 20157,
       "name": "Secret Box",
       "set_id": 5500051,
@@ -14569,6 +17941,18 @@
       "market_price_usd": 5.12,
       "market_price_as_of": "2026-10-11",
       "total_listings": 451
+    },
+    {
+      "card_id": 38180,
+      "name": "Kricketune V",
+      "set_id": 5500197,
+      "set_name": "SWSH12: Silver Tempest Trainer Gallery",
+      "number": "TG12/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.09,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 145
     },
     {
       "card_id": 13434,
@@ -14593,6 +17977,18 @@
       "market_price_usd": 5.08,
       "market_price_as_of": "2026-10-09",
       "total_listings": 717
+    },
+    {
+      "card_id": 6169,
+      "name": "Ordinary Rod - 171/202",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "171/202",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 5.08,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 22
     },
     {
       "card_id": 16280,
@@ -14655,6 +18051,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 2301886,
+      "name": "Gengar - 050/088",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "050/088",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.04,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 61
+    },
+    {
       "card_id": 16266,
       "name": "Toedscool - 201/198",
       "set_id": 5500032,
@@ -14677,6 +18085,18 @@
       "market_price_usd": 5.02,
       "market_price_as_of": "2026-10-09",
       "total_listings": 334
+    },
+    {
+      "card_id": 6069,
+      "name": "Starmie V - 030/189",
+      "set_id": 5500194,
+      "set_name": "Prize Pack Series Cards",
+      "number": "030/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-10-15",
+      "total_listings": 16
     }
   ]
 }
