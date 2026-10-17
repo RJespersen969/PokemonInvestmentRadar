@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-16T08:02:47.185996+00:00",
+  "generated_at": "2026-10-17T07:55:02.198660+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 50,
+  "next_set_index": 55,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 8,
-  "total_candidates": 1556,
-  "cards_with_price_history": 7912,
+  "api_calls": 13,
+  "total_candidates": 1647,
+  "cards_with_price_history": 8776,
   "candidates": [
     {
       "card_id": 18754,
@@ -25,6 +25,18 @@
       "market_price_usd": 195.91,
       "market_price_as_of": "2026-10-10",
       "total_listings": 172
+    },
+    {
+      "card_id": 21380,
+      "name": "Machamp V (Alternate Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "172/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 191.87,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 65
     },
     {
       "card_id": 6032,
@@ -747,6 +759,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 15145,
+      "name": "Mew V (Alternate Full Art)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "251/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 102.48,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 88
+    },
+    {
       "card_id": 2119586,
       "name": "Mega Zygarde ex - 124/088",
       "set_id": 5500047,
@@ -819,6 +843,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 38154,
+      "name": "Umbreon VMAX",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG23/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 96.74,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 129
+    },
+    {
       "card_id": 36756,
       "name": "Origin Forme Palkia VSTAR (Secret)",
       "set_id": 5500218,
@@ -829,6 +865,18 @@
       "market_price_usd": 96.34,
       "market_price_as_of": "2026-10-14",
       "total_listings": 114
+    },
+    {
+      "card_id": 15121,
+      "name": "Mew VMAX (Secret)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "268/264",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 95.53,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 65
     },
     {
       "card_id": 5940,
@@ -1035,6 +1083,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 21287,
+      "name": "Origin Forme Palkia V (Alternate Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "167/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 83.41,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 81
+    },
+    {
       "card_id": 21878,
       "name": "Zapdos ex - 202/165",
       "set_id": 5500171,
@@ -1057,6 +1117,18 @@
       "market_price_usd": 82.7,
       "market_price_as_of": "2026-10-09",
       "total_listings": 105
+    },
+    {
+      "card_id": 38155,
+      "name": "Mimikyu V",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG16/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 82.54,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 104
     },
     {
       "card_id": 18345,
@@ -1093,6 +1165,18 @@
       "market_price_usd": 82.13,
       "market_price_as_of": "2026-10-14",
       "total_listings": 172
+    },
+    {
+      "card_id": 14938,
+      "name": "Celebi V (Alternate Full Art)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "245/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 82.02,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 104
     },
     {
       "card_id": 18428,
@@ -1263,6 +1347,18 @@
       "total_listings": 86
     },
     {
+      "card_id": 38160,
+      "name": "Mimikyu VMAX",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG17/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 73.76,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 99
+    },
+    {
       "card_id": 4447,
       "name": "Play! Pokemon Prize Pack Series One",
       "set_id": 5500194,
@@ -1275,6 +1371,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 21291,
+      "name": "Beedrill V (Alternate Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "161/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 73.22,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 103
+    },
+    {
       "card_id": 14461,
       "name": "Keldeo ex - 167/086",
       "set_id": 5500153,
@@ -1285,6 +1393,18 @@
       "market_price_usd": 73.14,
       "market_price_as_of": "2026-10-09",
       "total_listings": 97
+    },
+    {
+      "card_id": 38159,
+      "name": "Sylveon V",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG14/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 73.13,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 120
     },
     {
       "card_id": 23566,
@@ -1357,6 +1477,18 @@
       "market_price_usd": 71.25,
       "market_price_as_of": "2026-10-11",
       "total_listings": 146
+    },
+    {
+      "card_id": 38148,
+      "name": "Umbreon V",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG22/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 71.1,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 120
     },
     {
       "card_id": 15727,
@@ -1539,6 +1671,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 23008,
+      "name": "Charizard VSTAR (Secret)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "174/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 66.04,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 132
+    },
+    {
       "card_id": 36755,
       "name": "Glaceon VSTAR",
       "set_id": 5500218,
@@ -1549,6 +1693,18 @@
       "market_price_usd": 65.73,
       "market_price_as_of": "2026-10-14",
       "total_listings": 95
+    },
+    {
+      "card_id": 38145,
+      "name": "Sylveon VMAX",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG15/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.54,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 106
     },
     {
       "card_id": 18463,
@@ -1789,6 +1945,30 @@
       "market_price_usd": 61.33,
       "market_price_as_of": "2026-10-15",
       "total_listings": 6
+    },
+    {
+      "card_id": 21361,
+      "name": "Origin Forme Dialga V (Alternate Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "177/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 61.21,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 103
+    },
+    {
+      "card_id": 23005,
+      "name": "Arceus V (Alternate Full Art)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "166/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 60.17,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 102
     },
     {
       "card_id": 38860,
@@ -3195,6 +3375,18 @@
       "total_listings": 152
     },
     {
+      "card_id": 14891,
+      "name": "Gengar VMAX",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "157/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.07,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 215
+    },
+    {
       "card_id": 14375,
       "name": "Zorua - 142/086",
       "set_id": 5500153,
@@ -3783,6 +3975,18 @@
       "total_listings": 191
     },
     {
+      "card_id": 21367,
+      "name": "Hisuian Sneasler V (Alternate Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "175/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.69,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 69
+    },
+    {
       "card_id": 18181,
       "name": "Hydreigon ex - 240/191",
       "set_id": 5500180,
@@ -3973,6 +4177,18 @@
       "market_price_usd": 34.26,
       "market_price_as_of": "2026-10-11",
       "total_listings": 137
+    },
+    {
+      "card_id": 15037,
+      "name": "Mew V (Full Art)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "250/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.03,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 68
     },
     {
       "card_id": 6138,
@@ -4201,6 +4417,18 @@
       "market_price_usd": 32.25,
       "market_price_as_of": "2026-10-09",
       "total_listings": 304
+    },
+    {
+      "card_id": 23001,
+      "name": "Charizard V (Full Art)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "153/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.1,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 139
     },
     {
       "card_id": 13767,
@@ -5199,6 +5427,18 @@
       "total_listings": 162
     },
     {
+      "card_id": 21274,
+      "name": "Hisuian Lilligant V (Alternate Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "163/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.82,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 80
+    },
+    {
       "card_id": 19224,
       "name": "Rotom V (Alternate Full Art)",
       "set_id": 5500024,
@@ -5367,6 +5607,18 @@
       "total_listings": 356
     },
     {
+      "card_id": 15115,
+      "name": "Inteleon VMAX (Alternate Art Secret)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "266/264",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.18,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 113
+    },
+    {
       "card_id": 14401,
       "name": "Zebstrika - 115/086",
       "set_id": 5500153,
@@ -5413,6 +5665,30 @@
       "market_price_usd": 25.8,
       "market_price_as_of": "2026-10-15",
       "total_listings": 130
+    },
+    {
+      "card_id": 23003,
+      "name": "Pikachu V (Full Art)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "157/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.79,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 139
+    },
+    {
+      "card_id": 15001,
+      "name": "Genesect V (Alternate Full Art)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "255/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.68,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 128
     },
     {
       "card_id": 18481,
@@ -5533,6 +5809,18 @@
       "market_price_usd": 25.08,
       "market_price_as_of": "2026-10-10",
       "total_listings": 238
+    },
+    {
+      "card_id": 21319,
+      "name": "Jirachi V (Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "170/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.08,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 68
     },
     {
       "card_id": 14335,
@@ -5967,6 +6255,18 @@
       "total_listings": 137
     },
     {
+      "card_id": 38132,
+      "name": "Vaporeon",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG02/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.01,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 267
+    },
+    {
       "card_id": 2298759,
       "name": "Dusclops - 019/064 (GYM)",
       "set_id": 5500237,
@@ -6255,6 +6555,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 23062,
+      "name": "Galarian Moltres V (Secret)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "183/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.96,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 111
+    },
+    {
       "card_id": 6153,
       "name": "Garchomp - 109/172",
       "set_id": 5500194,
@@ -6505,6 +6817,18 @@
       "market_price_usd": 21.06,
       "market_price_as_of": "2026-10-13",
       "total_listings": 368
+    },
+    {
+      "card_id": 38133,
+      "name": "Flareon",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG01/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.05,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 288
     },
     {
       "card_id": 13451,
@@ -7479,6 +7803,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 23018,
+      "name": "Arceus VSTAR (Secret) (184)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "184/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.44,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 57
+    },
+    {
       "card_id": 7129,
       "name": "Surfer - 293/217",
       "set_id": 5500112,
@@ -7767,6 +8103,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 38136,
+      "name": "Eevee",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG11/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.58,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 337
+    },
+    {
       "card_id": 5587,
       "name": "Leafeon ex - 006/131",
       "set_id": 5500194,
@@ -7801,6 +8149,18 @@
       "market_price_usd": 17.44,
       "market_price_as_of": "2026-10-12",
       "total_listings": 163
+    },
+    {
+      "card_id": 21397,
+      "name": "Machamp VMAX (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "194/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.44,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 68
     },
     {
       "card_id": 15718,
@@ -7885,6 +8245,18 @@
       "market_price_usd": 17.35,
       "market_price_as_of": "2026-10-09",
       "total_listings": 29
+    },
+    {
+      "card_id": 38141,
+      "name": "Jolteon",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG04/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.3,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 311
     },
     {
       "card_id": 6124,
@@ -8331,6 +8703,18 @@
       "total_listings": 276
     },
     {
+      "card_id": 21389,
+      "name": "Origin Forme Dialga VSTAR - 198/189 (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "198/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.44,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 78
+    },
+    {
       "card_id": 13626,
       "name": "Timburr - 125/086",
       "set_id": 5500093,
@@ -8461,6 +8845,18 @@
       "market_price_usd": 16.21,
       "market_price_as_of": "2026-10-09",
       "total_listings": 139
+    },
+    {
+      "card_id": 21369,
+      "name": "Hisuian Typhlosion VSTAR (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "193/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.17,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 40
     },
     {
       "card_id": 14478,
@@ -8787,6 +9183,18 @@
       "total_listings": 243
     },
     {
+      "card_id": 14885,
+      "name": "Mew VMAX",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "114/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.65,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 257
+    },
+    {
       "card_id": 35202,
       "name": "Squirtle",
       "set_id": 5500053,
@@ -8809,6 +9217,18 @@
       "market_price_usd": 15.59,
       "market_price_as_of": "2026-10-16",
       "total_listings": 171
+    },
+    {
+      "card_id": 23030,
+      "name": "Galarian Zapdos V (Secret)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "182/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.55,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 116
     },
     {
       "card_id": 14376,
@@ -9003,6 +9423,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 21394,
+      "name": "Origin Forme Palkia VSTAR (Secret) (192)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "192/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.29,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 73
+    },
+    {
       "card_id": 5882,
       "name": "Entei V - 022/172",
       "set_id": 5500194,
@@ -9123,6 +9555,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 23015,
+      "name": "Arceus VSTAR (Secret) (176)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "176/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.06,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 114
+    },
+    {
       "card_id": 20149,
       "name": "Unfair Stamp",
       "set_id": 5500051,
@@ -9207,6 +9651,18 @@
       "total_listings": 237
     },
     {
+      "card_id": 15122,
+      "name": "Chandelure VMAX (Secret)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "265/264",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.85,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 30
+    },
+    {
       "card_id": 20278,
       "name": "Phione - 175/167",
       "set_id": 5500051,
@@ -9289,6 +9745,18 @@
       "market_price_usd": 14.75,
       "market_price_as_of": "2026-10-15",
       "total_listings": 47
+    },
+    {
+      "card_id": 23012,
+      "name": "Lumineon V (Alternate Full Art)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "156/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.74,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 108
     },
     {
       "card_id": 15964,
@@ -9519,6 +9987,18 @@
       "total_listings": 605
     },
     {
+      "card_id": 38156,
+      "name": "Boltund V",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG13/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.24,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 160
+    },
+    {
       "card_id": 20232,
       "name": "Applin - 185/167",
       "set_id": 5500051,
@@ -9589,6 +10069,18 @@
       "market_price_usd": 14.12,
       "market_price_as_of": "2026-10-14",
       "total_listings": 168
+    },
+    {
+      "card_id": 15008,
+      "name": "Greedent V (Alternate Full Art)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "257/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.11,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 138
     },
     {
       "card_id": 21833,
@@ -9709,6 +10201,18 @@
       "market_price_usd": 13.92,
       "market_price_as_of": "2026-10-15",
       "total_listings": 114
+    },
+    {
+      "card_id": 22954,
+      "name": "Ultra Ball (Secret)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "186/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.89,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 207
     },
     {
       "card_id": 14509,
@@ -9903,6 +10407,18 @@
       "total_listings": 239
     },
     {
+      "card_id": 22936,
+      "name": "Mimikyu VMAX",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "069/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.48,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 188
+    },
+    {
       "card_id": 5842,
       "name": "Battle VIP Pass - 225/264",
       "set_id": 5500194,
@@ -10045,6 +10561,30 @@
       "market_price_usd": 13.31,
       "market_price_as_of": "2026-10-09",
       "total_listings": 41
+    },
+    {
+      "card_id": 23044,
+      "name": "Galarian Articuno V (Secret)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "181/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.3,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 124
+    },
+    {
+      "card_id": 21375,
+      "name": "Origin Forme Dialga VSTAR - 210/189 (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "210/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.24,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 75
     },
     {
       "card_id": 14522,
@@ -10491,6 +11031,18 @@
       "total_listings": 147
     },
     {
+      "card_id": 21301,
+      "name": "Origin Forme Palkia VSTAR (Secret) (208)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "208/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.57,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 73
+    },
+    {
       "card_id": 5955,
       "name": "Zamazenta V - 105/172",
       "set_id": 5500194,
@@ -10717,6 +11269,18 @@
       "market_price_usd": 12.26,
       "market_price_as_of": "2026-10-09",
       "total_listings": 127
+    },
+    {
+      "card_id": 38135,
+      "name": "Zekrom",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG05/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.26,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 289
     },
     {
       "card_id": 14511,
@@ -11067,6 +11631,18 @@
       "total_listings": 93
     },
     {
+      "card_id": 23028,
+      "name": "Honchkrow V (Alternate Full Art)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "162/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.91,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 151
+    },
+    {
       "card_id": 14518,
       "name": "Liepard (Master Ball Pattern)",
       "set_id": 5500153,
@@ -11247,6 +11823,18 @@
       "total_listings": 321
     },
     {
+      "card_id": 22939,
+      "name": "Charizard VSTAR",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "018/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.71,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 186
+    },
+    {
       "card_id": 24109,
       "name": "Rayquaza VMAX (102)",
       "set_id": 5500217,
@@ -11353,6 +11941,18 @@
       "market_price_usd": 11.63,
       "market_price_as_of": "2026-10-09",
       "total_listings": 272
+    },
+    {
+      "card_id": 21373,
+      "name": "Path to the Peak (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "213/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.62,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 55
     },
     {
       "card_id": 5592,
@@ -11619,6 +12219,18 @@
       "total_listings": 153
     },
     {
+      "card_id": 14884,
+      "name": "Gengar V",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "156/264",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.31,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 158
+    },
+    {
       "card_id": 25192,
       "name": "Zeraora - 151/142",
       "set_id": 5500045,
@@ -11665,6 +12277,18 @@
       "market_price_usd": 11.2,
       "market_price_as_of": "2026-10-15",
       "total_listings": 139
+    },
+    {
+      "card_id": 21379,
+      "name": "Machamp V (Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "171/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.19,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 77
     },
     {
       "card_id": 14513,
@@ -12375,6 +12999,18 @@
       "total_listings": 341
     },
     {
+      "card_id": 22975,
+      "name": "Cynthia's Ambition (Full Art)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "169/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.37,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 201
+    },
+    {
       "card_id": 23467,
       "name": "Marshadow - 146/132",
       "set_id": 5500179,
@@ -12435,6 +13071,18 @@
       "total_listings": 206
     },
     {
+      "card_id": 21352,
+      "name": "Garchomp V (Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "178/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.33,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 112
+    },
+    {
       "card_id": 18084,
       "name": "Gravity Mountain - 250/191",
       "set_id": 5500180,
@@ -12481,6 +13129,18 @@
       "market_price_usd": 10.26,
       "market_price_as_of": "2026-10-09",
       "total_listings": 107
+    },
+    {
+      "card_id": 23021,
+      "name": "Arceus V (Full Art)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "165/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.26,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 88
     },
     {
       "card_id": 13418,
@@ -12699,6 +13359,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 38158,
+      "name": "Rapid Strike Urshifu VMAX",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG21/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.94,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 129
+    },
+    {
       "card_id": 5905,
       "name": "Crushing Hammer - 159/202",
       "set_id": 5500194,
@@ -12853,6 +13525,18 @@
       "market_price_usd": 9.75,
       "market_price_as_of": "2026-10-15",
       "total_listings": 156
+    },
+    {
+      "card_id": 22979,
+      "name": "Marnie's Pride (Full Art)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "171/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.73,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 236
     },
     {
       "card_id": 6111,
@@ -13695,6 +14379,18 @@
       "total_listings": 392
     },
     {
+      "card_id": 21386,
+      "name": "Hisuian Samurott VSTAR (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "197/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.91,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 88
+    },
+    {
       "card_id": 18225,
       "name": "Eevee - 173",
       "set_id": 5500070,
@@ -13767,6 +14463,18 @@
       "total_listings": 225
     },
     {
+      "card_id": 38153,
+      "name": "Acerola's Premonition",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG24/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.84,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 123
+    },
+    {
       "card_id": 18245,
       "name": "N's Zorua - 189",
       "set_id": 5500070,
@@ -13837,6 +14545,18 @@
       "market_price_usd": 8.76,
       "market_price_as_of": "2026-10-12",
       "total_listings": 152
+    },
+    {
+      "card_id": 21378,
+      "name": "Irida (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "204/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.76,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 92
     },
     {
       "card_id": 21630,
@@ -14041,6 +14761,18 @@
       "market_price_usd": 8.61,
       "market_price_as_of": "2026-10-15",
       "total_listings": 77
+    },
+    {
+      "card_id": 21370,
+      "name": "Hisuian Samurott VSTAR (Secret) (209)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "209/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.6,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 81
     },
     {
       "card_id": 18412,
@@ -14319,6 +15051,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 21396,
+      "name": "Kleavor VSTAR (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "196/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.32,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 70
+    },
+    {
       "card_id": 2136202,
       "name": "Doublade - 067",
       "set_id": 5500111,
@@ -14377,6 +15121,18 @@
       "market_price_usd": 8.27,
       "market_price_as_of": "2026-10-12",
       "total_listings": 5
+    },
+    {
+      "card_id": 38151,
+      "name": "Single Strike Urshifu VMAX",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG19/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.25,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 134
     },
     {
       "card_id": 6943,
@@ -14739,6 +15495,18 @@
       "total_listings": 131
     },
     {
+      "card_id": 21382,
+      "name": "Hisuian Decidueye VSTAR (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "195/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.96,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 124
+    },
+    {
       "card_id": 2302400,
       "name": "Boss's Orders [Cyrus] - 132/172 (Cosmos Holo)",
       "set_id": 5500194,
@@ -14761,6 +15529,18 @@
       "market_price_usd": 7.94,
       "market_price_as_of": "2026-10-13",
       "total_listings": 494
+    },
+    {
+      "card_id": 21395,
+      "name": "Hisuian Lilligant VSTAR (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "190/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.93,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 89
     },
     {
       "card_id": 36734,
@@ -14859,6 +15639,30 @@
       "total_listings": 104
     },
     {
+      "card_id": 22924,
+      "name": "Charizard V",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "017/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.85,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 244
+    },
+    {
+      "card_id": 14994,
+      "name": "Flaaffy (Secret)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "280/264",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.84,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 118
+    },
+    {
       "card_id": 18036,
       "name": "Castform Sunny Form - 195/191",
       "set_id": 5500180,
@@ -14893,6 +15697,18 @@
       "market_price_usd": 7.81,
       "market_price_as_of": "2026-10-10",
       "total_listings": 304
+    },
+    {
+      "card_id": 21289,
+      "name": "Irida (Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "186/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.79,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 198
     },
     {
       "card_id": 18401,
@@ -14965,6 +15781,18 @@
       "market_price_usd": 7.73,
       "market_price_as_of": "2026-10-12",
       "total_listings": 27
+    },
+    {
+      "card_id": 15093,
+      "name": "Greedent VMAX (Secret)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "272/264",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.72,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 95
     },
     {
       "card_id": 35199,
@@ -15243,6 +16071,18 @@
       "total_listings": 173
     },
     {
+      "card_id": 15137,
+      "name": "Boltund VMAX (Secret)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "267/264",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.51,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 91
+    },
+    {
       "card_id": 19060,
       "name": "Pikachu",
       "set_id": 5500024,
@@ -15459,6 +16299,18 @@
       "total_listings": 132
     },
     {
+      "card_id": 21381,
+      "name": "Heatran VMAX (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "191/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.31,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 75
+    },
+    {
       "card_id": 2299642,
       "name": "Cyndaquil - 047",
       "set_id": 5500111,
@@ -15567,6 +16419,18 @@
       "total_listings": 277
     },
     {
+      "card_id": 21226,
+      "name": "Machamp VMAX",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "073/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.18,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 196
+    },
+    {
       "card_id": 20258,
       "name": "Sunflora - 169/167",
       "set_id": 5500051,
@@ -15673,6 +16537,18 @@
       "market_price_usd": 7.11,
       "market_price_as_of": "2026-10-09",
       "total_listings": 142
+    },
+    {
+      "card_id": 38131,
+      "name": "Dedenne",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG07/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.09,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 326
     },
     {
       "card_id": 13414,
@@ -15817,6 +16693,18 @@
       "market_price_usd": 6.99,
       "market_price_as_of": "2026-10-13",
       "total_listings": 340
+    },
+    {
+      "card_id": 21282,
+      "name": "Gardenia's Vigor (Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "184/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.98,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 171
     },
     {
       "card_id": 5810,
@@ -16177,6 +17065,18 @@
       "market_price_usd": 6.64,
       "market_price_as_of": "2026-10-12",
       "total_listings": 112
+    },
+    {
+      "card_id": 14942,
+      "name": "Grass Energy (Secret)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "283/264",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.63,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 140
     },
     {
       "card_id": 20200,
@@ -16743,6 +17643,30 @@
       "total_listings": 38
     },
     {
+      "card_id": 21314,
+      "name": "Luxray V (Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "168/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.16,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 135
+    },
+    {
+      "card_id": 23020,
+      "name": "Shaymin VSTAR (Secret)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "173/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.16,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 171
+    },
+    {
       "card_id": 30096,
       "name": "Colress's Tenacity - 087/064",
       "set_id": 5500139,
@@ -16849,6 +17773,18 @@
       "market_price_usd": 6.08,
       "market_price_as_of": "2026-10-14",
       "total_listings": 52
+    },
+    {
+      "card_id": 21333,
+      "name": "Roxanne (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "206/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.08,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 112
     },
     {
       "card_id": 21879,
@@ -17043,6 +17979,18 @@
       "total_listings": 250
     },
     {
+      "card_id": 23034,
+      "name": "Raichu V (Full Art)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "158/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.97,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 120
+    },
+    {
       "card_id": 21647,
       "name": "Lance (Secret)",
       "set_id": 5500161,
@@ -17163,6 +18111,18 @@
       "total_listings": 520
     },
     {
+      "card_id": 22988,
+      "name": "Cynthia's Ambition (Secret)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "178/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.88,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 181
+    },
+    {
       "card_id": 30099,
       "name": "Janine's Secret Art - 088/064",
       "set_id": 5500139,
@@ -17185,6 +18145,30 @@
       "market_price_usd": 5.86,
       "market_price_as_of": "2026-10-14",
       "total_listings": 317
+    },
+    {
+      "card_id": 21341,
+      "name": "Hisuian Typhlosion V (Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "169/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.86,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 106
+    },
+    {
+      "card_id": 22925,
+      "name": "Arceus VSTAR",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "123/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.85,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 199
     },
     {
       "card_id": 13603,
@@ -17353,6 +18337,18 @@
       "market_price_usd": 5.76,
       "market_price_as_of": "2026-10-12",
       "total_listings": 105
+    },
+    {
+      "card_id": 21377,
+      "name": "Gardenia's Vigor (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "202/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.76,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 103
     },
     {
       "card_id": 13433,
@@ -17547,6 +18543,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 15119,
+      "name": "Elesa's Sparkle (Secret)",
+      "set_id": 5500208,
+      "set_name": "SWSH08: Fusion Strike",
+      "number": "275/264",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.63,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 131
+    },
+    {
       "card_id": 18035,
       "name": "Clobbopus - 207/191",
       "set_id": 5500180,
@@ -17605,6 +18613,18 @@
       "market_price_usd": 5.61,
       "market_price_as_of": "2026-10-10",
       "total_listings": 68
+    },
+    {
+      "card_id": 23006,
+      "name": "Whimsicott VSTAR (Secret)",
+      "set_id": 5500201,
+      "set_name": "SWSH09: Brilliant Stars",
+      "number": "175/172",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.61,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 140
     },
     {
       "card_id": 20225,
@@ -17773,6 +18793,30 @@
       "market_price_usd": 5.5,
       "market_price_as_of": "2026-10-14",
       "total_listings": 216
+    },
+    {
+      "card_id": 29228,
+      "name": "Eevee V - SWSH065 (Eevee Stamped)",
+      "set_id": 5500010,
+      "set_name": "Battle Academy 2022",
+      "number": "SWSH065",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.5,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 71
+    },
+    {
+      "card_id": 21321,
+      "name": "Temple of Sinnoh (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "214/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.49,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 97
     },
     {
       "card_id": 15915,
@@ -18099,6 +19143,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 38149,
+      "name": "Gloria",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG26/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 211
+    },
+    {
       "card_id": 17936,
       "name": "Latias ex - 076/191",
       "set_id": 5500180,
@@ -18145,6 +19201,18 @@
       "market_price_usd": 5.29,
       "market_price_as_of": "2026-10-14",
       "total_listings": 65
+    },
+    {
+      "card_id": 21383,
+      "name": "Adaman (Secret)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "199/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.29,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 136
     },
     {
       "card_id": 5614,
@@ -18531,6 +19599,18 @@
       "total_listings": 451
     },
     {
+      "card_id": 21356,
+      "name": "Hisuian Sneasler V (Full Art)",
+      "set_id": 5500099,
+      "set_name": "SWSH10: Astral Radiance",
+      "number": "174/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.11,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 88
+    },
+    {
       "card_id": 38180,
       "name": "Kricketune V",
       "set_id": 5500197,
@@ -18649,6 +19729,18 @@
       "market_price_usd": 5.04,
       "market_price_as_of": "2026-10-15",
       "total_listings": 61
+    },
+    {
+      "card_id": 38147,
+      "name": "Single Strike Urshifu V",
+      "set_id": 5500144,
+      "set_name": "SWSH09: Brilliant Stars Trainer Gallery",
+      "number": "TG18/TG30",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.03,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 180
     },
     {
       "card_id": 16266,
