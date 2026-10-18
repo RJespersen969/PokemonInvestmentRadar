@@ -1,19 +1,31 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-17T07:55:02.198660+00:00",
+  "generated_at": "2026-10-18T07:54:18.445849+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 55,
+  "next_set_index": 60,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 13,
-  "total_candidates": 1647,
-  "cards_with_price_history": 8776,
+  "api_calls": 11,
+  "total_candidates": 1803,
+  "cards_with_price_history": 9486,
   "candidates": [
+    {
+      "card_id": 17849,
+      "name": "Sylveon V (Alternate Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "184/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 196.14,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 51
+    },
     {
       "card_id": 18754,
       "name": "Cynthia's Garchomp ex - 232/182",
@@ -315,6 +327,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 17853,
+      "name": "Glaceon V (Alternate Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "175/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 152.31,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 70
+    },
+    {
       "card_id": 6157,
       "name": "Inteleon VMAX - 079/264",
       "set_id": 5500194,
@@ -375,6 +399,30 @@
       "total_listings": 119
     },
     {
+      "card_id": 38295,
+      "name": "Charizard",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "4/102",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 142.79,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 175
+    },
+    {
+      "card_id": 19001,
+      "name": "Snorlax (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "224/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 142.02,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 29
+    },
+    {
       "card_id": 6171,
       "name": "Togekiss VMAX - 141/185",
       "set_id": 5500194,
@@ -409,6 +457,18 @@
       "market_price_usd": 140.97,
       "market_price_as_of": "2026-10-09",
       "total_listings": 101
+    },
+    {
+      "card_id": 17818,
+      "name": "Leafeon V (Alternate Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "167/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 140.7,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 59
     },
     {
       "card_id": 100009842,
@@ -639,6 +699,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 18932,
+      "name": "Galarian Slowking V (Alternate Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "179/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 113.52,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 30
+    },
+    {
       "card_id": 5942,
       "name": "Radiant Alakazam - 059/195",
       "set_id": 5500194,
@@ -697,6 +769,18 @@
       "market_price_usd": 109.84,
       "market_price_as_of": "2026-10-15",
       "total_listings": 7
+    },
+    {
+      "card_id": 17872,
+      "name": "Rayquaza VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "217/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 109.07,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 63
     },
     {
       "card_id": 18188,
@@ -891,6 +975,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 19012,
+      "name": "Zeraora V (Alternate Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "166/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 94.72,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 50
+    },
+    {
       "card_id": 20463,
       "name": "Charizard ex - 223/197",
       "set_id": 5500138,
@@ -937,6 +1033,18 @@
       "market_price_usd": 91.92,
       "market_price_as_of": "2026-10-12",
       "total_listings": 153
+    },
+    {
+      "card_id": 19004,
+      "name": "Galarian Rapidash V (Alternate Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "168/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 90.53,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 45
     },
     {
       "card_id": 24023,
@@ -1081,6 +1189,18 @@
       "market_price_usd": 85.07,
       "market_price_as_of": "2026-10-15",
       "total_listings": 6
+    },
+    {
+      "card_id": 17858,
+      "name": "Umbreon VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "214/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 83.47,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 45
     },
     {
       "card_id": 21287,
@@ -1251,6 +1371,30 @@
       "total_listings": 148
     },
     {
+      "card_id": 38288,
+      "name": "Umbreon Star",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "17/17",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 77.46,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 183
+    },
+    {
+      "card_id": 23328,
+      "name": "Rapid Strike Urshifu VMAX (Alternate Art Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "170/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 77.32,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 90
+    },
+    {
       "card_id": 37860,
       "name": "Ceruledge - 014 [Staff]",
       "set_id": 5500111,
@@ -1285,6 +1429,18 @@
       "market_price_usd": 76.29,
       "market_price_as_of": "2026-10-09",
       "total_listings": 82
+    },
+    {
+      "card_id": 17852,
+      "name": "Noivern V (Alternate Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "196/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 75.56,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 68
     },
     {
       "card_id": 6045,
@@ -1417,6 +1573,18 @@
       "market_price_usd": 73.06,
       "market_price_as_of": "2026-10-09",
       "total_listings": 158
+    },
+    {
+      "card_id": 18935,
+      "name": "Galarian Articuno V (Alternate Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "170/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 72.48,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 83
     },
     {
       "card_id": 100034361,
@@ -1671,6 +1839,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 17806,
+      "name": "Rayquaza V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "193/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 66.07,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 74
+    },
+    {
       "card_id": 23008,
       "name": "Charizard VSTAR (Secret)",
       "set_id": 5500201,
@@ -1681,6 +1861,18 @@
       "market_price_usd": 66.04,
       "market_price_as_of": "2026-10-17",
       "total_listings": 132
+    },
+    {
+      "card_id": 19019,
+      "name": "Shadow Rider Calyrex VMAX (Alternate Art Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "205/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.93,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 83
     },
     {
       "card_id": 36755,
@@ -1755,6 +1947,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 18981,
+      "name": "Galarian Zapdos V (Alternate Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "174/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 64.29,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 88
+    },
+    {
       "card_id": 37864,
       "name": "Lunatone - 004 [Staff]",
       "set_id": 5500111,
@@ -1827,6 +2031,18 @@
       "total_listings": 176
     },
     {
+      "card_id": 23261,
+      "name": "Empoleon V (Alternate Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "146/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 62.82,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 79
+    },
+    {
       "card_id": 13772,
       "name": "N's Plan - 170/086",
       "set_id": 5500093,
@@ -1873,6 +2089,18 @@
       "market_price_usd": 61.94,
       "market_price_as_of": "2026-10-15",
       "total_listings": 4
+    },
+    {
+      "card_id": 36499,
+      "name": "Mew (Secret)",
+      "set_id": 5500114,
+      "set_name": "Celebrations",
+      "number": "025/025",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 61.78,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 141
     },
     {
       "card_id": 21885,
@@ -2235,6 +2463,18 @@
       "total_listings": 167
     },
     {
+      "card_id": 17816,
+      "name": "Umbreon V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "188/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.41,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 80
+    },
+    {
       "card_id": 13445,
       "name": "Umbreon (Master Ball Pattern)",
       "set_id": 5500017,
@@ -2257,6 +2497,18 @@
       "market_price_usd": 54.28,
       "market_price_as_of": "2026-10-10",
       "total_listings": 162
+    },
+    {
+      "card_id": 17815,
+      "name": "Sylveon VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "211/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.26,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 41
     },
     {
       "card_id": 100018088,
@@ -2751,6 +3003,18 @@
       "total_listings": 176
     },
     {
+      "card_id": 23241,
+      "name": "Mimikyu V (Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "148/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.43,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 57
+    },
+    {
       "card_id": 36743,
       "name": "Deoxys VSTAR",
       "set_id": 5500218,
@@ -2833,6 +3097,18 @@
       "market_price_usd": 46.73,
       "market_price_as_of": "2026-10-16",
       "total_listings": 111
+    },
+    {
+      "card_id": 17840,
+      "name": "Gyarados VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "207/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 46.64,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 82
     },
     {
       "card_id": 7186,
@@ -3085,6 +3361,18 @@
       "market_price_usd": 44.16,
       "market_price_as_of": "2026-10-09",
       "total_listings": 81
+    },
+    {
+      "card_id": 17878,
+      "name": "Leafeon VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "204/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.71,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 44
     },
     {
       "card_id": 23980,
@@ -3519,6 +3807,18 @@
       "total_listings": 73
     },
     {
+      "card_id": 17814,
+      "name": "Dragonite V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "191/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.06,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 76
+    },
+    {
       "card_id": 18498,
       "name": "Quaquaval - 005 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -3649,6 +3949,18 @@
       "market_price_usd": 39.25,
       "market_price_as_of": "2026-10-15",
       "total_listings": 12
+    },
+    {
+      "card_id": 18898,
+      "name": "Ice Rider Calyrex VMAX (Alternate Art Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "203/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.24,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 65
     },
     {
       "card_id": 18496,
@@ -3831,6 +4143,18 @@
       "total_listings": 142
     },
     {
+      "card_id": 18971,
+      "name": "Blissey V (Alternate Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "183/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.01,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 62
+    },
+    {
       "card_id": 24017,
       "name": "N's Zoroark ex - 185/159",
       "set_id": 5500077,
@@ -3939,6 +4263,18 @@
       "total_listings": 74
     },
     {
+      "card_id": 17835,
+      "name": "Glaceon VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "208/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.55,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 72
+    },
+    {
       "card_id": 20797,
       "name": "Cinccino - 183/162",
       "set_id": 5500066,
@@ -3973,6 +4309,18 @@
       "market_price_usd": 35.81,
       "market_price_as_of": "2026-10-14",
       "total_listings": 191
+    },
+    {
+      "card_id": 17695,
+      "name": "Golurk V (Alternate Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "182/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.8,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 63
     },
     {
       "card_id": 21367,
@@ -4129,6 +4477,18 @@
       "market_price_usd": 34.56,
       "market_price_as_of": "2026-10-09",
       "total_listings": 123
+    },
+    {
+      "card_id": 38290,
+      "name": "M Rayquaza EX",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "76/108",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 34.5,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 187
     },
     {
       "card_id": 15653,
@@ -4297,6 +4657,18 @@
       "market_price_usd": 33.63,
       "market_price_as_of": "2026-10-09",
       "total_listings": 38
+    },
+    {
+      "card_id": 17869,
+      "name": "Sylveon V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "183/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.56,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 55
     },
     {
       "card_id": 18441,
@@ -4503,6 +4875,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 38294,
+      "name": "Shining Magikarp",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "66/64",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 31.71,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 185
+    },
+    {
       "card_id": 30130,
       "name": "Dusknoir - 070/064",
       "set_id": 5500139,
@@ -4597,6 +4981,18 @@
       "market_price_usd": 31.22,
       "market_price_as_of": "2026-10-14",
       "total_listings": 232
+    },
+    {
+      "card_id": 18996,
+      "name": "Blaziken VMAX (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "200/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.11,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 50
     },
     {
       "card_id": 2299711,
@@ -4719,6 +5115,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 23323,
+      "name": "Single Strike Urshifu VMAX (Alternate Art Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "168/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.39,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 89
+    },
+    {
       "card_id": 15944,
       "name": "Gholdengo ex - 252/182",
       "set_id": 5500212,
@@ -4825,6 +5233,18 @@
       "market_price_usd": 29.59,
       "market_price_as_of": "2026-10-10",
       "total_listings": 184
+    },
+    {
+      "card_id": 18939,
+      "name": "Tornadus V (Alternate Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "185/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.51,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 97
     },
     {
       "card_id": 13718,
@@ -4947,6 +5367,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 38281,
+      "name": "______'s Pikachu",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "24/53",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 28.96,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 243
+    },
+    {
       "card_id": 14467,
       "name": "Virizion - 095/086",
       "set_id": 5500153,
@@ -4957,6 +5389,18 @@
       "market_price_usd": 28.95,
       "market_price_as_of": "2026-10-09",
       "total_listings": 66
+    },
+    {
+      "card_id": 17663,
+      "name": "Umbreon VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "095/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.77,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 138
     },
     {
       "card_id": 18356,
@@ -5199,6 +5643,18 @@
       "total_listings": 69
     },
     {
+      "card_id": 18895,
+      "name": "Shadow Rider Calyrex V (Alternate Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "172/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.02,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 77
+    },
+    {
       "card_id": 20820,
       "name": "Bianca's Devotion - 209/162",
       "set_id": 5500066,
@@ -5367,6 +5823,18 @@
       "total_listings": 272
     },
     {
+      "card_id": 23184,
+      "name": "Houndoom (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "179/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.09,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 69
+    },
+    {
       "card_id": 14438,
       "name": "Cofagrigus - 123/086",
       "set_id": 5500153,
@@ -5439,6 +5907,18 @@
       "total_listings": 80
     },
     {
+      "card_id": 19016,
+      "name": "Celebi VMAX (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "199/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.74,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 57
+    },
+    {
       "card_id": 19224,
       "name": "Rotom V (Alternate Full Art)",
       "set_id": 5500024,
@@ -5508,6 +5988,18 @@
       "printing": "Holofoil",
       "market_price_usd": 26.43,
       "market_price_as_of": "2026-10-12",
+      "total_listings": 72
+    },
+    {
+      "card_id": 17827,
+      "name": "Espeon V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "179/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.43,
+      "market_price_as_of": "2026-10-18",
       "total_listings": 72
     },
     {
@@ -5677,6 +6169,30 @@
       "market_price_usd": 25.79,
       "market_price_as_of": "2026-10-17",
       "total_listings": 139
+    },
+    {
+      "card_id": 17804,
+      "name": "Vaporeon V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "172/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.75,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 31
+    },
+    {
+      "card_id": 17831,
+      "name": "Glaceon V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "174/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.69,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 54
     },
     {
       "card_id": 15001,
@@ -6171,6 +6687,18 @@
       "total_listings": 304
     },
     {
+      "card_id": 19002,
+      "name": "Ice Rider Calyrex V (Alternate Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "164/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.66,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 65
+    },
+    {
       "card_id": 36749,
       "name": "Cynthia's Ambition",
       "set_id": 5500218,
@@ -6231,6 +6759,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 17830,
+      "name": "Leafeon V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "166/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.13,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 55
+    },
+    {
       "card_id": 14354,
       "name": "Gothita - 124/086",
       "set_id": 5500153,
@@ -6253,6 +6793,18 @@
       "market_price_usd": 23.07,
       "market_price_as_of": "2026-10-10",
       "total_listings": 137
+    },
+    {
+      "card_id": 17822,
+      "name": "Darkness Energy (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "236/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.06,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 92
     },
     {
       "card_id": 38132,
@@ -6615,6 +7167,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 18993,
+      "name": "Caitlin (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "189/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.79,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 98
+    },
+    {
       "card_id": 13803,
       "name": "Scolipede (Master Ball Pattern)",
       "set_id": 5500093,
@@ -6975,6 +7539,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 17811,
+      "name": "Flareon V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "169/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.76,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 49
+    },
+    {
       "card_id": 13745,
       "name": "Excadrill ex - 168/086",
       "set_id": 5500093,
@@ -7167,6 +7743,18 @@
       "total_listings": 222
     },
     {
+      "card_id": 17674,
+      "name": "Sylveon VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "075/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.16,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 188
+    },
+    {
       "card_id": 100018072,
       "name": "Pikachu",
       "set_id": 5500238,
@@ -7201,6 +7789,18 @@
       "market_price_usd": 20.03,
       "market_price_as_of": "2026-10-12",
       "total_listings": 11
+    },
+    {
+      "card_id": 17703,
+      "name": "Medicham V (Alternate Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "186/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.0,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 102
     },
     {
       "card_id": 17237,
@@ -7515,6 +8115,18 @@
       "total_listings": 152
     },
     {
+      "card_id": 17781,
+      "name": "Gyarados V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "171/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.41,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 61
+    },
+    {
       "card_id": 2153349,
       "name": "AZ's Tranquility - 120/086",
       "set_id": 5500213,
@@ -7755,6 +8367,18 @@
       "total_listings": 112
     },
     {
+      "card_id": 23202,
+      "name": "Single Strike Urshifu V (Alternate Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "151/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.52,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 104
+    },
+    {
       "card_id": 13640,
       "name": "Axew - 145/086",
       "set_id": 5500093,
@@ -7801,6 +8425,18 @@
       "market_price_usd": 18.44,
       "market_price_as_of": "2026-10-09",
       "total_listings": 28
+    },
+    {
+      "card_id": 17847,
+      "name": "Jolteon V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "177/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.44,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 78
     },
     {
       "card_id": 23018,
@@ -7993,6 +8629,18 @@
       "market_price_usd": 17.92,
       "market_price_as_of": "2026-10-09",
       "total_listings": 77
+    },
+    {
+      "card_id": 17834,
+      "name": "Duraludon V (Alternate Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "198/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.9,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 114
     },
     {
       "card_id": 15921,
@@ -8535,6 +9183,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 18975,
+      "name": "Galarian Moltres V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "176/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.73,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 80
+    },
+    {
       "card_id": 13654,
       "name": "Pansage - 089/086",
       "set_id": 5500093,
@@ -8691,6 +9351,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 17664,
+      "name": "Espeon VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "065/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.49,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 186
+    },
+    {
       "card_id": 18607,
       "name": "Team Rocket's Mewtwo ex - 213/182",
       "set_id": 5500009,
@@ -8761,6 +9433,18 @@
       "market_price_usd": 16.35,
       "market_price_as_of": "2026-10-09",
       "total_listings": 135
+    },
+    {
+      "card_id": 19013,
+      "name": "Caitlin (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "213/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.34,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 68
     },
     {
       "card_id": 36705,
@@ -9087,6 +9771,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 23262,
+      "name": "Rapid Strike Urshifu V (Alternate Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "153/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.8,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 109
+    },
+    {
       "card_id": 6077,
       "name": "Kyurem VMAX - 049/196",
       "set_id": 5500194,
@@ -9217,6 +9913,18 @@
       "market_price_usd": 15.59,
       "market_price_as_of": "2026-10-16",
       "total_listings": 171
+    },
+    {
+      "card_id": 38277,
+      "name": "Mew ex",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "88/92",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 15.57,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 229
     },
     {
       "card_id": 23030,
@@ -9351,6 +10059,18 @@
       "total_listings": 353
     },
     {
+      "card_id": 18987,
+      "name": "Galarian Rapidash V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "167/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.44,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 34
+    },
+    {
       "card_id": 20776,
       "name": "Salvatore - 212/162",
       "set_id": 5500066,
@@ -9361,6 +10081,18 @@
       "market_price_usd": 15.42,
       "market_price_as_of": "2026-10-12",
       "total_listings": 74
+    },
+    {
+      "card_id": 23260,
+      "name": "Phoebe (Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "161/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.42,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 103
     },
     {
       "card_id": 36722,
@@ -9543,6 +10275,30 @@
       "total_listings": 31
     },
     {
+      "card_id": 17876,
+      "name": "Duraludon VMAX (Alternate Art Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "220/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.13,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 135
+    },
+    {
+      "card_id": 18946,
+      "name": "Karen's Conviction (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "193/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.13,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 84
+    },
+    {
       "card_id": 19228,
       "name": "Aerodactyl VSTAR (Secret)",
       "set_id": 5500024,
@@ -9565,6 +10321,30 @@
       "market_price_usd": 15.06,
       "market_price_as_of": "2026-10-17",
       "total_listings": 114
+    },
+    {
+      "card_id": 18962,
+      "name": "Flannery (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "191/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.03,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 112
+    },
+    {
+      "card_id": 38278,
+      "name": "Zekrom",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "114/114",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 15.02,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 187
     },
     {
       "card_id": 20149,
@@ -9735,6 +10515,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 38279,
+      "name": "Reshiram",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "113/114",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 14.76,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 212
+    },
+    {
       "card_id": 5571,
       "name": "Glaceon ex - 026/131",
       "set_id": 5500194,
@@ -9793,6 +10585,18 @@
       "market_price_usd": 14.71,
       "market_price_as_of": "2026-10-16",
       "total_listings": 108
+    },
+    {
+      "card_id": 18992,
+      "name": "Electrode (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "222/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.7,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 85
     },
     {
       "card_id": 13374,
@@ -9975,6 +10779,18 @@
       "total_listings": 256
     },
     {
+      "card_id": 18927,
+      "name": "Klara (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "194/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.3,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 126
+    },
+    {
       "card_id": 23843,
       "name": "N's Reshiram - 167/159",
       "set_id": 5500077,
@@ -10023,6 +10839,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 18948,
+      "name": "Water Energy (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "231/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.21,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 88
+    },
+    {
       "card_id": 38188,
       "name": "Zeraora V",
       "set_id": 5500197,
@@ -10057,6 +10885,18 @@
       "market_price_usd": 14.16,
       "market_price_as_of": "2026-10-09",
       "total_listings": 26
+    },
+    {
+      "card_id": 18986,
+      "name": "Metagross VMAX (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "208/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.14,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 57
     },
     {
       "card_id": 15732,
@@ -10141,6 +10981,18 @@
       "market_price_usd": 14.06,
       "market_price_as_of": "2026-10-14",
       "total_listings": 306
+    },
+    {
+      "card_id": 38272,
+      "name": "Blastoise",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "2/102",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 14.03,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 285
     },
     {
       "card_id": 17165,
@@ -10587,6 +11439,30 @@
       "total_listings": 75
     },
     {
+      "card_id": 18928,
+      "name": "Psychic Energy (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "232/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.23,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 111
+    },
+    {
+      "card_id": 38285,
+      "name": "Mewtwo EX",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "54/99",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 13.17,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 152
+    },
+    {
       "card_id": 14522,
       "name": "Mandibuzz (Master Ball Pattern)",
       "set_id": 5500153,
@@ -10839,6 +11715,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 17655,
+      "name": "Rayquaza VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "111/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.88,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 191
+    },
+    {
       "card_id": 14516,
       "name": "Vanilluxe (Master Ball Pattern)",
       "set_id": 5500153,
@@ -10849,6 +11737,30 @@
       "market_price_usd": 12.85,
       "market_price_as_of": "2026-10-09",
       "total_listings": 29
+    },
+    {
+      "card_id": 17795,
+      "name": "Aroma Lady (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "199/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.83,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 125
+    },
+    {
+      "card_id": 18976,
+      "name": "Galarian Slowking VMAX (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "207/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.82,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 40
     },
     {
       "card_id": 13821,
@@ -10947,6 +11859,18 @@
       "total_listings": 237
     },
     {
+      "card_id": 23320,
+      "name": "Corviknight VMAX (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "171/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.74,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 53
+    },
+    {
       "card_id": 20249,
       "name": "Buddy-Buddy Poffin",
       "set_id": 5500051,
@@ -10957,6 +11881,18 @@
       "market_price_usd": 12.68,
       "market_price_as_of": "2026-10-11",
       "total_listings": 179
+    },
+    {
+      "card_id": 18973,
+      "name": "Zeraora V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "165/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.67,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 59
     },
     {
       "card_id": 38122,
@@ -10993,6 +11929,30 @@
       "market_price_usd": 12.65,
       "market_price_as_of": "2026-10-14",
       "total_listings": 47
+    },
+    {
+      "card_id": 18874,
+      "name": "Celebi V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "160/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.64,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 95
+    },
+    {
+      "card_id": 18906,
+      "name": "Galarian Articuno V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "169/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.64,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 70
     },
     {
       "card_id": 14525,
@@ -11139,6 +12099,18 @@
       "total_listings": 141
     },
     {
+      "card_id": 23308,
+      "name": "Single Strike Urshifu VMAX (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "167/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.45,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 69
+    },
+    {
       "card_id": 13822,
       "name": "Klinklang (Master Ball Pattern)",
       "set_id": 5500093,
@@ -11245,6 +12217,18 @@
       "market_price_usd": 12.35,
       "market_price_as_of": "2026-10-10",
       "total_listings": 94
+    },
+    {
+      "card_id": 17862,
+      "name": "Cresselia (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "228/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.34,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 97
     },
     {
       "card_id": 16261,
@@ -11667,6 +12651,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 23228,
+      "name": "Tyranitar V (Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "154/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.86,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 57
+    },
+    {
       "card_id": 29510,
       "name": "Pikachu ex (Pikachu 60)",
       "set_id": 5500109,
@@ -11737,6 +12733,18 @@
       "market_price_usd": 11.81,
       "market_price_as_of": "2026-10-09",
       "total_listings": 37
+    },
+    {
+      "card_id": 17672,
+      "name": "Flareon VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "018/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.81,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 202
     },
     {
       "card_id": 24076,
@@ -12243,6 +13251,18 @@
       "total_listings": 258
     },
     {
+      "card_id": 17673,
+      "name": "Jolteon VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "051/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.28,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 241
+    },
+    {
       "card_id": 30122,
       "name": "Fezandipiti ex - 084/064",
       "set_id": 5500139,
@@ -12267,6 +13287,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 23302,
+      "name": "Flapple VMAX (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "164/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.21,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 65
+    },
+    {
       "card_id": 38190,
       "name": "Duraludon VMAX",
       "set_id": 5500197,
@@ -12289,6 +13321,18 @@
       "market_price_usd": 11.19,
       "market_price_as_of": "2026-10-17",
       "total_listings": 77
+    },
+    {
+      "card_id": 17877,
+      "name": "Metal Energy (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "237/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.18,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 108
     },
     {
       "card_id": 14513,
@@ -12349,6 +13393,18 @@
       "market_price_usd": 11.08,
       "market_price_as_of": "2026-10-09",
       "total_listings": 113
+    },
+    {
+      "card_id": 23299,
+      "name": "Rapid Strike Urshifu VMAX (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "169/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.07,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 78
     },
     {
       "card_id": 100018076,
@@ -12711,6 +13767,18 @@
       "total_listings": 304
     },
     {
+      "card_id": 38276,
+      "name": "Venusaur",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "15/102",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 10.74,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 225
+    },
+    {
       "card_id": 14530,
       "name": "Gigalith (Master Ball Pattern)",
       "set_id": 5500153,
@@ -12745,6 +13813,18 @@
       "market_price_usd": 10.66,
       "market_price_as_of": "2026-10-09",
       "total_listings": 155
+    },
+    {
+      "card_id": 17668,
+      "name": "Vaporeon VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "030/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.66,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 175
     },
     {
       "card_id": 5686,
@@ -12925,6 +14005,18 @@
       "market_price_usd": 10.45,
       "market_price_as_of": "2026-10-16",
       "total_listings": 84
+    },
+    {
+      "card_id": 196791,
+      "name": "Ice Rider Calyrex VMAX (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "202/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.44,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 51
     },
     {
       "card_id": 2302166,
@@ -13153,6 +14245,18 @@
       "market_price_usd": 10.23,
       "market_price_as_of": "2026-10-10",
       "total_listings": 95
+    },
+    {
+      "card_id": 18880,
+      "name": "Blaziken V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "161/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.22,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 107
     },
     {
       "card_id": 35220,
@@ -13455,6 +14559,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 23277,
+      "name": "Phoebe (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "175/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.82,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 56
+    },
+    {
       "card_id": 6800,
       "name": "N's Zekrom",
       "set_id": 5500112,
@@ -13501,6 +14617,18 @@
       "market_price_usd": 9.79,
       "market_price_as_of": "2026-10-15",
       "total_listings": 36
+    },
+    {
+      "card_id": 17790,
+      "name": "Froslass (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "226/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.78,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 88
     },
     {
       "card_id": 17204,
@@ -13743,6 +14871,18 @@
       "total_listings": 67
     },
     {
+      "card_id": 18953,
+      "name": "Peonia (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "196/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.57,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 124
+    },
+    {
       "card_id": 2119490,
       "name": "Poke Pad - 113/088",
       "set_id": 5500047,
@@ -13861,6 +15001,18 @@
       "market_price_usd": 9.53,
       "market_price_as_of": "2026-10-12",
       "total_listings": 19
+    },
+    {
+      "card_id": 17875,
+      "name": "Lycanroc VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "213/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.52,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 78
     },
     {
       "card_id": 2133455,
@@ -13983,6 +15135,18 @@
       "total_listings": 154
     },
     {
+      "card_id": 17803,
+      "name": "Suicune V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "173/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.42,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 100
+    },
+    {
       "card_id": 14535,
       "name": "Swanna (Master Ball Pattern)",
       "set_id": 5500153,
@@ -14079,6 +15243,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 18945,
+      "name": "Karen's Conviction (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "216/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.3,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 88
+    },
+    {
       "card_id": 37838,
       "name": "Psyduck - 007",
       "set_id": 5500111,
@@ -14151,6 +15327,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 17863,
+      "name": "Garbodor VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "216/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.18,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 82
+    },
+    {
       "card_id": 37829,
       "name": "Oricorio ex - 024",
       "set_id": 5500111,
@@ -14187,6 +15375,18 @@
       "total_listings": 178
     },
     {
+      "card_id": 38293,
+      "name": "Gardevoir ex (Delta Species)",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "93/101",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 9.14,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 196
+    },
+    {
       "card_id": 18576,
       "name": "Team Rocket's Petrel - 226/182",
       "set_id": 5500009,
@@ -14197,6 +15397,18 @@
       "market_price_usd": 9.12,
       "market_price_as_of": "2026-10-10",
       "total_listings": 359
+    },
+    {
+      "card_id": 18999,
+      "name": "Shadow Rider Calyrex VMAX (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "204/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.12,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 55
     },
     {
       "card_id": 16044,
@@ -14415,6 +15627,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 17857,
+      "name": "Inteleon (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "227/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.87,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 108
+    },
+    {
       "card_id": 18480,
       "name": "Miraidon - 148",
       "set_id": 5500070,
@@ -14595,6 +15819,18 @@
       "total_listings": 137
     },
     {
+      "card_id": 18984,
+      "name": "Melony (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "218/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.69,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 95
+    },
+    {
       "card_id": 37851,
       "name": "Toxtricity (Prerelease)",
       "set_id": 5500111,
@@ -14691,6 +15927,18 @@
       "total_listings": 172
     },
     {
+      "card_id": 17833,
+      "name": "Lightning Energy (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "235/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.64,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 104
+    },
+    {
       "card_id": 21689,
       "name": "Gengar",
       "set_id": 5500171,
@@ -14713,6 +15961,18 @@
       "market_price_usd": 8.64,
       "market_price_as_of": "2026-10-15",
       "total_listings": 21
+    },
+    {
+      "card_id": 18913,
+      "name": "Galarian Zapdos V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "173/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.63,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 73
     },
     {
       "card_id": 14503,
@@ -14787,6 +16047,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 17681,
+      "name": "Gyarados VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "029/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.58,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 166
+    },
+    {
       "card_id": 30112,
       "name": "Pecharunt ex - 085/064",
       "set_id": 5500139,
@@ -14823,6 +16095,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 18994,
+      "name": "Klara (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "217/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.54,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 99
+    },
+    {
       "card_id": 6922,
       "name": "Cynthia's Spiritomb - 244/217",
       "set_id": 5500112,
@@ -14845,6 +16129,30 @@
       "market_price_usd": 8.53,
       "market_price_as_of": "2026-10-14",
       "total_listings": 268
+    },
+    {
+      "card_id": 23292,
+      "name": "Cheryl (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "173/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.53,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 63
+    },
+    {
+      "card_id": 18952,
+      "name": "Doctor (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "190/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.52,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 109
     },
     {
       "card_id": 38114,
@@ -14965,6 +16273,18 @@
       "market_price_usd": 8.38,
       "market_price_as_of": "2026-10-12",
       "total_listings": 212
+    },
+    {
+      "card_id": 17650,
+      "name": "Umbreon V",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "094/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.37,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 282
     },
     {
       "card_id": 15617,
@@ -15255,6 +16575,18 @@
       "total_listings": 123
     },
     {
+      "card_id": 17666,
+      "name": "Leafeon VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "008/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.17,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 179
+    },
+    {
       "card_id": 20727,
       "name": "Ciphermaniac's Codebreaking - 198/162",
       "set_id": 5500066,
@@ -15339,6 +16671,18 @@
       "total_listings": 200
     },
     {
+      "card_id": 19014,
+      "name": "Doctor (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "214/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.11,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 79
+    },
+    {
       "card_id": 20875,
       "name": "Iron Leaves ex - 213/162",
       "set_id": 5500066,
@@ -15349,6 +16693,18 @@
       "market_price_usd": 8.11,
       "market_price_as_of": "2026-10-12",
       "total_listings": 127
+    },
+    {
+      "card_id": 23250,
+      "name": "Corviknight V (Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "156/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.1,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 95
     },
     {
       "card_id": 20886,
@@ -15409,6 +16765,18 @@
       "market_price_usd": 8.04,
       "market_price_as_of": "2026-10-09",
       "total_listings": 363
+    },
+    {
+      "card_id": 23319,
+      "name": "Korrina's Focus (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "174/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.03,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 64
     },
     {
       "card_id": 21645,
@@ -15529,6 +16897,18 @@
       "market_price_usd": 7.94,
       "market_price_as_of": "2026-10-13",
       "total_listings": 494
+    },
+    {
+      "card_id": 17679,
+      "name": "Glaceon VMAX",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "041/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.93,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 178
     },
     {
       "card_id": 21395,
@@ -16035,6 +17415,30 @@
       "total_listings": 201
     },
     {
+      "card_id": 19007,
+      "name": "Peonia (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "219/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.54,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 78
+    },
+    {
+      "card_id": 19008,
+      "name": "Tornadus VMAX (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "209/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.53,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 68
+    },
+    {
       "card_id": 15978,
       "name": "Iron Moth - 187/182",
       "set_id": 5500212,
@@ -16045,6 +17449,18 @@
       "market_price_usd": 7.52,
       "market_price_as_of": "2026-10-12",
       "total_listings": 217
+    },
+    {
+      "card_id": 23225,
+      "name": "Cheryl (Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "159/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.52,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 149
     },
     {
       "card_id": 6160,
@@ -16119,6 +17535,18 @@
       "total_listings": 100
     },
     {
+      "card_id": 17796,
+      "name": "Dracozolt VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "210/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.48,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 86
+    },
+    {
       "card_id": 18005,
       "name": "Feebas - 198/191",
       "set_id": 5500180,
@@ -16153,6 +17581,18 @@
       "market_price_usd": 7.45,
       "market_price_as_of": "2026-10-15",
       "total_listings": 292
+    },
+    {
+      "card_id": 23315,
+      "name": "Tapu Koko VMAX (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "166/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.44,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 78
     },
     {
       "card_id": 2336548,
@@ -16417,6 +17857,18 @@
       "market_price_usd": 7.19,
       "market_price_as_of": "2026-10-14",
       "total_listings": 277
+    },
+    {
+      "card_id": 18941,
+      "name": "Blissey V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "182/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.18,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 89
     },
     {
       "card_id": 21226,
@@ -16719,6 +18171,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 18997,
+      "name": "Sandaconda VMAX (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "206/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.95,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 80
+    },
+    {
       "card_id": 17177,
       "name": "Jumpluff",
       "set_id": 5500030,
@@ -16777,6 +18241,18 @@
       "market_price_usd": 6.86,
       "market_price_as_of": "2026-10-09",
       "total_listings": 124
+    },
+    {
+      "card_id": 23234,
+      "name": "Octillery (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "178/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.86,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 103
     },
     {
       "card_id": 18276,
@@ -16897,6 +18373,18 @@
       "market_price_usd": 6.76,
       "market_price_as_of": "2026-10-09",
       "total_listings": 455
+    },
+    {
+      "card_id": 17777,
+      "name": "Raihan (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "202/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.74,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 130
     },
     {
       "card_id": 20804,
@@ -17199,6 +18687,18 @@
       "total_listings": 593
     },
     {
+      "card_id": 17848,
+      "name": "Aroma Lady (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "221/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.54,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 108
+    },
+    {
       "card_id": 18351,
       "name": "N's Darmanitan - 181 (Prerelease)",
       "set_id": 5500070,
@@ -17223,6 +18723,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 17865,
+      "name": "Zinnia's Resolve (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "225/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.52,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 112
+    },
+    {
       "card_id": 18737,
       "name": "Jamming Tower",
       "set_id": 5500009,
@@ -17245,6 +18757,18 @@
       "market_price_usd": 6.51,
       "market_price_as_of": "2026-10-14",
       "total_listings": 156
+    },
+    {
+      "card_id": 17866,
+      "name": "Trevenant VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "206/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.51,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 107
     },
     {
       "card_id": 13588,
@@ -17281,6 +18805,18 @@
       "market_price_usd": 6.48,
       "market_price_as_of": "2026-10-12",
       "total_listings": 26
+    },
+    {
+      "card_id": 17861,
+      "name": "Duraludon VMAX (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "219/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.47,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 117
     },
     {
       "card_id": 23876,
@@ -17343,6 +18879,18 @@
       "total_listings": 360
     },
     {
+      "card_id": 18983,
+      "name": "Avery (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "211/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.44,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 89
+    },
+    {
       "card_id": 38094,
       "name": "Allister",
       "set_id": 5500061,
@@ -17377,6 +18925,18 @@
       "market_price_usd": 6.42,
       "market_price_as_of": "2026-10-14",
       "total_listings": 225
+    },
+    {
+      "card_id": 18796,
+      "name": "Gengar",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "057/198",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.41,
+      "market_price_as_of": "2026-10-17",
+      "total_listings": 166
     },
     {
       "card_id": 13581,
@@ -17425,6 +18985,18 @@
       "market_price_usd": 6.34,
       "market_price_as_of": "2026-10-10",
       "total_listings": 302
+    },
+    {
+      "card_id": 18885,
+      "name": "Metagross V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "181/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.34,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 100
     },
     {
       "card_id": 5793,
@@ -17595,6 +19167,18 @@
       "total_listings": 118
     },
     {
+      "card_id": 17654,
+      "name": "Sylveon V",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "074/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.2,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 196
+    },
+    {
       "card_id": 21646,
       "name": "Furisode Girl (Secret)",
       "set_id": 5500161,
@@ -17643,6 +19227,30 @@
       "total_listings": 38
     },
     {
+      "card_id": 18982,
+      "name": "Bronzong (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "223/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.17,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 111
+    },
+    {
+      "card_id": 17801,
+      "name": "Volcarona V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "170/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.16,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 70
+    },
+    {
       "card_id": 21314,
       "name": "Luxray V (Full Art)",
       "set_id": 5500099,
@@ -17665,6 +19273,18 @@
       "market_price_usd": 6.16,
       "market_price_as_of": "2026-10-17",
       "total_listings": 171
+    },
+    {
+      "card_id": 23197,
+      "name": "Level Ball (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "181/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.16,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 133
     },
     {
       "card_id": 30096,
@@ -17869,6 +19489,18 @@
       "market_price_usd": 6.04,
       "market_price_as_of": "2026-10-09",
       "total_listings": 301
+    },
+    {
+      "card_id": 36489,
+      "name": "Surfing Pikachu VMAX",
+      "set_id": 5500114,
+      "set_name": "Celebrations",
+      "number": "009/025",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.04,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 359
     },
     {
       "card_id": 36695,
@@ -18483,6 +20115,18 @@
       "total_listings": 258
     },
     {
+      "card_id": 36490,
+      "name": "Flying Pikachu VMAX",
+      "set_id": 5500114,
+      "set_name": "Celebrations",
+      "number": "007/025",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.69,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 329
+    },
+    {
       "card_id": 13302,
       "name": "Iron Leaves ex",
       "set_id": 5500017,
@@ -18699,6 +20343,18 @@
       "total_listings": 457
     },
     {
+      "card_id": 17846,
+      "name": "Raihan (Secret)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "224/203",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.58,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 145
+    },
+    {
       "card_id": 18608,
       "name": "Ethan's Ho-Oh ex - 209/182",
       "set_id": 5500009,
@@ -18843,6 +20499,18 @@
       "total_listings": 433
     },
     {
+      "card_id": 19000,
+      "name": "Agatha (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "210/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.48,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 77
+    },
+    {
       "card_id": 15959,
       "name": "Professor Turo's Scenario - 257/182",
       "set_id": 5500212,
@@ -18901,6 +20569,18 @@
       "market_price_usd": 5.43,
       "market_price_as_of": "2026-10-14",
       "total_listings": 365
+    },
+    {
+      "card_id": 18961,
+      "name": "Ice Rider Calyrex V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "163/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.43,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 102
     },
     {
       "card_id": 21526,
@@ -18985,6 +20665,18 @@
       "market_price_usd": 5.41,
       "market_price_as_of": "2026-10-14",
       "total_listings": 189
+    },
+    {
+      "card_id": 17914,
+      "name": "Code Card - Mewtwo V-UNION Special Collection",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": null,
+      "rarity": "Code Card",
+      "printing": "Normal",
+      "market_price_usd": 5.4,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 9
     },
     {
       "card_id": 2133548,
@@ -19119,6 +20811,54 @@
       "total_listings": 89
     },
     {
+      "card_id": 18916,
+      "name": "Agatha (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "186/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.36,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 101
+    },
+    {
+      "card_id": 18964,
+      "name": "Shadow Rider Calyrex V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "171/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.36,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 101
+    },
+    {
+      "card_id": 23282,
+      "name": "Necrozma V (Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "149/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.36,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 91
+    },
+    {
+      "card_id": 19009,
+      "name": "Flannery (Secret)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "215/198",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.35,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 89
+    },
+    {
       "card_id": 38688,
       "name": "Dragonite",
       "set_id": 5500136,
@@ -19143,6 +20883,42 @@
       "total_listings": 117
     },
     {
+      "card_id": 18958,
+      "name": "Honey (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "192/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 138
+    },
+    {
+      "card_id": 23240,
+      "name": "Empoleon V (Full Art)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "145/163",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 100
+    },
+    {
+      "card_id": 23291,
+      "name": "Bruno (Secret)",
+      "set_id": 5500041,
+      "set_name": "SWSH05: Battle Styles",
+      "number": "172/163",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 61
+    },
+    {
       "card_id": 38149,
       "name": "Gloria",
       "set_id": 5500144,
@@ -19165,6 +20941,18 @@
       "market_price_usd": 5.32,
       "market_price_as_of": "2026-10-10",
       "total_listings": 580
+    },
+    {
+      "card_id": 17783,
+      "name": "Dracozolt V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "178/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.31,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 122
     },
     {
       "card_id": 38168,
@@ -19263,6 +21051,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 18872,
+      "name": "Melony (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "195/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.28,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 148
+    },
+    {
       "card_id": 20211,
       "name": "Chimecho - 179/167",
       "set_id": 5500051,
@@ -19309,6 +21109,18 @@
       "market_price_usd": 5.24,
       "market_price_as_of": "2026-10-09",
       "total_listings": 41
+    },
+    {
+      "card_id": 17791,
+      "name": "Noivern V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "195/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.24,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 101
     },
     {
       "card_id": 19230,
@@ -19371,6 +21183,18 @@
       "total_listings": 328
     },
     {
+      "card_id": 17823,
+      "name": "Garbodor V (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "190/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.2,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 113
+    },
+    {
       "card_id": 38086,
       "name": "Melony",
       "set_id": 5500061,
@@ -19393,6 +21217,18 @@
       "market_price_usd": 5.19,
       "market_price_as_of": "2026-10-14",
       "total_listings": 87
+    },
+    {
+      "card_id": 18955,
+      "name": "Galarian Slowking V (Full Art)",
+      "set_id": 5500170,
+      "set_name": "SWSH06: Chilling Reign",
+      "number": "178/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.19,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 67
     },
     {
       "card_id": 28813,
@@ -19587,6 +21423,18 @@
       "total_listings": 284
     },
     {
+      "card_id": 17748,
+      "name": "Zinnia's Resolve (Full Art)",
+      "set_id": 5500048,
+      "set_name": "SWSH07: Evolving Skies",
+      "number": "203/203",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.12,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 177
+    },
+    {
       "card_id": 20157,
       "name": "Secret Box",
       "set_id": 5500051,
@@ -19668,6 +21516,18 @@
       "printing": "Holofoil",
       "market_price_usd": 5.07,
       "market_price_as_of": "2026-10-14",
+      "total_listings": 233
+    },
+    {
+      "card_id": 38282,
+      "name": "Garchomp C LV.X",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "145/147",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 5.07,
+      "market_price_as_of": "2026-10-18",
       "total_listings": 233
     },
     {
@@ -19777,6 +21637,18 @@
       "market_price_usd": 5.01,
       "market_price_as_of": "2026-10-15",
       "total_listings": 16
+    },
+    {
+      "card_id": 38271,
+      "name": "Dark Gyarados",
+      "set_id": 5500122,
+      "set_name": "Celebrations: Classic Collection",
+      "number": "8/82",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 210
     }
   ]
 }
