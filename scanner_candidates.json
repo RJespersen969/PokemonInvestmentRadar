@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-18T07:54:18.445849+00:00",
+  "generated_at": "2026-10-19T08:10:52.947596+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 60,
+  "next_set_index": 65,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 11,
-  "total_candidates": 1803,
-  "cards_with_price_history": 9486,
+  "api_calls": 9,
+  "total_candidates": 1862,
+  "cards_with_price_history": 9915,
   "candidates": [
     {
       "card_id": 17849,
@@ -253,6 +253,18 @@
       "market_price_usd": 170.78,
       "market_price_as_of": "2026-10-09",
       "total_listings": 130
+    },
+    {
+      "card_id": 22139,
+      "name": "Pikachu VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "188/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 169.36,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 94
     },
     {
       "card_id": 17252,
@@ -673,6 +685,18 @@
       "market_price_usd": 115.5,
       "market_price_as_of": "2026-10-15",
       "total_listings": 2
+    },
+    {
+      "card_id": 31444,
+      "name": "Charizard VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV107/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 114.99,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 161
     },
     {
       "card_id": 38128,
@@ -3433,6 +3457,18 @@
       "market_price_usd": 43.06,
       "market_price_as_of": "2026-10-14",
       "total_listings": 157
+    },
+    {
+      "card_id": 22063,
+      "name": "Pikachu V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "170/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.99,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 98
     },
     {
       "card_id": 20756,
@@ -6255,6 +6291,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 38222,
+      "name": "Pikachu - 25/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "number": "025/025",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.29,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 300
+    },
+    {
       "card_id": 2163544,
       "name": "Gladion's Final Battle - 118/084",
       "set_id": 5500216,
@@ -6843,6 +6891,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 21946,
+      "name": "Rayquaza",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "138/185",
+      "rarity": "Amazing Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.91,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 230
+    },
+    {
       "card_id": 15820,
       "name": "Eiscue - 205/193",
       "set_id": 5500150,
@@ -7021,6 +7081,18 @@
       "market_price_usd": 22.3,
       "market_price_as_of": "2026-10-14",
       "total_listings": 15
+    },
+    {
+      "card_id": 31431,
+      "name": "Morpeko",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV044/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.3,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 39
     },
     {
       "card_id": 13756,
@@ -8151,6 +8223,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 22008,
+      "name": "Pokemon Center Lady (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "185/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.28,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 113
+    },
+    {
       "card_id": 18442,
       "name": "Pecharunt - 129 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -8775,6 +8859,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 31412,
+      "name": "Suicune",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV022/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.48,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 100
+    },
+    {
       "card_id": 28820,
       "name": "Radiant Charizard",
       "set_id": 5500021,
@@ -9111,6 +9207,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 31458,
+      "name": "Galarian Ponyta",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV047/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.99,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 56
+    },
+    {
       "card_id": 13722,
       "name": "Escavalier - 138/086",
       "set_id": 5500093,
@@ -9181,6 +9289,18 @@
       "market_price_usd": 16.74,
       "market_price_as_of": "2026-10-09",
       "total_listings": 15
+    },
+    {
+      "card_id": 31422,
+      "name": "Yamper",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV039/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.74,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 57
     },
     {
       "card_id": 18975,
@@ -11043,6 +11163,18 @@
       "total_listings": 41
     },
     {
+      "card_id": 31449,
+      "name": "Minccino",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV093/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.94,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 44
+    },
+    {
       "card_id": 38127,
       "name": "Eternatus VMAX",
       "set_id": 5500130,
@@ -11101,6 +11233,18 @@
       "market_price_usd": 13.83,
       "market_price_as_of": "2026-10-09",
       "total_listings": 36
+    },
+    {
+      "card_id": 31443,
+      "name": "Galarian Rapidash",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV048/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.8,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 57
     },
     {
       "card_id": 13372,
@@ -11245,6 +11389,18 @@
       "market_price_usd": 13.49,
       "market_price_as_of": "2026-10-13",
       "total_listings": 363
+    },
+    {
+      "card_id": 31407,
+      "name": "Ditto VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV119/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.49,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 129
     },
     {
       "card_id": 16222,
@@ -11739,6 +11895,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 22099,
+      "name": "Togekiss VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "191/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.84,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 66
+    },
+    {
       "card_id": 17795,
       "name": "Aroma Lady (Full Art)",
       "set_id": 5500048,
@@ -11965,6 +12133,18 @@
       "market_price_usd": 12.63,
       "market_price_as_of": "2026-10-09",
       "total_listings": 24
+    },
+    {
+      "card_id": 21948,
+      "name": "Pikachu VMAX",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "044/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.61,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 250
     },
     {
       "card_id": 17250,
@@ -12591,6 +12771,18 @@
       "total_listings": 30
     },
     {
+      "card_id": 31467,
+      "name": "Cinccino",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV094/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.96,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 76
+    },
+    {
       "card_id": 20675,
       "name": "Neo Upper Energy",
       "set_id": 5500066,
@@ -13105,6 +13297,18 @@
       "market_price_usd": 11.5,
       "market_price_as_of": "2026-10-09",
       "total_listings": 31
+    },
+    {
+      "card_id": 31466,
+      "name": "Dreepy",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV060/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.5,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 84
     },
     {
       "card_id": 5869,
@@ -13789,6 +13993,30 @@
       "market_price_usd": 10.72,
       "market_price_as_of": "2026-10-09",
       "total_listings": 32
+    },
+    {
+      "card_id": 31484,
+      "name": "Applin",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV012/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.71,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 40
+    },
+    {
+      "card_id": 22044,
+      "name": "Nessa (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "196/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.7,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 127
     },
     {
       "card_id": 2301878,
@@ -15675,6 +15903,18 @@
       "total_listings": 73
     },
     {
+      "card_id": 32967,
+      "name": "Poke Kid (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "number": "070/072",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.85,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 151
+    },
+    {
       "card_id": 16195,
       "name": "Gyarados ex - 225/198",
       "set_id": 5500032,
@@ -15733,6 +15973,18 @@
       "market_price_usd": 8.8,
       "market_price_as_of": "2026-10-16",
       "total_listings": 144
+    },
+    {
+      "card_id": 31429,
+      "name": "Appletun",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV014/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.78,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 61
     },
     {
       "card_id": 35198,
@@ -15795,6 +16047,18 @@
       "total_listings": 106
     },
     {
+      "card_id": 38221,
+      "name": "Squirtle - 17/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "number": "017/025",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.76,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 299
+    },
+    {
       "card_id": 20735,
       "name": "Bronzor - 170/162",
       "set_id": 5500066,
@@ -15805,6 +16069,42 @@
       "market_price_usd": 8.73,
       "market_price_as_of": "2026-10-12",
       "total_listings": 168
+    },
+    {
+      "card_id": 31383,
+      "name": "Ditto V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV118/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.73,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 137
+    },
+    {
+      "card_id": 31385,
+      "name": "Koffing",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV076/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.73,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 129
+    },
+    {
+      "card_id": 32957,
+      "name": "Skyla (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "number": "072/072",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.71,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 218
     },
     {
       "card_id": 13584,
@@ -16035,6 +16335,18 @@
       "total_listings": 81
     },
     {
+      "card_id": 31404,
+      "name": "Lapras VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV111/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.6,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 171
+    },
+    {
       "card_id": 18412,
       "name": "Kangaskhan ex - 055",
       "set_id": 5500070,
@@ -16227,6 +16539,18 @@
       "total_listings": 112
     },
     {
+      "card_id": 21942,
+      "name": "Jirachi",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "119/185",
+      "rarity": "Amazing Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.42,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 245
+    },
+    {
       "card_id": 13436,
       "name": "Scream Tail (Master Ball Pattern)",
       "set_id": 5500017,
@@ -16333,6 +16657,18 @@
       "market_price_usd": 8.34,
       "market_price_as_of": "2026-10-12",
       "total_listings": 104
+    },
+    {
+      "card_id": 21995,
+      "name": "Nessa (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "183/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.34,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 198
     },
     {
       "card_id": 28883,
@@ -17007,6 +17343,30 @@
       "total_listings": 80
     },
     {
+      "card_id": 22067,
+      "name": "Ampharos V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "171/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.88,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 109
+    },
+    {
+      "card_id": 22023,
+      "name": "Bea (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "180/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.87,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 148
+    },
+    {
       "card_id": 21538,
       "name": "Reshiram V (Full Art)",
       "set_id": 5500161,
@@ -17331,6 +17691,18 @@
       "total_listings": 293
     },
     {
+      "card_id": 22013,
+      "name": "Leon (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "182/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.6,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 165
+    },
+    {
       "card_id": 20198,
       "name": "Froslass - 174/167",
       "set_id": 5500051,
@@ -17607,6 +17979,18 @@
       "total_listings": 286
     },
     {
+      "card_id": 31496,
+      "name": "Alcremie",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV058/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.43,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 77
+    },
+    {
       "card_id": 24162,
       "name": "Friends in Sinnoh (Full Art)",
       "set_id": 5500217,
@@ -17665,6 +18049,18 @@
       "market_price_usd": 7.4,
       "market_price_as_of": "2026-10-15",
       "total_listings": 250
+    },
+    {
+      "card_id": 22132,
+      "name": "Aegislash VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "190/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.39,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 88
     },
     {
       "card_id": 2302000,
@@ -17835,6 +18231,18 @@
       "total_listings": 331
     },
     {
+      "card_id": 31491,
+      "name": "Milcery",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV057/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.22,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 49
+    },
+    {
       "card_id": 15707,
       "name": "Nacli - 220/193",
       "set_id": 5500150,
@@ -17989,6 +18397,18 @@
       "market_price_usd": 7.11,
       "market_price_as_of": "2026-10-09",
       "total_listings": 142
+    },
+    {
+      "card_id": 38226,
+      "name": "Mudkip - 19/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "number": "019/025",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.1,
+      "market_price_as_of": "2026-10-18",
+      "total_listings": 218
     },
     {
       "card_id": 38131,
@@ -18267,6 +18687,18 @@
       "total_listings": 290
     },
     {
+      "card_id": 38231,
+      "name": "Piplup - 20/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "number": "020/025",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.83,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 215
+    },
+    {
       "card_id": 14272,
       "name": "Heatmor - 104/086",
       "set_id": 5500153,
@@ -18423,6 +18855,18 @@
       "total_listings": 166
     },
     {
+      "card_id": 31426,
+      "name": "Rotom",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV038/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.73,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 87
+    },
+    {
       "card_id": 100018036,
       "name": "Zapdos - 133/128",
       "set_id": 5500219,
@@ -18505,6 +18949,18 @@
       "market_price_usd": 6.68,
       "market_price_as_of": "2026-10-14",
       "total_listings": 99
+    },
+    {
+      "card_id": 22102,
+      "name": "Bea (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "193/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.68,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 120
     },
     {
       "card_id": 17290,
@@ -18613,6 +19069,18 @@
       "market_price_usd": 6.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 61
+    },
+    {
+      "card_id": 31421,
+      "name": "Cinderace",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV017/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.59,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 92
     },
     {
       "card_id": 5580,
@@ -18999,6 +19467,18 @@
       "total_listings": 100
     },
     {
+      "card_id": 22019,
+      "name": "Galarian Obstagoon (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "198/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.34,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 122
+    },
+    {
       "card_id": 5793,
       "name": "Latias - 193/264",
       "set_id": 5500194,
@@ -19011,6 +19491,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 38223,
+      "name": "Bulbasaur - 1/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "number": "001/025",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.33,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 240
+    },
+    {
       "card_id": 100018061,
       "name": "Genesect EX (Team Plasma)",
       "set_id": 5500238,
@@ -19021,6 +19513,18 @@
       "market_price_usd": 6.32,
       "market_price_as_of": "2026-10-09",
       "total_listings": 74
+    },
+    {
+      "card_id": 31417,
+      "name": "Arctozolt",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV046/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.32,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 83
     },
     {
       "card_id": 15712,
@@ -19191,6 +19695,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 22141,
+      "name": "Galarian Darmanitan VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "187/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.19,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 84
+    },
+    {
       "card_id": 15786,
       "name": "Rabsca - 215/193",
       "set_id": 5500150,
@@ -19309,6 +19825,18 @@
       "market_price_usd": 6.14,
       "market_price_as_of": "2026-10-09",
       "total_listings": 271
+    },
+    {
+      "card_id": 31454,
+      "name": "Toxel",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV041/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.13,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 65
     },
     {
       "card_id": 5708,
@@ -19455,6 +19983,18 @@
       "total_listings": 440
     },
     {
+      "card_id": 32976,
+      "name": "Alcremie V (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "number": "064/072",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.06,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 181
+    },
+    {
       "card_id": 6912,
       "name": "Dreepy - 247/217",
       "set_id": 5500112,
@@ -19513,6 +20053,18 @@
       "market_price_usd": 6.04,
       "market_price_as_of": "2026-10-14",
       "total_listings": 291
+    },
+    {
+      "card_id": 31393,
+      "name": "Eternatus V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV121/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.03,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 124
     },
     {
       "card_id": 19220,
@@ -19683,6 +20235,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 22103,
+      "name": "Coalossal VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "189/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.93,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 108
+    },
+    {
       "card_id": 21638,
       "name": "Serperior VSTAR (Secret)",
       "set_id": 5500161,
@@ -19693,6 +20257,30 @@
       "market_price_usd": 5.92,
       "market_price_as_of": "2026-10-15",
       "total_listings": 128
+    },
+    {
+      "card_id": 22095,
+      "name": "Leon (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "195/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.92,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 97
+    },
+    {
+      "card_id": 31411,
+      "name": "Dedenne",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV051/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.92,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 76
     },
     {
       "card_id": 14254,
@@ -19731,6 +20319,18 @@
       "total_listings": 278
     },
     {
+      "card_id": 38225,
+      "name": "Charmander - 9/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "number": "009/025",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.89,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 296
+    },
+    {
       "card_id": 6857,
       "name": "Boss's Orders [Corbeau] - 256/217",
       "set_id": 5500112,
@@ -19765,6 +20365,18 @@
       "market_price_usd": 5.87,
       "market_price_as_of": "2026-10-11",
       "total_listings": 209
+    },
+    {
+      "card_id": 31448,
+      "name": "Decidueye",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV003/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.87,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 100
     },
     {
       "card_id": 16225,
@@ -19851,6 +20463,18 @@
       "total_listings": 164
     },
     {
+      "card_id": 31391,
+      "name": "Eternatus VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV122/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.81,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 169
+    },
+    {
       "card_id": 6819,
       "name": "Mega Charizard Y ex - 022/217",
       "set_id": 5500112,
@@ -19861,6 +20485,18 @@
       "market_price_usd": 5.8,
       "market_price_as_of": "2026-10-09",
       "total_listings": 419
+    },
+    {
+      "card_id": 31446,
+      "name": "Raboot",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV016/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.79,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 97
     },
     {
       "card_id": 6963,
@@ -20019,6 +20655,30 @@
       "total_listings": 413
     },
     {
+      "card_id": 31409,
+      "name": "Snom",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV033/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.74,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 87
+    },
+    {
+      "card_id": 31453,
+      "name": "Galarian Meowth",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV086/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.74,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 73
+    },
+    {
       "card_id": 14266,
       "name": "Ferroseed - 148/086",
       "set_id": 5500153,
@@ -20065,6 +20725,18 @@
       "market_price_usd": 5.72,
       "market_price_as_of": "2026-10-15",
       "total_listings": 16
+    },
+    {
+      "card_id": 31434,
+      "name": "Inteleon",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "number": "SV027/SV122",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.72,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 120
     },
     {
       "card_id": 38162,
@@ -20377,6 +21049,18 @@
       "market_price_usd": 5.57,
       "market_price_as_of": "2026-10-09",
       "total_listings": 447
+    },
+    {
+      "card_id": 22122,
+      "name": "Orbeetle VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "186/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.57,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 117
     },
     {
       "card_id": 18565,
@@ -21063,6 +21747,18 @@
       "total_listings": 148
     },
     {
+      "card_id": 22006,
+      "name": "Allister (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "179/185",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.28,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 132
+    },
+    {
       "card_id": 20211,
       "name": "Chimecho - 179/167",
       "set_id": 5500051,
@@ -21625,6 +22321,18 @@
       "market_price_usd": 5.02,
       "market_price_as_of": "2026-10-09",
       "total_listings": 334
+    },
+    {
+      "card_id": 22120,
+      "name": "Allister (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "number": "192/185",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 101
     },
     {
       "card_id": 6069,

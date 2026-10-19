@@ -132805,6 +132805,6012 @@
           "market_price_as_of": "2026-10-18"
         }
       ]
+    },
+    "31415:Holofoil": {
+      "card_id": 31415,
+      "name": "Rowlet",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.85,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31428:Holofoil": {
+      "card_id": 31428,
+      "name": "Dartrix",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.71,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31448:Holofoil": {
+      "card_id": 31448,
+      "name": "Decidueye",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.87,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31413:Holofoil": {
+      "card_id": 31413,
+      "name": "Grookey",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.59,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31497:Holofoil": {
+      "card_id": 31497,
+      "name": "Thwackey",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.9,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31427:Holofoil": {
+      "card_id": 31427,
+      "name": "Rillaboom",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.98,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31474:Holofoil": {
+      "card_id": 31474,
+      "name": "Blipbug",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31418:Holofoil": {
+      "card_id": 31418,
+      "name": "Dottler",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.37,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31425:Holofoil": {
+      "card_id": 31425,
+      "name": "Orbeetle",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31492:Holofoil": {
+      "card_id": 31492,
+      "name": "Gossifleur",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.59,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31462:Holofoil": {
+      "card_id": 31462,
+      "name": "Eldegoss",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.7,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31484:Holofoil": {
+      "card_id": 31484,
+      "name": "Applin",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 10.71,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31498:Holofoil": {
+      "card_id": 31498,
+      "name": "Flapple",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.52,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31429:Holofoil": {
+      "card_id": 31429,
+      "name": "Appletun",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 8.78,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31399:Holofoil": {
+      "card_id": 31399,
+      "name": "Scorbunny",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.68,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31446:Holofoil": {
+      "card_id": 31446,
+      "name": "Raboot",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.79,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31421:Holofoil": {
+      "card_id": 31421,
+      "name": "Cinderace",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.59,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31471:Holofoil": {
+      "card_id": 31471,
+      "name": "Sizzlipede",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.74,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31452:Holofoil": {
+      "card_id": 31452,
+      "name": "Centiskorch",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.33,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31433:Holofoil": {
+      "card_id": 31433,
+      "name": "Galarian Mr. Mime",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.95,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31388:Holofoil": {
+      "card_id": 31388,
+      "name": "Galarian Mr. Rime",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.69,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31412:Holofoil": {
+      "card_id": 31412,
+      "name": "Suicune",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 17.48,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31461:Holofoil": {
+      "card_id": 31461,
+      "name": "Galarian Darumaka",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.31,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31436:Holofoil": {
+      "card_id": 31436,
+      "name": "Galarian Darmanitan",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.75,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31408:Holofoil": {
+      "card_id": 31408,
+      "name": "Sobble",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.39,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31483:Holofoil": {
+      "card_id": 31483,
+      "name": "Drizzile",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31434:Holofoil": {
+      "card_id": 31434,
+      "name": "Inteleon",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.72,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31485:Holofoil": {
+      "card_id": 31485,
+      "name": "Chewtle",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.54,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31423:Holofoil": {
+      "card_id": 31423,
+      "name": "Drednaw",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.88,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31389:Holofoil": {
+      "card_id": 31389,
+      "name": "Cramorant",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31419:Holofoil": {
+      "card_id": 31419,
+      "name": "Arrokuda",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.69,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31451:Holofoil": {
+      "card_id": 31451,
+      "name": "Barraskewda",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.57,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31409:Holofoil": {
+      "card_id": 31409,
+      "name": "Snom",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.74,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31501:Holofoil": {
+      "card_id": 31501,
+      "name": "Frosmoth",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.94,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31445:Holofoil": {
+      "card_id": 31445,
+      "name": "Eiscue",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.94,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31432:Holofoil": {
+      "card_id": 31432,
+      "name": "Dracovish",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.77,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31447:Holofoil": {
+      "card_id": 31447,
+      "name": "Arctovish",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.61,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31426:Holofoil": {
+      "card_id": 31426,
+      "name": "Rotom",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.73,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31422:Holofoil": {
+      "card_id": 31422,
+      "name": "Yamper",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 16.74,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31475:Holofoil": {
+      "card_id": 31475,
+      "name": "Boltund",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.48,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31454:Holofoil": {
+      "card_id": 31454,
+      "name": "Toxel",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.13,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31402:Holofoil": {
+      "card_id": 31402,
+      "name": "Toxtricity",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31490:Holofoil": {
+      "card_id": 31490,
+      "name": "Pincurchin",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.19,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31431:Holofoil": {
+      "card_id": 31431,
+      "name": "Morpeko",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 22.3,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31478:Holofoil": {
+      "card_id": 31478,
+      "name": "Dracozolt",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.94,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31417:Holofoil": {
+      "card_id": 31417,
+      "name": "Arctozolt",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.32,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31458:Holofoil": {
+      "card_id": 31458,
+      "name": "Galarian Ponyta",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 16.99,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31443:Holofoil": {
+      "card_id": 31443,
+      "name": "Galarian Rapidash",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 13.8,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31438:Holofoil": {
+      "card_id": 31438,
+      "name": "Galarian Corsola",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.11,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31494:Holofoil": {
+      "card_id": 31494,
+      "name": "Galarian Cursola",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.31,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31411:Holofoil": {
+      "card_id": 31411,
+      "name": "Dedenne",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.92,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31487:Holofoil": {
+      "card_id": 31487,
+      "name": "Sinistea",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.38,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31400:Holofoil": {
+      "card_id": 31400,
+      "name": "Polteageist",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.43,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31455:Holofoil": {
+      "card_id": 31455,
+      "name": "Hatenna",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.09,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31499:Holofoil": {
+      "card_id": 31499,
+      "name": "Hattrem",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.4,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31457:Holofoil": {
+      "card_id": 31457,
+      "name": "Hatterene",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.73,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31491:Holofoil": {
+      "card_id": 31491,
+      "name": "Milcery",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 7.22,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31496:Holofoil": {
+      "card_id": 31496,
+      "name": "Alcremie",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 7.43,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31440:Holofoil": {
+      "card_id": 31440,
+      "name": "Indeedee",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.75,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31466:Holofoil": {
+      "card_id": 31466,
+      "name": "Dreepy",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 11.5,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31442:Holofoil": {
+      "card_id": 31442,
+      "name": "Drakloak",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.07,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31414:Holofoil": {
+      "card_id": 31414,
+      "name": "Dragapult",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.64,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31477:Holofoil": {
+      "card_id": 31477,
+      "name": "Galarian Farfetch'd",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.74,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31403:Holofoil": {
+      "card_id": 31403,
+      "name": "Galarian Sirfetch'd",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.62,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31441:Holofoil": {
+      "card_id": 31441,
+      "name": "Galarian Yamask",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.81,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31481:Holofoil": {
+      "card_id": 31481,
+      "name": "Galarian Runerigus",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.13,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31489:Holofoil": {
+      "card_id": 31489,
+      "name": "Rolycoly",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.83,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31469:Holofoil": {
+      "card_id": 31469,
+      "name": "Carkol",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.67,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31486:Holofoil": {
+      "card_id": 31486,
+      "name": "Coalossal",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.8,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31424:Holofoil": {
+      "card_id": 31424,
+      "name": "Silicobra",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.96,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31435:Holofoil": {
+      "card_id": 31435,
+      "name": "Sandaconda",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.37,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31502:Holofoil": {
+      "card_id": 31502,
+      "name": "Clobbopus",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.44,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31479:Holofoil": {
+      "card_id": 31479,
+      "name": "Grapploct",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.04,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31392:Holofoil": {
+      "card_id": 31392,
+      "name": "Falinks",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.19,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31480:Holofoil": {
+      "card_id": 31480,
+      "name": "Stonjourner",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.73,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31385:Holofoil": {
+      "card_id": 31385,
+      "name": "Koffing",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 8.73,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31456:Holofoil": {
+      "card_id": 31456,
+      "name": "Galarian Weezing",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.46,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31410:Holofoil": {
+      "card_id": 31410,
+      "name": "Galarian Zigzagoon",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.37,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31459:Holofoil": {
+      "card_id": 31459,
+      "name": "Galarian Linoone",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.42,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31470:Holofoil": {
+      "card_id": 31470,
+      "name": "Galarian Obstagoon",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.38,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31439:Holofoil": {
+      "card_id": 31439,
+      "name": "Nickit",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.85,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31482:Holofoil": {
+      "card_id": 31482,
+      "name": "Thievul",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.43,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31450:Holofoil": {
+      "card_id": 31450,
+      "name": "Impidimp",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.84,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31500:Holofoil": {
+      "card_id": 31500,
+      "name": "Morgrem",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.78,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31430:Holofoil": {
+      "card_id": 31430,
+      "name": "Grimmsnarl",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.81,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31453:Holofoil": {
+      "card_id": 31453,
+      "name": "Galarian Meowth",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.74,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31468:Holofoil": {
+      "card_id": 31468,
+      "name": "Galarian Perrserker",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.41,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31437:Holofoil": {
+      "card_id": 31437,
+      "name": "Galarian Stunfisk",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.61,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31401:Holofoil": {
+      "card_id": 31401,
+      "name": "Corviknight",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.29,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31463:Holofoil": {
+      "card_id": 31463,
+      "name": "Cufant",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31473:Holofoil": {
+      "card_id": 31473,
+      "name": "Copperajah",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.72,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31472:Holofoil": {
+      "card_id": 31472,
+      "name": "Duraludon",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.35,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31449:Holofoil": {
+      "card_id": 31449,
+      "name": "Minccino",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 13.94,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31467:Holofoil": {
+      "card_id": 31467,
+      "name": "Cinccino",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 11.96,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31495:Holofoil": {
+      "card_id": 31495,
+      "name": "Ducklett",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.67,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31476:Holofoil": {
+      "card_id": 31476,
+      "name": "Swanna",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31382:Holofoil": {
+      "card_id": 31382,
+      "name": "Bunnelby",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.22,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31464:Holofoil": {
+      "card_id": 31464,
+      "name": "Oranguru",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.07,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31420:Holofoil": {
+      "card_id": 31420,
+      "name": "Skwovet",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.77,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31460:Holofoil": {
+      "card_id": 31460,
+      "name": "Greedent",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.55,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31488:Holofoil": {
+      "card_id": 31488,
+      "name": "Rookidee",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.75,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31493:Holofoil": {
+      "card_id": 31493,
+      "name": "Corvisquire",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.63,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31416:Holofoil": {
+      "card_id": 31416,
+      "name": "Wooloo",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.91,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31465:Holofoil": {
+      "card_id": 31465,
+      "name": "Dubwool",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.54,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31387:Holofoil": {
+      "card_id": 31387,
+      "name": "Rillaboom V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.6,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31390:Holofoil": {
+      "card_id": 31390,
+      "name": "Rillaboom VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.18,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31444:Holofoil": {
+      "card_id": 31444,
+      "name": "Charizard VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 114.99,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31396:Holofoil": {
+      "card_id": 31396,
+      "name": "Centiskorch V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.41,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31405:Holofoil": {
+      "card_id": 31405,
+      "name": "Centiskorch VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.16,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31381:Holofoil": {
+      "card_id": 31381,
+      "name": "Lapras V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31404:Holofoil": {
+      "card_id": 31404,
+      "name": "Lapras VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 8.6,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31398:Holofoil": {
+      "card_id": 31398,
+      "name": "Toxtricity V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.62,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31394:Holofoil": {
+      "card_id": 31394,
+      "name": "Toxtricity VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.95,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31384:Holofoil": {
+      "card_id": 31384,
+      "name": "Indeedee V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.11,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31386:Holofoil": {
+      "card_id": 31386,
+      "name": "Falinks V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.56,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31397:Holofoil": {
+      "card_id": 31397,
+      "name": "Grimmsnarl V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.86,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31406:Holofoil": {
+      "card_id": 31406,
+      "name": "Grimmsnarl VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31383:Holofoil": {
+      "card_id": 31383,
+      "name": "Ditto V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 8.73,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31407:Holofoil": {
+      "card_id": 31407,
+      "name": "Ditto VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 13.49,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31395:Holofoil": {
+      "card_id": 31395,
+      "name": "Dubwool V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.04,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31393:Holofoil": {
+      "card_id": 31393,
+      "name": "Eternatus V",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.03,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "31391:Holofoil": {
+      "card_id": 31391,
+      "name": "Eternatus VMAX",
+      "set_id": 5500042,
+      "set_name": "Shining Fates: Shiny Vault",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.81,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33019:Normal": {
+      "card_id": 33019,
+      "name": "Code Card - Shining Fates Collection [Boltund V]",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.02,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33049:Normal": {
+      "card_id": 33049,
+      "name": "Code Card - Shining Fates Collection [Cramorant V]",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.08,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33025:Normal": {
+      "card_id": 33025,
+      "name": "Code Card - Shining Fates Collection [Eldegoss V]",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.04,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33022:Normal": {
+      "card_id": 33022,
+      "name": "Code Card - Shining Fates Collection [Pikachu V]",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.04,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33023:Normal": {
+      "card_id": 33023,
+      "name": "Code Card - Shining Fates Mad Party Pin Collection [Dedenne]",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.03,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32982:Reverse Holofoil": {
+      "card_id": 32982,
+      "name": "Yanma",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33002:Reverse Holofoil": {
+      "card_id": 33002,
+      "name": "Yanmega",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32949:Reverse Holofoil": {
+      "card_id": 32949,
+      "name": "Celebi",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33009:Reverse Holofoil": {
+      "card_id": 33009,
+      "name": "Cacnea",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33008:Normal": {
+      "card_id": 33008,
+      "name": "Tropius",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.13,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32971:Reverse Holofoil": {
+      "card_id": 32971,
+      "name": "Rowlet",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32991:Reverse Holofoil": {
+      "card_id": 32991,
+      "name": "Dartrix",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32984:Reverse Holofoil": {
+      "card_id": 32984,
+      "name": "Decidueye",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "32955:Holofoil": {
+      "card_id": 32955,
+      "name": "Dhelmise V",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.72,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32952:Holofoil": {
+      "card_id": 32952,
+      "name": "Dhelmise VMAX",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.49,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32985:Reverse Holofoil": {
+      "card_id": 32985,
+      "name": "Grookey",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32988:Reverse Holofoil": {
+      "card_id": 32988,
+      "name": "Thwackey",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32994:Reverse Holofoil": {
+      "card_id": 32994,
+      "name": "Rillaboom",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "32969:Reverse Holofoil": {
+      "card_id": 32969,
+      "name": "Gossifleur",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33000:Reverse Holofoil": {
+      "card_id": 33000,
+      "name": "Eldegoss",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32983:Normal": {
+      "card_id": 32983,
+      "name": "Zarude",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32941:Holofoil": {
+      "card_id": 32941,
+      "name": "Reshiram",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.2,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32956:Holofoil": {
+      "card_id": 32956,
+      "name": "Cinderace V",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.72,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32960:Holofoil": {
+      "card_id": 32960,
+      "name": "Cinderace VMAX",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.51,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32936:Reverse Holofoil": {
+      "card_id": 32936,
+      "name": "Horsea",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32938:Holofoil": {
+      "card_id": 32938,
+      "name": "Kyogre",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.65,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33001:Reverse Holofoil": {
+      "card_id": 33001,
+      "name": "Buizel",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32999:Reverse Holofoil": {
+      "card_id": 32999,
+      "name": "Floatzel",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32972:Reverse Holofoil": {
+      "card_id": 32972,
+      "name": "Manaphy",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33007:Reverse Holofoil": {
+      "card_id": 33007,
+      "name": "Volcanion",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32979:Reverse Holofoil": {
+      "card_id": 32979,
+      "name": "Chewtle",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33003:Reverse Holofoil": {
+      "card_id": 33003,
+      "name": "Drednaw",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32997:Reverse Holofoil": {
+      "card_id": 32997,
+      "name": "Cramorant",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32945:Reverse Holofoil": {
+      "card_id": 32945,
+      "name": "Snom",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32978:Reverse Holofoil": {
+      "card_id": 32978,
+      "name": "Frosmoth",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "32951:Reverse Holofoil": {
+      "card_id": 32951,
+      "name": "Shinx",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33006:Reverse Holofoil": {
+      "card_id": 33006,
+      "name": "Luxio",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32981:Reverse Holofoil": {
+      "card_id": 32981,
+      "name": "Luxray",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.41,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "32950:Reverse Holofoil": {
+      "card_id": 32950,
+      "name": "Rotom",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32942:Reverse Holofoil": {
+      "card_id": 32942,
+      "name": "Morpeko (035)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32937:Reverse Holofoil": {
+      "card_id": 32937,
+      "name": "Morpeko (036)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.41,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32965:Holofoil": {
+      "card_id": 32965,
+      "name": "Morpeko V",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.08,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32953:Holofoil": {
+      "card_id": 32953,
+      "name": "Morpeko VMAX",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.9,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32959:Holofoil": {
+      "card_id": 32959,
+      "name": "Indeedee V",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32996:Reverse Holofoil": {
+      "card_id": 32996,
+      "name": "Trapinch",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32977:Reverse Holofoil": {
+      "card_id": 32977,
+      "name": "Koffing",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32961:Reverse Holofoil": {
+      "card_id": 32961,
+      "name": "Galarian Weezing",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "32968:Reverse Holofoil": {
+      "card_id": 32968,
+      "name": "Spinarak",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32954:Holofoil": {
+      "card_id": 32954,
+      "name": "Crobat V",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.71,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32948:Holofoil": {
+      "card_id": 32948,
+      "name": "Crobat VMAX",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.53,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32940:Holofoil": {
+      "card_id": 32940,
+      "name": "Yveltal",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32995:Reverse Holofoil": {
+      "card_id": 32995,
+      "name": "Nickit",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32998:Reverse Holofoil": {
+      "card_id": 32998,
+      "name": "Thievul",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "33005:Reverse Holofoil": {
+      "card_id": 33005,
+      "name": "Cufant",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32944:Holofoil": {
+      "card_id": 32944,
+      "name": "Ditto V",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.76,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32947:Holofoil": {
+      "card_id": 32947,
+      "name": "Ditto VMAX",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.98,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32934:Reverse Holofoil": {
+      "card_id": 32934,
+      "name": "Eevee",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32964:Holofoil": {
+      "card_id": 32964,
+      "name": "Greedent V",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.62,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32958:Holofoil": {
+      "card_id": 32958,
+      "name": "Cramorant V",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32946:Holofoil": {
+      "card_id": 32946,
+      "name": "Cramorant VMAX",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.27,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32989:Holofoil": {
+      "card_id": 32989,
+      "name": "Indeedee",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "32943:Reverse Holofoil": {
+      "card_id": 32943,
+      "name": "Ball Guy",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32935:Reverse Holofoil": {
+      "card_id": 32935,
+      "name": "Boss's Orders",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.43,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32990:Reverse Holofoil": {
+      "card_id": 32990,
+      "name": "Gym Trainer",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32987:Reverse Holofoil": {
+      "card_id": 32987,
+      "name": "Professor's Research",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32993:Reverse Holofoil": {
+      "card_id": 32993,
+      "name": "Rusted Shield",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32980:Reverse Holofoil": {
+      "card_id": 32980,
+      "name": "Rusted Sword",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33004:Reverse Holofoil": {
+      "card_id": 33004,
+      "name": "Team Yell Towel",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32976:Holofoil": {
+      "card_id": 32976,
+      "name": "Alcremie V (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.06,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32966:Holofoil": {
+      "card_id": 32966,
+      "name": "Ball Guy (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.78,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32963:Holofoil": {
+      "card_id": 32963,
+      "name": "Bird Keeper (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.39,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32975:Holofoil": {
+      "card_id": 32975,
+      "name": "Cara Liss (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32970:Holofoil": {
+      "card_id": 32970,
+      "name": "Gym Trainer (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.13,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32986:Holofoil": {
+      "card_id": 32986,
+      "name": "Piers (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.82,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32967:Holofoil": {
+      "card_id": 32967,
+      "name": "Poke Kid (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 8.85,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32962:Holofoil": {
+      "card_id": 32962,
+      "name": "Rose (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.04,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32957:Holofoil": {
+      "card_id": 32957,
+      "name": "Skyla (Full Art)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 8.71,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "32939:Holofoil": {
+      "card_id": 32939,
+      "name": "Alcremie VMAX (Secret)",
+      "set_id": 5500175,
+      "set_name": "Shining Fates",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38223:Holofoil": {
+      "card_id": 38223,
+      "name": "Bulbasaur - 1/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.33,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38224:Holofoil": {
+      "card_id": 38224,
+      "name": "Chikorita - 2/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.85,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38232:Holofoil": {
+      "card_id": 38232,
+      "name": "Treecko - 3/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.19,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38229:Holofoil": {
+      "card_id": 38229,
+      "name": "Turtwig - 4/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.77,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38244:Holofoil": {
+      "card_id": 38244,
+      "name": "Snivy - 5/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.44,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "38239:Holofoil": {
+      "card_id": 38239,
+      "name": "Chespin - 6/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.07,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38233:Holofoil": {
+      "card_id": 38233,
+      "name": "Rowlet - 7/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.5,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "38237:Holofoil": {
+      "card_id": 38237,
+      "name": "Grookey - 8/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38225:Holofoil": {
+      "card_id": 38225,
+      "name": "Charmander - 9/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.89,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38220:Holofoil": {
+      "card_id": 38220,
+      "name": "Cyndaquil - 10/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.07,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38228:Holofoil": {
+      "card_id": 38228,
+      "name": "Torchic - 11/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.9,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38241:Holofoil": {
+      "card_id": 38241,
+      "name": "Chimchar - 12/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "38238:Holofoil": {
+      "card_id": 38238,
+      "name": "Tepig - 13/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38240:Holofoil": {
+      "card_id": 38240,
+      "name": "Fennekin - 14/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.37,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38243:Holofoil": {
+      "card_id": 38243,
+      "name": "Litten - 15/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38235:Holofoil": {
+      "card_id": 38235,
+      "name": "Scorbunny - 16/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.23,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "38221:Holofoil": {
+      "card_id": 38221,
+      "name": "Squirtle - 17/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 8.76,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38227:Holofoil": {
+      "card_id": 38227,
+      "name": "Totodile - 18/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.99,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "38226:Holofoil": {
+      "card_id": 38226,
+      "name": "Mudkip - 19/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 7.1,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "38231:Holofoil": {
+      "card_id": 38231,
+      "name": "Piplup - 20/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.83,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38236:Holofoil": {
+      "card_id": 38236,
+      "name": "Oshawott - 21/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.39,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "38230:Holofoil": {
+      "card_id": 38230,
+      "name": "Froakie - 22/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.5,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38242:Holofoil": {
+      "card_id": 38242,
+      "name": "Popplio - 23/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.48,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38245:Holofoil": {
+      "card_id": 38245,
+      "name": "Sobble - 24/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.47,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "38222:Holofoil": {
+      "card_id": 38222,
+      "name": "Pikachu - 25/25",
+      "set_id": 5500117,
+      "set_name": "McDonald's 25th Anniversary Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 25.29,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22161:Normal": {
+      "card_id": 22161,
+      "name": "Code Card - Alakazam V Box",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.15,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22173:Normal": {
+      "card_id": 22173,
+      "name": "Code Card - Orbeetle V Box",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.08,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22168:Normal": {
+      "card_id": 22168,
+      "name": "Code Card - Vivid Voltage Build & Battle Box",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22049:Reverse Holofoil": {
+      "card_id": 22049,
+      "name": "Weedle",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22021:Reverse Holofoil": {
+      "card_id": 22021,
+      "name": "Kakuna",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22059:Reverse Holofoil": {
+      "card_id": 22059,
+      "name": "Beedrill",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22125:Reverse Holofoil": {
+      "card_id": 22125,
+      "name": "Exeggcute",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22056:Reverse Holofoil": {
+      "card_id": 22056,
+      "name": "Exeggutor",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22136:Reverse Holofoil": {
+      "card_id": 22136,
+      "name": "Yanma",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22108:Reverse Holofoil": {
+      "card_id": 22108,
+      "name": "Yanmega",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21993:Reverse Holofoil": {
+      "card_id": 21993,
+      "name": "Pineco",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21956:Holofoil": {
+      "card_id": 21956,
+      "name": "Celebi",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.54,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22057:Reverse Holofoil": {
+      "card_id": 22057,
+      "name": "Seedot",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22106:Reverse Holofoil": {
+      "card_id": 22106,
+      "name": "Nuzleaf",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22115:Reverse Holofoil": {
+      "card_id": 22115,
+      "name": "Shiftry",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22104:Reverse Holofoil": {
+      "card_id": 22104,
+      "name": "Nincada",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21989:Reverse Holofoil": {
+      "card_id": 21989,
+      "name": "Ninjask",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.1,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22002:Holofoil": {
+      "card_id": 22002,
+      "name": "Shaymin",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22117:Reverse Holofoil": {
+      "card_id": 22117,
+      "name": "Genesect",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21999:Reverse Holofoil": {
+      "card_id": 21999,
+      "name": "Skiddo",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22092:Normal": {
+      "card_id": 22092,
+      "name": "Gogoat",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.16,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22135:Reverse Holofoil": {
+      "card_id": 22135,
+      "name": "Dhelmise",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21976:Holofoil": {
+      "card_id": 21976,
+      "name": "Orbeetle V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21951:Holofoil": {
+      "card_id": 21951,
+      "name": "Orbeetle VMAX",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.39,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21981:Holofoil": {
+      "card_id": 21981,
+      "name": "Zarude V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21938:Reverse Holofoil": {
+      "card_id": 21938,
+      "name": "Charmander",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.5,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21971:Reverse Holofoil": {
+      "card_id": 21971,
+      "name": "Charmeleon",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21939:Reverse Holofoil": {
+      "card_id": 21939,
+      "name": "Charizard",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.39,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21949:Reverse Holofoil": {
+      "card_id": 21949,
+      "name": "Flareon",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.01,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22116:Reverse Holofoil": {
+      "card_id": 22116,
+      "name": "Slugma",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22142:Reverse Holofoil": {
+      "card_id": 22142,
+      "name": "Magcargo",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21970:Holofoil": {
+      "card_id": 21970,
+      "name": "Talonflame V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.72,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21945:Reverse Holofoil": {
+      "card_id": 21945,
+      "name": "Vaporeon",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.17,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22011:Reverse Holofoil": {
+      "card_id": 22011,
+      "name": "Wailmer",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21978:Reverse Holofoil": {
+      "card_id": 21978,
+      "name": "Wailord",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21963:Reverse Holofoil": {
+      "card_id": 21963,
+      "name": "Oshawott",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22055:Reverse Holofoil": {
+      "card_id": 22055,
+      "name": "Dewott",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22032:Reverse Holofoil": {
+      "card_id": 22032,
+      "name": "Samurott",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21974:Holofoil": {
+      "card_id": 21974,
+      "name": "Galarian Darmanitan V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.66,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21968:Holofoil": {
+      "card_id": 21968,
+      "name": "Galarian Darmanitan VMAX",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.31,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22010:Reverse Holofoil": {
+      "card_id": 22010,
+      "name": "Chewtle",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22077:Reverse Holofoil": {
+      "card_id": 22077,
+      "name": "Drednaw",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22035:Reverse Holofoil": {
+      "card_id": 22035,
+      "name": "Cramorant",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22047:Reverse Holofoil": {
+      "card_id": 22047,
+      "name": "Arrokuda",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22114:Reverse Holofoil": {
+      "card_id": 22114,
+      "name": "Barraskewda",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21940:Holofoil": {
+      "card_id": 21940,
+      "name": "Pikachu V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.47,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21948:Holofoil": {
+      "card_id": 21948,
+      "name": "Pikachu VMAX",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 12.61,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22111:Reverse Holofoil": {
+      "card_id": 22111,
+      "name": "Voltorb",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22045:Reverse Holofoil": {
+      "card_id": 22045,
+      "name": "Electrode",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21944:Reverse Holofoil": {
+      "card_id": 21944,
+      "name": "Jolteon",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.91,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21977:Reverse Holofoil": {
+      "card_id": 21977,
+      "name": "Zapdos",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.07,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21960:Holofoil": {
+      "card_id": 21960,
+      "name": "Ampharos V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.95,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21941:Holofoil": {
+      "card_id": 21941,
+      "name": "Raikou",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.98,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22031:Reverse Holofoil": {
+      "card_id": 22031,
+      "name": "Electrike",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22039:Reverse Holofoil": {
+      "card_id": 22039,
+      "name": "Manectric",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22123:Reverse Holofoil": {
+      "card_id": 22123,
+      "name": "Blitzle",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22087:Reverse Holofoil": {
+      "card_id": 22087,
+      "name": "Zebstrika",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22022:Reverse Holofoil": {
+      "card_id": 22022,
+      "name": "Joltik",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22083:Reverse Holofoil": {
+      "card_id": 22083,
+      "name": "Galvantula",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22033:Reverse Holofoil": {
+      "card_id": 22033,
+      "name": "Tynamo",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22088:Reverse Holofoil": {
+      "card_id": 22088,
+      "name": "Eelektrik",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22079:Reverse Holofoil": {
+      "card_id": 22079,
+      "name": "Eelektross",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21997:Reverse Holofoil": {
+      "card_id": 21997,
+      "name": "Zekrom",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.42,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22071:Reverse Holofoil": {
+      "card_id": 22071,
+      "name": "Zeraora",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.53,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22128:Reverse Holofoil": {
+      "card_id": 22128,
+      "name": "Pincurchin",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21996:Reverse Holofoil": {
+      "card_id": 21996,
+      "name": "Clefairy",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21988:Reverse Holofoil": {
+      "card_id": 21988,
+      "name": "Clefable",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22028:Reverse Holofoil": {
+      "card_id": 22028,
+      "name": "Girafarig",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21987:Reverse Holofoil": {
+      "card_id": 21987,
+      "name": "Shedinja",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22068:Reverse Holofoil": {
+      "card_id": 22068,
+      "name": "Shuppet",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22060:Reverse Holofoil": {
+      "card_id": 22060,
+      "name": "Banette",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22016:Reverse Holofoil": {
+      "card_id": 22016,
+      "name": "Duskull",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22130:Reverse Holofoil": {
+      "card_id": 22130,
+      "name": "Dusclops",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22084:Reverse Holofoil": {
+      "card_id": 22084,
+      "name": "Dusknoir",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21964:Reverse Holofoil": {
+      "card_id": 21964,
+      "name": "Chimecho",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22012:Reverse Holofoil": {
+      "card_id": 22012,
+      "name": "Woobat",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.08,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22074:Reverse Holofoil": {
+      "card_id": 22074,
+      "name": "Swoobat",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22046:Reverse Holofoil": {
+      "card_id": 22046,
+      "name": "Cottonee",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22070:Reverse Holofoil": {
+      "card_id": 22070,
+      "name": "Whimsicott",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21950:Reverse Holofoil": {
+      "card_id": 21950,
+      "name": "Dedenne",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22080:Reverse Holofoil": {
+      "card_id": 22080,
+      "name": "Xerneas",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22001:Reverse Holofoil": {
+      "card_id": 22001,
+      "name": "Diancie",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.41,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22090:Reverse Holofoil": {
+      "card_id": 22090,
+      "name": "Milcery",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22009:Reverse Holofoil": {
+      "card_id": 22009,
+      "name": "Alcremie",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21952:Holofoil": {
+      "card_id": 21952,
+      "name": "Zacian",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.47,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21935:Reverse Holofoil": {
+      "card_id": 21935,
+      "name": "Wooper",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21967:Reverse Holofoil": {
+      "card_id": 21967,
+      "name": "Quagsire",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.57,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22017:Reverse Holofoil": {
+      "card_id": 22017,
+      "name": "Shuckle",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21936:Reverse Holofoil": {
+      "card_id": 21936,
+      "name": "Phanpy",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.42,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22113:Reverse Holofoil": {
+      "card_id": 22113,
+      "name": "Donphan",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22018:Reverse Holofoil": {
+      "card_id": 22018,
+      "name": "Hitmontop",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22073:Reverse Holofoil": {
+      "card_id": 22073,
+      "name": "Regirock",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21957:Reverse Holofoil": {
+      "card_id": 21957,
+      "name": "Riolu",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21973:Reverse Holofoil": {
+      "card_id": 21973,
+      "name": "Drilbur",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.46,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22100:Reverse Holofoil": {
+      "card_id": 22100,
+      "name": "Terrakion",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21994:Reverse Holofoil": {
+      "card_id": 21994,
+      "name": "Zygarde",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21992:Reverse Holofoil": {
+      "card_id": 21992,
+      "name": "Rockruff",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22062:Reverse Holofoil": {
+      "card_id": 22062,
+      "name": "Lycanroc",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.43,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22064:Reverse Holofoil": {
+      "card_id": 22064,
+      "name": "Mudbray",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.12,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22081:Reverse Holofoil": {
+      "card_id": 22081,
+      "name": "Mudsdale",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21969:Holofoil": {
+      "card_id": 21969,
+      "name": "Coalossal V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.59,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21955:Holofoil": {
+      "card_id": 21955,
+      "name": "Coalossal VMAX",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.59,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22085:Reverse Holofoil": {
+      "card_id": 22085,
+      "name": "Clobbopus",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.1,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22126:Reverse Holofoil": {
+      "card_id": 22126,
+      "name": "Grapploct",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21954:Holofoil": {
+      "card_id": 21954,
+      "name": "Zamazenta",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.38,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22015:Reverse Holofoil": {
+      "card_id": 22015,
+      "name": "Poochyena",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22037:Reverse Holofoil": {
+      "card_id": 22037,
+      "name": "Mightyena",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22029:Reverse Holofoil": {
+      "card_id": 22029,
+      "name": "Sableye",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21965:Holofoil": {
+      "card_id": 21965,
+      "name": "Drapion V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.57,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22051:Reverse Holofoil": {
+      "card_id": 22051,
+      "name": "Sandile",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22027:Reverse Holofoil": {
+      "card_id": 22027,
+      "name": "Krokorok",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.26,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22119:Reverse Holofoil": {
+      "card_id": 22119,
+      "name": "Krookodile",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22036:Reverse Holofoil": {
+      "card_id": 22036,
+      "name": "Trubbish",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22061:Reverse Holofoil": {
+      "card_id": 22061,
+      "name": "Garbodor",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.38,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22038:Reverse Holofoil": {
+      "card_id": 22038,
+      "name": "Galarian Meowth",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22075:Reverse Holofoil": {
+      "card_id": 22075,
+      "name": "Galarian Perrserker",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22118:Reverse Holofoil": {
+      "card_id": 22118,
+      "name": "Forretress",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21966:Holofoil": {
+      "card_id": 21966,
+      "name": "Steelix V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.84,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22076:Reverse Holofoil": {
+      "card_id": 22076,
+      "name": "Beldum",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22138:Reverse Holofoil": {
+      "card_id": 22138,
+      "name": "Metang",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21998:Reverse Holofoil": {
+      "card_id": 21998,
+      "name": "Metagross",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21942:Holofoil": {
+      "card_id": 21942,
+      "name": "Jirachi",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 8.42,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21962:Reverse Holofoil": {
+      "card_id": 21962,
+      "name": "Lucario",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.71,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22007:Reverse Holofoil": {
+      "card_id": 22007,
+      "name": "Dialga",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.41,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22098:Reverse Holofoil": {
+      "card_id": 22098,
+      "name": "Excadrill",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22137:Reverse Holofoil": {
+      "card_id": 22137,
+      "name": "Ferroseed",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22131:Reverse Holofoil": {
+      "card_id": 22131,
+      "name": "Ferrothorn",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22078:Reverse Holofoil": {
+      "card_id": 22078,
+      "name": "Galarian Stunfisk",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21975:Holofoil": {
+      "card_id": 21975,
+      "name": "Aegislash V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.72,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21947:Holofoil": {
+      "card_id": 21947,
+      "name": "Aegislash VMAX",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.48,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22026:Reverse Holofoil": {
+      "card_id": 22026,
+      "name": "Magearna",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22094:Reverse Holofoil": {
+      "card_id": 22094,
+      "name": "Duraludon",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21937:Reverse Holofoil": {
+      "card_id": 21937,
+      "name": "Eevee",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.6,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21943:Holofoil": {
+      "card_id": 21943,
+      "name": "Snorlax",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.8,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21959:Reverse Holofoil": {
+      "card_id": 21959,
+      "name": "Lugia",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.3,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21990:Reverse Holofoil": {
+      "card_id": 21990,
+      "name": "Taillow",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22072:Reverse Holofoil": {
+      "card_id": 22072,
+      "name": "Swellow",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.13,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22004:Reverse Holofoil": {
+      "card_id": 22004,
+      "name": "Whismur",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22030:Reverse Holofoil": {
+      "card_id": 22030,
+      "name": "Loudred",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22069:Reverse Holofoil": {
+      "card_id": 22069,
+      "name": "Exploud",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21946:Holofoil": {
+      "card_id": 21946,
+      "name": "Rayquaza",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 22.91,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22101:Reverse Holofoil": {
+      "card_id": 22101,
+      "name": "Chatot",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21953:Holofoil": {
+      "card_id": 21953,
+      "name": "Togekiss V",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21958:Holofoil": {
+      "card_id": 21958,
+      "name": "Togekiss VMAX",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.74,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22024:Reverse Holofoil": {
+      "card_id": 22024,
+      "name": "Tornadus",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "22005:Reverse Holofoil": {
+      "card_id": 22005,
+      "name": "Pikipek",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.08,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22003:Reverse Holofoil": {
+      "card_id": 22003,
+      "name": "Trumbeak",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21983:Reverse Holofoil": {
+      "card_id": 21983,
+      "name": "Toucannon",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22034:Reverse Holofoil": {
+      "card_id": 22034,
+      "name": "Allister",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22086:Reverse Holofoil": {
+      "card_id": 22086,
+      "name": "Bea",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.18,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22109:Reverse Holofoil": {
+      "card_id": 22109,
+      "name": "Beauty",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22134:Reverse Holofoil": {
+      "card_id": 22134,
+      "name": "Cara Liss",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22121:Reverse Holofoil": {
+      "card_id": 22121,
+      "name": "Circhester Bath",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22000:Reverse Holofoil": {
+      "card_id": 22000,
+      "name": "Drone Rotom",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22133:Reverse Holofoil": {
+      "card_id": 22133,
+      "name": "Hero's Medal",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22129:Reverse Holofoil": {
+      "card_id": 22129,
+      "name": "League Staff",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21991:Reverse Holofoil": {
+      "card_id": 21991,
+      "name": "Leon",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-10-18"
+        }
+      ]
+    },
+    "21984:Reverse Holofoil": {
+      "card_id": 21984,
+      "name": "Memory Capsule",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22053:Reverse Holofoil": {
+      "card_id": 22053,
+      "name": "Moomoo Cheese",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21961:Reverse Holofoil": {
+      "card_id": 21961,
+      "name": "Nessa",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22093:Normal": {
+      "card_id": 22093,
+      "name": "Opal",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.07,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22054:Reverse Holofoil": {
+      "card_id": 22054,
+      "name": "Rocky Helmet",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22105:Normal": {
+      "card_id": 22105,
+      "name": "Telescopic Sight",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.05,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22110:Reverse Holofoil": {
+      "card_id": 22110,
+      "name": "Wyndon Stadium",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.15,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21972:Reverse Holofoil": {
+      "card_id": 21972,
+      "name": "Aromatic Grass Energy",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21979:Reverse Holofoil": {
+      "card_id": 21979,
+      "name": "Wash Water Energy",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22052:Holofoil": {
+      "card_id": 22052,
+      "name": "Orbeetle V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.68,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22014:Holofoil": {
+      "card_id": 22014,
+      "name": "Zarude V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.25,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22096:Holofoil": {
+      "card_id": 22096,
+      "name": "Talonflame V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.32,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22058:Holofoil": {
+      "card_id": 22058,
+      "name": "Galarian Darmanitan V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.65,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22063:Holofoil": {
+      "card_id": 22063,
+      "name": "Pikachu V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 42.99,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22067:Holofoil": {
+      "card_id": 22067,
+      "name": "Ampharos V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 7.88,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21982:Holofoil": {
+      "card_id": 21982,
+      "name": "Alakazam V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.53,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22107:Holofoil": {
+      "card_id": 22107,
+      "name": "Coalossal V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.67,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21986:Holofoil": {
+      "card_id": 21986,
+      "name": "Galarian Sirfetch'd V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.36,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22112:Holofoil": {
+      "card_id": 22112,
+      "name": "Drapion V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.81,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22097:Holofoil": {
+      "card_id": 22097,
+      "name": "Steelix V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.76,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22042:Holofoil": {
+      "card_id": 22042,
+      "name": "Aegislash V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.05,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22048:Holofoil": {
+      "card_id": 22048,
+      "name": "Togekiss V (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.55,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22006:Holofoil": {
+      "card_id": 22006,
+      "name": "Allister (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.28,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22023:Holofoil": {
+      "card_id": 22023,
+      "name": "Bea (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 7.87,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22020:Holofoil": {
+      "card_id": 22020,
+      "name": "Beauty (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.24,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22013:Holofoil": {
+      "card_id": 22013,
+      "name": "Leon (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 7.6,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "21995:Holofoil": {
+      "card_id": 21995,
+      "name": "Nessa (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 8.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22025:Holofoil": {
+      "card_id": 22025,
+      "name": "Opal (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.49,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22008:Holofoil": {
+      "card_id": 22008,
+      "name": "Pokemon Center Lady (Full Art)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 19.28,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22122:Holofoil": {
+      "card_id": 22122,
+      "name": "Orbeetle VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.57,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22141:Holofoil": {
+      "card_id": 22141,
+      "name": "Galarian Darmanitan VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.19,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22139:Holofoil": {
+      "card_id": 22139,
+      "name": "Pikachu VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 169.36,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22103:Holofoil": {
+      "card_id": 22103,
+      "name": "Coalossal VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.93,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22132:Holofoil": {
+      "card_id": 22132,
+      "name": "Aegislash VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 7.39,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22099:Holofoil": {
+      "card_id": 22099,
+      "name": "Togekiss VMAX (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 12.84,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22120:Holofoil": {
+      "card_id": 22120,
+      "name": "Allister (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.01,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22102:Holofoil": {
+      "card_id": 22102,
+      "name": "Bea (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.68,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22124:Holofoil": {
+      "card_id": 22124,
+      "name": "Beauty (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.78,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22095:Holofoil": {
+      "card_id": 22095,
+      "name": "Leon (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 5.92,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22044:Holofoil": {
+      "card_id": 22044,
+      "name": "Nessa (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 10.7,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22050:Holofoil": {
+      "card_id": 22050,
+      "name": "Opal (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 3.47,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22019:Holofoil": {
+      "card_id": 22019,
+      "name": "Galarian Obstagoon (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 6.34,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22066:Holofoil": {
+      "card_id": 22066,
+      "name": "Oranguru (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 4.52,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22041:Holofoil": {
+      "card_id": 22041,
+      "name": "Cape of Toughness (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.8,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22043:Holofoil": {
+      "card_id": 22043,
+      "name": "Hero's Medal (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 2.06,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22089:Holofoil": {
+      "card_id": 22089,
+      "name": "Memory Capsule (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.85,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "22065:Holofoil": {
+      "card_id": 22065,
+      "name": "Telescopic Sight (Secret)",
+      "set_id": 5500178,
+      "set_name": "SWSH04: Vivid Voltage",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-19",
+          "market_price_usd": 1.95,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
     }
   }
 }
