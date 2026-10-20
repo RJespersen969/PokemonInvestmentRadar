@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-19T08:10:52.947596+00:00",
+  "generated_at": "2026-10-20T08:03:50.695575+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 65,
+  "next_set_index": 70,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 9,
-  "total_candidates": 1862,
-  "cards_with_price_history": 9915,
+  "api_calls": 13,
+  "total_candidates": 1927,
+  "cards_with_price_history": 10772,
   "candidates": [
     {
       "card_id": 17849,
@@ -817,6 +817,18 @@
       "market_price_usd": 108.91,
       "market_price_as_of": "2026-10-10",
       "total_listings": 101
+    },
+    {
+      "card_id": 17511,
+      "name": "Snorlax VMAX (Secret)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "206/202",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 106.99,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 40
     },
     {
       "card_id": 16048,
@@ -2547,6 +2559,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 21029,
+      "name": "Boss's Orders (Full Art)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "189/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 53.77,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 78
+    },
+    {
       "card_id": 23563,
       "name": "Mega Kangaskhan ex - 182/132",
       "set_id": 5500179,
@@ -3051,6 +3075,18 @@
       "total_listings": 144
     },
     {
+      "card_id": 17404,
+      "name": "Snorlax VMAX",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "142/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.15,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 133
+    },
+    {
       "card_id": 15651,
       "name": "Iono - 269/193",
       "set_id": 5500150,
@@ -3445,6 +3481,18 @@
       "market_price_usd": 43.25,
       "market_price_as_of": "2026-10-15",
       "total_listings": 13
+    },
+    {
+      "card_id": 21025,
+      "name": "Boss's Orders (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "200/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.17,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 32
     },
     {
       "card_id": 15671,
@@ -4047,6 +4095,18 @@
       "total_listings": 256
     },
     {
+      "card_id": 22450,
+      "name": "Charizard VMAX",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "020/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.74,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 229
+    },
+    {
       "card_id": 18179,
       "name": "Durant ex - 236/191",
       "set_id": 5500180,
@@ -4213,6 +4273,18 @@
       "market_price_usd": 37.9,
       "market_price_as_of": "2026-10-13",
       "total_listings": 271
+    },
+    {
+      "card_id": 21063,
+      "name": "Ninetales V (Full Art)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "177/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.8,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 41
     },
     {
       "card_id": 14455,
@@ -4429,6 +4501,18 @@
       "market_price_usd": 34.88,
       "market_price_as_of": "2026-10-13",
       "total_listings": 248
+    },
+    {
+      "card_id": 17481,
+      "name": "Marnie (Full Art)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "200/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.86,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 125
     },
     {
       "card_id": 21864,
@@ -4753,6 +4837,18 @@
       "market_price_usd": 33.03,
       "market_price_as_of": "2026-10-08",
       "total_listings": 1
+    },
+    {
+      "card_id": 17458,
+      "name": "Snorlax V (Full Art)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "197/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.99,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 60
     },
     {
       "card_id": 38178,
@@ -5943,6 +6039,18 @@
       "total_listings": 80
     },
     {
+      "card_id": 17523,
+      "name": "Morpeko VMAX (Secret)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "204/202",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.81,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 29
+    },
+    {
       "card_id": 19016,
       "name": "Celebi VMAX (Secret)",
       "set_id": 5500170,
@@ -6855,6 +6963,30 @@
       "total_listings": 92
     },
     {
+      "card_id": 21133,
+      "name": "Dragapult VMAX (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "197/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.04,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 32
+    },
+    {
+      "card_id": 21129,
+      "name": "Toxtricity VMAX (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "196/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.02,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 34
+    },
+    {
       "card_id": 38132,
       "name": "Vaporeon",
       "set_id": 5500144,
@@ -7323,6 +7455,18 @@
       "total_listings": 174
     },
     {
+      "card_id": 17557,
+      "name": "Lapras VMAX (Secret)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "203/202",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.54,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 66
+    },
+    {
       "card_id": 20464,
       "name": "Charizard ex - 215/197",
       "set_id": 5500138,
@@ -7597,6 +7741,18 @@
       "market_price_usd": 20.82,
       "market_price_as_of": "2026-10-09",
       "total_listings": 117
+    },
+    {
+      "card_id": 17562,
+      "name": "Zacian V (Secret)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "211/202",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.82,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 83
     },
     {
       "card_id": 20370,
@@ -7875,6 +8031,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 21017,
+      "name": "Sonia (Full Art)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "192/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.0,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 114
+    },
+    {
       "card_id": 17237,
       "name": "Slowpoke",
       "set_id": 5500030,
@@ -8031,6 +8199,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 20926,
+      "name": "Magikarp",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "039/192",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.74,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 291
+    },
+    {
       "card_id": 5678,
       "name": "Team Rocket's Mewtwo ex - 081/182",
       "set_id": 5500194,
@@ -8127,6 +8307,18 @@
       "total_listings": 359
     },
     {
+      "card_id": 17515,
+      "name": "Marnie (Secret)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "208/202",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.57,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 115
+    },
+    {
       "card_id": 5548,
       "name": "Vaporeon ex - 023/131",
       "set_id": 5500194,
@@ -8209,6 +8401,18 @@
       "market_price_usd": 19.39,
       "market_price_as_of": "2026-10-09",
       "total_listings": 324
+    },
+    {
+      "card_id": 21130,
+      "name": "Cinderace VMAX (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "194/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.37,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 46
     },
     {
       "card_id": 20798,
@@ -8931,6 +9135,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 22580,
+      "name": "Butterfree VMAX (Secret)",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "190/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.42,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 100
+    },
+    {
       "card_id": 18243,
       "name": "Espeon ex - 175",
       "set_id": 5500070,
@@ -8989,6 +9205,18 @@
       "market_price_usd": 17.35,
       "market_price_as_of": "2026-10-09",
       "total_listings": 29
+    },
+    {
+      "card_id": 34138,
+      "name": "Gardevoir VMAX (Secret)",
+      "set_id": 5500028,
+      "set_name": "Champion's Path",
+      "number": "76/73",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.33,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 63
     },
     {
       "card_id": 38141,
@@ -9939,6 +10167,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 21132,
+      "name": "Milotic V (Full Art)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "179/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.71,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 65
+    },
+    {
       "card_id": 14384,
       "name": "Gigalith - 129/086",
       "set_id": 5500153,
@@ -10623,6 +10863,18 @@
       "total_listings": 83
     },
     {
+      "card_id": 21136,
+      "name": "Sonia (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "203/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.76,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 55
+    },
+    {
       "card_id": 37643,
       "name": "Squirtle",
       "set_id": 5500165,
@@ -10717,6 +10969,30 @@
       "market_price_usd": 14.7,
       "market_price_as_of": "2026-10-18",
       "total_listings": 85
+    },
+    {
+      "card_id": 21003,
+      "name": "Frosmoth (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "204/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.66,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 60
+    },
+    {
+      "card_id": 22604,
+      "name": "Salamence VMAX (Secret)",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "194/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.66,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 96
     },
     {
       "card_id": 13374,
@@ -11571,6 +11847,18 @@
       "total_listings": 41
     },
     {
+      "card_id": 29648,
+      "name": "Charizard GX - 9/68 (#60 Charizard Stamped)",
+      "set_id": 5500131,
+      "set_name": "Battle Academy",
+      "number": "009/068",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.31,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 130
+    },
+    {
       "card_id": 23044,
       "name": "Galarian Articuno V (Secret)",
       "set_id": 5500201,
@@ -11581,6 +11869,30 @@
       "market_price_usd": 13.3,
       "market_price_as_of": "2026-10-17",
       "total_listings": 124
+    },
+    {
+      "card_id": 17548,
+      "name": "Zamazenta V (Secret)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "212/202",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.25,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 74
+    },
+    {
+      "card_id": 21096,
+      "name": "Galarian Perrserker (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "205/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.24,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 57
     },
     {
       "card_id": 21375,
@@ -11773,6 +12085,18 @@
       "market_price_usd": 13.0,
       "market_price_as_of": "2026-10-12",
       "total_listings": 216
+    },
+    {
+      "card_id": 17499,
+      "name": "Sableye V (Full Art)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "194/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.0,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 90
     },
     {
       "card_id": 15635,
@@ -12195,6 +12519,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 17476,
+      "name": "Morpeko V (Full Art)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "190/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.53,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 56
+    },
+    {
       "card_id": 38181,
       "name": "Mawile V",
       "set_id": 5500197,
@@ -12423,6 +12759,18 @@
       "total_listings": 227
     },
     {
+      "card_id": 21105,
+      "name": "Inteleon VMAX (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "195/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.32,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 42
+    },
+    {
       "card_id": 13634,
       "name": "Panpour - 101/086",
       "set_id": 5500093,
@@ -12601,6 +12949,18 @@
       "market_price_usd": 12.1,
       "market_price_as_of": "2026-10-14",
       "total_listings": 83
+    },
+    {
+      "card_id": 21112,
+      "name": "Rillaboom VMAX (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "193/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.1,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 58
     },
     {
       "card_id": 2301885,
@@ -13179,6 +13539,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 21057,
+      "name": "Dragapult V (Full Art)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "183/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.6,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 107
+    },
+    {
       "card_id": 14307,
       "name": "Sawk - 130/086",
       "set_id": 5500153,
@@ -13213,6 +13585,18 @@
       "market_price_usd": 11.58,
       "market_price_as_of": "2026-10-14",
       "total_listings": 183
+    },
+    {
+      "card_id": 22565,
+      "name": "Scizor VMAX (Secret)",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "193/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.58,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 93
     },
     {
       "card_id": 38119,
@@ -13321,6 +13705,18 @@
       "market_price_usd": 11.49,
       "market_price_as_of": "2026-10-15",
       "total_listings": 11
+    },
+    {
+      "card_id": 17444,
+      "name": "Air Balloon (Secret)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "213/202",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.46,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 119
     },
     {
       "card_id": 17277,
@@ -13741,6 +14137,18 @@
       "market_price_usd": 10.9,
       "market_price_as_of": "2026-10-10",
       "total_listings": 72
+    },
+    {
+      "card_id": 17545,
+      "name": "Quick Ball (Secret)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "216/202",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.9,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 114
     },
     {
       "card_id": 21549,
@@ -14307,6 +14715,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 20949,
+      "name": "Ninetales",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "025/192",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.39,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 194
+    },
+    {
       "card_id": 21875,
       "name": "Zapdos ex - 192/165",
       "set_id": 5500171,
@@ -14653,6 +15073,18 @@
       "market_price_usd": 9.99,
       "market_price_as_of": "2026-10-15",
       "total_listings": 17
+    },
+    {
+      "card_id": 22518,
+      "name": "Eternatus VMAX (Secret)",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "192/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.98,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 123
     },
     {
       "card_id": 18367,
@@ -15435,6 +15867,18 @@
       "total_listings": 49
     },
     {
+      "card_id": 29651,
+      "name": "Mewtwo GX - 31/68 (Mewtwo Stamped)",
+      "set_id": 5500131,
+      "set_name": "Battle Academy",
+      "number": "031/068",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.34,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 101
+    },
+    {
       "card_id": 5884,
       "name": "Galarian Zapdos - 082/203",
       "set_id": 5500194,
@@ -15459,6 +15903,18 @@
       "total_listings": 180
     },
     {
+      "card_id": 17369,
+      "name": "Gengar",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "085/202",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.33,
+      "market_price_as_of": "2026-10-19",
+      "total_listings": 197
+    },
+    {
       "card_id": 14328,
       "name": "Roggenrola - 127/086",
       "set_id": 5500153,
@@ -15481,6 +15937,18 @@
       "market_price_usd": 9.3,
       "market_price_as_of": "2026-10-18",
       "total_listings": 88
+    },
+    {
+      "card_id": 17383,
+      "name": "Snorlax V",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "141/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.29,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 157
     },
     {
       "card_id": 37838,
@@ -16479,6 +16947,18 @@
       "total_listings": 218
     },
     {
+      "card_id": 21137,
+      "name": "Malamar VMAX (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "198/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.5,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 51
+    },
+    {
       "card_id": 4041,
       "name": "Play! Pokemon Prize Pack Series Seven",
       "set_id": 5500194,
@@ -17091,6 +17571,30 @@
       "total_listings": 101
     },
     {
+      "card_id": 21011,
+      "name": "Oleana (Full Art)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "191/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.07,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 110
+    },
+    {
+      "card_id": 21114,
+      "name": "Copperajah VMAX (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "199/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.06,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 75
+    },
+    {
       "card_id": 37839,
       "name": "Riolu - 010",
       "set_id": 5500111,
@@ -17487,6 +17991,18 @@
       "total_listings": 217
     },
     {
+      "card_id": 21138,
+      "name": "Oleana (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "202/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.75,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 59
+    },
+    {
       "card_id": 28889,
       "name": "Candela (Secret)",
       "set_id": 5500021,
@@ -17871,6 +18387,18 @@
       "total_listings": 91
     },
     {
+      "card_id": 22510,
+      "name": "Rillaboom (Secret)",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "197/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.51,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 128
+    },
+    {
       "card_id": 19060,
       "name": "Pikachu",
       "set_id": 5500024,
@@ -18243,6 +18771,18 @@
       "total_listings": 49
     },
     {
+      "card_id": 22429,
+      "name": "Charizard V",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "019/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.21,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 214
+    },
+    {
       "card_id": 15707,
       "name": "Nacli - 220/193",
       "set_id": 5500150,
@@ -18577,6 +19117,18 @@
       "market_price_usd": 6.98,
       "market_price_as_of": "2026-10-17",
       "total_listings": 171
+    },
+    {
+      "card_id": 17462,
+      "name": "Lapras V (Full Art)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "189/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.96,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 64
     },
     {
       "card_id": 5810,
@@ -19059,6 +19611,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 21119,
+      "name": "Cinderace V (Full Art)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "178/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.6,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 82
+    },
+    {
       "card_id": 100018070,
       "name": "Zacian V",
       "set_id": 5500238,
@@ -19215,6 +19779,18 @@
       "total_listings": 352
     },
     {
+      "card_id": 34129,
+      "name": "Drednaw VMAX (Secret)",
+      "set_id": 5500028,
+      "set_name": "Champion's Path",
+      "number": "75/73",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.52,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 121
+    },
+    {
       "card_id": 15691,
       "name": "Chien-Pao ex - 274/193",
       "set_id": 5500150,
@@ -19237,6 +19813,18 @@
       "market_price_usd": 6.51,
       "market_price_as_of": "2026-10-18",
       "total_listings": 107
+    },
+    {
+      "card_id": 21141,
+      "name": "Milo (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "201/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.5,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 59
     },
     {
       "card_id": 13588,
@@ -19383,6 +19971,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 22522,
+      "name": "Centiskorch VMAX (Secret)",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "191/189",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.43,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 141
+    },
+    {
       "card_id": 36713,
       "name": "Solrock",
       "set_id": 5500218,
@@ -19441,6 +20041,30 @@
       "market_price_usd": 6.39,
       "market_price_as_of": "2026-10-15",
       "total_listings": 35
+    },
+    {
+      "card_id": 22427,
+      "name": "Mew V",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "069/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.38,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 244
+    },
+    {
+      "card_id": 29652,
+      "name": "Charizard - 3/70 (#39 Charizard Stamped)",
+      "set_id": 5500131,
+      "set_name": "Battle Academy",
+      "number": "003/070",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 6.37,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 69
     },
     {
       "card_id": 18728,
@@ -19645,6 +20269,18 @@
       "market_price_usd": 6.24,
       "market_price_as_of": "2026-10-12",
       "total_listings": 224
+    },
+    {
+      "card_id": 22479,
+      "name": "Houndoom V (Full Art)",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "178/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.24,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 129
     },
     {
       "card_id": 35200,
@@ -20067,6 +20703,18 @@
       "total_listings": 124
     },
     {
+      "card_id": 17559,
+      "name": "Stonjourner VMAX (Secret)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "205/202",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.02,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 99
+    },
+    {
       "card_id": 19220,
       "name": "Drapion VSTAR (Secret)",
       "set_id": 5500024,
@@ -20163,6 +20811,18 @@
       "total_listings": 250
     },
     {
+      "card_id": 21056,
+      "name": "Toxtricity V (Full Art)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "182/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.97,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 74
+    },
+    {
       "card_id": 23034,
       "name": "Raichu V (Full Art)",
       "set_id": 5500201,
@@ -20223,6 +20883,18 @@
       "total_listings": 327
     },
     {
+      "card_id": 22493,
+      "name": "Butterfree V (Full Art)",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "177/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.94,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 101
+    },
+    {
       "card_id": 6091,
       "name": "Rapid Strike Urshifu V - 087/163",
       "set_id": 5500194,
@@ -20233,6 +20905,18 @@
       "market_price_usd": 5.94,
       "market_price_as_of": "2026-10-15",
       "total_listings": 7
+    },
+    {
+      "card_id": 21008,
+      "name": "Tool Scrapper (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "208/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.93,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 172
     },
     {
       "card_id": 22103,
@@ -20475,6 +21159,18 @@
       "total_listings": 169
     },
     {
+      "card_id": 17487,
+      "name": "Zacian V (Full Art)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "195/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.8,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 110
+    },
+    {
       "card_id": 6819,
       "name": "Mega Charizard Y ex - 022/217",
       "set_id": 5500112,
@@ -20545,6 +21241,18 @@
       "market_price_usd": 5.78,
       "market_price_as_of": "2026-10-14",
       "total_listings": 179
+    },
+    {
+      "card_id": 34081,
+      "name": "Alcremie VMAX",
+      "set_id": 5500028,
+      "set_name": "Champion's Path",
+      "number": "23/73",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.78,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 129
     },
     {
       "card_id": 6938,
@@ -21085,6 +21793,18 @@
       "market_price_usd": 5.56,
       "market_price_as_of": "2026-10-09",
       "total_listings": 549
+    },
+    {
+      "card_id": 22435,
+      "name": "Butterfree VMAX",
+      "set_id": 5500107,
+      "set_name": "SWSH03: Darkness Ablaze",
+      "number": "002/189",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.55,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 166
     },
     {
       "card_id": 2133507,
@@ -21747,6 +22467,18 @@
       "total_listings": 148
     },
     {
+      "card_id": 21049,
+      "name": "Scoop Up Net (Secret)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "207/192",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.28,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 115
+    },
+    {
       "card_id": 22006,
       "name": "Allister (Full Art)",
       "set_id": 5500178,
@@ -21805,6 +22537,18 @@
       "market_price_usd": 5.24,
       "market_price_as_of": "2026-10-09",
       "total_listings": 41
+    },
+    {
+      "card_id": 17371,
+      "name": "Snorlax",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "140/202",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.24,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 216
     },
     {
       "card_id": 17791,
@@ -22143,6 +22887,18 @@
       "total_listings": 451
     },
     {
+      "card_id": 17552,
+      "name": "Zamazenta V (Full Art)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "196/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.11,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 138
+    },
+    {
       "card_id": 21356,
       "name": "Hisuian Sneasler V (Full Art)",
       "set_id": 5500099,
@@ -22251,6 +23007,18 @@
       "total_listings": 518
     },
     {
+      "card_id": 17503,
+      "name": "Wobbuffet V (Full Art)",
+      "set_id": 5500025,
+      "set_name": "SWSH01: Sword & Shield Base Set",
+      "number": "191/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.05,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 128
+    },
+    {
       "card_id": 25144,
       "name": "Slowpoke",
       "set_id": 5500045,
@@ -22321,6 +23089,18 @@
       "market_price_usd": 5.02,
       "market_price_as_of": "2026-10-09",
       "total_listings": 334
+    },
+    {
+      "card_id": 21111,
+      "name": "Malamar V (Full Art)",
+      "set_id": 5500094,
+      "set_name": "SWSH02: Rebel Clash",
+      "number": "186/192",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 73
     },
     {
       "card_id": 22120,
