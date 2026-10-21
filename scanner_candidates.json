@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-20T08:03:50.695575+00:00",
+  "generated_at": "2026-10-21T08:07:13.131287+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 70,
+  "next_set_index": 75,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 13,
-  "total_candidates": 1927,
-  "cards_with_price_history": 10772,
+  "api_calls": 11,
+  "total_candidates": 2240,
+  "cards_with_price_history": 11557,
   "candidates": [
     {
       "card_id": 17849,
@@ -87,6 +87,18 @@
       "total_listings": 143
     },
     {
+      "card_id": 16717,
+      "name": "Lillie's Full Force (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "230/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 185.63,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 34
+    },
+    {
       "card_id": 35216,
       "name": "Charizard",
       "set_id": 5500053,
@@ -147,6 +159,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 36119,
+      "name": "Cynthia",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV82/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 180.36,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 44
+    },
+    {
       "card_id": 13467,
       "name": "Jolteon ex - 153/131",
       "set_id": 5500017,
@@ -181,6 +205,30 @@
       "market_price_usd": 179.03,
       "market_price_as_of": "2026-10-09",
       "total_listings": 93
+    },
+    {
+      "card_id": 16715,
+      "name": "Blastoise & Piplup GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "253/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 178.1,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 22
+    },
+    {
+      "card_id": 14192,
+      "name": "Cinccino - SWSH009 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH009",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 177.25,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 2
     },
     {
       "card_id": 6014,
@@ -375,6 +423,18 @@
       "total_listings": 232
     },
     {
+      "card_id": 14182,
+      "name": "Rillaboom - SWSH006 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH006",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 147.5,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 2
+    },
+    {
       "card_id": 6127,
       "name": "Vaporeon VMAX - 030/203",
       "set_id": 5500194,
@@ -447,6 +507,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 16713,
+      "name": "Vileplume GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "211/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 141.31,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 27
+    },
+    {
       "card_id": 18445,
       "name": "Hop's Snorlax - 184 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -495,6 +567,18 @@
       "total_listings": 91
     },
     {
+      "card_id": 36095,
+      "name": "Mewtwo GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV59/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 139.02,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 34
+    },
+    {
       "card_id": 2163540,
       "name": "Mega Darkrai ex - 120/084",
       "set_id": 5500216,
@@ -505,6 +589,18 @@
       "market_price_usd": 138.43,
       "market_price_as_of": "2026-10-09",
       "total_listings": 118
+    },
+    {
+      "card_id": 36113,
+      "name": "Espeon GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV60/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 138.11,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 11
     },
     {
       "card_id": 18493,
@@ -529,6 +625,18 @@
       "market_price_usd": 137.52,
       "market_price_as_of": "2026-10-15",
       "total_listings": 1
+    },
+    {
+      "card_id": 16731,
+      "name": "Charizard & Braixen GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "251/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 137.23,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 24
     },
     {
       "card_id": 100031558,
@@ -591,6 +699,30 @@
       "total_listings": 141
     },
     {
+      "card_id": 14083,
+      "name": "Gengar - SWSH052",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH052",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 128.63,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 22
+    },
+    {
+      "card_id": 16692,
+      "name": "N's Resolve (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "232/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 127.86,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 28
+    },
+    {
       "card_id": 6154,
       "name": "Boltund VMAX - 104/264",
       "set_id": 5500194,
@@ -651,6 +783,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 16726,
+      "name": "Solgaleo & Lunala GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "254/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 119.43,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 28
+    },
+    {
       "card_id": 21888,
       "name": "Blastoise ex - 200/165",
       "set_id": 5500171,
@@ -697,6 +841,18 @@
       "market_price_usd": 114.99,
       "market_price_as_of": "2026-10-19",
       "total_listings": 161
+    },
+    {
+      "card_id": 36074,
+      "name": "Greninja GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV56/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 114.6,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 52
     },
     {
       "card_id": 38128,
@@ -795,6 +951,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 14079,
+      "name": "Pikachu - SWSH020",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH020",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 109.48,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 78
+    },
+    {
       "card_id": 17872,
       "name": "Rayquaza VMAX (Secret)",
       "set_id": 5500048,
@@ -819,6 +987,18 @@
       "total_listings": 101
     },
     {
+      "card_id": 16680,
+      "name": "Mallow & Lana (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "231/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 107.77,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 28
+    },
+    {
       "card_id": 17511,
       "name": "Snorlax VMAX (Secret)",
       "set_id": 5500025,
@@ -841,6 +1021,30 @@
       "market_price_usd": 105.14,
       "market_price_as_of": "2026-10-12",
       "total_listings": 137
+    },
+    {
+      "card_id": 14202,
+      "name": "Flapple - SWSH022 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH022",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 105.09,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 6
+    },
+    {
+      "card_id": 14170,
+      "name": "Charizard - SWSH066 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH066",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 104.97,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 30
     },
     {
       "card_id": 6000,
@@ -891,6 +1095,30 @@
       "total_listings": 88
     },
     {
+      "card_id": 16734,
+      "name": "Naganadel & Guzzlord GX (Alternate Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "224/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 102.47,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 33
+    },
+    {
+      "card_id": 36108,
+      "name": "Darkrai GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV70/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 102.36,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 30
+    },
+    {
       "card_id": 2119586,
       "name": "Mega Zygarde ex - 124/088",
       "set_id": 5500047,
@@ -901,6 +1129,42 @@
       "market_price_usd": 102.2,
       "market_price_as_of": "2026-10-09",
       "total_listings": 184
+    },
+    {
+      "card_id": 16671,
+      "name": "Blastoise & Piplup GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "214/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 102.05,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 29
+    },
+    {
+      "card_id": 16688,
+      "name": "Arceus & Dialga & Palkia GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "258/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 102.03,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 16
+    },
+    {
+      "card_id": 16638,
+      "name": "Professor Oak's Setup (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "233/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 100.62,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 18
     },
     {
       "card_id": 18437,
@@ -915,6 +1179,18 @@
       "total_listings": 67
     },
     {
+      "card_id": 14042,
+      "name": "Pikachu V - SWSH145",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH145",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 100.28,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 78
+    },
+    {
       "card_id": 100008306,
       "name": "Zeraora - 103 (30th Celebration)",
       "set_id": 5500111,
@@ -925,6 +1201,18 @@
       "market_price_usd": 99.95,
       "market_price_as_of": "2026-09-14",
       "total_listings": 2
+    },
+    {
+      "card_id": 14201,
+      "name": "Kangaskhan - SWSH038 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH038",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 99.23,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 8
     },
     {
       "card_id": 6152,
@@ -939,6 +1227,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 14198,
+      "name": "Hydreigon - SWSH037 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH037",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 98.77,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 14
+    },
+    {
       "card_id": 13464,
       "name": "Ceruledge ex",
       "set_id": 5500017,
@@ -949,6 +1249,18 @@
       "market_price_usd": 98.26,
       "market_price_as_of": "2026-10-10",
       "total_listings": 84
+    },
+    {
+      "card_id": 16500,
+      "name": "Reshiram & Zekrom GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "157/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 98.1,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 65
     },
     {
       "card_id": 15660,
@@ -1071,6 +1383,18 @@
       "total_listings": 153
     },
     {
+      "card_id": 14010,
+      "name": "Vaporeon V - SWSH181",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH181",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 91.71,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 62
+    },
+    {
       "card_id": 19004,
       "name": "Galarian Rapidash V (Alternate Full Art)",
       "set_id": 5500170,
@@ -1155,6 +1479,18 @@
       "total_listings": 162
     },
     {
+      "card_id": 16664,
+      "name": "Charizard & Braixen GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "212/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 89.05,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 31
+    },
+    {
       "card_id": 2119584,
       "name": "Meowth ex - 121/088",
       "set_id": 5500047,
@@ -1177,6 +1513,18 @@
       "market_price_usd": 88.83,
       "market_price_as_of": "2026-10-15",
       "total_listings": 7
+    },
+    {
+      "card_id": 16652,
+      "name": "Mega Lopunny & Jigglypuff GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "261/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 88.3,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 26
     },
     {
       "card_id": 36753,
@@ -1225,6 +1573,42 @@
       "market_price_usd": 85.07,
       "market_price_as_of": "2026-10-15",
       "total_listings": 6
+    },
+    {
+      "card_id": 36101,
+      "name": "Lucario GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV64/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 84.91,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 32
+    },
+    {
+      "card_id": 16511,
+      "name": "Blastoise & Piplup GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "38/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 84.78,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 72
+    },
+    {
+      "card_id": 36092,
+      "name": "Gardevoir GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV75/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 84.23,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 30
     },
     {
       "card_id": 17858,
@@ -1335,6 +1719,18 @@
       "total_listings": 104
     },
     {
+      "card_id": 14195,
+      "name": "Luxray - SWSH023 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH023",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 81.51,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 7
+    },
+    {
       "card_id": 18428,
       "name": "Eevee - 173 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -1345,6 +1741,18 @@
       "market_price_usd": 80.85,
       "market_price_as_of": "2026-10-14",
       "total_listings": 159
+    },
+    {
+      "card_id": 14122,
+      "name": "Bulbasaur (Illustration Contest 2022)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH303",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 80.52,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 40
     },
     {
       "card_id": 6146,
@@ -1371,6 +1779,18 @@
       "total_listings": 191
     },
     {
+      "card_id": 14034,
+      "name": "Flareon V - SWSH179",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH179",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 79.85,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 90
+    },
+    {
       "card_id": 18748,
       "name": "Team Rocket's Moltres ex - 229/182",
       "set_id": 5500009,
@@ -1381,6 +1801,30 @@
       "market_price_usd": 79.69,
       "market_price_as_of": "2026-10-10",
       "total_listings": 196
+    },
+    {
+      "card_id": 13955,
+      "name": "Vaporeon VMAX - SWSH182",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH182",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 79.46,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 108
+    },
+    {
+      "card_id": 14187,
+      "name": "Frosmoth - SWSH007 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH007",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 78.67,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 12
     },
     {
       "card_id": 18750,
@@ -1467,6 +1911,18 @@
       "total_listings": 82
     },
     {
+      "card_id": 16735,
+      "name": "Venusaur & Snivy GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "249/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 75.56,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 13
+    },
+    {
       "card_id": 17852,
       "name": "Noivern V (Alternate Full Art)",
       "set_id": 5500048,
@@ -1501,6 +1957,18 @@
       "market_price_usd": 74.7,
       "market_price_as_of": "2026-10-11",
       "total_listings": 114
+    },
+    {
+      "card_id": 36089,
+      "name": "Leafeon GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV46/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 74.66,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 28
     },
     {
       "card_id": 2320502,
@@ -1549,6 +2017,18 @@
       "market_price_usd": 73.76,
       "market_price_as_of": "2026-10-17",
       "total_listings": 99
+    },
+    {
+      "card_id": 14021,
+      "name": "Jolteon VMAX - SWSH184",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH184",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 73.7,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 121
     },
     {
       "card_id": 4447,
@@ -1611,6 +2091,30 @@
       "total_listings": 158
     },
     {
+      "card_id": 14022,
+      "name": "Jolteon V - SWSH183",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH183",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 72.93,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 98
+    },
+    {
+      "card_id": 16509,
+      "name": "Mimikyu (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "245/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 72.63,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 105
+    },
+    {
       "card_id": 18935,
       "name": "Galarian Articuno V (Alternate Full Art)",
       "set_id": 5500170,
@@ -1659,6 +2163,18 @@
       "total_listings": 86
     },
     {
+      "card_id": 35781,
+      "name": "Jessie & James (Full Art)",
+      "set_id": 5500125,
+      "set_name": "Hidden Fates",
+      "number": "68/68",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 72.08,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 94
+    },
+    {
       "card_id": 38098,
       "name": "Garchomp V",
       "set_id": 5500061,
@@ -1695,6 +2211,18 @@
       "total_listings": 120
     },
     {
+      "card_id": 36120,
+      "name": "Scizor GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV72/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 71.01,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 51
+    },
+    {
       "card_id": 15727,
       "name": "Tyranitar - 222/193",
       "set_id": 5500150,
@@ -1729,6 +2257,18 @@
       "market_price_usd": 70.36,
       "market_price_as_of": "2026-10-11",
       "total_listings": 70
+    },
+    {
+      "card_id": 14191,
+      "name": "Galarian Perrserker - SWSH008 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH008",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 69.58,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 5
     },
     {
       "card_id": 7205,
@@ -1779,6 +2319,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 14203,
+      "name": "Garbodor - SWSH025 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH025",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 68.13,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 8
+    },
+    {
       "card_id": 14480,
       "name": "Chandelure - 103/086",
       "set_id": 5500153,
@@ -1813,6 +2365,18 @@
       "market_price_usd": 67.71,
       "market_price_as_of": "2026-10-09",
       "total_listings": 27
+    },
+    {
+      "card_id": 13891,
+      "name": "Charizard VSTAR - SWSH262",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH262",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 67.62,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 279
     },
     {
       "card_id": 7283,
@@ -1863,6 +2427,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 14175,
+      "name": "Greninja (Illustration Contest 2022)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH305",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 66.27,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 32
+    },
+    {
       "card_id": 18419,
       "name": "Mimikyu - 075 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -1909,6 +2485,18 @@
       "market_price_usd": 65.93,
       "market_price_as_of": "2026-10-18",
       "total_listings": 83
+    },
+    {
+      "card_id": 16710,
+      "name": "Silvally GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "227/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.74,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 21
     },
     {
       "card_id": 36755,
@@ -1983,6 +2571,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 16739,
+      "name": "Vileplume GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "250/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 64.37,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 30
+    },
+    {
       "card_id": 18981,
       "name": "Galarian Zapdos V (Alternate Full Art)",
       "set_id": 5500170,
@@ -2007,6 +2607,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 16489,
+      "name": "Piplup (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "239/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 64.14,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 127
+    },
+    {
       "card_id": 2163499,
       "name": "Morpeko ex - 117/084",
       "set_id": 5500216,
@@ -2017,6 +2629,18 @@
       "market_price_usd": 64.07,
       "market_price_as_of": "2026-10-09",
       "total_listings": 230
+    },
+    {
+      "card_id": 16526,
+      "name": "Togepi & Cleffa & Igglybuff GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "143/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 64.05,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 100
     },
     {
       "card_id": 37862,
@@ -2223,6 +2847,18 @@
       "total_listings": 103
     },
     {
+      "card_id": 16727,
+      "name": "Arceus & Dialga & Palkia GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "220/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 60.91,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 27
+    },
+    {
       "card_id": 23005,
       "name": "Arceus V (Alternate Full Art)",
       "set_id": 5500201,
@@ -2245,6 +2881,18 @@
       "market_price_usd": 59.7,
       "market_price_as_of": "2026-10-09",
       "total_listings": 114
+    },
+    {
+      "card_id": 14204,
+      "name": "Decidueye - SWSH035 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH035",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 59.68,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 8
     },
     {
       "card_id": 5524,
@@ -2379,6 +3027,18 @@
       "total_listings": 83
     },
     {
+      "card_id": 36105,
+      "name": "Reshiram GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV51/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 57.74,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 56
+    },
+    {
       "card_id": 18476,
       "name": "Feraligatr - 089 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -2389,6 +3049,30 @@
       "market_price_usd": 57.64,
       "market_price_as_of": "2026-10-14",
       "total_listings": 6
+    },
+    {
+      "card_id": 36080,
+      "name": "Glaceon GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV55/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 57.21,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 46
+    },
+    {
+      "card_id": 14139,
+      "name": "Arcanine (Illustration Contest 2022)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH304",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 56.63,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 29
     },
     {
       "card_id": 18468,
@@ -2571,6 +3255,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 36086,
+      "name": "Alolan Ninetales GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV53/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 53.44,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 35
+    },
+    {
       "card_id": 23563,
       "name": "Mega Kangaskhan ex - 182/132",
       "set_id": 5500179,
@@ -2643,6 +3339,18 @@
       "total_listings": 164
     },
     {
+      "card_id": 14031,
+      "name": "Flareon VMAX - SWSH180",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH180",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 52.39,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 125
+    },
+    {
       "card_id": 18370,
       "name": "Marnie’s Morpeko",
       "set_id": 5500070,
@@ -2653,6 +3361,18 @@
       "market_price_usd": 52.31,
       "market_price_as_of": "2026-10-14",
       "total_listings": 67
+    },
+    {
+      "card_id": 14189,
+      "name": "Kirlia - SWSH271 (Prerelease) [STAFF]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH271",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 52.25,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 4
     },
     {
       "card_id": 20785,
@@ -2689,6 +3409,18 @@
       "market_price_usd": 51.88,
       "market_price_as_of": "2026-10-15",
       "total_listings": 13
+    },
+    {
+      "card_id": 14188,
+      "name": "Rapidash - SWSH270 (Prerelease) [STAFF]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH270",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 51.54,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 4
     },
     {
       "card_id": 21877,
@@ -2751,6 +3483,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 16670,
+      "name": "Mega Lopunny & Jigglypuff GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "225/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 50.77,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 38
+    },
+    {
       "card_id": 18244,
       "name": "Charmander - 044",
       "set_id": 5500070,
@@ -2761,6 +3505,18 @@
       "market_price_usd": 50.65,
       "market_price_as_of": "2026-10-14",
       "total_listings": 369
+    },
+    {
+      "card_id": 14144,
+      "name": "Snorlax - SWSH068 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH068",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 50.54,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 24
     },
     {
       "card_id": 20773,
@@ -2833,6 +3589,18 @@
       "market_price_usd": 49.6,
       "market_price_as_of": "2026-10-12",
       "total_listings": 84
+    },
+    {
+      "card_id": 14196,
+      "name": "Donphan - SWSH067 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH067",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 49.59,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 5
     },
     {
       "card_id": 6145,
@@ -2979,6 +3747,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 14119,
+      "name": "Pikachu - SWSH153 (Holiday Calendar)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH153",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 48.46,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 45
+    },
+    {
       "card_id": 17198,
       "name": "Mimikyu -160/091",
       "set_id": 5500030,
@@ -3063,6 +3843,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 35782,
+      "name": "Moltres & Zapdos & Articuno GX",
+      "set_id": 5500125,
+      "set_name": "Hidden Fates",
+      "number": "44/68",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.35,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 130
+    },
+    {
       "card_id": 36743,
       "name": "Deoxys VSTAR",
       "set_id": 5500218,
@@ -3073,6 +3865,18 @@
       "market_price_usd": 47.31,
       "market_price_as_of": "2026-10-14",
       "total_listings": 144
+    },
+    {
+      "card_id": 16668,
+      "name": "Guzma & Hala (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "229/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.26,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 37
     },
     {
       "card_id": 17404,
@@ -3195,6 +3999,18 @@
       "total_listings": 203
     },
     {
+      "card_id": 14197,
+      "name": "Arctozolt - SWSH036 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH036",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 45.87,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 2
+    },
+    {
       "card_id": 20367,
       "name": "Bloodmoon Ursaluna ex - 216/167",
       "set_id": 5500051,
@@ -3219,6 +4035,18 @@
       "total_listings": 304
     },
     {
+      "card_id": 36076,
+      "name": "Eevee",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV41/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.67,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 42
+    },
+    {
       "card_id": 7216,
       "name": "Mega Scrafty ex - 285/217",
       "set_id": 5500112,
@@ -3229,6 +4057,18 @@
       "market_price_usd": 45.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 135
+    },
+    {
+      "card_id": 36084,
+      "name": "Articuno GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV54/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.46,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 73
     },
     {
       "card_id": 18686,
@@ -3363,6 +4203,18 @@
       "total_listings": 125
     },
     {
+      "card_id": 35787,
+      "name": "Moltres & Zapdos & Articuno GX (Full Art)",
+      "set_id": 5500125,
+      "set_name": "Hidden Fates",
+      "number": "66/68",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.74,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 91
+    },
+    {
       "card_id": 13751,
       "name": "Amoonguss - 096/086",
       "set_id": 5500093,
@@ -3373,6 +4225,18 @@
       "market_price_usd": 44.41,
       "market_price_as_of": "2026-10-09",
       "total_listings": 73
+    },
+    {
+      "card_id": 13885,
+      "name": "Charizard V - SWSH260",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH260",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 44.39,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 333
     },
     {
       "card_id": 13698,
@@ -3639,6 +4503,30 @@
       "total_listings": 325
     },
     {
+      "card_id": 35774,
+      "name": "Moltres & Zapdos & Articuno GX (Secret)",
+      "set_id": 5500125,
+      "set_name": "Hidden Fates",
+      "number": "69/68",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.02,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 104
+    },
+    {
+      "card_id": 14121,
+      "name": "Lugia - SWSH069 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH069",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 42.01,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 39
+    },
+    {
       "card_id": 6016,
       "name": "Single Strike Urshifu VMAX - 086/163",
       "set_id": 5500194,
@@ -3649,6 +4537,18 @@
       "market_price_usd": 42.0,
       "market_price_as_of": "2026-10-15",
       "total_listings": 13
+    },
+    {
+      "card_id": 16667,
+      "name": "Lillie's Poke Doll (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "267/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.96,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 17
     },
     {
       "card_id": 16276,
@@ -3771,6 +4671,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 16484,
+      "name": "Charizard & Braixen GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "22/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.0,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 117
+    },
+    {
       "card_id": 7235,
       "name": "Mega Emboar ex - 273/217",
       "set_id": 5500112,
@@ -3853,6 +4765,18 @@
       "market_price_usd": 40.26,
       "market_price_as_of": "2026-10-09",
       "total_listings": 283
+    },
+    {
+      "card_id": 16737,
+      "name": "Venusaur & Snivy GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "210/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.24,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 37
     },
     {
       "card_id": 18254,
@@ -4023,6 +4947,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 16691,
+      "name": "Flygon GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "256/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.25,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 36
+    },
+    {
       "card_id": 6011,
       "name": "Legacy Energy - 167/167",
       "set_id": 5500194,
@@ -4059,6 +4995,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 36110,
+      "name": "Zygarde GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV65/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.17,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 66
+    },
+    {
       "card_id": 14448,
       "name": "Vanilluxe - 113/086",
       "set_id": 5500153,
@@ -4069,6 +5017,18 @@
       "market_price_usd": 39.14,
       "market_price_as_of": "2026-10-09",
       "total_listings": 77
+    },
+    {
+      "card_id": 13887,
+      "name": "Charizard VMAX - SWSH261",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH261",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.09,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 306
     },
     {
       "card_id": 20722,
@@ -4093,6 +5053,30 @@
       "market_price_usd": 38.99,
       "market_price_as_of": "2026-10-14",
       "total_listings": 256
+    },
+    {
+      "card_id": 13991,
+      "name": "Lugia V - SWSH301",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH301",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 38.91,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 61
+    },
+    {
+      "card_id": 16551,
+      "name": "Solgaleo & Lunala GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "75/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.87,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 102
     },
     {
       "card_id": 22450,
@@ -4263,6 +5247,18 @@
       "total_listings": 274
     },
     {
+      "card_id": 16512,
+      "name": "Koffing (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "243/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.94,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 134
+    },
+    {
       "card_id": 21890,
       "name": "Dragonair - 181/165",
       "set_id": 5500171,
@@ -4359,6 +5355,18 @@
       "total_listings": 158
     },
     {
+      "card_id": 38831,
+      "name": "Pikachu - 6/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "006/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 37.05,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 56
+    },
+    {
       "card_id": 14453,
       "name": "Sawsbuck - 092/086",
       "set_id": 5500153,
@@ -4369,6 +5377,18 @@
       "market_price_usd": 36.97,
       "market_price_as_of": "2026-10-09",
       "total_listings": 74
+    },
+    {
+      "card_id": 36081,
+      "name": "Ho-Oh GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV50/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.87,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 50
     },
     {
       "card_id": 17835,
@@ -4395,6 +5415,30 @@
       "total_listings": 135
     },
     {
+      "card_id": 16706,
+      "name": "Naganadel & Guzzlord GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "260/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.44,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 21
+    },
+    {
+      "card_id": 14143,
+      "name": "Dragonite (Silver Tempest Stamped)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "131/195",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.41,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 15
+    },
+    {
       "card_id": 6038,
       "name": "Flareon V - SWSH149",
       "set_id": 5500194,
@@ -4405,6 +5449,18 @@
       "market_price_usd": 35.9,
       "market_price_as_of": "2026-10-15",
       "total_listings": 10
+    },
+    {
+      "card_id": 14046,
+      "name": "Poke Ball - SWSH146",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH146",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 35.81,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 53
     },
     {
       "card_id": 16263,
@@ -4851,6 +5907,30 @@
       "total_listings": 60
     },
     {
+      "card_id": 14155,
+      "name": "Snorlax - SWSH032",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH032",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 32.93,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 21
+    },
+    {
+      "card_id": 14023,
+      "name": "Blastoise VMAX - SWSH103",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH103",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 32.75,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 114
+    },
+    {
       "card_id": 38178,
       "name": "Blaziken VMAX",
       "set_id": 5500197,
@@ -5031,6 +6111,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 14158,
+      "name": "Cinccino - SWSH009 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH009",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 31.63,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 26
+    },
+    {
       "card_id": 15601,
       "name": "Baxcalibur - 210/193",
       "set_id": 5500150,
@@ -5187,6 +6279,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 14200,
+      "name": "Coalossal - SWSH024 (Prerelease) [Staff]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH024",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 30.72,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 10
+    },
+    {
       "card_id": 20869,
       "name": "Iron Leaves ex - 203/162",
       "set_id": 5500066,
@@ -5319,6 +6423,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 16529,
+      "name": "Mega Lopunny & Jigglypuff GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "165/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.92,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 86
+    },
+    {
       "card_id": 36747,
       "name": "Simisear VSTAR",
       "set_id": 5500218,
@@ -5353,6 +6469,18 @@
       "market_price_usd": 29.76,
       "market_price_as_of": "2026-10-14",
       "total_listings": 172
+    },
+    {
+      "card_id": 14174,
+      "name": "Archeops - SWSH272 (Prerelease) [STAFF]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH272",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.71,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 10
     },
     {
       "card_id": 18744,
@@ -5437,6 +6565,18 @@
       "market_price_usd": 29.19,
       "market_price_as_of": "2026-10-12",
       "total_listings": 171
+    },
+    {
+      "card_id": 14116,
+      "name": "Marnie - SWSH121",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH121",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.17,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 85
     },
     {
       "card_id": 14283,
@@ -5547,6 +6687,18 @@
       "total_listings": 99
     },
     {
+      "card_id": 16488,
+      "name": "Mimikyu (97)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "97/236",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.66,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 102
+    },
+    {
       "card_id": 18740,
       "name": "Cynthia's Garchomp ex - 241/182",
       "set_id": 5500009,
@@ -5569,6 +6721,18 @@
       "market_price_usd": 28.61,
       "market_price_as_of": "2026-10-10",
       "total_listings": 78
+    },
+    {
+      "card_id": 16703,
+      "name": "Silvally GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "262/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.59,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 24
     },
     {
       "card_id": 36744,
@@ -5727,6 +6891,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 13957,
+      "name": "Pikachu V-Union [Set of 4]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 28.21,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 111
+    },
+    {
       "card_id": 21883,
       "name": "Mew ex - 193/165",
       "set_id": 5500171,
@@ -5751,6 +6927,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 14183,
+      "name": "Sunflora - SWSH269 (Prerelease) [STAFF]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH269",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 28.1,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 12
+    },
+    {
       "card_id": 15940,
       "name": "Minior - 201/182",
       "set_id": 5500212,
@@ -5761,6 +6949,18 @@
       "market_price_usd": 28.08,
       "market_price_as_of": "2026-10-12",
       "total_listings": 111
+    },
+    {
+      "card_id": 16476,
+      "name": "Arceus & Dialga & Palkia GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "156/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.06,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 108
     },
     {
       "card_id": 13450,
@@ -5835,6 +7035,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 13996,
+      "name": "Gengar - SWSH241 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH241",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 27.71,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 117
+    },
+    {
       "card_id": 100009843,
       "name": "Pikachu & Zekrom GX",
       "set_id": 5500238,
@@ -5857,6 +7069,18 @@
       "market_price_usd": 27.55,
       "market_price_as_of": "2026-10-12",
       "total_listings": 87
+    },
+    {
+      "card_id": 38834,
+      "name": "Eevee - 12/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "012/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 27.53,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 58
     },
     {
       "card_id": 2155080,
@@ -5917,6 +7141,18 @@
       "market_price_usd": 27.31,
       "market_price_as_of": "2026-10-12",
       "total_listings": 86
+    },
+    {
+      "card_id": 36112,
+      "name": "Altaria GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV77/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.29,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 37
     },
     {
       "card_id": 18482,
@@ -5989,6 +7225,18 @@
       "market_price_usd": 27.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 17
+    },
+    {
+      "card_id": 36098,
+      "name": "Brooklet Hill",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV88/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.85,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 22
     },
     {
       "card_id": 18253,
@@ -6111,6 +7359,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 36033,
+      "name": "Charmander",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV6/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.56,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 89
+    },
+    {
       "card_id": 13754,
       "name": "Scolipede - 134/086",
       "set_id": 5500093,
@@ -6121,6 +7381,18 @@
       "market_price_usd": 26.53,
       "market_price_as_of": "2026-10-09",
       "total_listings": 66
+    },
+    {
+      "card_id": 16533,
+      "name": "Venusaur & Snivy GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "1/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.44,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 93
     },
     {
       "card_id": 15988,
@@ -6603,6 +7875,18 @@
       "total_listings": 137
     },
     {
+      "card_id": 16493,
+      "name": "Psyduck",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "40/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.69,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 84
+    },
+    {
       "card_id": 100018090,
       "name": "Shining Celebi",
       "set_id": 5500238,
@@ -6613,6 +7897,18 @@
       "market_price_usd": 24.67,
       "market_price_as_of": "2026-10-09",
       "total_listings": 133
+    },
+    {
+      "card_id": 36064,
+      "name": "Wooper",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV9/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.67,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 67
     },
     {
       "card_id": 38113,
@@ -6673,6 +7969,18 @@
       "market_price_usd": 24.44,
       "market_price_as_of": "2026-10-12",
       "total_listings": 162
+    },
+    {
+      "card_id": 13962,
+      "name": "Radiant Eevee - SWSH230",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH230",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 24.42,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 116
     },
     {
       "card_id": 38173,
@@ -6891,6 +8199,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 16716,
+      "name": "Naganadel & Guzzlord GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "223/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.42,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 28
+    },
+    {
       "card_id": 13441,
       "name": "Sandy Shocks ex - 159/131",
       "set_id": 5500017,
@@ -6913,6 +8233,18 @@
       "market_price_usd": 23.38,
       "market_price_as_of": "2026-10-09",
       "total_listings": 45
+    },
+    {
+      "card_id": 36102,
+      "name": "Guzma",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV84/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.15,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 65
     },
     {
       "card_id": 17830,
@@ -6961,6 +8293,18 @@
       "market_price_usd": 23.06,
       "market_price_as_of": "2026-10-18",
       "total_listings": 92
+    },
+    {
+      "card_id": 16523,
+      "name": "Magnemite (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "242/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.05,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 121
     },
     {
       "card_id": 21133,
@@ -7083,6 +8427,18 @@
       "total_listings": 238
     },
     {
+      "card_id": 14099,
+      "name": "Rayquaza V - SWSH147",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH147",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.69,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 117
+    },
+    {
       "card_id": 30141,
       "name": "Zorua - 075/064",
       "set_id": 5500139,
@@ -7105,6 +8461,18 @@
       "market_price_usd": 22.65,
       "market_price_as_of": "2026-10-15",
       "total_listings": 33
+    },
+    {
+      "card_id": 13899,
+      "name": "Arceus V - SWSH204",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH204",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.64,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 191
     },
     {
       "card_id": 35158,
@@ -7323,6 +8691,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 16657,
+      "name": "Oricorio GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "255/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.94,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 24
+    },
+    {
       "card_id": 6153,
       "name": "Garchomp - 109/172",
       "set_id": 5500194,
@@ -7491,6 +8871,18 @@
       "total_listings": 253
     },
     {
+      "card_id": 16686,
+      "name": "Volcarona GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "252/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.44,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 26
+    },
+    {
       "card_id": 5666,
       "name": "Lugia VSTAR - 139/195",
       "set_id": 5500194,
@@ -7515,6 +8907,18 @@
       "total_listings": 51
     },
     {
+      "card_id": 16718,
+      "name": "Roller Skater (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "235/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.3,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 62
+    },
+    {
       "card_id": 13406,
       "name": "Flareon (Master Ball Pattern)",
       "set_id": 5500017,
@@ -7525,6 +8929,18 @@
       "market_price_usd": 21.28,
       "market_price_as_of": "2026-10-10",
       "total_listings": 108
+    },
+    {
+      "card_id": 36111,
+      "name": "Nihilego GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV62/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.27,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 18
     },
     {
       "card_id": 36727,
@@ -7659,6 +9075,18 @@
       "total_listings": 128
     },
     {
+      "card_id": 36118,
+      "name": "Lycanroc GX (SV67)",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV67/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.96,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 54
+    },
+    {
       "card_id": 6163,
       "name": "Radiant Heatran - 027/189",
       "set_id": 5500194,
@@ -7693,6 +9121,18 @@
       "market_price_usd": 20.86,
       "market_price_as_of": "2026-10-09",
       "total_listings": 306
+    },
+    {
+      "card_id": 36088,
+      "name": "Tapu Lele GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV94/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.86,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 36
     },
     {
       "card_id": 16037,
@@ -7777,6 +9217,18 @@
       "market_price_usd": 20.76,
       "market_price_as_of": "2026-10-18",
       "total_listings": 49
+    },
+    {
+      "card_id": 36061,
+      "name": "Lucario",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV22/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.76,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 64
     },
     {
       "card_id": 13745,
@@ -7899,6 +9351,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 38830,
+      "name": "Lapras - 5/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "005/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.55,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 61
+    },
+    {
       "card_id": 13682,
       "name": "Petilil - 091/086",
       "set_id": 5500093,
@@ -7959,6 +9423,18 @@
       "total_listings": 217
     },
     {
+      "card_id": 36109,
+      "name": "Tapu Fini GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV92/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.27,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 33
+    },
+    {
       "card_id": 18743,
       "name": "Ethan's Ho-Oh ex - 239/182",
       "set_id": 5500009,
@@ -7993,6 +9469,18 @@
       "market_price_usd": 20.14,
       "market_price_as_of": "2026-10-09",
       "total_listings": 124
+    },
+    {
+      "card_id": 16555,
+      "name": "Vileplume GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "4/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.14,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 122
     },
     {
       "card_id": 15628,
@@ -8079,6 +9567,18 @@
       "total_listings": 338
     },
     {
+      "card_id": 16515,
+      "name": "Floette",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "151/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.96,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 146
+    },
+    {
       "card_id": 14373,
       "name": "Deerling - 091/086",
       "set_id": 5500153,
@@ -8089,6 +9589,18 @@
       "market_price_usd": 19.93,
       "market_price_as_of": "2026-10-09",
       "total_listings": 114
+    },
+    {
+      "card_id": 36058,
+      "name": "Decidueye GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV47/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.92,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 50
     },
     {
       "card_id": 27794,
@@ -8259,6 +9771,18 @@
       "total_listings": 304
     },
     {
+      "card_id": 14071,
+      "name": "Venusaur VMAX - SWSH102",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH102",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.69,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 151
+    },
+    {
       "card_id": 37636,
       "name": "Pikachu",
       "set_id": 5500165,
@@ -8281,6 +9805,18 @@
       "market_price_usd": 19.66,
       "market_price_as_of": "2026-10-09",
       "total_listings": 77
+    },
+    {
+      "card_id": 16531,
+      "name": "Steelix (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "247/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.65,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 108
     },
     {
       "card_id": 18610,
@@ -8341,6 +9877,18 @@
       "market_price_usd": 19.49,
       "market_price_as_of": "2026-10-09",
       "total_listings": 29
+    },
+    {
+      "card_id": 16514,
+      "name": "Marshadow",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "103/236",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.48,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 208
     },
     {
       "card_id": 5948,
@@ -8523,6 +10071,18 @@
       "total_listings": 55
     },
     {
+      "card_id": 36107,
+      "name": "Tapu Koko GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV93/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.09,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 36
+    },
+    {
       "card_id": 14362,
       "name": "Gothorita - 125/086",
       "set_id": 5500153,
@@ -8557,6 +10117,18 @@
       "market_price_usd": 18.99,
       "market_price_as_of": "2026-10-11",
       "total_listings": 133
+    },
+    {
+      "card_id": 13865,
+      "name": "Greninja Star",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH144",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.88,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 397
     },
     {
       "card_id": 13443,
@@ -8595,6 +10167,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 16482,
+      "name": "Wishiwashi (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "240/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.78,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 120
+    },
+    {
       "card_id": 16301,
       "name": "Miriam - 251/198",
       "set_id": 5500032,
@@ -8631,6 +10215,18 @@
       "total_listings": 403
     },
     {
+      "card_id": 36104,
+      "name": "Tapu Bulu GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV91/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.6,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 53
+    },
+    {
       "card_id": 100018074,
       "name": "Mew VMAX",
       "set_id": 5500238,
@@ -8641,6 +10237,18 @@
       "market_price_usd": 18.56,
       "market_price_as_of": "2026-10-09",
       "total_listings": 87
+    },
+    {
+      "card_id": 13981,
+      "name": "Umbreon - SWSH129",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH129",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.52,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 185
     },
     {
       "card_id": 14358,
@@ -8787,6 +10395,18 @@
       "total_listings": 62
     },
     {
+      "card_id": 14108,
+      "name": "Charmander - SWSH232",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH232",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.29,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 70
+    },
+    {
       "card_id": 36742,
       "name": "Zamazenta V",
       "set_id": 5500218,
@@ -8811,6 +10431,18 @@
       "total_listings": 398
     },
     {
+      "card_id": 36100,
+      "name": "Noivern GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV78/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.19,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 43
+    },
+    {
       "card_id": 36752,
       "name": "Hisuian Samurott V",
       "set_id": 5500218,
@@ -8833,6 +10465,18 @@
       "market_price_usd": 18.14,
       "market_price_as_of": "2026-10-09",
       "total_listings": 46
+    },
+    {
+      "card_id": 36049,
+      "name": "Quagsire",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV10/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.05,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 43
     },
     {
       "card_id": 13416,
@@ -9051,6 +10695,18 @@
       "total_listings": 337
     },
     {
+      "card_id": 14142,
+      "name": "Cherrim - SWSH088 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH088",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.57,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 36
+    },
+    {
       "card_id": 5587,
       "name": "Leafeon ex - 006/131",
       "set_id": 5500194,
@@ -9159,6 +10815,18 @@
       "total_listings": 211
     },
     {
+      "card_id": 14162,
+      "name": "Mewtwo V-UNION - SWSH160",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH160",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.4,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 55
+    },
+    {
       "card_id": 38099,
       "name": "Galarian Moltres V",
       "set_id": 5500061,
@@ -9205,6 +10873,18 @@
       "market_price_usd": 17.35,
       "market_price_as_of": "2026-10-09",
       "total_listings": 29
+    },
+    {
+      "card_id": 36097,
+      "name": "Xurkitree GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV58/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.35,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 43
     },
     {
       "card_id": 34138,
@@ -9349,6 +11029,18 @@
       "market_price_usd": 17.14,
       "market_price_as_of": "2026-10-12",
       "total_listings": 75
+    },
+    {
+      "card_id": 36085,
+      "name": "Guzzlord GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV71/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.13,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 65
     },
     {
       "card_id": 14510,
@@ -9591,6 +11283,30 @@
       "total_listings": 231
     },
     {
+      "card_id": 14013,
+      "name": "Moltres - SWSH185",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH185",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.64,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 91
+    },
+    {
+      "card_id": 14095,
+      "name": "Squirtle - SWSH233",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH233",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.64,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 86
+    },
+    {
       "card_id": 13655,
       "name": "Tynamo - 113/086",
       "set_id": 5500093,
@@ -9685,6 +11401,18 @@
       "market_price_usd": 16.52,
       "market_price_as_of": "2026-10-10",
       "total_listings": 131
+    },
+    {
+      "card_id": 36087,
+      "name": "Charmeleon",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV7/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.52,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 51
     },
     {
       "card_id": 2302127,
@@ -10107,6 +11835,18 @@
       "total_listings": 257
     },
     {
+      "card_id": 13938,
+      "name": "Espeon - SWSH174",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH174",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.83,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 97
+    },
+    {
       "card_id": 17168,
       "name": "Shinx",
       "set_id": 5500030,
@@ -10153,6 +11893,18 @@
       "market_price_usd": 15.77,
       "market_price_as_of": "2026-10-11",
       "total_listings": 158
+    },
+    {
+      "card_id": 38837,
+      "name": "Gastly - 7/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "007/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.73,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 36
     },
     {
       "card_id": 6114,
@@ -10335,6 +12087,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 38839,
+      "name": "Caterpie - 1/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "001/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.52,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 49
+    },
+    {
       "card_id": 18347,
       "name": "Lillie's Clefairy ex - 195",
       "set_id": 5500070,
@@ -10357,6 +12121,18 @@
       "market_price_usd": 15.5,
       "market_price_as_of": "2026-10-09",
       "total_listings": 28
+    },
+    {
+      "card_id": 14131,
+      "name": "Houndoom - SWSH090 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH090",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.49,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 17
     },
     {
       "card_id": 2299719,
@@ -10527,6 +12303,18 @@
       "total_listings": 73
     },
     {
+      "card_id": 16501,
+      "name": "Torkoal (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "237/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.26,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 100
+    },
+    {
       "card_id": 5882,
       "name": "Entei V - 022/172",
       "set_id": 5500194,
@@ -10563,6 +12351,18 @@
       "total_listings": 69
     },
     {
+      "card_id": 36079,
+      "name": "Lady",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV86/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.23,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 69
+    },
+    {
       "card_id": 13635,
       "name": "Karrablast - 094/086",
       "set_id": 5500093,
@@ -10585,6 +12385,18 @@
       "market_price_usd": 15.22,
       "market_price_as_of": "2026-10-09",
       "total_listings": 144
+    },
+    {
+      "card_id": 36077,
+      "name": "Naganadel GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV63/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.22,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 51
     },
     {
       "card_id": 14371,
@@ -11043,6 +12855,18 @@
       "total_listings": 274
     },
     {
+      "card_id": 16479,
+      "name": "Azurill",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "146/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.57,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 184
+    },
+    {
       "card_id": 15706,
       "name": "Tropius - 195/193",
       "set_id": 5500150,
@@ -11067,6 +12891,30 @@
       "total_listings": 22
     },
     {
+      "card_id": 38833,
+      "name": "Alolan Meowth - 10/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "010/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.49,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 54
+    },
+    {
+      "card_id": 13924,
+      "name": "Pikachu VMAX - SWSH062",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH062",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.48,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 216
+    },
+    {
       "card_id": 13825,
       "name": "Audino - 074/086 (Master Ball Pattern)",
       "set_id": 5500093,
@@ -11089,6 +12937,18 @@
       "market_price_usd": 14.46,
       "market_price_as_of": "2026-10-12",
       "total_listings": 14
+    },
+    {
+      "card_id": 16701,
+      "name": "Flygon GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "218/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.41,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 26
     },
     {
       "card_id": 20231,
@@ -11199,6 +13059,18 @@
       "total_listings": 605
     },
     {
+      "card_id": 36060,
+      "name": "Lycanroc GX (SV66)",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV66/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.25,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 61
+    },
+    {
       "card_id": 38156,
       "name": "Boltund V",
       "set_id": 5500144,
@@ -11221,6 +13093,18 @@
       "market_price_usd": 14.22,
       "market_price_as_of": "2026-10-11",
       "total_listings": 170
+    },
+    {
+      "card_id": 36044,
+      "name": "Zorua",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV25/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.22,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 18
     },
     {
       "card_id": 14526,
@@ -11343,6 +13227,18 @@
       "total_listings": 344
     },
     {
+      "card_id": 36099,
+      "name": "Electrode GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV57/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.09,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 45
+    },
+    {
       "card_id": 16019,
       "name": "Wimpod - 191/182",
       "set_id": 5500212,
@@ -11377,6 +13273,18 @@
       "market_price_usd": 14.06,
       "market_price_as_of": "2026-10-14",
       "total_listings": 306
+    },
+    {
+      "card_id": 13896,
+      "name": "Mimikyu (Delta Species) - SWSH136",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH136",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.05,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 136
     },
     {
       "card_id": 38272,
@@ -11449,6 +13357,18 @@
       "market_price_usd": 13.94,
       "market_price_as_of": "2026-10-19",
       "total_listings": 44
+    },
+    {
+      "card_id": 16722,
+      "name": "Alolan Persian GX (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "257/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.92,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 29
     },
     {
       "card_id": 38127,
@@ -11569,6 +13489,18 @@
       "market_price_usd": 13.69,
       "market_price_as_of": "2026-10-09",
       "total_listings": 31
+    },
+    {
+      "card_id": 14073,
+      "name": "Galarian Moltres - SWSH125 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH125",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.66,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 63
     },
     {
       "card_id": 17149,
@@ -11739,6 +13671,18 @@
       "total_listings": 412
     },
     {
+      "card_id": 14100,
+      "name": "Galarian Ponyta - SWSH013",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH013",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.41,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 44
+    },
+    {
       "card_id": 13833,
       "name": "Cobalion (Master Ball Pattern)",
       "set_id": 5500093,
@@ -11787,6 +13731,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 36028,
+      "name": "Alolan Vulpix",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV8/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.37,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 58
+    },
+    {
       "card_id": 37850,
       "name": "Ceruledge - 014",
       "set_id": 5500111,
@@ -11809,6 +13765,18 @@
       "market_price_usd": 13.36,
       "market_price_as_of": "2026-10-09",
       "total_listings": 30
+    },
+    {
+      "card_id": 16711,
+      "name": "Martial Arts Dojo (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "268/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.36,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 28
     },
     {
       "card_id": 14311,
@@ -11871,6 +13839,18 @@
       "total_listings": 124
     },
     {
+      "card_id": 36115,
+      "name": "Silvally GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV79/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.28,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 33
+    },
+    {
       "card_id": 17548,
       "name": "Zamazenta V (Secret)",
       "set_id": 5500025,
@@ -11907,6 +13887,18 @@
       "total_listings": 75
     },
     {
+      "card_id": 16532,
+      "name": "Sylveon",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "155/236",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.23,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 112
+    },
+    {
       "card_id": 18928,
       "name": "Psychic Energy (Secret)",
       "set_id": 5500170,
@@ -11917,6 +13909,18 @@
       "market_price_usd": 13.23,
       "market_price_as_of": "2026-10-18",
       "total_listings": 111
+    },
+    {
+      "card_id": 36071,
+      "name": "Buzzwole GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV68/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.22,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 67
     },
     {
       "card_id": 38285,
@@ -12097,6 +14101,18 @@
       "market_price_usd": 13.0,
       "market_price_as_of": "2026-10-20",
       "total_listings": 90
+    },
+    {
+      "card_id": 16504,
+      "name": "Mimikyu (96)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "96/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.99,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 130
     },
     {
       "card_id": 15635,
@@ -12315,6 +14331,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 36103,
+      "name": "Stakataka GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV74/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.77,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 37
+    },
+    {
       "card_id": 13606,
       "name": "Larvesta - 099/086",
       "set_id": 5500093,
@@ -12409,6 +14437,18 @@
       "market_price_usd": 12.65,
       "market_price_as_of": "2026-10-09",
       "total_listings": 23
+    },
+    {
+      "card_id": 14161,
+      "name": "Luxray - SWSH023 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH023",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.65,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 24
     },
     {
       "card_id": 18346,
@@ -12687,6 +14727,18 @@
       "total_listings": 169
     },
     {
+      "card_id": 13876,
+      "name": "Galarian Moltres - SWSH284",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH284",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.39,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 341
+    },
+    {
       "card_id": 2155087,
       "name": "Ampharos - 075",
       "set_id": 5500111,
@@ -12783,6 +14835,18 @@
       "total_listings": 127
     },
     {
+      "card_id": 16740,
+      "name": "Power Plant (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "269/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.26,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 31
+    },
+    {
       "card_id": 38135,
       "name": "Zekrom",
       "set_id": 5500144,
@@ -12805,6 +14869,18 @@
       "market_price_usd": 12.24,
       "market_price_as_of": "2026-10-09",
       "total_listings": 25
+    },
+    {
+      "card_id": 16513,
+      "name": "Weavile (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "238/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.22,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 164
     },
     {
       "card_id": 13789,
@@ -12939,6 +15015,18 @@
       "total_listings": 246
     },
     {
+      "card_id": 13935,
+      "name": "Pikachu V - SWSH143",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH143",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.11,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 143
+    },
+    {
       "card_id": 15692,
       "name": "Dudunsparce - 229/193",
       "set_id": 5500150,
@@ -12973,6 +15061,18 @@
       "market_price_usd": 12.1,
       "market_price_as_of": "2026-10-15",
       "total_listings": 41
+    },
+    {
+      "card_id": 14153,
+      "name": "Alcremie - SWSH058",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH058",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.06,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 26
     },
     {
       "card_id": 38124,
@@ -13095,6 +15195,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 36043,
+      "name": "Riolu",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV21/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.98,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 56
+    },
+    {
       "card_id": 18602,
       "name": "Shaymin - 185/182",
       "set_id": 5500009,
@@ -13201,6 +15313,18 @@
       "market_price_usd": 11.89,
       "market_price_as_of": "2026-10-09",
       "total_listings": 28
+    },
+    {
+      "card_id": 36069,
+      "name": "Garchomp",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV40/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.88,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 39
     },
     {
       "card_id": 23228,
@@ -13479,6 +15603,18 @@
       "total_listings": 123
     },
     {
+      "card_id": 16695,
+      "name": "Lana's Fishing Rod (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "266/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.66,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 36
+    },
+    {
       "card_id": 14529,
       "name": "Heatmor (Master Ball Pattern)",
       "set_id": 5500153,
@@ -13539,6 +15675,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 16519,
+      "name": "Naganadel & Guzzlord GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "158/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.6,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 101
+    },
+    {
       "card_id": 21057,
       "name": "Dragapult V (Full Art)",
       "set_id": 5500094,
@@ -13551,6 +15699,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 38836,
+      "name": "Alolan Sandshrew - 4/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "004/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.6,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 56
+    },
+    {
       "card_id": 14307,
       "name": "Sawk - 130/086",
       "set_id": 5500153,
@@ -13561,6 +15721,18 @@
       "market_price_usd": 11.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 150
+    },
+    {
+      "card_id": 14176,
+      "name": "Kangaskhan - SWSH038 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH038",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.58,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 26
     },
     {
       "card_id": 18235,
@@ -13695,6 +15867,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 16480,
+      "name": "Vaporeon",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "42/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.49,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 134
+    },
+    {
       "card_id": 5869,
       "name": "Bunnelby - 150/189",
       "set_id": 5500194,
@@ -13741,6 +15925,18 @@
       "market_price_usd": 11.45,
       "market_price_as_of": "2026-10-12",
       "total_listings": 141
+    },
+    {
+      "card_id": 36091,
+      "name": "Drampa GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV80/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.45,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 46
     },
     {
       "card_id": 14534,
@@ -13803,6 +15999,54 @@
       "total_listings": 19
     },
     {
+      "card_id": 13886,
+      "name": "Charizard V - SWSH050",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH050",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.37,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 224
+    },
+    {
+      "card_id": 16518,
+      "name": "Gallade (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "244/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.37,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 147
+    },
+    {
+      "card_id": 36059,
+      "name": "Banette GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV61/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.37,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 49
+    },
+    {
+      "card_id": 14148,
+      "name": "Mewtwo V-UNION - SWSH162",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH162",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.36,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 63
+    },
+    {
       "card_id": 18447,
       "name": "Sprigatito - 001",
       "set_id": 5500070,
@@ -13825,6 +16069,18 @@
       "market_price_usd": 11.35,
       "market_price_as_of": "2026-10-12",
       "total_listings": 153
+    },
+    {
+      "card_id": 13947,
+      "name": "Boss's Orders (Full Art)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH251",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.32,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 166
     },
     {
       "card_id": 14884,
@@ -13885,6 +16141,18 @@
       "market_price_usd": 11.25,
       "market_price_as_of": "2026-10-15",
       "total_listings": 8
+    },
+    {
+      "card_id": 14014,
+      "name": "Zacian V - SWSH076",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH076",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.23,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 140
     },
     {
       "card_id": 23302,
@@ -13957,6 +16225,18 @@
       "market_price_usd": 11.12,
       "market_price_as_of": "2026-10-12",
       "total_listings": 130
+    },
+    {
+      "card_id": 36090,
+      "name": "Mt. Coronet",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV89/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.11,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 41
     },
     {
       "card_id": 17272,
@@ -14067,6 +16347,18 @@
       "total_listings": 192
     },
     {
+      "card_id": 14136,
+      "name": "Eevee - SWSH042",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH042",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.97,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 80
+    },
+    {
       "card_id": 18385,
       "name": "Snorlax - 122",
       "set_id": 5500070,
@@ -14163,6 +16455,18 @@
       "total_listings": 140
     },
     {
+      "card_id": 14030,
+      "name": "Bulbasaur - SWSH231",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH231",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.89,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 60
+    },
+    {
       "card_id": 20791,
       "name": "Charjabug - 169/162",
       "set_id": 5500066,
@@ -14235,6 +16539,18 @@
       "total_listings": 442
     },
     {
+      "card_id": 38835,
+      "name": "Magmar - 3/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "003/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.87,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 99
+    },
+    {
       "card_id": 14528,
       "name": "Zweilous (Master Ball Pattern)",
       "set_id": 5500153,
@@ -14305,6 +16621,18 @@
       "market_price_usd": 10.81,
       "market_price_as_of": "2026-10-10",
       "total_listings": 85
+    },
+    {
+      "card_id": 16620,
+      "name": "Tag Call (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "270/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.81,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 69
     },
     {
       "card_id": 20433,
@@ -14487,6 +16815,18 @@
       "total_listings": 136
     },
     {
+      "card_id": 14111,
+      "name": "Galarian Articuno - SWSH123 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH123",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.64,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 40
+    },
+    {
       "card_id": 21620,
       "name": "Unown VSTAR (Secret)",
       "set_id": 5500161,
@@ -14533,6 +16873,18 @@
       "market_price_usd": 10.61,
       "market_price_as_of": "2026-10-09",
       "total_listings": 146
+    },
+    {
+      "card_id": 36078,
+      "name": "Golisopod GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV48/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.61,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 71
     },
     {
       "card_id": 35212,
@@ -14593,6 +16945,18 @@
       "market_price_usd": 10.52,
       "market_price_as_of": "2026-10-15",
       "total_listings": 60
+    },
+    {
+      "card_id": 16556,
+      "name": "Blacephalon",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "104/236",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.51,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 114
     },
     {
       "card_id": 20778,
@@ -14823,6 +17187,30 @@
       "total_listings": 112
     },
     {
+      "card_id": 13993,
+      "name": "Dragapult (Prime) - SWSH132",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH132",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.31,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 205
+    },
+    {
+      "card_id": 14159,
+      "name": "Mewtwo V-UNION - SWSH161",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH161",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.31,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 69
+    },
+    {
       "card_id": 18084,
       "name": "Gravity Mountain - 250/191",
       "set_id": 5500180,
@@ -14845,6 +17233,18 @@
       "market_price_usd": 10.28,
       "market_price_as_of": "2026-10-13",
       "total_listings": 336
+    },
+    {
+      "card_id": 36042,
+      "name": "Pheromosa",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV5/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.28,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 100
     },
     {
       "card_id": 13670,
@@ -14881,6 +17281,18 @@
       "market_price_usd": 10.26,
       "market_price_as_of": "2026-10-17",
       "total_listings": 88
+    },
+    {
+      "card_id": 16466,
+      "name": "Pikachu",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "66/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.24,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 238
     },
     {
       "card_id": 13418,
@@ -14955,6 +17367,18 @@
       "total_listings": 215
     },
     {
+      "card_id": 14135,
+      "name": "Greninja V-UNION - SWSH157",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH157",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.17,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 40
+    },
+    {
       "card_id": 35190,
       "name": "Onix",
       "set_id": 5500053,
@@ -14965,6 +17389,18 @@
       "market_price_usd": 10.17,
       "market_price_as_of": "2026-10-12",
       "total_listings": 19
+    },
+    {
+      "card_id": 36094,
+      "name": "Aether Foundation Employee",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV81/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.17,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 53
     },
     {
       "card_id": 23466,
@@ -14979,6 +17415,18 @@
       "total_listings": 355
     },
     {
+      "card_id": 38832,
+      "name": "Alolan Dugtrio - 11/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "011/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.15,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 56
+    },
+    {
       "card_id": 14533,
       "name": "Watchog (Master Ball Pattern)",
       "set_id": 5500153,
@@ -14989,6 +17437,18 @@
       "market_price_usd": 10.13,
       "market_price_as_of": "2026-10-09",
       "total_listings": 26
+    },
+    {
+      "card_id": 16733,
+      "name": "Giant Hearth (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "263/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.13,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 52
     },
     {
       "card_id": 17257,
@@ -15013,6 +17473,30 @@
       "market_price_usd": 10.09,
       "market_price_as_of": "2026-10-14",
       "total_listings": 153
+    },
+    {
+      "card_id": 14005,
+      "name": "Galarian Zapdos - SWSH124 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH124",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.07,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 62
+    },
+    {
+      "card_id": 14157,
+      "name": "Mewtwo V-UNION - SWSH159",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH159",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.05,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 60
     },
     {
       "card_id": 14495,
@@ -15195,6 +17679,30 @@
       "total_listings": 297
     },
     {
+      "card_id": 35760,
+      "name": "Charizard GX",
+      "set_id": 5500125,
+      "set_name": "Hidden Fates",
+      "number": "9/68",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.89,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 144
+    },
+    {
+      "card_id": 16473,
+      "name": "Rowlet - 17/236",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "17/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.85,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 139
+    },
+    {
       "card_id": 15737,
       "name": "Slowking ex - 238/193",
       "set_id": 5500150,
@@ -15363,6 +17871,18 @@
       "total_listings": 299
     },
     {
+      "card_id": 14181,
+      "name": "Arctozolt - SWSH036 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH036",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.7,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 33
+    },
+    {
       "card_id": 18023,
       "name": "Spheal - 199/191",
       "set_id": 5500180,
@@ -15445,6 +17965,30 @@
       "market_price_usd": 9.65,
       "market_price_as_of": "2026-10-09",
       "total_listings": 62
+    },
+    {
+      "card_id": 38841,
+      "name": "Onix - 9/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "009/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.65,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 67
+    },
+    {
+      "card_id": 13934,
+      "name": "Pikachu - SWSH039",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH039",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.63,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 131
     },
     {
       "card_id": 14286,
@@ -15723,6 +18267,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 16548,
+      "name": "Stoutland (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "248/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.48,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 120
+    },
+    {
       "card_id": 5899,
       "name": "Boss's Orders [Lysandre] - 058/072",
       "set_id": 5500194,
@@ -15783,6 +18339,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 14011,
+      "name": "Eevee - SWSH175",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH175",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.42,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 105
+    },
+    {
       "card_id": 14285,
       "name": "Yamask - 122/086",
       "set_id": 5500153,
@@ -15805,6 +18373,18 @@
       "market_price_usd": 9.42,
       "market_price_as_of": "2026-10-18",
       "total_listings": 100
+    },
+    {
+      "card_id": 36050,
+      "name": "Scyther",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV1/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.42,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 52
     },
     {
       "card_id": 14535,
@@ -15865,6 +18445,18 @@
       "market_price_usd": 9.36,
       "market_price_as_of": "2026-10-09",
       "total_listings": 49
+    },
+    {
+      "card_id": 13946,
+      "name": "Meowth VMAX - SWSH005",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH005",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.35,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 188
     },
     {
       "card_id": 29651,
@@ -16023,6 +18615,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 14078,
+      "name": "Pikachu V-Union - SWSH141",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH141",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.22,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 57
+    },
+    {
       "card_id": 17863,
       "name": "Garbodor VMAX (Secret)",
       "set_id": 5500048,
@@ -16119,6 +18723,18 @@
       "total_listings": 113
     },
     {
+      "card_id": 36041,
+      "name": "Froakie",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV11/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.1,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 57
+    },
+    {
       "card_id": 16295,
       "name": "Pawmot - 209/198",
       "set_id": 5500032,
@@ -16153,6 +18769,18 @@
       "market_price_usd": 9.08,
       "market_price_as_of": "2026-10-15",
       "total_listings": 26
+    },
+    {
+      "card_id": 14015,
+      "name": "Blastoise V - SWSH101",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH101",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.07,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 167
     },
     {
       "card_id": 15935,
@@ -16225,6 +18853,18 @@
       "market_price_usd": 8.97,
       "market_price_as_of": "2026-10-09",
       "total_listings": 147
+    },
+    {
+      "card_id": 16641,
+      "name": "Volcarona GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "213/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.97,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 21
     },
     {
       "card_id": 16028,
@@ -16321,6 +18961,18 @@
       "market_price_usd": 8.88,
       "market_price_as_of": "2026-10-12",
       "total_listings": 96
+    },
+    {
+      "card_id": 14165,
+      "name": "Hydreigon - SWSH037 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH037",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.87,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 40
     },
     {
       "card_id": 17857,
@@ -16431,6 +19083,18 @@
       "total_listings": 81
     },
     {
+      "card_id": 13901,
+      "name": "Galarian Slowpoke - SWSH126",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH126",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.8,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 127
+    },
+    {
       "card_id": 38088,
       "name": "Ice Rider Calyrex V",
       "set_id": 5500061,
@@ -16465,6 +19129,18 @@
       "market_price_usd": 8.78,
       "market_price_as_of": "2026-10-12",
       "total_listings": 22
+    },
+    {
+      "card_id": 14173,
+      "name": "Flapple - SWSH022 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH022",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.77,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 3
     },
     {
       "card_id": 35209,
@@ -16621,6 +19297,18 @@
       "market_price_usd": 8.67,
       "market_price_as_of": "2026-10-14",
       "total_listings": 259
+    },
+    {
+      "card_id": 36073,
+      "name": "Kartana GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV73/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.67,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 76
     },
     {
       "card_id": 4040,
@@ -16983,6 +19671,18 @@
       "total_listings": 196
     },
     {
+      "card_id": 14050,
+      "name": "Flareon - SWSH041",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH041",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.46,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 58
+    },
+    {
       "card_id": 5876,
       "name": "Hisuian Zoroark V - 146/196",
       "set_id": 5500194,
@@ -17031,6 +19731,18 @@
       "total_listings": 245
     },
     {
+      "card_id": 36106,
+      "name": "Aether Paradise Conservation Area",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV87/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.42,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 51
+    },
+    {
       "card_id": 13436,
       "name": "Scream Tail (Master Ball Pattern)",
       "set_id": 5500017,
@@ -17055,6 +19767,18 @@
       "total_listings": 93
     },
     {
+      "card_id": 36114,
+      "name": "Turtonator GX",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV52/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.4,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 31
+    },
+    {
       "card_id": 36689,
       "name": "Paras",
       "set_id": 5500218,
@@ -17065,6 +19789,42 @@
       "market_price_usd": 8.4,
       "market_price_as_of": "2026-10-14",
       "total_listings": 292
+    },
+    {
+      "card_id": 38840,
+      "name": "Mankey - 8/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "008/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.4,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 56
+    },
+    {
+      "card_id": 16474,
+      "name": "Wailmer",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "45/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.39,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 205
+    },
+    {
+      "card_id": 36029,
+      "name": "Rowlet",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV2/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.39,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 40
     },
     {
       "card_id": 17133,
@@ -17101,6 +19861,18 @@
       "market_price_usd": 8.36,
       "market_price_as_of": "2026-10-14",
       "total_listings": 176
+    },
+    {
+      "card_id": 16534,
+      "name": "Silvally GX",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "184/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.36,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 132
     },
     {
       "card_id": 35177,
@@ -17173,6 +19945,18 @@
       "market_price_usd": 8.34,
       "market_price_as_of": "2026-10-15",
       "total_listings": 17
+    },
+    {
+      "card_id": 14037,
+      "name": "Zamazenta V - SWSH077",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH077",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.33,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 107
     },
     {
       "card_id": 13432,
@@ -17259,6 +20043,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 16475,
+      "name": "Igglybuff",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "168/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.26,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 243
+    },
+    {
       "card_id": 38151,
       "name": "Single Strike Urshifu VMAX",
       "set_id": 5500144,
@@ -17269,6 +20065,18 @@
       "market_price_usd": 8.25,
       "market_price_as_of": "2026-10-17",
       "total_listings": 134
+    },
+    {
+      "card_id": 14026,
+      "name": "Morpeko V-Union [Set of 4]",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH218",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.24,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 37
     },
     {
       "card_id": 6943,
@@ -17475,6 +20283,18 @@
       "total_listings": 151
     },
     {
+      "card_id": 13866,
+      "name": "Lucario VSTAR - SWSH291",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH291",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.11,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 557
+    },
+    {
       "card_id": 18169,
       "name": "Clemont's Quick Wit - 243/191",
       "set_id": 5500180,
@@ -17643,6 +20463,18 @@
       "total_listings": 262
     },
     {
+      "card_id": 16669,
+      "name": "Draw Energy (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "271/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.0,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 60
+    },
+    {
       "card_id": 17214,
       "name": "Armarouge - 115/091",
       "set_id": 5500030,
@@ -17665,6 +20497,18 @@
       "market_price_usd": 7.99,
       "market_price_as_of": "2026-10-14",
       "total_listings": 212
+    },
+    {
+      "card_id": 38838,
+      "name": "Alolan Exeggutor - 2/12",
+      "set_id": 5500203,
+      "set_name": "McDonald's Promos 2019",
+      "number": "002/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.99,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 82
     },
     {
       "card_id": 5851,
@@ -17761,6 +20605,18 @@
       "market_price_usd": 7.93,
       "market_price_as_of": "2026-10-17",
       "total_listings": 89
+    },
+    {
+      "card_id": 35758,
+      "name": "Mewtwo GX",
+      "set_id": 5500125,
+      "set_name": "Hidden Fates",
+      "number": "31/68",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.93,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 167
     },
     {
       "card_id": 36734,
@@ -17883,6 +20739,18 @@
       "total_listings": 104
     },
     {
+      "card_id": 13871,
+      "name": "Lance's Charizard V - SWSH133",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH133",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.85,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 318
+    },
+    {
       "card_id": 22924,
       "name": "Charizard V",
       "set_id": 5500201,
@@ -17991,6 +20859,18 @@
       "total_listings": 217
     },
     {
+      "card_id": 16547,
+      "name": "Alolan Ninetales",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "145/236",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.75,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 73
+    },
+    {
       "card_id": 21138,
       "name": "Oleana (Secret)",
       "set_id": 5500094,
@@ -18027,6 +20907,18 @@
       "total_listings": 95
     },
     {
+      "card_id": 14097,
+      "name": "Flaaffy - SWSH122 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH122",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.74,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 56
+    },
+    {
       "card_id": 35192,
       "name": "Charmeleon",
       "set_id": 5500053,
@@ -18051,6 +20943,18 @@
       "total_listings": 95
     },
     {
+      "card_id": 13875,
+      "name": "Pikachu VMAX - SWSH286",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH286",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.7,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 295
+    },
+    {
       "card_id": 35199,
       "name": "Clefairy",
       "set_id": 5500053,
@@ -18073,6 +20977,30 @@
       "market_price_usd": 7.69,
       "market_price_as_of": "2026-10-09",
       "total_listings": 0
+    },
+    {
+      "card_id": 13933,
+      "name": "Mewtwo V - SWSH223",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH223",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.69,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 226
+    },
+    {
+      "card_id": 14134,
+      "name": "Greninja V-UNION - SWSH158",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH158",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.68,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 48
     },
     {
       "card_id": 28812,
@@ -18195,6 +21123,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 16468,
+      "name": "Guzma & Hala",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "193/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.61,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 268
+    },
+    {
       "card_id": 18017,
       "name": "Kecleon - 213/191",
       "set_id": 5500180,
@@ -18301,6 +21241,18 @@
       "market_price_usd": 7.55,
       "market_price_as_of": "2026-10-14",
       "total_listings": 201
+    },
+    {
+      "card_id": 14138,
+      "name": "Lapras - SWSH051",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH051",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.54,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 46
     },
     {
       "card_id": 19007,
@@ -18519,6 +21471,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 13874,
+      "name": "Rayquaza - SWSH029",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH029",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.42,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 251
+    },
+    {
       "card_id": 24162,
       "name": "Friends in Sinnoh (Full Art)",
       "set_id": 5500217,
@@ -18565,6 +21529,18 @@
       "market_price_usd": 7.41,
       "market_price_as_of": "2026-10-09",
       "total_listings": 374
+    },
+    {
+      "card_id": 16663,
+      "name": "Oricorio GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "217/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.4,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 28
     },
     {
       "card_id": 24079,
@@ -18615,6 +21591,18 @@
       "total_listings": 280
     },
     {
+      "card_id": 14018,
+      "name": "Sylveon - SWSH211",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH211",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.36,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 106
+    },
+    {
       "card_id": 15980,
       "name": "Garchomp ex - 219/182",
       "set_id": 5500212,
@@ -18661,6 +21649,18 @@
       "market_price_usd": 7.33,
       "market_price_as_of": "2026-10-09",
       "total_listings": 132
+    },
+    {
+      "card_id": 14059,
+      "name": "Deoxys VSTAR - SWSH268",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH268",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.32,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 79
     },
     {
       "card_id": 21381,
@@ -18723,6 +21723,42 @@
       "total_listings": 435
     },
     {
+      "card_id": 36096,
+      "name": "Fisherman",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV83/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.26,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 47
+    },
+    {
+      "card_id": 14066,
+      "name": "Pikachu V-Union - SWSH142",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH142",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.23,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 110
+    },
+    {
+      "card_id": 16634,
+      "name": "Alolan Persian GX (Full Art)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "219/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.23,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 37
+    },
+    {
       "card_id": 35163,
       "name": "Ivysaur",
       "set_id": 5500053,
@@ -18747,6 +21783,18 @@
       "total_listings": 434
     },
     {
+      "card_id": 16579,
+      "name": "Guzzlord",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "136/236",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.22,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 174
+    },
+    {
       "card_id": 17988,
       "name": "Exeggcute - 192/191",
       "set_id": 5500180,
@@ -18769,6 +21817,18 @@
       "market_price_usd": 7.22,
       "market_price_as_of": "2026-10-19",
       "total_listings": 49
+    },
+    {
+      "card_id": 36047,
+      "name": "Gible",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV38/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.22,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 45
     },
     {
       "card_id": 22429,
@@ -18963,6 +22023,18 @@
       "total_listings": 326
     },
     {
+      "card_id": 36082,
+      "name": "Altaria",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV37/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.08,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 36
+    },
+    {
       "card_id": 13414,
       "name": "Shaymin (Master Ball Pattern)",
       "set_id": 5500017,
@@ -19155,6 +22227,30 @@
       "total_listings": 80
     },
     {
+      "card_id": 14146,
+      "name": "Garbodor - SWSH025 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH025",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.94,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 16
+    },
+    {
+      "card_id": 13975,
+      "name": "Snorlax - SWSH119",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH119",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.93,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 43
+    },
+    {
       "card_id": 17177,
       "name": "Jumpluff",
       "set_id": 5500030,
@@ -19189,6 +22285,18 @@
       "market_price_usd": 6.88,
       "market_price_as_of": "2026-10-15",
       "total_listings": 109
+    },
+    {
+      "card_id": 36067,
+      "name": "Swablu",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV42/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.87,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 33
     },
     {
       "card_id": 5989,
@@ -19249,6 +22357,18 @@
       "market_price_usd": 6.83,
       "market_price_as_of": "2026-10-19",
       "total_listings": 215
+    },
+    {
+      "card_id": 13917,
+      "name": "Eevee V - SWSH065",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH065",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.81,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 220
     },
     {
       "card_id": 14272,
@@ -19599,6 +22719,42 @@
       "total_listings": 39
     },
     {
+      "card_id": 16487,
+      "name": "Flareon",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "25/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.61,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 211
+    },
+    {
+      "card_id": 36063,
+      "name": "Ralts",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV34/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.61,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 65
+    },
+    {
+      "card_id": 36065,
+      "name": "Kirlia",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV35/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.61,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 41
+    },
+    {
       "card_id": 5781,
       "name": "Darkness Energy (Prize Pack Series 3) (Cosmos Holo)",
       "set_id": 5500194,
@@ -19635,6 +22791,18 @@
       "total_listings": 61
     },
     {
+      "card_id": 14065,
+      "name": "Deoxys VMAX - SWSH267",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH267",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.59,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 66
+    },
+    {
       "card_id": 31421,
       "name": "Cinderace",
       "set_id": 5500042,
@@ -19645,6 +22813,18 @@
       "market_price_usd": 6.59,
       "market_price_as_of": "2026-10-19",
       "total_listings": 92
+    },
+    {
+      "card_id": 14169,
+      "name": "Frosmoth - SWSH007 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH007",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.58,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 29
     },
     {
       "card_id": 5580,
@@ -19693,6 +22873,18 @@
       "market_price_usd": 6.56,
       "market_price_as_of": "2026-10-12",
       "total_listings": 211
+    },
+    {
+      "card_id": 36054,
+      "name": "Poipole",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV19/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.56,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 58
     },
     {
       "card_id": 23427,
@@ -19911,6 +23103,18 @@
       "total_listings": 304
     },
     {
+      "card_id": 13872,
+      "name": "Mewtwo V - SWSH229",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH229",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.45,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 229
+    },
+    {
       "card_id": 20242,
       "name": "Timburr - 183/167",
       "set_id": 5500051,
@@ -19921,6 +23125,18 @@
       "market_price_usd": 6.45,
       "market_price_as_of": "2026-10-11",
       "total_listings": 271
+    },
+    {
+      "card_id": 36057,
+      "name": "Frogadier",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV12/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.45,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 54
     },
     {
       "card_id": 100018029,
@@ -20007,6 +23223,18 @@
       "total_listings": 166
     },
     {
+      "card_id": 35770,
+      "name": "Gyarados GX",
+      "set_id": 5500125,
+      "set_name": "Hidden Fates",
+      "number": "16/68",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.41,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 107
+    },
+    {
       "card_id": 13581,
       "name": "Klang - 140/086",
       "set_id": 5500093,
@@ -20067,6 +23295,18 @@
       "total_listings": 69
     },
     {
+      "card_id": 14086,
+      "name": "Jirachi V - 299",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH299",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.35,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 45
+    },
+    {
       "card_id": 18728,
       "name": "Levincia",
       "set_id": 5500009,
@@ -20113,6 +23353,30 @@
       "market_price_usd": 6.34,
       "market_price_as_of": "2026-10-15",
       "total_listings": 11
+    },
+    {
+      "card_id": 14029,
+      "name": "Pikachu V-Union - SWSH140",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH140",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.33,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 115
+    },
+    {
+      "card_id": 35741,
+      "name": "Pikachu",
+      "set_id": 5500125,
+      "set_name": "Hidden Fates",
+      "number": "19/68",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.33,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 469
     },
     {
       "card_id": 38223,
@@ -20247,6 +23511,18 @@
       "total_listings": 174
     },
     {
+      "card_id": 13945,
+      "name": "Dragonite V - SWSH154",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH154",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.26,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 196
+    },
+    {
       "card_id": 2170698,
       "name": "Treecko -  055",
       "set_id": 5500111,
@@ -20379,6 +23655,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 14133,
+      "name": "Greninja V-UNION - SWSH156",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH156",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.17,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 43
+    },
+    {
       "card_id": 18982,
       "name": "Bronzong (Secret)",
       "set_id": 5500170,
@@ -20389,6 +23677,18 @@
       "market_price_usd": 6.17,
       "market_price_as_of": "2026-10-18",
       "total_listings": 111
+    },
+    {
+      "card_id": 14072,
+      "name": "Pikachu V-Union - SWSH139",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH139",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.16,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 90
     },
     {
       "card_id": 17801,
@@ -20439,6 +23739,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 36046,
+      "name": "Guzzlord",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV26/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.16,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 57
+    },
+    {
       "card_id": 30096,
       "name": "Colress's Tenacity - 087/064",
       "set_id": 5500139,
@@ -20475,6 +23787,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 13950,
+      "name": "Pikachu V - SWSH063",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH063",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.12,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 127
+    },
+    {
       "card_id": 5708,
       "name": "Fezandipiti ex - 038/064 (Series 7)",
       "set_id": 5500194,
@@ -20499,6 +23823,30 @@
       "total_listings": 5
     },
     {
+      "card_id": 14163,
+      "name": "Decidueye - SWSH035 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH035",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.11,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 32
+    },
+    {
+      "card_id": 36083,
+      "name": "Shrine of Punishment",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV90/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.11,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 71
+    },
+    {
       "card_id": 13629,
       "name": "Beheeyem - 121/086",
       "set_id": 5500093,
@@ -20509,6 +23857,18 @@
       "market_price_usd": 6.1,
       "market_price_as_of": "2026-10-09",
       "total_listings": 148
+    },
+    {
+      "card_id": 13870,
+      "name": "Dark Sylveon V - SWSH134",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH134",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.1,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 305
     },
     {
       "card_id": 17271,
@@ -20631,6 +23991,18 @@
       "total_listings": 181
     },
     {
+      "card_id": 36051,
+      "name": "Gabite",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV39/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.06,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 48
+    },
+    {
       "card_id": 6912,
       "name": "Dreepy - 247/217",
       "set_id": 5500112,
@@ -20641,6 +24013,18 @@
       "market_price_usd": 6.06,
       "market_price_as_of": "2026-10-09",
       "total_listings": 458
+    },
+    {
+      "card_id": 13929,
+      "name": "Dragonite V - SWSH235",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH235",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.05,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 196
     },
     {
       "card_id": 18594,
@@ -20701,6 +24085,18 @@
       "market_price_usd": 6.03,
       "market_price_as_of": "2026-10-19",
       "total_listings": 124
+    },
+    {
+      "card_id": 13952,
+      "name": "Arceus VSTAR - SWSH307",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH307",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.02,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 60
     },
     {
       "card_id": 17559,
@@ -20895,6 +24291,18 @@
       "total_listings": 101
     },
     {
+      "card_id": 35747,
+      "name": "Mew",
+      "set_id": 5500125,
+      "set_name": "Hidden Fates",
+      "number": "32/68",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.94,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 182
+    },
+    {
       "card_id": 6091,
       "name": "Rapid Strike Urshifu V - 087/163",
       "set_id": 5500194,
@@ -20967,6 +24375,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 14056,
+      "name": "Lucario - SWSH186",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH186",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.91,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 78
+    },
+    {
       "card_id": 14254,
       "name": "Boldore - 128/086",
       "set_id": 5500153,
@@ -21025,6 +24445,18 @@
       "market_price_usd": 5.89,
       "market_price_as_of": "2026-10-09",
       "total_listings": 520
+    },
+    {
+      "card_id": 14058,
+      "name": "Venusaur V - SWSH100",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH100",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.88,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 229
     },
     {
       "card_id": 22988,
@@ -21133,6 +24565,18 @@
       "market_price_usd": 5.83,
       "market_price_as_of": "2026-10-15",
       "total_listings": 17
+    },
+    {
+      "card_id": 13877,
+      "name": "Pikachu - SWSH234",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH234",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.82,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 229
     },
     {
       "card_id": 15938,
@@ -21339,6 +24783,18 @@
       "total_listings": 101
     },
     {
+      "card_id": 14168,
+      "name": "Rillaboom - SWSH006 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH006",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.74,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 40
+    },
+    {
       "card_id": 18301,
       "name": "Eevee - 043",
       "set_id": 5500070,
@@ -21531,6 +24987,30 @@
       "total_listings": 90
     },
     {
+      "card_id": 14132,
+      "name": "Greninja V-UNION - SWSH155",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH155",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.68,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 35
+    },
+    {
+      "card_id": 16516,
+      "name": "Mawile",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "140/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.68,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 152
+    },
+    {
       "card_id": 23458,
       "name": "Mega Kangaskhan ex - 164/132",
       "set_id": 5500179,
@@ -21565,6 +25045,18 @@
       "market_price_usd": 5.67,
       "market_price_as_of": "2026-10-15",
       "total_listings": 11
+    },
+    {
+      "card_id": 14178,
+      "name": "Zacian V-UNION - SWSH166",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH166",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.66,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 40
     },
     {
       "card_id": 15119,
@@ -21735,6 +25227,18 @@
       "total_listings": 145
     },
     {
+      "card_id": 14098,
+      "name": "Deoxys - SWSH170 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH170",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.57,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 21
+    },
+    {
       "card_id": 18608,
       "name": "Ethan's Ho-Oh ex - 209/182",
       "set_id": 5500009,
@@ -21807,6 +25311,18 @@
       "total_listings": 166
     },
     {
+      "card_id": 36048,
+      "name": "Metang",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV31/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.55,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 59
+    },
+    {
       "card_id": 2133507,
       "name": "Litten - 044",
       "set_id": 5500111,
@@ -21843,6 +25359,18 @@
       "total_listings": 226
     },
     {
+      "card_id": 36036,
+      "name": "Sudowoodo",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV20/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.53,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 26
+    },
+    {
       "card_id": 18407,
       "name": "Greninja ex - 054",
       "set_id": 5500070,
@@ -21865,6 +25393,18 @@
       "market_price_usd": 5.5,
       "market_price_as_of": "2026-10-17",
       "total_listings": 71
+    },
+    {
+      "card_id": 36056,
+      "name": "Celesteela",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV32/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.5,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 101
     },
     {
       "card_id": 21321,
@@ -21949,6 +25489,42 @@
       "market_price_usd": 5.46,
       "market_price_as_of": "2026-10-14",
       "total_listings": 529
+    },
+    {
+      "card_id": 36062,
+      "name": "Type: Null",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV45/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.45,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 78
+    },
+    {
+      "card_id": 16525,
+      "name": "Excadrill (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "246/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.44,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 133
+    },
+    {
+      "card_id": 36027,
+      "name": "Rockruff",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV23/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.44,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 55
     },
     {
       "card_id": 13623,
@@ -22107,6 +25683,18 @@
       "total_listings": 127
     },
     {
+      "card_id": 13878,
+      "name": "Umbreon V - SWSH203",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH203",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.39,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 216
+    },
+    {
       "card_id": 5488,
       "name": "Mist Energy - 161/162",
       "set_id": 5500194,
@@ -22141,6 +25729,18 @@
       "market_price_usd": 5.38,
       "market_price_as_of": "2026-10-12",
       "total_listings": 197
+    },
+    {
+      "card_id": 16546,
+      "name": "Ultra Necrozma",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "164/236",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.38,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 177
     },
     {
       "card_id": 2153348,
@@ -22189,6 +25789,30 @@
       "market_price_usd": 5.37,
       "market_price_as_of": "2026-10-12",
       "total_listings": 240
+    },
+    {
+      "card_id": 36039,
+      "name": "Shuppet",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV16/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.37,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 13
+    },
+    {
+      "card_id": 36070,
+      "name": "Diancie",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV36/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.37,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 48
     },
     {
       "card_id": 17195,
@@ -22285,6 +25909,30 @@
       "market_price_usd": 5.34,
       "market_price_as_of": "2026-10-12",
       "total_listings": 117
+    },
+    {
+      "card_id": 13912,
+      "name": "Eevee - SWSH118",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH118",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 144
+    },
+    {
+      "card_id": 13963,
+      "name": "Glaceon - SWSH192",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH192",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 101
     },
     {
       "card_id": 18958,
@@ -22455,6 +26103,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 13939,
+      "name": "Sobble - SWSH073",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH073",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.28,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 92
+    },
+    {
       "card_id": 18872,
       "name": "Melony (Full Art)",
       "set_id": 5500170,
@@ -22587,6 +26247,30 @@
       "total_listings": 14
     },
     {
+      "card_id": 36052,
+      "name": "Xurkitree",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV14/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.24,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 77
+    },
+    {
+      "card_id": 14112,
+      "name": "Zeraora VMAX - SWSH264",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH264",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.23,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 104
+    },
+    {
       "card_id": 18028,
       "name": "Vivillon - 193/191",
       "set_id": 5500180,
@@ -22611,6 +26295,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 16684,
+      "name": "Island Challenge Amulet (Secret)",
+      "set_id": 5500206,
+      "set_name": "SM - Cosmic Eclipse",
+      "number": "265/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.22,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 69
+    },
+    {
       "card_id": 100018055,
       "name": "Morpeko - 135/128",
       "set_id": 5500219,
@@ -22621,6 +26317,18 @@
       "market_price_usd": 5.2,
       "market_price_as_of": "2026-10-09",
       "total_listings": 328
+    },
+    {
+      "card_id": 14118,
+      "name": "Latias - SWSH171 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH171",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.2,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 66
     },
     {
       "card_id": 17823,
@@ -23091,6 +26799,42 @@
       "total_listings": 334
     },
     {
+      "card_id": 36075,
+      "name": "Hiker",
+      "set_id": 5500083,
+      "set_name": "Hidden Fates: Shiny Vault",
+      "number": "SV85/SV94",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.02,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 67
+    },
+    {
+      "card_id": 13879,
+      "name": "Light Toxtricity - SWSH137",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH137",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 356
+    },
+    {
+      "card_id": 14033,
+      "name": "Vaporeon - SWSH072",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH072",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 105
+    },
+    {
       "card_id": 21111,
       "name": "Malamar V (Full Art)",
       "set_id": 5500094,
@@ -23125,6 +26869,18 @@
       "market_price_usd": 5.01,
       "market_price_as_of": "2026-10-15",
       "total_listings": 16
+    },
+    {
+      "card_id": 14127,
+      "name": "Octillery - SWSH089 (Prerelease)",
+      "set_id": 5500149,
+      "set_name": "SWSH: Sword & Shield Promo Cards",
+      "number": "SWSH089",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 58
     },
     {
       "card_id": 38271,
