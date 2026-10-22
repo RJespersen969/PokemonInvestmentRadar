@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-21T08:07:13.131287+00:00",
+  "generated_at": "2026-10-22T08:08:38.423493+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 75,
+  "next_set_index": 80,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
   "api_calls": 11,
-  "total_candidates": 2240,
-  "cards_with_price_history": 11557,
+  "total_candidates": 2448,
+  "cards_with_price_history": 12277,
   "candidates": [
     {
       "card_id": 17849,
@@ -85,6 +85,18 @@
       "market_price_usd": 188.22,
       "market_price_as_of": "2026-10-09",
       "total_listings": 143
+    },
+    {
+      "card_id": 19563,
+      "name": "Gardevoir & Sylveon GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "225/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 186.56,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 16
     },
     {
       "card_id": 16717,
@@ -231,6 +243,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 22378,
+      "name": "Pikachu & Zekrom GX (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "162/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 176.29,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 27
+    },
+    {
       "card_id": 6014,
       "name": "Charizard V - 019/189",
       "set_id": 5500194,
@@ -375,6 +399,18 @@
       "total_listings": 82
     },
     {
+      "card_id": 16931,
+      "name": "Slowpoke & Psyduck GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "217/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 160.62,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 13
+    },
+    {
       "card_id": 6004,
       "name": "Glaceon VMAX - 041/203",
       "set_id": 5500194,
@@ -387,6 +423,30 @@
       "total_listings": 4
     },
     {
+      "card_id": 19501,
+      "name": "Red's Challenge (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "213/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 153.68,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 21
+    },
+    {
+      "card_id": 17023,
+      "name": "Dragonite GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "248/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 152.71,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 23
+    },
+    {
       "card_id": 17853,
       "name": "Glaceon V (Alternate Full Art)",
       "set_id": 5500048,
@@ -397,6 +457,18 @@
       "market_price_usd": 152.31,
       "market_price_as_of": "2026-10-18",
       "total_listings": 70
+    },
+    {
+      "card_id": 17013,
+      "name": "Raichu & Alolan Raichu GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "241/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 150.87,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 19
     },
     {
       "card_id": 6157,
@@ -423,6 +495,18 @@
       "total_listings": 232
     },
     {
+      "card_id": 16856,
+      "name": "Mewtwo & Mew GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "71/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 148.23,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 43
+    },
+    {
       "card_id": 14182,
       "name": "Rillaboom - SWSH006 (Prerelease) [Staff]",
       "set_id": 5500149,
@@ -433,6 +517,42 @@
       "market_price_usd": 147.5,
       "market_price_as_of": "2026-10-21",
       "total_listings": 2
+    },
+    {
+      "card_id": 22391,
+      "name": "Celebi & Venusaur GX (Secret)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "182/181",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 146.6,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 15
+    },
+    {
+      "card_id": 22387,
+      "name": "Magikarp & Wailord GX (Secret)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "183/181",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 146.24,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 21
+    },
+    {
+      "card_id": 22323,
+      "name": "Erika's Hospitality (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "174/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 145.97,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 29
     },
     {
       "card_id": 6127,
@@ -495,6 +615,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 16817,
+      "name": "Slowpoke & Psyduck GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "35/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 141.87,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 53
+    },
+    {
       "card_id": 6171,
       "name": "Togekiss VMAX - 141/185",
       "set_id": 5500194,
@@ -505,6 +637,18 @@
       "market_price_usd": 141.46,
       "market_price_as_of": "2026-10-15",
       "total_listings": 10
+    },
+    {
+      "card_id": 19539,
+      "name": "Blastoise GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "218/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 141.38,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 8
     },
     {
       "card_id": 16713,
@@ -591,6 +735,18 @@
       "total_listings": 118
     },
     {
+      "card_id": 17010,
+      "name": "Rowlet & Alolan Exeggutor GX (Alternate Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "215/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 138.32,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 33
+    },
+    {
       "card_id": 36113,
       "name": "Espeon GX",
       "set_id": 5500083,
@@ -649,6 +805,18 @@
       "market_price_usd": 137.05,
       "market_price_as_of": "2026-10-09",
       "total_listings": 17
+    },
+    {
+      "card_id": 22359,
+      "name": "Magikarp & Wailord GX (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "160/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 136.81,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 21
     },
     {
       "card_id": 6143,
@@ -771,6 +939,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 19551,
+      "name": "Gardevoir & Sylveon GX (204) (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "204/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 123.01,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 15
+    },
+    {
       "card_id": 36751,
       "name": "Origin Forme Dialga VSTAR (Secret)",
       "set_id": 5500218,
@@ -781,6 +961,30 @@
       "market_price_usd": 121.55,
       "market_price_as_of": "2026-10-14",
       "total_listings": 102
+    },
+    {
+      "card_id": 22348,
+      "name": "Latias & Latios GX (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "169/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 120.37,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 38
+    },
+    {
+      "card_id": 19553,
+      "name": "Greninja & Zoroark GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "222/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 119.86,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 9
     },
     {
       "card_id": 16726,
@@ -951,6 +1155,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 19493,
+      "name": "Green's Exploration (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "209/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 109.67,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 36
+    },
+    {
       "card_id": 14079,
       "name": "Pikachu - SWSH020",
       "set_id": 5500149,
@@ -985,6 +1201,18 @@
       "market_price_usd": 108.91,
       "market_price_as_of": "2026-10-10",
       "total_listings": 101
+    },
+    {
+      "card_id": 19557,
+      "name": "Muk & Alolan Muk GX (197) (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "197/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 107.96,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 19
     },
     {
       "card_id": 16680,
@@ -1299,6 +1527,30 @@
       "total_listings": 114
     },
     {
+      "card_id": 16807,
+      "name": "Umbreon & Darkrai GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "125/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 96.26,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 68
+    },
+    {
+      "card_id": 19528,
+      "name": "Reshiram & Charizard GX (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "194/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 96.16,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 29
+    },
+    {
       "card_id": 15121,
       "name": "Mew VMAX (Secret)",
       "set_id": 5500208,
@@ -1347,6 +1599,18 @@
       "total_listings": 274
     },
     {
+      "card_id": 38806,
+      "name": "Psyduck - 2/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "002/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 93.13,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 53
+    },
+    {
       "card_id": 25201,
       "name": "Squirtle",
       "set_id": 5500045,
@@ -1357,6 +1621,30 @@
       "market_price_usd": 93.04,
       "market_price_as_of": "2026-10-11",
       "total_listings": 162
+    },
+    {
+      "card_id": 19548,
+      "name": "Pheromosa & Buzzwole GX (192) (Alternate Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "192/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 92.8,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 37
+    },
+    {
+      "card_id": 22294,
+      "name": "Eevee & Snorlax GX",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "120/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 92.59,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 47
     },
     {
       "card_id": 21896,
@@ -1467,6 +1755,18 @@
       "total_listings": 235
     },
     {
+      "card_id": 16979,
+      "name": "Mega Sableye & Tyranitar GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "245/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 89.09,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 28
+    },
+    {
       "card_id": 7227,
       "name": "Mega Feraligatr ex - 274/217",
       "set_id": 5500112,
@@ -1563,6 +1863,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 22357,
+      "name": "Jasmine (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "177/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 85.2,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 29
+    },
+    {
       "card_id": 5984,
       "name": "Mimikyu ex - 004",
       "set_id": 5500194,
@@ -1611,6 +1923,18 @@
       "total_listings": 30
     },
     {
+      "card_id": 19550,
+      "name": "Lucario & Melmetal GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "224/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 84.19,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 24
+    },
+    {
       "card_id": 17858,
       "name": "Umbreon VMAX (Secret)",
       "set_id": 5500048,
@@ -1635,6 +1959,18 @@
       "total_listings": 81
     },
     {
+      "card_id": 19402,
+      "name": "Snorlax",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "158/214",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 83.33,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 62
+    },
+    {
       "card_id": 21878,
       "name": "Zapdos ex - 202/165",
       "set_id": 5500171,
@@ -1645,6 +1981,18 @@
       "market_price_usd": 82.82,
       "market_price_as_of": "2026-10-13",
       "total_listings": 235
+    },
+    {
+      "card_id": 19404,
+      "name": "Gardevoir & Sylveon GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "130/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 82.81,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 38
     },
     {
       "card_id": 14295,
@@ -1719,6 +2067,18 @@
       "total_listings": 104
     },
     {
+      "card_id": 22221,
+      "name": "Latias & Latios GX",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "113/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 81.79,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 61
+    },
+    {
       "card_id": 14195,
       "name": "Luxray - SWSH023 (Prerelease) [Staff]",
       "set_id": 5500149,
@@ -1741,6 +2101,18 @@
       "market_price_usd": 80.85,
       "market_price_as_of": "2026-10-14",
       "total_listings": 159
+    },
+    {
+      "card_id": 22327,
+      "name": "Brock's Grit (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "172/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 80.7,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 37
     },
     {
       "card_id": 14122,
@@ -1825,6 +2197,18 @@
       "market_price_usd": 78.67,
       "market_price_as_of": "2026-10-21",
       "total_listings": 12
+    },
+    {
+      "card_id": 16994,
+      "name": "Latios GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "243/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 77.73,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 38
     },
     {
       "card_id": 18750,
@@ -2103,6 +2487,18 @@
       "total_listings": 98
     },
     {
+      "card_id": 19532,
+      "name": "Marshadow & Machamp GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "221/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 72.93,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 23
+    },
+    {
       "card_id": 16509,
       "name": "Mimikyu (Secret)",
       "set_id": 5500206,
@@ -2269,6 +2665,18 @@
       "market_price_usd": 69.58,
       "market_price_as_of": "2026-10-21",
       "total_listings": 5
+    },
+    {
+      "card_id": 19556,
+      "name": "Greninja & Zoroark GX (200) (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "200/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 68.93,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 35
     },
     {
       "card_id": 7205,
@@ -2523,6 +2931,18 @@
       "total_listings": 106
     },
     {
+      "card_id": 16897,
+      "name": "Blue's Tactics (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "231/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.39,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 19
+    },
+    {
       "card_id": 18463,
       "name": "Infernape - 116 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -2569,6 +2989,18 @@
       "market_price_usd": 64.68,
       "market_price_as_of": "2026-10-15",
       "total_listings": 7
+    },
+    {
+      "card_id": 19344,
+      "name": "Gengar",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "70/214",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 64.61,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 117
     },
     {
       "card_id": 16739,
@@ -2643,6 +3075,30 @@
       "total_listings": 100
     },
     {
+      "card_id": 22374,
+      "name": "Celebi & Venusaur GX (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "159/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 63.8,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 26
+    },
+    {
+      "card_id": 22375,
+      "name": "Ampharos GX (Secret)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "185/181",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 63.32,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 14
+    },
+    {
       "card_id": 37862,
       "name": "Riolu - 010 (Pokemon Center Exclusive)",
       "set_id": 5500111,
@@ -2677,6 +3133,18 @@
       "market_price_usd": 63.13,
       "market_price_as_of": "2026-10-14",
       "total_listings": 307
+    },
+    {
+      "card_id": 22254,
+      "name": "Celebi & Venusaur GX",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "1/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 63.13,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 41
     },
     {
       "card_id": 2158854,
@@ -2749,6 +3217,18 @@
       "market_price_usd": 61.94,
       "market_price_as_of": "2026-10-15",
       "total_listings": 4
+    },
+    {
+      "card_id": 16949,
+      "name": "Dragonite GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "229/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 61.88,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 22
     },
     {
       "card_id": 36499,
@@ -2847,6 +3327,18 @@
       "total_listings": 103
     },
     {
+      "card_id": 22350,
+      "name": "Evelyn (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "175/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 60.99,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 42
+    },
+    {
       "card_id": 16727,
       "name": "Arceus & Dialga & Palkia GX (Full Art)",
       "set_id": 5500206,
@@ -2869,6 +3361,18 @@
       "market_price_usd": 60.17,
       "market_price_as_of": "2026-10-17",
       "total_listings": 102
+    },
+    {
+      "card_id": 19347,
+      "name": "Reshiram & Charizard GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "20/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 59.72,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 111
     },
     {
       "card_id": 38860,
@@ -3063,6 +3567,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 16945,
+      "name": "Raichu & Alolan Raichu GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "220/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 56.65,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 41
+    },
+    {
       "card_id": 14139,
       "name": "Arcanine (Illustration Contest 2022)",
       "set_id": 5500149,
@@ -3207,6 +3723,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 19386,
+      "name": "Greninja & Zoroark GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "107/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.29,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 51
+    },
+    {
       "card_id": 18751,
       "name": "Team Rocket's Crobat ex - 234/182",
       "set_id": 5500009,
@@ -3241,6 +3769,18 @@
       "market_price_usd": 53.9,
       "market_price_as_of": "2026-10-09",
       "total_listings": 102
+    },
+    {
+      "card_id": 22340,
+      "name": "Morgan (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "178/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 53.82,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 21
     },
     {
       "card_id": 21029,
@@ -3339,6 +3879,18 @@
       "total_listings": 164
     },
     {
+      "card_id": 22334,
+      "name": "Dana (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "173/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 52.45,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 38
+    },
+    {
       "card_id": 14031,
       "name": "Flareon VMAX - SWSH180",
       "set_id": 5500149,
@@ -3411,6 +3963,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 19523,
+      "name": "Welder (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "214/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 51.59,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 46
+    },
+    {
       "card_id": 14188,
       "name": "Rapidash - SWSH270 (Prerelease) [STAFF]",
       "set_id": 5500149,
@@ -3421,6 +3985,18 @@
       "market_price_usd": 51.54,
       "market_price_as_of": "2026-10-21",
       "total_listings": 4
+    },
+    {
+      "card_id": 22191,
+      "name": "Pikachu & Zekrom GX",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "33/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 51.41,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 190
     },
     {
       "card_id": 21877,
@@ -3445,6 +4021,30 @@
       "market_price_usd": 51.26,
       "market_price_as_of": "2026-10-10",
       "total_listings": 159
+    },
+    {
+      "card_id": 16972,
+      "name": "Viridian Forest (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "256/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 51.22,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 23
+    },
+    {
+      "card_id": 16815,
+      "name": "Espeon & Deoxys GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "72/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 51.13,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 63
     },
     {
       "card_id": 20812,
@@ -3795,6 +4395,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 19559,
+      "name": "Dedenne GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "219/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 48.06,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 13
+    },
+    {
       "card_id": 2158855,
       "name": "Mewtwo ex - 157/128",
       "set_id": 5500219,
@@ -3853,6 +4465,18 @@
       "market_price_usd": 47.35,
       "market_price_as_of": "2026-10-21",
       "total_listings": 130
+    },
+    {
+      "card_id": 22272,
+      "name": "Electrode",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "39/181",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 47.32,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 48
     },
     {
       "card_id": 36743,
@@ -3975,6 +4599,18 @@
       "total_listings": 82
     },
     {
+      "card_id": 17022,
+      "name": "Rowlet & Alolan Exeggutor GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "237/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 46.18,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 13
+    },
+    {
       "card_id": 7186,
       "name": "Marnie's Grimmsnarl ex",
       "set_id": 5500112,
@@ -4035,6 +4671,30 @@
       "total_listings": 304
     },
     {
+      "card_id": 22386,
+      "name": "Hoopa GX (Secret)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "187/181",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.72,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 16
+    },
+    {
+      "card_id": 16809,
+      "name": "Mega Sableye & Tyranitar GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "126/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.68,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 51
+    },
+    {
       "card_id": 36076,
       "name": "Eevee",
       "set_id": 5500083,
@@ -4047,6 +4707,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 19516,
+      "name": "Lucario & Melmetal GX (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "203/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.64,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 26
+    },
+    {
       "card_id": 7216,
       "name": "Mega Scrafty ex - 285/217",
       "set_id": 5500112,
@@ -4057,6 +4729,18 @@
       "market_price_usd": 45.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 135
+    },
+    {
+      "card_id": 16905,
+      "name": "Mega Sableye & Tyranitar GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "225/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.55,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 20
     },
     {
       "card_id": 36084,
@@ -4081,6 +4765,18 @@
       "market_price_usd": 45.4,
       "market_price_as_of": "2026-10-10",
       "total_listings": 318
+    },
+    {
+      "card_id": 19519,
+      "name": "Pokegear 3.0 (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "233/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.38,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 72
     },
     {
       "card_id": 16023,
@@ -4215,6 +4911,18 @@
       "total_listings": 91
     },
     {
+      "card_id": 38808,
+      "name": "Eevee - 11/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "011/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 44.54,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 48
+    },
+    {
       "card_id": 13751,
       "name": "Amoonguss - 096/086",
       "set_id": 5500093,
@@ -4249,6 +4957,18 @@
       "market_price_usd": 44.31,
       "market_price_as_of": "2026-10-09",
       "total_listings": 119
+    },
+    {
+      "card_id": 22370,
+      "name": "Nita (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "180/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.24,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 36
     },
     {
       "card_id": 6076,
@@ -4299,6 +5019,18 @@
       "total_listings": 44
     },
     {
+      "card_id": 19555,
+      "name": "Marshadow & Machamp GX (198) (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "198/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.64,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 33
+    },
+    {
       "card_id": 23980,
       "name": "Salamence ex - 187/159",
       "set_id": 5500077,
@@ -4333,6 +5065,18 @@
       "market_price_usd": 43.52,
       "market_price_as_of": "2026-10-09",
       "total_listings": 162
+    },
+    {
+      "card_id": 22377,
+      "name": "Ingo & Emmet (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "176/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.32,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 29
     },
     {
       "card_id": 5906,
@@ -4695,6 +5439,30 @@
       "total_listings": 171
     },
     {
+      "card_id": 22235,
+      "name": "Charizard",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "14/181",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.85,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 141
+    },
+    {
+      "card_id": 19527,
+      "name": "Pheromosa & Buzzwole GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "215/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.7,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 19
+    },
+    {
       "card_id": 7262,
       "name": "Mega Diancie ex - 282/217",
       "set_id": 5500112,
@@ -4729,6 +5497,18 @@
       "market_price_usd": 40.39,
       "market_price_as_of": "2026-10-09",
       "total_listings": 11
+    },
+    {
+      "card_id": 38807,
+      "name": "Pikachu - 4/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "004/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.36,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 71
     },
     {
       "card_id": 6043,
@@ -4935,6 +5715,18 @@
       "total_listings": 268
     },
     {
+      "card_id": 38812,
+      "name": "Slowpoke - 5/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "005/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.3,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 25
+    },
+    {
       "card_id": 14449,
       "name": "Leavanny - 089/086",
       "set_id": 5500153,
@@ -5007,6 +5799,18 @@
       "total_listings": 66
     },
     {
+      "card_id": 16787,
+      "name": "Raichu & Alolan Raichu GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "54/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.15,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 61
+    },
+    {
       "card_id": 14448,
       "name": "Vanilluxe - 113/086",
       "set_id": 5500153,
@@ -5053,6 +5857,30 @@
       "market_price_usd": 38.99,
       "market_price_as_of": "2026-10-14",
       "total_listings": 256
+    },
+    {
+      "card_id": 16992,
+      "name": "Poke Maniac (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "236/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.98,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 18
+    },
+    {
+      "card_id": 19565,
+      "name": "Muk & Alolan Muk GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "220/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.92,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 24
     },
     {
       "card_id": 13991,
@@ -5439,6 +6267,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 19480,
+      "name": "Koga's Trap (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "211/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.36,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 21
+    },
+    {
       "card_id": 6038,
       "name": "Flareon V - SWSH149",
       "set_id": 5500194,
@@ -5487,6 +6327,18 @@
       "total_listings": 63
     },
     {
+      "card_id": 19341,
+      "name": "Cleffa",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "131/214",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.8,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 151
+    },
+    {
       "card_id": 21367,
       "name": "Hisuian Sneasler V (Alternate Full Art)",
       "set_id": 5500099,
@@ -5497,6 +6349,18 @@
       "market_price_usd": 35.69,
       "market_price_as_of": "2026-10-17",
       "total_listings": 69
+    },
+    {
+      "card_id": 19437,
+      "name": "Greninja",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "117/214",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.66,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 60
     },
     {
       "card_id": 18181,
@@ -5919,6 +6783,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 19552,
+      "name": "Dedenne GX (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "195/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.91,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 26
+    },
+    {
       "card_id": 14023,
       "name": "Blastoise VMAX - SWSH103",
       "set_id": 5500149,
@@ -5977,6 +6853,18 @@
       "market_price_usd": 32.52,
       "market_price_as_of": "2026-10-09",
       "total_listings": 108
+    },
+    {
+      "card_id": 19425,
+      "name": "Marshadow & Machamp GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "82/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.39,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 76
     },
     {
       "card_id": 15901,
@@ -6135,6 +7023,18 @@
       "total_listings": 198
     },
     {
+      "card_id": 19417,
+      "name": "Lucario & Melmetal GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "120/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.59,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 64
+    },
+    {
       "card_id": 15756,
       "name": "Sudowoodo - 219/193",
       "set_id": 5500150,
@@ -6207,6 +7107,18 @@
       "total_listings": 232
     },
     {
+      "card_id": 19538,
+      "name": "Muk & Alolan Muk GX (196) (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "196/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.15,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 31
+    },
+    {
       "card_id": 18996,
       "name": "Blaziken VMAX (Secret)",
       "set_id": 5500170,
@@ -6277,6 +7189,18 @@
       "market_price_usd": 30.83,
       "market_price_as_of": "2026-10-15",
       "total_listings": 18
+    },
+    {
+      "card_id": 17005,
+      "name": "Rowlet & Alolan Exeggutor GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "214/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.77,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 20
     },
     {
       "card_id": 14200,
@@ -6663,6 +7587,18 @@
       "total_listings": 66
     },
     {
+      "card_id": 22344,
+      "name": "Ampharos GX (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "163/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.91,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 11
+    },
+    {
       "card_id": 17663,
       "name": "Umbreon VMAX",
       "set_id": 5500048,
@@ -7035,6 +7971,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 16768,
+      "name": "Dwebble",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "10/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.72,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 226
+    },
+    {
       "card_id": 13996,
       "name": "Gengar - SWSH241 (Prerelease)",
       "set_id": 5500149,
@@ -7045,6 +7993,18 @@
       "market_price_usd": 27.71,
       "market_price_as_of": "2026-10-21",
       "total_listings": 117
+    },
+    {
+      "card_id": 22207,
+      "name": "Shaymin Prism Star",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "10/181",
+      "rarity": "Prism Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.69,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 49
     },
     {
       "card_id": 100009843,
@@ -7071,6 +8031,18 @@
       "total_listings": 87
     },
     {
+      "card_id": 16985,
+      "name": "Latios GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "223/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.55,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 56
+    },
+    {
       "card_id": 38834,
       "name": "Eevee - 12/12",
       "set_id": 5500203,
@@ -7093,6 +8065,30 @@
       "market_price_usd": 27.51,
       "market_price_as_of": "2026-10-09",
       "total_listings": 34
+    },
+    {
+      "card_id": 16955,
+      "name": "Mawile GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "246/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.49,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 5
+    },
+    {
+      "card_id": 19500,
+      "name": "Whimsicott GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "226/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.49,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 8
     },
     {
       "card_id": 18040,
@@ -7225,6 +8221,18 @@
       "market_price_usd": 27.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 17
+    },
+    {
+      "card_id": 22224,
+      "name": "Lugia",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "131/181",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.96,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 46
     },
     {
       "card_id": 36098,
@@ -7455,6 +8463,18 @@
       "total_listings": 121
     },
     {
+      "card_id": 22369,
+      "name": "Incineroar GX (Secret)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "188/181",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.33,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 14
+    },
+    {
       "card_id": 23993,
       "name": "Hop's Zacian ex - 186/159",
       "set_id": 5500077,
@@ -7537,6 +8557,18 @@
       "market_price_usd": 25.96,
       "market_price_as_of": "2026-10-09",
       "total_listings": 94
+    },
+    {
+      "card_id": 38814,
+      "name": "Cubone - 7/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "007/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.96,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 38
     },
     {
       "card_id": 13665,
@@ -7669,6 +8701,18 @@
       "market_price_usd": 25.4,
       "market_price_as_of": "2026-10-10",
       "total_listings": 53
+    },
+    {
+      "card_id": 19370,
+      "name": "Mew",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "76/214",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.37,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 86
     },
     {
       "card_id": 38222,
@@ -7851,6 +8895,18 @@
       "total_listings": 373
     },
     {
+      "card_id": 19567,
+      "name": "Pheromosa & Buzzwole GX (191) (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "191/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.8,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 26
+    },
+    {
       "card_id": 14297,
       "name": "Terrakion - 135/086",
       "set_id": 5500153,
@@ -7945,6 +9001,18 @@
       "market_price_usd": 24.46,
       "market_price_as_of": "2026-10-09",
       "total_listings": 197
+    },
+    {
+      "card_id": 19387,
+      "name": "Muk & Alolan Muk GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "61/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.45,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 58
     },
     {
       "card_id": 16002,
@@ -8067,6 +9135,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 22227,
+      "name": "Blastoise",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "25/181",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.01,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 114
+    },
+    {
       "card_id": 2153334,
       "name": "Mega Floette ex - 117/086",
       "set_id": 5500213,
@@ -8175,6 +9255,18 @@
       "total_listings": 136
     },
     {
+      "card_id": 38811,
+      "name": "Growlithe - 1/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "001/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.59,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 55
+    },
+    {
       "card_id": 18637,
       "name": "Misty's Lapras - 194/182",
       "set_id": 5500009,
@@ -8211,6 +9303,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 16801,
+      "name": "Lucario",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "117/236",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.42,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 104
+    },
+    {
       "card_id": 13441,
       "name": "Sandy Shocks ex - 159/131",
       "set_id": 5500017,
@@ -8233,6 +9337,18 @@
       "market_price_usd": 23.38,
       "market_price_as_of": "2026-10-09",
       "total_listings": 45
+    },
+    {
+      "card_id": 17002,
+      "name": "Keldeo GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "240/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.36,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 7
     },
     {
       "card_id": 36102,
@@ -8607,6 +9723,18 @@
       "total_listings": 87
     },
     {
+      "card_id": 16810,
+      "name": "Rowlet & Alolan Exeggutor GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "1/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.27,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 62
+    },
+    {
       "card_id": 16069,
       "name": "Magby - 186/182",
       "set_id": 5500212,
@@ -8665,6 +9793,18 @@
       "market_price_usd": 22.01,
       "market_price_as_of": "2026-10-16",
       "total_listings": 88
+    },
+    {
+      "card_id": 16983,
+      "name": "Aerodactyl GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "244/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.99,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 24
     },
     {
       "card_id": 5582,
@@ -8869,6 +10009,18 @@
       "market_price_usd": 21.49,
       "market_price_as_of": "2026-10-14",
       "total_listings": 253
+    },
+    {
+      "card_id": 19542,
+      "name": "Janine (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "210/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.48,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 47
     },
     {
       "card_id": 16686,
@@ -9207,6 +10359,30 @@
       "total_listings": 139
     },
     {
+      "card_id": 16772,
+      "name": "Munchlax",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "173/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.8,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 195
+    },
+    {
+      "card_id": 19562,
+      "name": "Persian GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "227/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.78,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 10
+    },
+    {
       "card_id": 17811,
       "name": "Flareon V (Full Art)",
       "set_id": 5500048,
@@ -9447,6 +10623,30 @@
       "total_listings": 222
     },
     {
+      "card_id": 22345,
+      "name": "Hoopa GX (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "166/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.22,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 34
+    },
+    {
+      "card_id": 19335,
+      "name": "Surprise Box",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "187/214",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.17,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 235
+    },
+    {
       "card_id": 17674,
       "name": "Sylveon VMAX",
       "set_id": 5500048,
@@ -9493,6 +10693,18 @@
       "market_price_usd": 20.11,
       "market_price_as_of": "2026-10-14",
       "total_listings": 145
+    },
+    {
+      "card_id": 19564,
+      "name": "Venomoth GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "216/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.11,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 19
     },
     {
       "card_id": 37639,
@@ -9831,6 +11043,18 @@
       "total_listings": 431
     },
     {
+      "card_id": 19392,
+      "name": "Blastoise GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "35/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.62,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 80
+    },
+    {
       "card_id": 2133568,
       "name": "Bulbasaur - 037",
       "set_id": 5500111,
@@ -9841,6 +11065,18 @@
       "market_price_usd": 19.62,
       "market_price_as_of": "2026-10-09",
       "total_listings": 359
+    },
+    {
+      "card_id": 16773,
+      "name": "Munna",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "88/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.58,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 178
     },
     {
       "card_id": 17515,
@@ -10179,6 +11415,18 @@
       "total_listings": 120
     },
     {
+      "card_id": 22383,
+      "name": "Cobalion GX (Secret)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "189/181",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.78,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 17
+    },
+    {
       "card_id": 16301,
       "name": "Miriam - 251/198",
       "set_id": 5500032,
@@ -10407,6 +11655,18 @@
       "total_listings": 70
     },
     {
+      "card_id": 16848,
+      "name": "Dragonite GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "152/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.22,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 58
+    },
+    {
       "card_id": 36742,
       "name": "Zamazenta V",
       "set_id": 5500218,
@@ -10465,6 +11725,18 @@
       "market_price_usd": 18.14,
       "market_price_as_of": "2026-10-09",
       "total_listings": 46
+    },
+    {
+      "card_id": 19367,
+      "name": "Dedenne GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "57/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.13,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 70
     },
     {
       "card_id": 36049,
@@ -10599,6 +11871,30 @@
       "total_listings": 147
     },
     {
+      "card_id": 16766,
+      "name": "Pikachu (56)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "56/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.8,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 254
+    },
+    {
+      "card_id": 22182,
+      "name": "Psyduck",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "26/181",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.79,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 183
+    },
+    {
       "card_id": 20751,
       "name": "Snom - 168/162",
       "set_id": 5500066,
@@ -10609,6 +11905,18 @@
       "market_price_usd": 17.72,
       "market_price_as_of": "2026-10-12",
       "total_listings": 141
+    },
+    {
+      "card_id": 22193,
+      "name": "Mimikyu",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "112/181",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.7,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 120
     },
     {
       "card_id": 2299721,
@@ -10671,6 +11979,18 @@
       "total_listings": 349
     },
     {
+      "card_id": 22239,
+      "name": "Alolan Ninetales",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "111/181",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.6,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 75
+    },
+    {
       "card_id": 30168,
       "name": "Munkidori ex - 091/064",
       "set_id": 5500139,
@@ -10681,6 +12001,18 @@
       "market_price_usd": 17.6,
       "market_price_as_of": "2026-10-11",
       "total_listings": 117
+    },
+    {
+      "card_id": 22203,
+      "name": "Farfetch'd",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "127/181",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.58,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 179
     },
     {
       "card_id": 38136,
@@ -10837,6 +12169,18 @@
       "market_price_usd": 17.4,
       "market_price_as_of": "2026-10-16",
       "total_listings": 150
+    },
+    {
+      "card_id": 16947,
+      "name": "U-Turn Board (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "255/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.38,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 27
     },
     {
       "card_id": 30152,
@@ -11497,6 +12841,18 @@
       "market_price_usd": 16.39,
       "market_price_as_of": "2026-10-08",
       "total_listings": 133
+    },
+    {
+      "card_id": 19342,
+      "name": "Meowth",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "147/214",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.37,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 224
     },
     {
       "card_id": 13664,
@@ -12207,6 +13563,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 16915,
+      "name": "Coach Trainer (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "233/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.42,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 35
+    },
+    {
       "card_id": 20776,
       "name": "Salvatore - 212/162",
       "set_id": 5500066,
@@ -12277,6 +13645,18 @@
       "market_price_usd": 15.34,
       "market_price_as_of": "2026-10-09",
       "total_listings": 127
+    },
+    {
+      "card_id": 16932,
+      "name": "Channeler (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "232/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.34,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 26
     },
     {
       "card_id": 13799,
@@ -12783,6 +14163,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 22352,
+      "name": "Nanu (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "179/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.68,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 28
+    },
+    {
       "card_id": 21003,
       "name": "Frosmoth (Secret)",
       "set_id": 5500094,
@@ -12867,6 +14259,30 @@
       "total_listings": 184
     },
     {
+      "card_id": 16919,
+      "name": "Cherish Ball (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "250/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.57,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 56
+    },
+    {
+      "card_id": 38815,
+      "name": "Horsea - 3/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "003/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.57,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 78
+    },
+    {
       "card_id": 15706,
       "name": "Tropius - 195/193",
       "set_id": 5500150,
@@ -12925,6 +14341,18 @@
       "market_price_usd": 14.47,
       "market_price_as_of": "2026-10-09",
       "total_listings": 16
+    },
+    {
+      "card_id": 16996,
+      "name": "Reset Stamp (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "253/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.47,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 11
     },
     {
       "card_id": 37654,
@@ -13021,6 +14449,18 @@
       "market_price_usd": 14.37,
       "market_price_as_of": "2026-10-12",
       "total_listings": 97
+    },
+    {
+      "card_id": 22185,
+      "name": "Squirtle (22)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "22/181",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.36,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 207
     },
     {
       "card_id": 23551,
@@ -13203,6 +14643,18 @@
       "total_listings": 138
     },
     {
+      "card_id": 19349,
+      "name": "Pyukumuku",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "53/214",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.1,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 142
+    },
+    {
       "card_id": 21833,
       "name": "Giovanni's Charisma - 204/165",
       "set_id": 5500171,
@@ -13263,6 +14715,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 16826,
+      "name": "Jirachi GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "79/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.07,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 47
+    },
+    {
       "card_id": 18239,
       "name": "Charizard ex - 056",
       "set_id": 5500070,
@@ -13273,6 +14737,18 @@
       "market_price_usd": 14.06,
       "market_price_as_of": "2026-10-14",
       "total_listings": 306
+    },
+    {
+      "card_id": 37759,
+      "name": "Charizard",
+      "set_id": 5500068,
+      "set_name": "Detective Pikachu",
+      "number": "5/18",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.06,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 148
     },
     {
       "card_id": 13896,
@@ -13383,6 +14859,30 @@
       "total_listings": 114
     },
     {
+      "card_id": 19401,
+      "name": "Pheromosa & Buzzwole GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "1/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.9,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 69
+    },
+    {
+      "card_id": 22271,
+      "name": "Jirachi",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "99/181",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.9,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 11
+    },
+    {
       "card_id": 22954,
       "name": "Ultra Ball (Secret)",
       "set_id": 5500201,
@@ -13429,6 +14929,18 @@
       "market_price_usd": 13.83,
       "market_price_as_of": "2026-10-09",
       "total_listings": 36
+    },
+    {
+      "card_id": 37758,
+      "name": "Detective Pikachu",
+      "set_id": 5500068,
+      "set_name": "Detective Pikachu",
+      "number": "10/18",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.81,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 145
     },
     {
       "card_id": 31443,
@@ -13501,6 +15013,18 @@
       "market_price_usd": 13.66,
       "market_price_as_of": "2026-10-21",
       "total_listings": 63
+    },
+    {
+      "card_id": 38809,
+      "name": "Porygon - 12/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "012/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.66,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 66
     },
     {
       "card_id": 17149,
@@ -13947,6 +15471,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 16794,
+      "name": "Dragonite",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "151/236",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.16,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 80
+    },
+    {
       "card_id": 14527,
       "name": "Pignite (Master Ball Pattern)",
       "set_id": 5500153,
@@ -13980,6 +15516,18 @@
       "printing": "Holofoil",
       "market_price_usd": 13.08,
       "market_price_as_of": "2026-10-09",
+      "total_listings": 114
+    },
+    {
+      "card_id": 19371,
+      "name": "Wigglytuff",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "135/214",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.08,
+      "market_price_as_of": "2026-10-22",
       "total_listings": 114
     },
     {
@@ -14029,6 +15577,18 @@
       "market_price_usd": 13.06,
       "market_price_as_of": "2026-10-09",
       "total_listings": 6
+    },
+    {
+      "card_id": 16816,
+      "name": "Latios GX",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "78/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.06,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 53
     },
     {
       "card_id": 2119485,
@@ -14101,6 +15661,18 @@
       "market_price_usd": 13.0,
       "market_price_as_of": "2026-10-20",
       "total_listings": 90
+    },
+    {
+      "card_id": 19536,
+      "name": "Whimsicott GX (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "206/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.0,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 21
     },
     {
       "card_id": 16504,
@@ -14559,6 +16131,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 16920,
+      "name": "Keldeo GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "219/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.53,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 28
+    },
+    {
       "card_id": 17476,
       "name": "Morpeko V (Full Art)",
       "set_id": 5500025,
@@ -14619,6 +16203,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 37767,
+      "name": "Ditto",
+      "set_id": 5500068,
+      "set_name": "Detective Pikachu",
+      "number": "17/18",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.5,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 107
+    },
+    {
       "card_id": 25239,
       "name": "Terapagos ex - 173/142",
       "set_id": 5500045,
@@ -14653,6 +16249,18 @@
       "market_price_usd": 12.45,
       "market_price_as_of": "2026-10-09",
       "total_listings": 141
+    },
+    {
+      "card_id": 16791,
+      "name": "Lapras",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "36/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.45,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 72
     },
     {
       "card_id": 23308,
@@ -14713,6 +16321,18 @@
       "market_price_usd": 12.42,
       "market_price_as_of": "2026-10-09",
       "total_listings": 35
+    },
+    {
+      "card_id": 16954,
+      "name": "Mawile GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "227/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.42,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 19
     },
     {
       "card_id": 15945,
@@ -14821,6 +16441,18 @@
       "market_price_usd": 12.32,
       "market_price_as_of": "2026-10-20",
       "total_listings": 42
+    },
+    {
+      "card_id": 38816,
+      "name": "Machop - 6/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "006/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.29,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 73
     },
     {
       "card_id": 13634,
@@ -15003,6 +16635,18 @@
       "total_listings": 209
     },
     {
+      "card_id": 38813,
+      "name": "Magnemite - 8/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "008/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.15,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 75
+    },
+    {
       "card_id": 36723,
       "name": "Miltank",
       "set_id": 5500218,
@@ -15181,6 +16825,18 @@
       "market_price_usd": 11.99,
       "market_price_as_of": "2026-10-12",
       "total_listings": 137
+    },
+    {
+      "card_id": 16966,
+      "name": "Naganadel GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "249/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.99,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 12
     },
     {
       "card_id": 13815,
@@ -15447,6 +17103,18 @@
       "total_listings": 99
     },
     {
+      "card_id": 16941,
+      "name": "Recycle Energy (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "257/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.75,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 29
+    },
+    {
       "card_id": 20213,
       "name": "Dragapult ex - 200/167",
       "set_id": 5500051,
@@ -15613,6 +17281,18 @@
       "market_price_usd": 11.66,
       "market_price_as_of": "2026-10-21",
       "total_listings": 36
+    },
+    {
+      "card_id": 37764,
+      "name": "Mewtwo",
+      "set_id": 5500068,
+      "set_name": "Detective Pikachu",
+      "number": "12/18",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.66,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 140
     },
     {
       "card_id": 14529,
@@ -15891,6 +17571,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 16808,
+      "name": "Relicanth",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "111/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.48,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 89
+    },
+    {
       "card_id": 17444,
       "name": "Air Balloon (Secret)",
       "set_id": 5500025,
@@ -15999,6 +17691,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 22306,
+      "name": "Pokemon Communication (Secret)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "196/181",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.39,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 52
+    },
+    {
       "card_id": 13886,
       "name": "Charizard V - SWSH050",
       "set_id": 5500149,
@@ -16071,6 +17775,18 @@
       "total_listings": 153
     },
     {
+      "card_id": 16998,
+      "name": "Grimsley (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "234/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.34,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 50
+    },
+    {
       "card_id": 13947,
       "name": "Boss's Orders (Full Art)",
       "set_id": 5500149,
@@ -16119,6 +17835,18 @@
       "total_listings": 241
     },
     {
+      "card_id": 22230,
+      "name": "Gyarados",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "30/181",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.28,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 90
+    },
+    {
       "card_id": 30122,
       "name": "Fezandipiti ex - 084/064",
       "set_id": 5500139,
@@ -16153,6 +17881,18 @@
       "market_price_usd": 11.23,
       "market_price_as_of": "2026-10-21",
       "total_listings": 140
+    },
+    {
+      "card_id": 19545,
+      "name": "Honchkrow GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "223/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.23,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 22
     },
     {
       "card_id": 23302,
@@ -16923,6 +18663,18 @@
       "total_listings": 368
     },
     {
+      "card_id": 16956,
+      "name": "Heatran GX (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "238/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.57,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 22
+    },
+    {
       "card_id": 24132,
       "name": "Rayquaza VMAX (101)",
       "set_id": 5500217,
@@ -17355,6 +19107,18 @@
       "total_listings": 112
     },
     {
+      "card_id": 16976,
+      "name": "Naganadel GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "230/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.21,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 12
+    },
+    {
       "card_id": 15578,
       "name": "Boss's Orders - 248/193",
       "set_id": 5500150,
@@ -17463,6 +19227,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 16819,
+      "name": "Whimsicott",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "144/236",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.1,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 96
+    },
+    {
       "card_id": 15595,
       "name": "Basic Grass Energy - 278/193",
       "set_id": 5500150,
@@ -17499,6 +19275,30 @@
       "total_listings": 60
     },
     {
+      "card_id": 16774,
+      "name": "Dedenne",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "145/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.05,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 102
+    },
+    {
+      "card_id": 19533,
+      "name": "Celesteela GX (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "228/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.05,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 25
+    },
+    {
       "card_id": 14495,
       "name": "Vanillish (Master Ball Pattern)",
       "set_id": 5500153,
@@ -17533,6 +19333,18 @@
       "market_price_usd": 10.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 127
+    },
+    {
+      "card_id": 22371,
+      "name": "Incineroar GX (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "167/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.01,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 15
     },
     {
       "card_id": 2299646,
@@ -17691,6 +19503,18 @@
       "total_listings": 144
     },
     {
+      "card_id": 22262,
+      "name": "Ampharos GX",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "43/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.88,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 75
+    },
+    {
       "card_id": 16473,
       "name": "Rowlet - 17/236",
       "set_id": 5500206,
@@ -17701,6 +19525,18 @@
       "market_price_usd": 9.85,
       "market_price_as_of": "2026-10-21",
       "total_listings": 139
+    },
+    {
+      "card_id": 22186,
+      "name": "Squirtle (23)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "23/181",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.84,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 236
     },
     {
       "card_id": 15737,
@@ -17871,6 +19707,18 @@
       "total_listings": 299
     },
     {
+      "card_id": 22241,
+      "name": "Lapras",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "31/181",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.71,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 136
+    },
+    {
       "card_id": 14181,
       "name": "Arctozolt - SWSH036 (Prerelease)",
       "set_id": 5500149,
@@ -17881,6 +19729,18 @@
       "market_price_usd": 9.7,
       "market_price_as_of": "2026-10-21",
       "total_listings": 33
+    },
+    {
+      "card_id": 16770,
+      "name": "Misty's Favor",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "202/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.7,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 164
     },
     {
       "card_id": 18023,
@@ -18387,6 +20247,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 22217,
+      "name": "Dragonite",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "119/181",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.41,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 74
+    },
+    {
       "card_id": 14535,
       "name": "Swanna (Master Ball Pattern)",
       "set_id": 5500153,
@@ -18421,6 +20293,18 @@
       "market_price_usd": 9.39,
       "market_price_as_of": "2026-10-15",
       "total_listings": 9
+    },
+    {
+      "card_id": 22198,
+      "name": "Tapu Koko Prism Star",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "51/181",
+      "rarity": "Prism Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.38,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 66
     },
     {
       "card_id": 13604,
@@ -18709,6 +20593,18 @@
       "market_price_usd": 9.12,
       "market_price_as_of": "2026-10-18",
       "total_listings": 55
+    },
+    {
+      "card_id": 37760,
+      "name": "Greninja",
+      "set_id": 5500068,
+      "set_name": "Detective Pikachu",
+      "number": "9/18",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.12,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 156
     },
     {
       "card_id": 16044,
@@ -19479,6 +21375,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 19334,
+      "name": "Oddish (6)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "6/214",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.6,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 140
+    },
+    {
       "card_id": 21370,
       "name": "Hisuian Samurott VSTAR (Secret) (209)",
       "set_id": 5500099,
@@ -19875,6 +21783,18 @@
       "total_listings": 132
     },
     {
+      "card_id": 19336,
+      "name": "Pikachu",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "54/214",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.36,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 157
+    },
+    {
       "card_id": 35177,
       "name": "Wartortle",
       "set_id": 5500053,
@@ -19969,6 +21889,18 @@
       "market_price_usd": 8.32,
       "market_price_as_of": "2026-10-10",
       "total_listings": 90
+    },
+    {
+      "card_id": 19355,
+      "name": "Mewtwo",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "75/214",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.32,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 124
     },
     {
       "card_id": 21396,
@@ -20151,6 +22083,18 @@
       "total_listings": 398
     },
     {
+      "card_id": 19561,
+      "name": "Fire Crystal (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "231/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.21,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 66
+    },
+    {
       "card_id": 17974,
       "name": "Latias ex - 220/191",
       "set_id": 5500180,
@@ -20161,6 +22105,18 @@
       "market_price_usd": 8.2,
       "market_price_as_of": "2026-10-10",
       "total_listings": 401
+    },
+    {
+      "card_id": 38817,
+      "name": "Chansey - 10/12",
+      "set_id": 5500193,
+      "set_name": "McDonald's Promos 2018",
+      "number": "010/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.19,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 52
     },
     {
       "card_id": 5759,
@@ -20185,6 +22141,18 @@
       "market_price_usd": 8.18,
       "market_price_as_of": "2026-10-10",
       "total_listings": 94
+    },
+    {
+      "card_id": 22210,
+      "name": "Magikarp",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "29/181",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.18,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 305
     },
     {
       "card_id": 17217,
@@ -20343,6 +22311,18 @@
       "total_listings": 95
     },
     {
+      "card_id": 17015,
+      "name": "Weakness Guard Energy (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "258/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.09,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 47
+    },
+    {
       "card_id": 20886,
       "name": "Iron Boulder ex - 217/162",
       "set_id": 5500066,
@@ -20413,6 +22393,18 @@
       "market_price_usd": 8.06,
       "market_price_as_of": "2026-10-20",
       "total_listings": 75
+    },
+    {
+      "card_id": 16775,
+      "name": "Gible",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "112/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.05,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 161
     },
     {
       "card_id": 37839,
@@ -20691,6 +22683,18 @@
       "total_listings": 195
     },
     {
+      "card_id": 16960,
+      "name": "Aerodactyl GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "224/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.91,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 14
+    },
+    {
       "card_id": 13415,
       "name": "Pupitar (Master Ball Pattern)",
       "set_id": 5500017,
@@ -20811,6 +22815,30 @@
       "total_listings": 304
     },
     {
+      "card_id": 22249,
+      "name": "Ninetales",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "16/181",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.81,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 90
+    },
+    {
+      "card_id": 22364,
+      "name": "Cobalion GX (Full Art)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "168/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.8,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 41
+    },
+    {
       "card_id": 21289,
       "name": "Irida (Full Art)",
       "set_id": 5500099,
@@ -20833,6 +22861,18 @@
       "market_price_usd": 7.78,
       "market_price_as_of": "2026-10-14",
       "total_listings": 26
+    },
+    {
+      "card_id": 22245,
+      "name": "Alolan Marowak",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "64/181",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.78,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 71
     },
     {
       "card_id": 15726,
@@ -20869,6 +22909,18 @@
       "market_price_usd": 7.75,
       "market_price_as_of": "2026-10-20",
       "total_listings": 73
+    },
+    {
+      "card_id": 19391,
+      "name": "Stakataka",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "106/214",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.75,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 85
     },
     {
       "card_id": 21138,
@@ -21231,6 +23283,18 @@
       "total_listings": 156
     },
     {
+      "card_id": 17001,
+      "name": "Tag Switch (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "254/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.56,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 66
+    },
+    {
       "card_id": 36738,
       "name": "Hatterene VMAX",
       "set_id": 5500218,
@@ -21421,6 +23485,18 @@
       "market_price_usd": 7.47,
       "market_price_as_of": "2026-10-10",
       "total_listings": 270
+    },
+    {
+      "card_id": 19337,
+      "name": "Happiny",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "161/214",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.45,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 161
     },
     {
       "card_id": 24071,
@@ -21663,6 +23739,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 19543,
+      "name": "Persian GX (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "207/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.31,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 42
+    },
+    {
       "card_id": 21381,
       "name": "Heatran VMAX (Secret)",
       "set_id": 5500099,
@@ -21759,6 +23847,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 19518,
+      "name": "Venomoth GX (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "193/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.23,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 16
+    },
+    {
       "card_id": 35163,
       "name": "Ivysaur",
       "set_id": 5500053,
@@ -21831,6 +23931,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 16813,
+      "name": "Alolan Raichu",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "57/236",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.21,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 89
+    },
+    {
       "card_id": 22429,
       "name": "Charizard V",
       "set_id": 5500107,
@@ -21841,6 +23953,18 @@
       "market_price_usd": 7.21,
       "market_price_as_of": "2026-10-20",
       "total_listings": 214
+    },
+    {
+      "card_id": 22187,
+      "name": "Pancham",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "81/181",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.2,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 173
     },
     {
       "card_id": 15707,
@@ -21975,6 +24099,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 22376,
+      "name": "Judge Whistle (Secret)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "194/181",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.12,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 48
+    },
+    {
       "card_id": 37837,
       "name": "Alakazam - 009",
       "set_id": 5500111,
@@ -22081,6 +24217,18 @@
       "market_price_usd": 7.05,
       "market_price_as_of": "2026-10-15",
       "total_listings": 368
+    },
+    {
+      "card_id": 19361,
+      "name": "Blacephalon",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "32/214",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.04,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 131
     },
     {
       "card_id": 6042,
@@ -22273,6 +24421,30 @@
       "market_price_usd": 6.91,
       "market_price_as_of": "2026-10-09",
       "total_listings": 491
+    },
+    {
+      "card_id": 16771,
+      "name": "U-Turn Board",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "211/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.89,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 146
+    },
+    {
+      "card_id": 22280,
+      "name": "Tyranitar",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "85/181",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.88,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 75
     },
     {
       "card_id": 38174,
@@ -22527,6 +24699,18 @@
       "total_listings": 166
     },
     {
+      "card_id": 19514,
+      "name": "Celesteela GX (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "208/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.73,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 22
+    },
+    {
       "card_id": 31426,
       "name": "Rotom",
       "set_id": 5500042,
@@ -22633,6 +24817,18 @@
       "market_price_usd": 6.68,
       "market_price_as_of": "2026-10-19",
       "total_listings": 120
+    },
+    {
+      "card_id": 22188,
+      "name": "Charmander (12)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "12/181",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.68,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 202
     },
     {
       "card_id": 17290,
@@ -23187,6 +25383,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 19405,
+      "name": "Arcanine",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "22/214",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.43,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 83
+    },
+    {
       "card_id": 22522,
       "name": "Centiskorch VMAX (Secret)",
       "set_id": 5500107,
@@ -23269,6 +25477,54 @@
       "market_price_usd": 6.39,
       "market_price_as_of": "2026-10-15",
       "total_listings": 35
+    },
+    {
+      "card_id": 16776,
+      "name": "Wynaut",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "77/236",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.38,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 126
+    },
+    {
+      "card_id": 19431,
+      "name": "Venomoth GX",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "12/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.38,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 57
+    },
+    {
+      "card_id": 19522,
+      "name": "Triple Acceleration Energy (Secret)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "234/214",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.38,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 36
+    },
+    {
+      "card_id": 19554,
+      "name": "Molayne (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "212/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.38,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 71
     },
     {
       "card_id": 22427,
@@ -23631,6 +25887,18 @@
       "total_listings": 165
     },
     {
+      "card_id": 16818,
+      "name": "Honchkrow",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "130/236",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.18,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 60
+    },
+    {
       "card_id": 100018067,
       "name": "Misty",
       "set_id": 5500238,
@@ -23665,6 +25933,18 @@
       "market_price_usd": 6.17,
       "market_price_as_of": "2026-10-21",
       "total_listings": 43
+    },
+    {
+      "card_id": 16767,
+      "name": "Pikachu (55)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "55/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.17,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 223
     },
     {
       "card_id": 18982,
@@ -23775,6 +26055,18 @@
       "total_listings": 271
     },
     {
+      "card_id": 16828,
+      "name": "Celebi",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "4/236",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.14,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 27
+    },
+    {
       "card_id": 31454,
       "name": "Toxel",
       "set_id": 5500042,
@@ -23833,6 +26125,18 @@
       "market_price_usd": 6.11,
       "market_price_as_of": "2026-10-21",
       "total_listings": 32
+    },
+    {
+      "card_id": 19372,
+      "name": "Sharpedo",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "111/214",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.11,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 82
     },
     {
       "card_id": 36083,
@@ -24145,6 +26449,18 @@
       "market_price_usd": 6.0,
       "market_price_as_of": "2026-10-12",
       "total_listings": 202
+    },
+    {
+      "card_id": 19354,
+      "name": "Haunter",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "69/214",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.0,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 279
     },
     {
       "card_id": 21854,
@@ -24771,6 +27087,18 @@
       "total_listings": 103
     },
     {
+      "card_id": 22197,
+      "name": "Alolan Geodude (35)",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "35/181",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.75,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 109
+    },
+    {
       "card_id": 13433,
       "name": "Fezandipiti (Master Ball Pattern)",
       "set_id": 5500017,
@@ -24793,6 +27121,18 @@
       "market_price_usd": 5.74,
       "market_price_as_of": "2026-10-21",
       "total_listings": 40
+    },
+    {
+      "card_id": 16777,
+      "name": "Cottonee",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "143/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.74,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 124
     },
     {
       "card_id": 18301,
@@ -24853,6 +27193,18 @@
       "market_price_usd": 5.73,
       "market_price_as_of": "2026-10-09",
       "total_listings": 149
+    },
+    {
+      "card_id": 16806,
+      "name": "Drifblim",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "81/236",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.73,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 48
     },
     {
       "card_id": 21546,
@@ -25057,6 +27409,18 @@
       "market_price_usd": 5.66,
       "market_price_as_of": "2026-10-21",
       "total_listings": 40
+    },
+    {
+      "card_id": 19353,
+      "name": "Togetic",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "137/214",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.66,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 98
     },
     {
       "card_id": 15119,
@@ -25299,6 +27663,18 @@
       "total_listings": 549
     },
     {
+      "card_id": 22301,
+      "name": "Absol",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "88/181",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.55,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 79
+    },
+    {
       "card_id": 22435,
       "name": "Butterfree VMAX",
       "set_id": 5500107,
@@ -25513,6 +27889,18 @@
       "market_price_usd": 5.44,
       "market_price_as_of": "2026-10-21",
       "total_listings": 133
+    },
+    {
+      "card_id": 16997,
+      "name": "Giant Bomb (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "251/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.44,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 49
     },
     {
       "card_id": 36027,
@@ -25743,6 +28131,18 @@
       "total_listings": 177
     },
     {
+      "card_id": 17021,
+      "name": "Karate Belt (Secret)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "252/236",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.38,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 56
+    },
+    {
       "card_id": 2153348,
       "name": "Froakie - 088/086",
       "set_id": 5500213,
@@ -25911,6 +28311,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 22304,
+      "name": "Zapdos",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "40/181",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.34,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 133
+    },
+    {
       "card_id": 13912,
       "name": "Eevee - SWSH118",
       "set_id": 5500149,
@@ -26005,6 +28417,18 @@
       "market_price_usd": 5.31,
       "market_price_as_of": "2026-10-18",
       "total_listings": 122
+    },
+    {
+      "card_id": 16973,
+      "name": "Heatran GX (Full Art)",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "216/236",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.3,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 44
     },
     {
       "card_id": 38168,
@@ -26271,6 +28695,18 @@
       "total_listings": 104
     },
     {
+      "card_id": 16769,
+      "name": "Hoothoot",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "165/236",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.23,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 161
+    },
+    {
       "card_id": 18028,
       "name": "Vivillon - 193/191",
       "set_id": 5500180,
@@ -26305,6 +28741,18 @@
       "market_price_usd": 5.22,
       "market_price_as_of": "2026-10-21",
       "total_listings": 69
+    },
+    {
+      "card_id": 22247,
+      "name": "Mr. Mime GX",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "67/181",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.21,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 79
     },
     {
       "card_id": 100018055,
@@ -26353,6 +28801,18 @@
       "market_price_usd": 5.2,
       "market_price_as_of": "2026-10-16",
       "total_listings": 162
+    },
+    {
+      "card_id": 16827,
+      "name": "Kangaskhan",
+      "set_id": 5500211,
+      "set_name": "SM - Unified Minds",
+      "number": "163/236",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.19,
+      "market_price_as_of": "2026-10-21",
+      "total_listings": 94
     },
     {
       "card_id": 18417,
@@ -26619,6 +29079,18 @@
       "total_listings": 88
     },
     {
+      "card_id": 19368,
+      "name": "Purugly",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "160/214",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.09,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 43
+    },
+    {
       "card_id": 38180,
       "name": "Kricketune V",
       "set_id": 5500197,
@@ -26763,6 +29235,18 @@
       "total_listings": 61
     },
     {
+      "card_id": 19524,
+      "name": "Honchkrow GX (Full Art)",
+      "set_id": 5500191,
+      "set_name": "SM - Unbroken Bonds",
+      "number": "202/214",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.03,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 20
+    },
+    {
       "card_id": 38147,
       "name": "Single Strike Urshifu V",
       "set_id": 5500144,
@@ -26857,6 +29341,18 @@
       "market_price_usd": 5.01,
       "market_price_as_of": "2026-10-19",
       "total_listings": 101
+    },
+    {
+      "card_id": 22212,
+      "name": "Hitmonchan",
+      "set_id": 5500079,
+      "set_name": "SM - Team Up",
+      "number": "74/181",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 127
     },
     {
       "card_id": 6069,
