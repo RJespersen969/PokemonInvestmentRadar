@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-23T08:06:29.900319+00:00",
-  "status": "api_budget_stop",
+  "generated_at": "2026-10-24T07:58:28.824718+00:00",
+  "status": "completed",
   "currency": "USD",
-  "next_set_index": 84,
-  "next_page": 13,
+  "next_set_index": 89,
+  "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
-  "sets_completed_this_run": 4,
-  "api_calls": 35,
-  "total_candidates": 3049,
-  "cards_with_price_history": 14486,
+  "sets_completed_this_run": 5,
+  "api_calls": 16,
+  "total_candidates": 3340,
+  "cards_with_price_history": 15632,
   "candidates": [
     {
       "card_id": 17849,
@@ -445,6 +445,18 @@
       "market_price_usd": 163.45,
       "market_price_as_of": "2026-10-15",
       "total_listings": 4
+    },
+    {
+      "card_id": 24854,
+      "name": "Lusamine (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "153/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 162.86,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 36
     },
     {
       "card_id": 13462,
@@ -1083,6 +1095,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 26253,
+      "name": "Lucario GX (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "135/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 130.82,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 41
+    },
+    {
       "card_id": 2153371,
       "name": "Mega Greninja ex - 116/086",
       "set_id": 5500213,
@@ -1225,6 +1249,18 @@
       "market_price_usd": 124.98,
       "market_price_as_of": "2026-10-09",
       "total_listings": 8
+    },
+    {
+      "card_id": 26222,
+      "name": "Greninja GX (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "133/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 124.36,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 16
     },
     {
       "card_id": 2153400,
@@ -2223,6 +2259,18 @@
       "total_listings": 50
     },
     {
+      "card_id": 24875,
+      "name": "Leafeon GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "157/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 94.46,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 36
+    },
+    {
       "card_id": 20463,
       "name": "Charizard ex - 223/197",
       "set_id": 5500138,
@@ -2403,6 +2451,18 @@
       "total_listings": 209
     },
     {
+      "card_id": 903,
+      "name": "Rayquaza & Deoxys Legend (90) - 2011 (David Cohen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "90/90",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 90.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
+    },
+    {
       "card_id": 4887,
       "name": "Geodude - 43/83 (Toys R Us Promo)",
       "set_id": 5500123,
@@ -2497,6 +2557,18 @@
       "market_price_usd": 88.83,
       "market_price_as_of": "2026-10-15",
       "total_listings": 7
+    },
+    {
+      "card_id": 24735,
+      "name": "Darkrai Prism Star",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "77/156",
+      "rarity": "Prism Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 88.74,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 54
     },
     {
       "card_id": 16652,
@@ -2713,6 +2785,18 @@
       "market_price_usd": 83.33,
       "market_price_as_of": "2026-10-21",
       "total_listings": 62
+    },
+    {
+      "card_id": 24898,
+      "name": "Glaceon GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "159/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 83.32,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 29
     },
     {
       "card_id": 21878,
@@ -3051,6 +3135,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 26224,
+      "name": "Dialga GX (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "138/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 76.74,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 14
+    },
+    {
       "card_id": 37860,
       "name": "Ceruledge - 014 [Staff]",
       "set_id": 5500111,
@@ -3217,6 +3313,18 @@
       "market_price_usd": 73.91,
       "market_price_as_of": "2026-10-12",
       "total_listings": 122
+    },
+    {
+      "card_id": 24853,
+      "name": "Crushing Hammer (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "166/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 73.87,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 16
     },
     {
       "card_id": 14454,
@@ -3543,6 +3651,30 @@
       "total_listings": 70
     },
     {
+      "card_id": 145,
+      "name": "Tropical Beach - 2011 (Ross Cawthon)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "BW28",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 70.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 0
+    },
+    {
+      "card_id": 947,
+      "name": "Jirachi - 2005 (Michael Gonzalez)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "9/107",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 70.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
+    },
+    {
       "card_id": 14191,
       "name": "Galarian Perrserker - SWSH008 (Prerelease) [Staff]",
       "set_id": 5500149,
@@ -3601,6 +3733,18 @@
       "market_price_usd": 68.5,
       "market_price_as_of": "2026-10-14",
       "total_listings": 226
+    },
+    {
+      "card_id": 713,
+      "name": "Suicune & Entei LEGEND (94) - 2011 (Ross Cawthon)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "94/95",
+      "rarity": "Holo Rare",
+      "printing": "Normal",
+      "market_price_usd": 68.5,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
     },
     {
       "card_id": 5868,
@@ -3709,6 +3853,18 @@
       "market_price_usd": 67.62,
       "market_price_as_of": "2026-10-21",
       "total_listings": 279
+    },
+    {
+      "card_id": 24873,
+      "name": "Lunala GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "172/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 67.61,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 18
     },
     {
       "card_id": 24379,
@@ -3889,6 +4045,18 @@
       "market_price_usd": 65.74,
       "market_price_as_of": "2026-10-21",
       "total_listings": 21
+    },
+    {
+      "card_id": 26257,
+      "name": "Xerneas GX (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "139/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.73,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 25
     },
     {
       "card_id": 36755,
@@ -4155,6 +4323,18 @@
       "total_listings": 87
     },
     {
+      "card_id": 26260,
+      "name": "Zygarde GX (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "136/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 63.26,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 31
+    },
+    {
       "card_id": 5782,
       "name": "Unfair Stamp - 165/167",
       "set_id": 5500194,
@@ -4249,6 +4429,30 @@
       "market_price_usd": 62.78,
       "market_price_as_of": "2026-10-09",
       "total_listings": 96
+    },
+    {
+      "card_id": 24881,
+      "name": "Solgaleo GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "173/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 62.23,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 25
+    },
+    {
+      "card_id": 26211,
+      "name": "Greninja GX (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "120/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 62.19,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 25
     },
     {
       "card_id": 20807,
@@ -4671,6 +4875,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 26143,
+      "name": "Arceus Prism Star",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "96/131",
+      "rarity": "Prism Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 59.09,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 43
+    },
+    {
       "card_id": 18486,
       "name": "Cleffa - 037 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -4719,6 +4935,30 @@
       "total_listings": 9
     },
     {
+      "card_id": 24822,
+      "name": "Gardenia (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "149/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 58.53,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 45
+    },
+    {
+      "card_id": 769,
+      "name": "Suicune & Entei Legend LEGEND (95) - 2011 (Ross Cawthon)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "95/95",
+      "rarity": "Holo Rare",
+      "printing": "Normal",
+      "market_price_usd": 58.5,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
+    },
+    {
       "card_id": 13458,
       "name": "Bloodmoon Ursaluna ex",
       "set_id": 5500017,
@@ -4741,6 +4981,18 @@
       "market_price_usd": 58.3,
       "market_price_as_of": "2026-10-14",
       "total_listings": 22
+    },
+    {
+      "card_id": 26221,
+      "name": "Yveltal GX (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "137/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 58.28,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 26
     },
     {
       "card_id": 30150,
@@ -4791,6 +5043,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 24837,
+      "name": "Mars (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "154/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 57.4,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 54
+    },
+    {
       "card_id": 4880,
       "name": "Rowlet - 013/197 (Cosmos Holo)",
       "set_id": 5500123,
@@ -4825,6 +5089,18 @@
       "market_price_usd": 57.09,
       "market_price_as_of": "2026-10-23",
       "total_listings": 13
+    },
+    {
+      "card_id": 515,
+      "name": "Rayquaza & Deoxys Legend (89) - 2011 (David Cohen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "89/90",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 56.67,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
     },
     {
       "card_id": 16945,
@@ -5101,6 +5377,18 @@
       "market_price_usd": 54.26,
       "market_price_as_of": "2026-10-18",
       "total_listings": 41
+    },
+    {
+      "card_id": 24883,
+      "name": "Palkia GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "165/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.14,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 29
     },
     {
       "card_id": 100018088,
@@ -5943,6 +6231,30 @@
       "total_listings": 5
     },
     {
+      "card_id": 1557,
+      "name": "Oddish - 2004 (Chris Fulop)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "68/101",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 47.79,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 0
+    },
+    {
+      "card_id": 24856,
+      "name": "Glaceon GX (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "141/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.79,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 31
+    },
+    {
       "card_id": 2158855,
       "name": "Mewtwo ex - 157/128",
       "set_id": 5500219,
@@ -6111,6 +6423,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 24836,
+      "name": "Pokemon Fan Club (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "155/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 46.88,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 29
+    },
+    {
       "card_id": 5632,
       "name": "Lugia V - 138/195",
       "set_id": 5500194,
@@ -6157,6 +6481,18 @@
       "market_price_usd": 46.53,
       "market_price_as_of": "2026-10-23",
       "total_listings": 22
+    },
+    {
+      "card_id": 24824,
+      "name": "Leafeon GX (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "139/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 46.28,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 39
     },
     {
       "card_id": 17022,
@@ -6387,6 +6723,18 @@
       "total_listings": 72
     },
     {
+      "card_id": 1961,
+      "name": "Suicune ex - 2004 (Reed Weichler)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "94/95",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 45.37,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
       "card_id": 16023,
       "name": "Plusle - 193/182",
       "set_id": 5500212,
@@ -6459,6 +6807,18 @@
       "total_listings": 91
     },
     {
+      "card_id": 24868,
+      "name": "Lana (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "150/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.22,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 57
+    },
+    {
       "card_id": 19618,
       "name": "Ditto Prism Star",
       "set_id": 5500141,
@@ -6493,6 +6853,18 @@
       "market_price_usd": 45.1,
       "market_price_as_of": "2026-10-15",
       "total_listings": 5
+    },
+    {
+      "card_id": 24866,
+      "name": "Dialga GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "164/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.07,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 22
     },
     {
       "card_id": 7217,
@@ -6531,6 +6903,18 @@
       "total_listings": 308
     },
     {
+      "card_id": 743,
+      "name": "Dragonite FB - 2010 (Yuta Komatsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "56/157",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 45.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
+    },
+    {
       "card_id": 4499,
       "name": "Pikachu - SM86 (General Mills Promo)",
       "set_id": 5500123,
@@ -6541,6 +6925,18 @@
       "market_price_usd": 44.94,
       "market_price_as_of": "2026-10-23",
       "total_listings": 29
+    },
+    {
+      "card_id": 16,
+      "name": "Tropical Beach - 2013 (Clement Lamberton)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "BW50",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 44.93,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 16
     },
     {
       "card_id": 18477,
@@ -6831,6 +7227,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 26250,
+      "name": "Ultra Necrozma GX (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "140/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.12,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 27
+    },
+    {
       "card_id": 15671,
       "name": "Fuecoco - 201/193",
       "set_id": 5500150,
@@ -6889,6 +7297,18 @@
       "market_price_usd": 42.73,
       "market_price_as_of": "2026-10-09",
       "total_listings": 67
+    },
+    {
+      "card_id": 26242,
+      "name": "Palkia GX (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "132/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.72,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 32
     },
     {
       "card_id": 6013,
@@ -6999,6 +7419,18 @@
       "total_listings": 325
     },
     {
+      "card_id": 621,
+      "name": "Lucario GL - 2009 (Tsubasa Nakamura)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "8/111",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 42.14,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
+    },
+    {
       "card_id": 36290,
       "name": "Altaria GX (Secret)",
       "set_id": 5500049,
@@ -7057,6 +7489,18 @@
       "market_price_usd": 41.96,
       "market_price_as_of": "2026-10-21",
       "total_listings": 17
+    },
+    {
+      "card_id": 1478,
+      "name": "Tropical Beach - 2014 (Trent Orndorff)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "BW50",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 41.89,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
     },
     {
       "card_id": 16276,
@@ -7131,6 +7575,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 26119,
+      "name": "Dedenne",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "88/131",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 41.56,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 107
+    },
+    {
       "card_id": 7307,
       "name": "Mega Hawlucha ex - 283/217",
       "set_id": 5500112,
@@ -7177,6 +7633,18 @@
       "market_price_usd": 41.17,
       "market_price_as_of": "2026-10-14",
       "total_listings": 152
+    },
+    {
+      "card_id": 26213,
+      "name": "Diantha (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "130/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.15,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 76
     },
     {
       "card_id": 14891,
@@ -7285,6 +7753,18 @@
       "market_price_usd": 40.44,
       "market_price_as_of": "2026-10-14",
       "total_listings": 6
+    },
+    {
+      "card_id": 13,
+      "name": "Mewtwo & Mew GX - 2019 (Henry Brand)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "71/236",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 40.39,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
     },
     {
       "card_id": 37861,
@@ -7779,6 +8259,18 @@
       "total_listings": 125
     },
     {
+      "card_id": 123,
+      "name": "Rayquaza ex (Delta Species) - 2007 (Tom Roos)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "97/101",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 39.05,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
+    },
+    {
       "card_id": 24433,
       "name": "Copycat (Full Art)",
       "set_id": 5500088,
@@ -7995,6 +8487,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 26205,
+      "name": "Bonnie (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "128/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.42,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 34
+    },
+    {
       "card_id": 24448,
       "name": "Articuno GX (Full Art)",
       "set_id": 5500088,
@@ -8065,6 +8569,18 @@
       "market_price_usd": 38.12,
       "market_price_as_of": "2026-10-12",
       "total_listings": 120
+    },
+    {
+      "card_id": 559,
+      "name": "Tropical Beach - 2013 (Ian Whiton)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "BW50",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 38.12,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 14
     },
     {
       "card_id": 4452,
@@ -8331,6 +8847,18 @@
       "total_listings": 50
     },
     {
+      "card_id": 752,
+      "name": "Deoxys ex - 2006 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "93/106",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 36.76,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
       "card_id": 4030,
       "name": "Pokemon Day 2026 Collection",
       "set_id": 5500123,
@@ -8413,6 +8941,18 @@
       "market_price_usd": 36.2,
       "market_price_as_of": "2026-10-23",
       "total_listings": 17
+    },
+    {
+      "card_id": 26215,
+      "name": "Lucario GX (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "122/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.15,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 16
     },
     {
       "card_id": 546,
@@ -8547,6 +9087,30 @@
       "total_listings": 60
     },
     {
+      "card_id": 26245,
+      "name": "Energy Recycler (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "143/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.64,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 45
+    },
+    {
+      "card_id": 29,
+      "name": "Squirtle - 2006 (Hiroki Yano)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "83/112",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 35.56,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 23
+    },
+    {
       "card_id": 18181,
       "name": "Hydreigon ex - 240/191",
       "set_id": 5500180,
@@ -8557,6 +9121,18 @@
       "market_price_usd": 35.44,
       "market_price_as_of": "2026-10-10",
       "total_listings": 204
+    },
+    {
+      "card_id": 24882,
+      "name": "Xurkitree GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "160/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.4,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 20
     },
     {
       "card_id": 4276,
@@ -8689,6 +9265,42 @@
       "market_price_usd": 34.74,
       "market_price_as_of": "2026-10-10",
       "total_listings": 93
+    },
+    {
+      "card_id": 8133,
+      "name": "Feebas - 2005 (Jeremy Maron)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "61/101",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 34.69,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 0
+    },
+    {
+      "card_id": 26225,
+      "name": "Dialga GX (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "125/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.68,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 34
+    },
+    {
+      "card_id": 1883,
+      "name": "Xerneas EX - 2014 (Michikazu Tsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "97/146",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 34.67,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
     },
     {
       "card_id": 725,
@@ -9159,6 +9771,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 24817,
+      "name": "Volkner (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "156/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.82,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 57
+    },
+    {
       "card_id": 14023,
       "name": "Blastoise VMAX - SWSH103",
       "set_id": 5500149,
@@ -9217,6 +9841,18 @@
       "market_price_usd": 32.52,
       "market_price_as_of": "2026-10-09",
       "total_listings": 108
+    },
+    {
+      "card_id": 38770,
+      "name": "Pikachu - 5/12",
+      "set_id": 5500145,
+      "set_name": "McDonald's Promos 2017",
+      "number": "005/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 32.43,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 64
     },
     {
       "card_id": 4513,
@@ -9399,6 +10035,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 1279,
+      "name": "Rayquaza ex - 2004 (Chris Fulop)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "97/097",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 31.76,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 5
+    },
+    {
       "card_id": 15795,
       "name": "Heracross - 194/193",
       "set_id": 5500150,
@@ -9505,6 +10153,18 @@
       "market_price_usd": 31.52,
       "market_price_as_of": "2026-10-14",
       "total_listings": 116
+    },
+    {
+      "card_id": 26218,
+      "name": "Xerneas GX (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "126/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.5,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 27
     },
     {
       "card_id": 37859,
@@ -9661,6 +10321,18 @@
       "market_price_usd": 31.06,
       "market_price_as_of": "2026-10-15",
       "total_listings": 33
+    },
+    {
+      "card_id": 152,
+      "name": "Espeon & Deoxys GX - 2019 (Henry Brand)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "72/236",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 30.89,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 15
     },
     {
       "card_id": 37631,
@@ -9855,6 +10527,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 579,
+      "name": "Mewtwo - 2009 (David Cohen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "9/100",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 30.04,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
+    },
+    {
       "card_id": 5045,
       "name": "Iron Moth - 028/182 (European Promo)",
       "set_id": 5500123,
@@ -9901,6 +10585,18 @@
       "market_price_usd": 29.87,
       "market_price_as_of": "2026-10-14",
       "total_listings": 127
+    },
+    {
+      "card_id": 24716,
+      "name": "Alolan Vulpix",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "30/156",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.86,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 189
     },
     {
       "card_id": 13735,
@@ -10167,6 +10863,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 26209,
+      "name": "Ultra Necrozma GX (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "127/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.76,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 19
+    },
+    {
       "card_id": 18356,
       "name": "Steven's Beldum - 207",
       "set_id": 5500070,
@@ -10285,6 +10993,18 @@
       "market_price_usd": 28.49,
       "market_price_as_of": "2026-10-09",
       "total_listings": 211
+    },
+    {
+      "card_id": 130,
+      "name": "Jirachi - 2005 (Curran Hill)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "9/107",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 28.46,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
     },
     {
       "card_id": 38187,
@@ -10465,6 +11185,18 @@
       "market_price_usd": 28.16,
       "market_price_as_of": "2026-10-15",
       "total_listings": 4
+    },
+    {
+      "card_id": 24871,
+      "name": "Palkia GX (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "147/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.14,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 24
     },
     {
       "card_id": 14183,
@@ -10731,6 +11463,18 @@
       "total_listings": 243
     },
     {
+      "card_id": 24902,
+      "name": "Dawn Wings Necrozma GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "161/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.43,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 23
+    },
+    {
       "card_id": 15713,
       "name": "Chien-Pao ex - 261/193",
       "set_id": 5500150,
@@ -10753,6 +11497,18 @@
       "market_price_usd": 27.37,
       "market_price_as_of": "2026-10-15",
       "total_listings": 33
+    },
+    {
+      "card_id": 137,
+      "name": "Tropical Beach - 2014 (Haruto Kobayashi)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "BW50",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 27.36,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
     },
     {
       "card_id": 814,
@@ -10839,6 +11595,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 3894,
+      "name": "Luxray GL - 2010 (Mychael Bryan)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "9/111",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 27.21,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
+    },
+    {
       "card_id": 38104,
       "name": "Charizard",
       "set_id": 5500130,
@@ -10885,6 +11653,18 @@
       "market_price_usd": 27.08,
       "market_price_as_of": "2026-10-23",
       "total_listings": 8
+    },
+    {
+      "card_id": 575,
+      "name": "Blaziken ex - 2004 (Chris Fulop)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "89/95",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 27.07,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
     },
     {
       "card_id": 14438,
@@ -11511,6 +12291,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 24889,
+      "name": "Celesteela GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "162/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.57,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 49
+    },
+    {
       "card_id": 18478,
       "name": "Aegislash - 060 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -11679,6 +12471,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 24884,
+      "name": "Dusk Mane Necrozma GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "163/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.07,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 19
+    },
+    {
       "card_id": 14335,
       "name": "Litwick - 101/086",
       "set_id": 5500153,
@@ -11725,6 +12529,18 @@
       "market_price_usd": 25.0,
       "market_price_as_of": "2026-10-23",
       "total_listings": 1
+    },
+    {
+      "card_id": 1355,
+      "name": "Crobat G - 2010 (Yuka Furusawa)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "47/127",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 24.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 4
     },
     {
       "card_id": 4945,
@@ -11943,6 +12759,30 @@
       "total_listings": 18
     },
     {
+      "card_id": 1285,
+      "name": "Eevee - 2006 (Jimmy Ballard)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "69/113",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 24.55,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
+    },
+    {
+      "card_id": 26246,
+      "name": "Unit Energy FDY (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "146/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.46,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 13
+    },
+    {
       "card_id": 7185,
       "name": "Canari - 291/217",
       "set_id": 5500112,
@@ -12013,6 +12853,18 @@
       "market_price_usd": 24.41,
       "market_price_as_of": "2026-10-23",
       "total_listings": 9
+    },
+    {
+      "card_id": 56,
+      "name": "Mew ex - 2006 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "88/92",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 24.4,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 18
     },
     {
       "card_id": 38173,
@@ -12243,6 +13095,18 @@
       "total_listings": 136
     },
     {
+      "card_id": 1640,
+      "name": "Lotad (66) - 2005 (Michael Gonzalez)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "66/100",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 23.62,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
+    },
+    {
       "card_id": 38811,
       "name": "Growlithe - 1/12",
       "set_id": 5500193,
@@ -12361,6 +13225,30 @@
       "market_price_usd": 23.36,
       "market_price_as_of": "2026-10-22",
       "total_listings": 7
+    },
+    {
+      "card_id": 1142,
+      "name": "Diancie Prism Star - 2018 (Naohito Inoue)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "74/131",
+      "rarity": "Prism Rare",
+      "printing": "Normal",
+      "market_price_usd": 23.32,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
+      "card_id": 24848,
+      "name": "Dusk Mane Necrozma GX (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "145/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.27,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 29
     },
     {
       "card_id": 36102,
@@ -12951,6 +13839,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 24718,
+      "name": "Drifloon",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "51/156",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.95,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 143
+    },
+    {
       "card_id": 16657,
       "name": "Oricorio GX (Secret)",
       "set_id": 5500206,
@@ -13035,6 +13935,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 54,
+      "name": "Mew ex - 2007 (Tom Roos)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "88/92",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 21.78,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 14
+    },
+    {
       "card_id": 37651,
       "name": "Squirtle (Blue Border)",
       "set_id": 5500165,
@@ -13069,6 +13981,18 @@
       "market_price_usd": 21.68,
       "market_price_as_of": "2026-10-11",
       "total_listings": 103
+    },
+    {
+      "card_id": 26239,
+      "name": "Naganadel GX (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "134/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.61,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 22
     },
     {
       "card_id": 5823,
@@ -13131,6 +14055,18 @@
       "total_listings": 253
     },
     {
+      "card_id": 24845,
+      "name": "Pheromosa GX (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "158/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.49,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 33
+    },
+    {
       "card_id": 19542,
       "name": "Janine (Full Art)",
       "set_id": 5500191,
@@ -13141,6 +14077,18 @@
       "market_price_usd": 21.48,
       "market_price_as_of": "2026-10-22",
       "total_listings": 47
+    },
+    {
+      "card_id": 24847,
+      "name": "Pheromosa GX (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "140/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.45,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 30
     },
     {
       "card_id": 16686,
@@ -13203,6 +14151,18 @@
       "total_listings": 62
     },
     {
+      "card_id": 26243,
+      "name": "Yveltal GX (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "124/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.3,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 31
+    },
+    {
       "card_id": 13406,
       "name": "Flareon (Master Ball Pattern)",
       "set_id": 5500017,
@@ -13237,6 +14197,18 @@
       "market_price_usd": 21.27,
       "market_price_as_of": "2026-10-21",
       "total_listings": 18
+    },
+    {
+      "card_id": 26231,
+      "name": "Zygarde GX (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "123/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.25,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 45
     },
     {
       "card_id": 36727,
@@ -13357,6 +14329,18 @@
       "market_price_usd": 21.02,
       "market_price_as_of": "2026-10-23",
       "total_listings": 91
+    },
+    {
+      "card_id": 26121,
+      "name": "Sylveon",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "87/131",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 73
     },
     {
       "card_id": 13824,
@@ -13671,6 +14655,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 24838,
+      "name": "Dialga GX (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "146/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.67,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 15
+    },
+    {
       "card_id": 6144,
       "name": "Radiant Tsareena - 016/195",
       "set_id": 5500194,
@@ -13695,6 +14691,18 @@
       "total_listings": 103
     },
     {
+      "card_id": 909,
+      "name": "Jirachi - 2005 (Takashi Yoneda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "8/101",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 20.65,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 15
+    },
+    {
       "card_id": 36730,
       "name": "Lumineon V",
       "set_id": 5500218,
@@ -13707,6 +14715,18 @@
       "total_listings": 155
     },
     {
+      "card_id": 26252,
+      "name": "Ultra Recon Squad (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "131/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.61,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 48
+    },
+    {
       "card_id": 5789,
       "name": "Mewtwo ex - 058/182",
       "set_id": 5500194,
@@ -13717,6 +14737,30 @@
       "market_price_usd": 20.6,
       "market_price_as_of": "2026-10-15",
       "total_listings": 25
+    },
+    {
+      "card_id": 1172,
+      "name": "Mew - 2019 (Shintaro Ito)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "76/214",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 20.57,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 4
+    },
+    {
+      "card_id": 26247,
+      "name": "Palkia GX (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "119/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.55,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 24
     },
     {
       "card_id": 38830,
@@ -13755,6 +14799,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 70,
+      "name": "Pow! Hand Extension - 2005 (Curran Hill)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "85/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 20.5,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 1
+    },
+    {
       "card_id": 15965,
       "name": "Iron Valiant ex - 249/182",
       "set_id": 5500212,
@@ -13777,6 +14833,54 @@
       "market_price_usd": 20.38,
       "market_price_as_of": "2026-10-09",
       "total_listings": 105
+    },
+    {
+      "card_id": 1670,
+      "name": "Combee - 2010 (Mychael Bryan)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "57/100",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 20.36,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
+    },
+    {
+      "card_id": 641,
+      "name": "Regirock ex - 2006 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "98/101",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 20.32,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
+    },
+    {
+      "card_id": 119,
+      "name": "Primal Groudon EX - 2015 (Alejandro Ng-Guzman)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "86/160",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 20.31,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 41
+    },
+    {
+      "card_id": 556,
+      "name": "Absol ex - 2007 (Jun Hasebe)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "92/108",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 20.29,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
     },
     {
       "card_id": 36719,
@@ -13837,6 +14941,18 @@
       "market_price_usd": 20.21,
       "market_price_as_of": "2026-10-23",
       "total_listings": 12
+    },
+    {
+      "card_id": 26153,
+      "name": "Greninja GX",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "24/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.18,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 54
     },
     {
       "card_id": 4626,
@@ -13959,6 +15075,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 1183,
+      "name": "Unown [Q] - 2010 (Mychael Bryan)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "49/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 20.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
+    },
+    {
       "card_id": 17703,
       "name": "Medicham V (Alternate Full Art)",
       "set_id": 5500048,
@@ -13993,6 +15121,18 @@
       "market_price_usd": 19.99,
       "market_price_as_of": "2026-10-12",
       "total_listings": 95
+    },
+    {
+      "card_id": 869,
+      "name": "Unown [Q] - 2010 (Yuka Furusawa)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "49/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 19.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
     },
     {
       "card_id": 125,
@@ -14043,6 +15183,18 @@
       "total_listings": 146
     },
     {
+      "card_id": 26251,
+      "name": "Mysterious Treasure (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "145/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.94,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 20
+    },
+    {
       "card_id": 14373,
       "name": "Deerling - 091/086",
       "set_id": 5500153,
@@ -14053,6 +15205,18 @@
       "market_price_usd": 19.93,
       "market_price_as_of": "2026-10-09",
       "total_listings": 114
+    },
+    {
+      "card_id": 617,
+      "name": "Swampert ex - 2004 (Reed Weichler)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "95/95",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 19.93,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
     },
     {
       "card_id": 36058,
@@ -14125,6 +15289,18 @@
       "market_price_usd": 19.84,
       "market_price_as_of": "2026-10-12",
       "total_listings": 123
+    },
+    {
+      "card_id": 203,
+      "name": "Mew EX - 2014 (Trent Orndorff)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "46/124",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 19.83,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
     },
     {
       "card_id": 13836,
@@ -14487,6 +15663,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 24740,
+      "name": "Solgaleo Prism Star",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "89/156",
+      "rarity": "Prism Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.34,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 66
+    },
+    {
       "card_id": 19616,
       "name": "Dedenne (142)",
       "set_id": 5500141,
@@ -14523,6 +15711,18 @@
       "total_listings": 113
     },
     {
+      "card_id": 1535,
+      "name": "Rayquaza EX - 2013 (Clement Lamberton)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "85/124",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 19.26,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
+    },
+    {
       "card_id": 18442,
       "name": "Pecharunt - 129 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -14557,6 +15757,18 @@
       "market_price_usd": 19.24,
       "market_price_as_of": "2026-10-15",
       "total_listings": 91
+    },
+    {
+      "card_id": 24888,
+      "name": "Unit Energy GRW (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "170/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.23,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 41
     },
     {
       "card_id": 2155076,
@@ -14679,6 +15891,30 @@
       "total_listings": 2
     },
     {
+      "card_id": 142,
+      "name": "Jirachi ex - 2007 (Tom Roos)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "94/100",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 19.06,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 14
+    },
+    {
+      "card_id": 24831,
+      "name": "Xurkitree GX (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "142/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.06,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
+    },
+    {
       "card_id": 14362,
       "name": "Gothorita - 125/086",
       "set_id": 5500153,
@@ -14761,6 +15997,18 @@
       "market_price_usd": 18.87,
       "market_price_as_of": "2026-10-10",
       "total_listings": 96
+    },
+    {
+      "card_id": 1526,
+      "name": "Piplup (DP03) - 2008 (Dylan Lefavour)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "DP03",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 18.85,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 1
     },
     {
       "card_id": 16024,
@@ -15063,6 +16311,18 @@
       "total_listings": 247
     },
     {
+      "card_id": 853,
+      "name": "Diancie - 2017 (Diego Cassiraga)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "94/147",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 18.33,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
+    },
+    {
       "card_id": 14108,
       "name": "Charmander - SWSH232",
       "set_id": 5500149,
@@ -15121,6 +16381,18 @@
       "market_price_usd": 18.22,
       "market_price_as_of": "2026-10-14",
       "total_listings": 163
+    },
+    {
+      "card_id": 86,
+      "name": "Eevee (Delta Species) - 2007 (Jun Hasebe)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "68/113",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 18.22,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
     },
     {
       "card_id": 23465,
@@ -15279,6 +16551,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 24763,
+      "name": "Lunala Prism Star",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "62/156",
+      "rarity": "Prism Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.95,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 41
+    },
+    {
       "card_id": 5295,
       "name": "Dewott - 29/114 (Cracked Ice Holo)",
       "set_id": 5500123,
@@ -15423,6 +16707,18 @@
       "total_listings": 141
     },
     {
+      "card_id": 703,
+      "name": "Gardevoir ex - 2004 (Kevin Nguyen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "96/100",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 17.71,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 16
+    },
+    {
       "card_id": 22193,
       "name": "Mimikyu",
       "set_id": 5500079,
@@ -15517,6 +16813,18 @@
       "market_price_usd": 17.6,
       "market_price_as_of": "2026-10-11",
       "total_listings": 117
+    },
+    {
+      "card_id": 1605,
+      "name": "Lotad (63) - 2005 (Michael Gonzalez)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "63/107",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 17.59,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 4
     },
     {
       "card_id": 22203,
@@ -15735,6 +17043,18 @@
       "total_listings": 136
     },
     {
+      "card_id": 26142,
+      "name": "Diancie Prism Star",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "74/131",
+      "rarity": "Prism Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.36,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 45
+    },
+    {
       "card_id": 14500,
       "name": "Swoobat (Master Ball Pattern)",
       "set_id": 5500153,
@@ -15759,6 +17079,18 @@
       "total_listings": 43
     },
     {
+      "card_id": 24717,
+      "name": "Cherubi",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "10/156",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.34,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 136
+    },
+    {
       "card_id": 34138,
       "name": "Gardevoir VMAX (Secret)",
       "set_id": 5500028,
@@ -15769,6 +17101,18 @@
       "market_price_usd": 17.33,
       "market_price_as_of": "2026-10-20",
       "total_listings": 63
+    },
+    {
+      "card_id": 843,
+      "name": "Espeon EX - 2017 (Kabu Fukase)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "52/122",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 17.31,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
     },
     {
       "card_id": 38141,
@@ -15913,6 +17257,18 @@
       "market_price_usd": 17.13,
       "market_price_as_of": "2026-10-21",
       "total_listings": 65
+    },
+    {
+      "card_id": 38,
+      "name": "Raichu & Alolan Raichu GX - 2019 (Haruki Miyamoto)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "54/236",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 17.12,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
     },
     {
       "card_id": 4709,
@@ -16071,6 +17427,18 @@
       "total_listings": 164
     },
     {
+      "card_id": 1537,
+      "name": "Mew - 2019 (Haruki Miyamoto)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "76/214",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 16.87,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 17
+    },
+    {
       "card_id": 15680,
       "name": "Dedenne ex - 239/193",
       "set_id": 5500150,
@@ -16119,6 +17487,18 @@
       "total_listings": 61
     },
     {
+      "card_id": 24719,
+      "name": "Eevee (105)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "105/156",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.79,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 176
+    },
+    {
       "card_id": 1899,
       "name": "Mew ex - 151/165 - 2024 (Jesse Parker)",
       "set_id": 5500029,
@@ -16129,6 +17509,18 @@
       "market_price_usd": 16.77,
       "market_price_as_of": "2026-10-23",
       "total_listings": 3
+    },
+    {
+      "card_id": 38777,
+      "name": "Litten - 3/12",
+      "set_id": 5500145,
+      "set_name": "McDonald's Promos 2017",
+      "number": "003/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.75,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 53
     },
     {
       "card_id": 14508,
@@ -16527,6 +17919,18 @@
       "total_listings": 135
     },
     {
+      "card_id": 24815,
+      "name": "Looker (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "152/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.35,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 39
+    },
+    {
       "card_id": 19013,
       "name": "Caitlin (Secret)",
       "set_id": 5500170,
@@ -16549,6 +17953,18 @@
       "market_price_usd": 16.33,
       "market_price_as_of": "2026-10-23",
       "total_listings": 16
+    },
+    {
+      "card_id": 24857,
+      "name": "Dawn Wings Necrozma GX (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "143/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.31,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 18
     },
     {
       "card_id": 36705,
@@ -16681,6 +18097,18 @@
       "market_price_usd": 16.18,
       "market_price_as_of": "2026-10-23",
       "total_listings": 116
+    },
+    {
+      "card_id": 1805,
+      "name": "Pow! Hand Extension - 2006 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "85/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 16.17,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 1
     },
     {
       "card_id": 21369,
@@ -17091,6 +18519,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 801,
+      "name": "Mary's Request - 2006 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "86/115",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 15.75,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
+    },
+    {
       "card_id": 38837,
       "name": "Gastly - 7/12",
       "set_id": 5500203,
@@ -17211,6 +18651,18 @@
       "total_listings": 257
     },
     {
+      "card_id": 1121,
+      "name": "Lombre - 2005 (Michael Gonzalez)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "45/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 15.62,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
+    },
+    {
       "card_id": 5,
       "name": "Oracle - 2004 (Reed Weichler)",
       "set_id": 5500029,
@@ -17221,6 +18673,18 @@
       "market_price_usd": 15.62,
       "market_price_as_of": "2026-10-23",
       "total_listings": 2
+    },
+    {
+      "card_id": 244,
+      "name": "Mewtwo EX - 2012 (Zachary Bokhari)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "54/99",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 15.61,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 28
     },
     {
       "card_id": 35202,
@@ -17377,6 +18841,18 @@
       "market_price_usd": 15.49,
       "market_price_as_of": "2026-10-21",
       "total_listings": 17
+    },
+    {
+      "card_id": 544,
+      "name": "Gardevoir - 2008 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "7/132",
+      "rarity": "Holo Rare",
+      "printing": "Normal",
+      "market_price_usd": 15.49,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 18
     },
     {
       "card_id": 2299719,
@@ -17847,6 +19323,18 @@
       "total_listings": 362
     },
     {
+      "card_id": 895,
+      "name": "Deoxys EX - 2013 (Yugo Sato)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "53/116",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 14.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 22
+    },
+    {
       "card_id": 984,
       "name": "Computer Search - 2013 (Yugo Sato)",
       "set_id": 5500029,
@@ -17955,6 +19443,18 @@
       "total_listings": 106
     },
     {
+      "card_id": 1401,
+      "name": "Pidgey - 2005 (Jeremy Maron)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "73/112",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 14.9,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
+    },
+    {
       "card_id": 36704,
       "name": "Ditto",
       "set_id": 5500218,
@@ -17989,6 +19489,18 @@
       "market_price_usd": 14.85,
       "market_price_as_of": "2026-10-11",
       "total_listings": 214
+    },
+    {
+      "card_id": 1505,
+      "name": "Ruins Of Alph - 2012 (Shuto Itagaki)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "76/90",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 14.8,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
     },
     {
       "card_id": 20331,
@@ -18123,6 +19635,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 657,
+      "name": "Mew EX - 2013 (Ian Whiton)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "46/124",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 14.73,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
+    },
+    {
       "card_id": 15964,
       "name": "Porygon-Z - 214/182",
       "set_id": 5500212,
@@ -18195,6 +19719,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 878,
+      "name": "Mewtwo EX - 2015 (Jacob Van Wagner)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "54/113",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 14.68,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
+    },
+    {
       "card_id": 21003,
       "name": "Frosmoth (Secret)",
       "set_id": 5500094,
@@ -18243,6 +19779,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 1808,
+      "name": "Magikarp - 2010 (Mychael Bryan)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "65/100",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 14.62,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 5
+    },
+    {
       "card_id": 17173,
       "name": "Miraidon ex",
       "set_id": 5500030,
@@ -18253,6 +19801,18 @@
       "market_price_usd": 14.6,
       "market_price_as_of": "2026-10-12",
       "total_listings": 125
+    },
+    {
+      "card_id": 1169,
+      "name": "Chansey - 2011 (Ross Cawthon)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "58/123",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 14.59,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
     },
     {
       "card_id": 4401,
@@ -18519,6 +20079,18 @@
       "total_listings": 207
     },
     {
+      "card_id": 1939,
+      "name": "Jirachi ex - 2008 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "94/100",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 14.35,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
+    },
+    {
       "card_id": 106,
       "name": "Garchomp C LV.X - 2010 (Yuta Komatsuda)",
       "set_id": 5500029,
@@ -18757,6 +20329,18 @@
       "market_price_usd": 14.1,
       "market_price_as_of": "2026-10-13",
       "total_listings": 344
+    },
+    {
+      "card_id": 24846,
+      "name": "Unit Energy LPM (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "171/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.09,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 38
     },
     {
       "card_id": 36099,
@@ -19167,6 +20751,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 90,
+      "name": "Darkrai EX - 2013 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "63/108",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 13.71,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
+    },
+    {
       "card_id": 13834,
       "name": "Tirtouga (Master Ball Pattern)",
       "set_id": 5500093,
@@ -19297,6 +20893,18 @@
       "market_price_usd": 13.51,
       "market_price_as_of": "2026-10-14",
       "total_listings": 224
+    },
+    {
+      "card_id": 696,
+      "name": "Xerneas - 2014 (Michikazu Tsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "96/146",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 13.5,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
     },
     {
       "card_id": 21889,
@@ -19515,6 +21123,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 661,
+      "name": "Swoop! Teleporter - 2005 (Curran Hill)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "92/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 13.34,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
+    },
+    {
       "card_id": 2299693,
       "name": "Dhelmise - 084 (Prerelease)",
       "set_id": 5500111,
@@ -19573,6 +21193,18 @@
       "market_price_usd": 13.28,
       "market_price_as_of": "2026-10-21",
       "total_listings": 33
+    },
+    {
+      "card_id": 687,
+      "name": "Jirachi - 2018 (Magnus Pedersen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "XY67",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 13.28,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 4
     },
     {
       "card_id": 628,
@@ -19729,6 +21361,30 @@
       "market_price_usd": 13.12,
       "market_price_as_of": "2026-10-23",
       "total_listings": 132
+    },
+    {
+      "card_id": 26185,
+      "name": "Yveltal GX",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "79/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.11,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 66
+    },
+    {
+      "card_id": 1286,
+      "name": "Quilava - 2011 (Christopher Kan)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "49/95",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 13.08,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 0
     },
     {
       "card_id": 14337,
@@ -19935,6 +21591,18 @@
       "total_listings": 130
     },
     {
+      "card_id": 929,
+      "name": "Pidgeotto - 2005 (Jeremy Maron)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "45/112",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 12.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
+    },
+    {
       "card_id": 15635,
       "name": "Quaquaval ex - 260/193",
       "set_id": 5500150,
@@ -20043,6 +21711,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 1697,
+      "name": "Pidgeotto - 2006 (Jimmy Ballard)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "45/112",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 12.9,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
+    },
+    {
       "card_id": 17655,
       "name": "Rayquaza VMAX",
       "set_id": 5500048,
@@ -20053,6 +21733,18 @@
       "market_price_usd": 12.88,
       "market_price_as_of": "2026-10-18",
       "total_listings": 191
+    },
+    {
+      "card_id": 26162,
+      "name": "Xerneas GX",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "90/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.88,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 50
     },
     {
       "card_id": 14516,
@@ -20089,6 +21781,18 @@
       "market_price_usd": 12.83,
       "market_price_as_of": "2026-10-18",
       "total_listings": 125
+    },
+    {
+      "card_id": 800,
+      "name": "Gardevoir - 2004 (Kevin Nguyen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "7/109",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 12.83,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
     },
     {
       "card_id": 18976,
@@ -20331,6 +22035,18 @@
       "total_listings": 147
     },
     {
+      "card_id": 26122,
+      "name": "Cubone",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "57/131",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.66,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 168
+    },
+    {
       "card_id": 13804,
       "name": "Throh (Master Ball Pattern)",
       "set_id": 5500093,
@@ -20403,6 +22119,18 @@
       "total_listings": 24
     },
     {
+      "card_id": 26144,
+      "name": "Volcanion Prism Star",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "31/131",
+      "rarity": "Prism Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.63,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 58
+    },
+    {
       "card_id": 21948,
       "name": "Pikachu VMAX",
       "set_id": 5500178,
@@ -20425,6 +22153,18 @@
       "market_price_usd": 12.6,
       "market_price_as_of": "2026-10-12",
       "total_listings": 117
+    },
+    {
+      "card_id": 549,
+      "name": "Larvitar - 2005 (Takashi Yoneda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "63/109",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 12.6,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
     },
     {
       "card_id": 20769,
@@ -20509,6 +22249,18 @@
       "market_price_usd": 12.52,
       "market_price_as_of": "2026-10-15",
       "total_listings": 135
+    },
+    {
+      "card_id": 146,
+      "name": "Swoop! Teleporter - 2005 (Michael Gonzalez)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "92/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 12.51,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
     },
     {
       "card_id": 18375,
@@ -20715,6 +22467,18 @@
       "total_listings": 169
     },
     {
+      "card_id": 26126,
+      "name": "Tyrunt",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "68/131",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.4,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 241
+    },
+    {
       "card_id": 13876,
       "name": "Galarian Moltres - SWSH284",
       "set_id": 5500149,
@@ -20785,6 +22549,18 @@
       "market_price_usd": 12.35,
       "market_price_as_of": "2026-10-10",
       "total_listings": 94
+    },
+    {
+      "card_id": 1042,
+      "name": "Trubbish - 2016 (Shunto Sadahiro)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "56/122",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 12.34,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
     },
     {
       "card_id": 17862,
@@ -21063,6 +22839,18 @@
       "total_listings": 75
     },
     {
+      "card_id": 795,
+      "name": "Luxray GL - 2009 (Stephen Silvestro)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "9/111",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 12.14,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
       "card_id": 36723,
       "name": "Miltank",
       "set_id": 5500218,
@@ -21255,6 +23043,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 180,
+      "name": "Garchomp C - 2010 (Yuta Komatsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "60/147",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 12.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 13
+    },
+    {
       "card_id": 1857,
       "name": "Pignite - 2011 (David Cohen)",
       "set_id": 5500029,
@@ -21265,6 +23065,30 @@
       "market_price_usd": 12.0,
       "market_price_as_of": "2026-10-23",
       "total_listings": 5
+    },
+    {
+      "card_id": 2296644,
+      "name": "Bebe's Search - 2010 (Yuta Komatsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "89/111",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 12.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
+      "card_id": 88,
+      "name": "Mewtwo EX - 2012 (Igor Costa)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "54/99",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 12.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 4
     },
     {
       "card_id": 15996,
@@ -21361,6 +23185,18 @@
       "market_price_usd": 11.96,
       "market_price_as_of": "2026-10-19",
       "total_listings": 76
+    },
+    {
+      "card_id": 3431,
+      "name": "Holon Transceiver - 2007 (Jun Hasebe)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "98/113",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 11.96,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 22
     },
     {
       "card_id": 20675,
@@ -21987,6 +23823,18 @@
       "total_listings": 93
     },
     {
+      "card_id": 24766,
+      "name": "Dialga GX",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "100/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.58,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 60
+    },
+    {
       "card_id": 38119,
       "name": "Orbeetle VMAX",
       "set_id": 5500130,
@@ -22323,6 +24171,18 @@
       "total_listings": 49
     },
     {
+      "card_id": 636,
+      "name": "Mewtwo EX - 2014 (Michikazu Tsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "54/113",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 11.37,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 16
+    },
+    {
       "card_id": 14148,
       "name": "Mewtwo V-UNION - SWSH162",
       "set_id": 5500149,
@@ -22347,6 +24207,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 26219,
+      "name": "Naganadel GX (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "121/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.36,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 33
+    },
+    {
       "card_id": 15941,
       "name": "Blitzle - 195/182",
       "set_id": 5500212,
@@ -22369,6 +24241,30 @@
       "market_price_usd": 11.34,
       "market_price_as_of": "2026-10-22",
       "total_listings": 50
+    },
+    {
+      "card_id": 26214,
+      "name": "Crasher Wake (Full Art)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "129/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.34,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 32
+    },
+    {
+      "card_id": 770,
+      "name": "Lucario GL - 2010 (Yuta Komatsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "8/111",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 11.33,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 0
     },
     {
       "card_id": 13947,
@@ -22549,6 +24445,18 @@
       "market_price_usd": 11.19,
       "market_price_as_of": "2026-10-17",
       "total_listings": 77
+    },
+    {
+      "card_id": 220,
+      "name": "Mudkip - 2004 (Reed Weichler)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "59/109",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 11.19,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 13
     },
     {
       "card_id": 17877,
@@ -22755,6 +24663,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 902,
+      "name": "Mr. Mime - 2013 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "47/116",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 11.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 3
+    },
+    {
       "card_id": 14136,
       "name": "Eevee - SWSH042",
       "set_id": 5500149,
@@ -22933,6 +24853,18 @@
       "market_price_usd": 10.89,
       "market_price_as_of": "2026-10-15",
       "total_listings": 46
+    },
+    {
+      "card_id": 26223,
+      "name": "Metal Frying Pan (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "144/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.89,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 28
     },
     {
       "card_id": 28814,
@@ -23187,6 +25119,18 @@
       "total_listings": 304
     },
     {
+      "card_id": 24757,
+      "name": "Glaceon GX",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "39/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.75,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 77
+    },
+    {
       "card_id": 5199,
       "name": "Pansear - 21/114 (Energy Holo)",
       "set_id": 5500123,
@@ -23415,6 +25359,18 @@
       "total_listings": 146
     },
     {
+      "card_id": 1698,
+      "name": "Darkrai EX - 2012 (Igor Costa)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "63/108",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 10.61,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 5
+    },
+    {
       "card_id": 36078,
       "name": "Golisopod GX",
       "set_id": 5500083,
@@ -23475,6 +25431,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 500,
+      "name": "Wartortle - 2006 (Hiroki Yano)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "50/112",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 10.56,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 17
+    },
+    {
       "card_id": 24132,
       "name": "Rayquaza VMAX (101)",
       "set_id": 5500217,
@@ -23533,6 +25501,18 @@
       "market_price_usd": 10.51,
       "market_price_as_of": "2026-10-20",
       "total_listings": 114
+    },
+    {
+      "card_id": 928,
+      "name": "Palkia LV.X - 2009 (David Cohen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "DP18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 10.5,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
     },
     {
       "card_id": 20778,
@@ -23643,6 +25623,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 111,
+      "name": "Absol ex - 2007 (Tom Roos)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "92/108",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 10.41,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 32
+    },
+    {
       "card_id": 14523,
       "name": "Tornadus (Master Ball Pattern)",
       "set_id": 5500153,
@@ -23727,6 +25719,18 @@
       "total_listings": 438
     },
     {
+      "card_id": 501,
+      "name": "Banette ex - 2007 (Jeremy Scharff-Kim)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "85/92",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 10.37,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 24
+    },
+    {
       "card_id": 15972,
       "name": "Veluza - 192/182",
       "set_id": 5500212,
@@ -23787,6 +25791,18 @@
       "total_listings": 206
     },
     {
+      "card_id": 892,
+      "name": "Piplup (72) - 2008 (Dylan Lefavour)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "72/100",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 10.34,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 1
+    },
+    {
       "card_id": 21352,
       "name": "Garchomp V (Full Art)",
       "set_id": 5500099,
@@ -23833,6 +25849,18 @@
       "market_price_usd": 10.31,
       "market_price_as_of": "2026-10-21",
       "total_listings": 69
+    },
+    {
+      "card_id": 24749,
+      "name": "Leafeon GX",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "13/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.31,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 58
     },
     {
       "card_id": 1928,
@@ -23929,6 +25957,18 @@
       "market_price_usd": 10.26,
       "market_price_as_of": "2026-10-17",
       "total_listings": 88
+    },
+    {
+      "card_id": 24858,
+      "name": "Celesteela GX (Full Art)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "144/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.25,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 13
     },
     {
       "card_id": 148,
@@ -24049,6 +26089,18 @@
       "market_price_usd": 10.21,
       "market_price_as_of": "2026-10-22",
       "total_listings": 12
+    },
+    {
+      "card_id": 24855,
+      "name": "Missing Clover (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "168/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.2,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 50
     },
     {
       "card_id": 15578,
@@ -24315,6 +26367,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 545,
+      "name": "Flygon ex (Delta Species) - 2007 (Jun Hasebe)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "92/101",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 10.03,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 24
+    },
+    {
       "card_id": 14495,
       "name": "Vanillish (Master Ball Pattern)",
       "set_id": 5500153,
@@ -24363,6 +26427,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 26133,
+      "name": "Pheromosa",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "11/131",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.01,
+      "market_price_as_of": "2026-10-23",
+      "total_listings": 85
+    },
+    {
       "card_id": 1734,
       "name": "Girafarig - 2006 (Miska Saari)",
       "set_id": 5500029,
@@ -24387,6 +26463,30 @@
       "total_listings": 48
     },
     {
+      "card_id": 1214,
+      "name": "Fisherman - 2011 (David Cohen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "92/123",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 9.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 4
+    },
+    {
+      "card_id": 1303,
+      "name": "Zekrom - 2012 (Chase Moloney)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "50/99",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 9.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 1
+    },
+    {
       "card_id": 2299646,
       "name": "Totodile - 048",
       "set_id": 5500111,
@@ -24409,6 +26509,18 @@
       "market_price_usd": 9.99,
       "market_price_as_of": "2026-10-15",
       "total_listings": 17
+    },
+    {
+      "card_id": 684,
+      "name": "Slugma - 2005 (Michael Gonzalez)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "74/107",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 9.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
     },
     {
       "card_id": 22518,
@@ -24445,6 +26557,18 @@
       "market_price_usd": 9.95,
       "market_price_as_of": "2026-10-01",
       "total_listings": 0
+    },
+    {
+      "card_id": 136,
+      "name": "Flygon (Delta Species) - 2007 (Jun Hasebe)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "7/110",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 9.94,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 13
     },
     {
       "card_id": 14458,
@@ -24493,6 +26617,18 @@
       "market_price_usd": 9.94,
       "market_price_as_of": "2026-10-15",
       "total_listings": 15
+    },
+    {
+      "card_id": 26170,
+      "name": "Zygarde GX",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "73/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.92,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 109
     },
     {
       "card_id": 38186,
@@ -24553,6 +26689,18 @@
       "market_price_usd": 9.9,
       "market_price_as_of": "2026-10-16",
       "total_listings": 297
+    },
+    {
+      "card_id": 26132,
+      "name": "Aurorus",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "28/131",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.89,
+      "market_price_as_of": "2026-10-23",
+      "total_listings": 169
     },
     {
       "card_id": 35760,
@@ -25023,6 +27171,18 @@
       "total_listings": 121
     },
     {
+      "card_id": 26130,
+      "name": "Tyrantrum",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "69/131",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.59,
+      "market_price_as_of": "2026-10-23",
+      "total_listings": 217
+    },
+    {
       "card_id": 14314,
       "name": "Vullaby - 144/086",
       "set_id": 5500153,
@@ -25251,6 +27411,18 @@
       "total_listings": 300
     },
     {
+      "card_id": 625,
+      "name": "Celebi - 2012 (Zachary Bokhari)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "92/102",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 9.51,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
+    },
+    {
       "card_id": 28888,
       "name": "Professor's Research (Secret)",
       "set_id": 5500021,
@@ -25443,6 +27615,18 @@
       "total_listings": 39
     },
     {
+      "card_id": 26259,
+      "name": "Beast Ring (Secret)",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "141/131",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.39,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 35
+    },
+    {
       "card_id": 6100,
       "name": "Ice Rider Calyrex V - 045/198",
       "set_id": 5500194,
@@ -25539,6 +27723,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 1120,
+      "name": "Pidgeotto - 2005 (Takashi Yoneda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "45/112",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 9.33,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
+    },
+    {
       "card_id": 16291,
       "name": "Skwovet - 222/198",
       "set_id": 5500032,
@@ -25561,6 +27757,18 @@
       "market_price_usd": 9.33,
       "market_price_as_of": "2026-10-19",
       "total_listings": 197
+    },
+    {
+      "card_id": 24720,
+      "name": "Glameow",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "108/156",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.33,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 134
     },
     {
       "card_id": 565,
@@ -26067,6 +28275,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 773,
+      "name": "Prinplup (44) - 2008 (Dylan Lefavour)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "44/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 8.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 18
+    },
+    {
       "card_id": 100018086,
       "name": "Raikou",
       "set_id": 5500238,
@@ -26089,6 +28309,30 @@
       "market_price_usd": 8.97,
       "market_price_as_of": "2026-10-21",
       "total_listings": 21
+    },
+    {
+      "card_id": 197,
+      "name": "Holon Transceiver - 2006 (Miska Saari)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "98/113",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 8.97,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
+    },
+    {
+      "card_id": 228,
+      "name": "Lucario EX - 2015 (Rowan Stavenow)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "54/111",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 8.97,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 4
     },
     {
       "card_id": 16028,
@@ -26125,6 +28369,18 @@
       "market_price_usd": 8.92,
       "market_price_as_of": "2026-10-09",
       "total_listings": 91
+    },
+    {
+      "card_id": 1660,
+      "name": "Holon's Castform - 2008 (Dylan Lefavour)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "44/110",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 8.92,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
     },
     {
       "card_id": 19816,
@@ -26557,6 +28813,18 @@
       "market_price_usd": 8.75,
       "market_price_as_of": "2026-10-23",
       "total_listings": 2
+    },
+    {
+      "card_id": 1027,
+      "name": "Mewtwo EX - 2012 (Chase Moloney)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "54/99",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 8.73,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
     },
     {
       "card_id": 20735,
@@ -27111,6 +29379,18 @@
       "total_listings": 109
     },
     {
+      "card_id": 190,
+      "name": "Jirachi GX - 2019 (Henry Brand)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "79/236",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 8.52,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
+    },
+    {
       "card_id": 38114,
       "name": "Boss's Orders",
       "set_id": 5500130,
@@ -27145,6 +29425,18 @@
       "market_price_usd": 8.5,
       "market_price_as_of": "2026-10-20",
       "total_listings": 51
+    },
+    {
+      "card_id": 26114,
+      "name": "Amaura",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "27/131",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.5,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 277
     },
     {
       "card_id": 4041,
@@ -27399,6 +29691,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 1125,
+      "name": "Holon Transceiver - 2007 (Tom Roos)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "98/113",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 8.37,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
+    },
+    {
       "card_id": 17650,
       "name": "Umbreon V",
       "set_id": 5500048,
@@ -27603,6 +29907,18 @@
       "total_listings": 70
     },
     {
+      "card_id": 26167,
+      "name": "Dialga GX",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "82/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.32,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 53
+    },
+    {
       "card_id": 2136202,
       "name": "Doublade - 067",
       "set_id": 5500111,
@@ -27685,6 +30001,18 @@
       "market_price_usd": 8.25,
       "market_price_as_of": "2026-10-17",
       "total_listings": 134
+    },
+    {
+      "card_id": 681,
+      "name": "Crobat G - 2009 (Stephen Silvestro)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "47/127",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 8.25,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
     },
     {
       "card_id": 14026,
@@ -27867,6 +30195,18 @@
       "total_listings": 305
     },
     {
+      "card_id": 69,
+      "name": "M Kangaskhan EX - 2014 (Michikazu Tsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "79/106",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 8.18,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 34
+    },
+    {
       "card_id": 17217,
       "name": "Kirlia - 154/091",
       "set_id": 5500030,
@@ -27901,6 +30241,18 @@
       "market_price_usd": 8.17,
       "market_price_as_of": "2026-10-12",
       "total_listings": 198
+    },
+    {
+      "card_id": 762,
+      "name": "Gardevoir - 2010 (Michael Pramawat)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "7/132",
+      "rarity": "Holo Rare",
+      "printing": "Normal",
+      "market_price_usd": 8.17,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
     },
     {
       "card_id": 13144,
@@ -28239,6 +30591,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 1219,
+      "name": "Copycat - 2006 (Jimmy Ballard)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "83/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 7.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 3
+    },
+    {
       "card_id": 16281,
       "name": "Clauncher - 205/198",
       "set_id": 5500032,
@@ -28491,6 +30855,18 @@
       "total_listings": 110
     },
     {
+      "card_id": 1962,
+      "name": "Team Magma's Groudon - 2004 (Tsuguyoshi Yamato)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "9/95",
+      "rarity": "Holo Rare",
+      "printing": "Normal",
+      "market_price_usd": 7.9,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 18
+    },
+    {
       "card_id": 45,
       "name": "Snorlax - 2023 (Gabriel Fernandez)",
       "set_id": 5500029,
@@ -28563,6 +30939,18 @@
       "total_listings": 104
     },
     {
+      "card_id": 26116,
+      "name": "Espurr",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "44/131",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.86,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 171
+    },
+    {
       "card_id": 13871,
       "name": "Lance's Charizard V - SWSH133",
       "set_id": 5500149,
@@ -28611,6 +30999,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 1521,
+      "name": "Rhydon - 2005 (Michael Gonzalez)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "46/101",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 7.83,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 26
+    },
+    {
       "card_id": 18036,
       "name": "Castform Sunny Form - 195/191",
       "set_id": 5500180,
@@ -28645,6 +31045,18 @@
       "market_price_usd": 7.82,
       "market_price_as_of": "2026-10-23",
       "total_listings": 7
+    },
+    {
+      "card_id": 95,
+      "name": "Eevee - 2007 (Tom Roos)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "69/113",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 7.82,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
     },
     {
       "card_id": 18029,
@@ -28705,6 +31117,18 @@
       "market_price_usd": 7.8,
       "market_price_as_of": "2026-10-23",
       "total_listings": 74
+    },
+    {
+      "card_id": 62,
+      "name": "Oddish - 2011 (Ross Cawthon)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "60/90",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 7.8,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
     },
     {
       "card_id": 21289,
@@ -29091,6 +31515,30 @@
       "total_listings": 293
     },
     {
+      "card_id": 1189,
+      "name": "Mr. Mime - 2014 (Andrew Estrada)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "47/116",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 7.6,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
+    },
+    {
+      "card_id": 1339,
+      "name": "Toxicroak G (DP41) - 2009 (Tsubasa Nakamura)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "DP41",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 7.6,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
+    },
+    {
       "card_id": 22013,
       "name": "Leon (Full Art)",
       "set_id": 5500178,
@@ -29125,6 +31573,18 @@
       "market_price_usd": 7.58,
       "market_price_as_of": "2026-10-10",
       "total_listings": 84
+    },
+    {
+      "card_id": 1469,
+      "name": "Wobbuffet - 2018 (Magnus Pedersen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "RC11/RC32",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 7.58,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
     },
     {
       "card_id": 20251,
@@ -29235,6 +31695,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 183,
+      "name": "Jirachi EX - 2015 (Jacob Van Wagner)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "60/101",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 7.53,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 19
+    },
+    {
       "card_id": 19008,
       "name": "Tornadus VMAX (Secret)",
       "set_id": 5500170,
@@ -29271,6 +31743,18 @@
       "total_listings": 149
     },
     {
+      "card_id": 37087,
+      "name": "Alolan Ninetales (30)",
+      "set_id": 5500074,
+      "set_name": "SM Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+      "number": "SM128",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.52,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 25
+    },
+    {
       "card_id": 6160,
       "name": "Galarian Moltres - 093/203",
       "set_id": 5500194,
@@ -29305,6 +31789,18 @@
       "market_price_usd": 7.51,
       "market_price_as_of": "2026-10-17",
       "total_listings": 91
+    },
+    {
+      "card_id": 205,
+      "name": "Dialga G - 2009 (Tsubasa Nakamura)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "7/127",
+      "rarity": "Holo Rare",
+      "printing": "Normal",
+      "market_price_usd": 7.51,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
     },
     {
       "card_id": 22510,
@@ -29367,6 +31863,18 @@
       "total_listings": 86
     },
     {
+      "card_id": 50,
+      "name": "Piplup - 2007 (Akira Miyazaki)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "93/130",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 7.48,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
+    },
+    {
       "card_id": 18005,
       "name": "Feebas - 198/191",
       "set_id": 5500180,
@@ -29389,6 +31897,18 @@
       "market_price_usd": 7.47,
       "market_price_as_of": "2026-10-10",
       "total_listings": 270
+    },
+    {
+      "card_id": 1334,
+      "name": "Gallade - 2017 (Diego Cassiraga)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "84/162",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 7.45,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 14
     },
     {
       "card_id": 19337,
@@ -29439,6 +31959,18 @@
       "total_listings": 286
     },
     {
+      "card_id": 876,
+      "name": "Professor Elm's Training Method - 2006 (Hiroki Yano)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "89/115",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 7.44,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 0
+    },
+    {
       "card_id": 31496,
       "name": "Alcremie",
       "set_id": 5500042,
@@ -29461,6 +31993,18 @@
       "market_price_usd": 7.42,
       "market_price_as_of": "2026-10-21",
       "total_listings": 251
+    },
+    {
+      "card_id": 1477,
+      "name": "Latias EX - 2014 (Haruto Kobayashi)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "85/116",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 7.42,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 31
     },
     {
       "card_id": 24162,
@@ -29715,6 +32259,30 @@
       "total_listings": 133
     },
     {
+      "card_id": 26197,
+      "name": "Palkia GX",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "20/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.33,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 56
+    },
+    {
+      "card_id": 864,
+      "name": "Zekrom - 2011 (Ross Cawthon)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "47/114",
+      "rarity": "Holo Rare",
+      "printing": "Normal",
+      "market_price_usd": 7.33,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
+    },
+    {
       "card_id": 14059,
       "name": "Deoxys VSTAR - SWSH268",
       "set_id": 5500149,
@@ -29799,6 +32367,18 @@
       "total_listings": 682
     },
     {
+      "card_id": 711,
+      "name": "Windstorm - 2008 (Jason Klaczynski)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "85/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 7.27,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 13
+    },
+    {
       "card_id": 21884,
       "name": "Arbok ex - 185/165",
       "set_id": 5500171,
@@ -29821,6 +32401,18 @@
       "market_price_usd": 7.26,
       "market_price_as_of": "2026-10-21",
       "total_listings": 47
+    },
+    {
+      "card_id": 24723,
+      "name": "Eevee (104)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "104/156",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.25,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 169
     },
     {
       "card_id": 14066,
@@ -29967,6 +32559,18 @@
       "total_listings": 214
     },
     {
+      "card_id": 38773,
+      "name": "Rowlet - 1/12",
+      "set_id": 5500145,
+      "set_name": "McDonald's Promos 2017",
+      "number": "001/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.21,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 88
+    },
+    {
       "card_id": 22187,
       "name": "Pancham",
       "set_id": 5500079,
@@ -30025,6 +32629,30 @@
       "market_price_usd": 7.18,
       "market_price_as_of": "2026-10-17",
       "total_listings": 196
+    },
+    {
+      "card_id": 2022,
+      "name": "Scott - 2008 (Paul Atanassov)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "81/108",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 7.17,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
+    },
+    {
+      "card_id": 223,
+      "name": "Sableye - 2009 (Tsubasa Nakamura)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "48/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 7.16,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
     },
     {
       "card_id": 24434,
@@ -30375,6 +33003,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 24876,
+      "name": "Escape Board (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "167/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.01,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 30
+    },
+    {
       "card_id": 17993,
       "name": "Alolan Dugtrio - 208/191",
       "set_id": 5500180,
@@ -30399,6 +33039,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 1615,
+      "name": "Mr. Briney's Compassion - 2004 (Tsuguyoshi Yamato)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "87/097",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 6.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 5
+    },
+    {
       "card_id": 17161,
       "name": "Charcadet - 114/091",
       "set_id": 5500030,
@@ -30421,6 +33073,18 @@
       "market_price_usd": 6.99,
       "market_price_as_of": "2026-10-13",
       "total_listings": 340
+    },
+    {
+      "card_id": 24777,
+      "name": "Palkia GX",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "101/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 66
     },
     {
       "card_id": 1777,
@@ -30457,6 +33121,18 @@
       "market_price_usd": 6.98,
       "market_price_as_of": "2026-10-23",
       "total_listings": 134
+    },
+    {
+      "card_id": 37089,
+      "name": "Piplup (11)",
+      "set_id": 5500074,
+      "set_name": "SM Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+      "number": "32/156",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 6.97,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 21
     },
     {
       "card_id": 17462,
@@ -30639,6 +33315,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 1941,
+      "name": "Jirachi EX - 2014 (Andrew Estrada)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "60/101",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.87,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 5
+    },
+    {
       "card_id": 24453,
       "name": "PokeNav (Secret)",
       "set_id": 5500088,
@@ -30661,6 +33349,18 @@
       "market_price_usd": 6.87,
       "market_price_as_of": "2026-10-21",
       "total_listings": 33
+    },
+    {
+      "card_id": 596,
+      "name": "Duskull - 2008 (Dylan Lefavour)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "80/130",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 6.87,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
     },
     {
       "card_id": 5989,
@@ -30723,6 +33423,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 692,
+      "name": "Xurkitree GX - 2018 (Pedro Eugenio Torres)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "SM68",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.84,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
+    },
+    {
       "card_id": 38231,
       "name": "Piplup - 20/25",
       "set_id": 5500117,
@@ -30771,6 +33483,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 26137,
+      "name": "Ultra Necrozma GX",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "95/131",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.81,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 116
+    },
+    {
       "card_id": 5829,
       "name": "Water Energy (Prize Pack Series 3) (Cosmos Holo)",
       "set_id": 5500194,
@@ -30781,6 +33505,18 @@
       "market_price_usd": 6.81,
       "market_price_as_of": "2026-10-15",
       "total_listings": 31
+    },
+    {
+      "card_id": 516,
+      "name": "Magma Energy - 2004 (Tsuguyoshi Yamato)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "87/95",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 6.8,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
     },
     {
       "card_id": 17219,
@@ -30829,6 +33565,18 @@
       "market_price_usd": 6.79,
       "market_price_as_of": "2026-10-15",
       "total_listings": 401
+    },
+    {
+      "card_id": 38781,
+      "name": "Yungoos - 12/12",
+      "set_id": 5500145,
+      "set_name": "McDonald's Promos 2017",
+      "number": "012/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.79,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 58
     },
     {
       "card_id": 18361,
@@ -30985,6 +33733,18 @@
       "market_price_usd": 6.72,
       "market_price_as_of": "2026-10-15",
       "total_listings": 69
+    },
+    {
+      "card_id": 995,
+      "name": "Karen - 2017 (Zachary Bokhari)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "XY177",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 6.72,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 0
     },
     {
       "card_id": 5879,
@@ -31395,6 +34155,18 @@
       "total_listings": 593
     },
     {
+      "card_id": 899,
+      "name": "Windstorm - 2007 (Tom Roos)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "85/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 6.55,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
+    },
+    {
       "card_id": 17848,
       "name": "Aroma Lady (Secret)",
       "set_id": 5500048,
@@ -31527,6 +34299,18 @@
       "total_listings": 115
     },
     {
+      "card_id": 611,
+      "name": "R Energy - 2005 (Takashi Yoneda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "95/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 6.49,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
+    },
+    {
       "card_id": 21441,
       "name": "Lugia VSTAR",
       "set_id": 5500161,
@@ -31585,6 +34369,18 @@
       "market_price_usd": 6.47,
       "market_price_as_of": "2026-10-15",
       "total_listings": 57
+    },
+    {
+      "card_id": 1494,
+      "name": "Skitty - 2004 (Chris Fulop)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "44/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 6.46,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
     },
     {
       "card_id": 1690,
@@ -31731,6 +34527,18 @@
       "total_listings": 141
     },
     {
+      "card_id": 24790,
+      "name": "Shaymin (15)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "15/156",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.43,
+      "market_price_as_of": "2026-10-23",
+      "total_listings": 76
+    },
+    {
       "card_id": 36713,
       "name": "Solrock",
       "set_id": 5500218,
@@ -31875,6 +34683,18 @@
       "total_listings": 244
     },
     {
+      "card_id": 26204,
+      "name": "Sliggoo",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "93/131",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.37,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 227
+    },
+    {
       "card_id": 29652,
       "name": "Charizard - 3/70 (#39 Charizard Stamped)",
       "set_id": 5500131,
@@ -31897,6 +34717,18 @@
       "market_price_usd": 6.35,
       "market_price_as_of": "2026-10-21",
       "total_listings": 45
+    },
+    {
+      "card_id": 38774,
+      "name": "Alolan Meowth - 8/12",
+      "set_id": 5500145,
+      "set_name": "McDonald's Promos 2017",
+      "number": "008/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.35,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 52
     },
     {
       "card_id": 18728,
@@ -32019,6 +34851,18 @@
       "total_listings": 83
     },
     {
+      "card_id": 105,
+      "name": "Luxray GL - 2010 (Yuta Komatsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "9/111",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.31,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
       "card_id": 15712,
       "name": "Orthworm - 224/193",
       "set_id": 5500150,
@@ -32103,6 +34947,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 827,
+      "name": "Kingdra - 2011 (Gustavo Wada)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "85/95",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.27,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
       "card_id": 13214,
       "name": "Walking Wake ex",
       "set_id": 5500017,
@@ -32137,6 +34993,18 @@
       "market_price_usd": 6.26,
       "market_price_as_of": "2026-10-09",
       "total_listings": 306
+    },
+    {
+      "card_id": 528,
+      "name": "Mewtwo EX - 2012 (Shuto Itagaki)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "54/99",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.26,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
     },
     {
       "card_id": 4495,
@@ -32247,6 +35115,18 @@
       "total_listings": 86
     },
     {
+      "card_id": 24744,
+      "name": "Dusk Mane Necrozma GX",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "90/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.2,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 93
+    },
+    {
       "card_id": 1948,
       "name": "Blaziken - 2004 (Chris Fulop)",
       "set_id": 5500029,
@@ -32257,6 +35137,18 @@
       "market_price_usd": 6.19,
       "market_price_as_of": "2026-10-23",
       "total_listings": 14
+    },
+    {
+      "card_id": 216,
+      "name": "Dedenne GX - 2019 (Shintaro Ito)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "57/214",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.19,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 5
     },
     {
       "card_id": 22141,
@@ -32463,6 +35355,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 24738,
+      "name": "Lucario",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "67/156",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.14,
+      "market_price_as_of": "2026-10-23",
+      "total_listings": 101
+    },
+    {
       "card_id": 31454,
       "name": "Toxel",
       "set_id": 5500042,
@@ -32473,6 +35377,18 @@
       "market_price_usd": 6.13,
       "market_price_as_of": "2026-10-19",
       "total_listings": 65
+    },
+    {
+      "card_id": 38776,
+      "name": "Pikipek - 11/12",
+      "set_id": 5500145,
+      "set_name": "McDonald's Promos 2017",
+      "number": "011/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.13,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 78
     },
     {
       "card_id": 13950,
@@ -32605,6 +35521,18 @@
       "market_price_usd": 6.09,
       "market_price_as_of": "2026-10-15",
       "total_listings": 114
+    },
+    {
+      "card_id": 24721,
+      "name": "Piplup (32)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "32/156",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.09,
+      "market_price_as_of": "2026-10-23",
+      "total_listings": 115
     },
     {
       "card_id": 6859,
@@ -32751,6 +35679,18 @@
       "total_listings": 458
     },
     {
+      "card_id": 777,
+      "name": "Cyndaquil - 2011 (Christopher Kan)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "61/123",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 6.06,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
+    },
+    {
       "card_id": 13929,
       "name": "Dragonite V - SWSH235",
       "set_id": 5500149,
@@ -32883,6 +35823,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 24754,
+      "name": "Dawn Wings Necrozma GX",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "63/156",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.02,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 92
+    },
+    {
       "card_id": 5945,
       "name": "Latios - 194/264",
       "set_id": 5500194,
@@ -32893,6 +35845,18 @@
       "market_price_usd": 6.02,
       "market_price_as_of": "2026-10-15",
       "total_listings": 17
+    },
+    {
+      "card_id": 1086,
+      "name": "Pokemon Communication - 2010 (Yuta Komatsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "98/123",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 6.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 3
     },
     {
       "card_id": 17109,
@@ -33003,6 +35967,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 952,
+      "name": "Shaymin - 2012 (Zachary Bokhari)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "8/95",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
+    },
+    {
       "card_id": 36706,
       "name": "Bidoof",
       "set_id": 5500218,
@@ -33025,6 +36001,18 @@
       "market_price_usd": 5.98,
       "market_price_as_of": "2026-10-15",
       "total_listings": 162
+    },
+    {
+      "card_id": 970,
+      "name": "Team Magma's Numel - 2004 (Tsuguyoshi Yamato)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "64/95",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.98,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 2
     },
     {
       "card_id": 16257,
@@ -33507,6 +36495,18 @@
       "total_listings": 110
     },
     {
+      "card_id": 542,
+      "name": "Sableye - 2010 (Mychael Bryan)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "48/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.8,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 13
+    },
+    {
       "card_id": 6819,
       "name": "Mega Charizard Y ex - 022/217",
       "set_id": 5500112,
@@ -33819,6 +36819,18 @@
       "total_listings": 73
     },
     {
+      "card_id": 37086,
+      "name": "Alolan Ninetales (17)",
+      "set_id": 5500074,
+      "set_name": "SM Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+      "number": "SM128",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 5.74,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
+    },
+    {
       "card_id": 14266,
       "name": "Ferroseed - 148/086",
       "set_id": 5500153,
@@ -33925,6 +36937,18 @@
       "market_price_usd": 5.72,
       "market_price_as_of": "2026-10-15",
       "total_listings": 306
+    },
+    {
+      "card_id": 741,
+      "name": "Latios GX - 2019 (Henry Brand)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "78/236",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.72,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 4
     },
     {
       "card_id": 100018069,
@@ -34155,6 +37179,18 @@
       "total_listings": 124
     },
     {
+      "card_id": 1393,
+      "name": "Nidoqueen - 2005 (Jeremy Maron)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "9/112",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.62,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 33
+    },
+    {
       "card_id": 18298,
       "name": "Cynthia's Garchomp ex",
       "set_id": 5500070,
@@ -34189,6 +37225,18 @@
       "market_price_usd": 5.62,
       "market_price_as_of": "2026-10-15",
       "total_listings": 13
+    },
+    {
+      "card_id": 1136,
+      "name": "Pidgey - 2006 (Hiroki Yano)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "73/112",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.61,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 15
     },
     {
       "card_id": 13438,
@@ -34491,6 +37539,30 @@
       "total_listings": 74
     },
     {
+      "card_id": 1175,
+      "name": "Hex Maniac - 2017 (Naoto Suzuki)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "75/98",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.54,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 13
+    },
+    {
+      "card_id": 1639,
+      "name": "Rocket's Admin. - 2005 (Takashi Yoneda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "86/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.54,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 5
+    },
+    {
       "card_id": 2133507,
       "name": "Litten - 044",
       "set_id": 5500111,
@@ -34611,6 +37683,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 1751,
+      "name": "Pokemon Retriever - 2006 (Miska Saari)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "84/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.5,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
       "card_id": 18407,
       "name": "Greninja ex - 054",
       "set_id": 5500070,
@@ -34657,6 +37741,18 @@
       "market_price_usd": 5.5,
       "market_price_as_of": "2026-10-21",
       "total_listings": 101
+    },
+    {
+      "card_id": 166,
+      "name": "Gardevoir GX - 2017 (Diego Cassiraga)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "93/147",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.49,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 20
     },
     {
       "card_id": 19755,
@@ -34755,6 +37851,42 @@
       "total_listings": 529
     },
     {
+      "card_id": 231,
+      "name": "Luxray GL - 2009 (Tsubasa Nakamura)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "9/111",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.46,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 19
+    },
+    {
+      "card_id": 26117,
+      "name": "Litleo",
+      "set_id": 5500192,
+      "set_name": "SM - Forbidden Light",
+      "number": "18/131",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.46,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 151
+    },
+    {
+      "card_id": 1064,
+      "name": "Fieldworker - 2007 (Jun Hasebe)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "73/92",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.45,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 3
+    },
+    {
       "card_id": 36062,
       "name": "Type: Null",
       "set_id": 5500083,
@@ -34813,6 +37945,18 @@
       "market_price_usd": 5.43,
       "market_price_as_of": "2026-10-09",
       "total_listings": 85
+    },
+    {
+      "card_id": 1560,
+      "name": "Darkrai EX - 2016 (Shunto Sadahiro)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "74/122",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.43,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
     },
     {
       "card_id": 16231,
@@ -34887,6 +38031,18 @@
       "total_listings": 469
     },
     {
+      "card_id": 24774,
+      "name": "Weavile",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "74/156",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.42,
+      "market_price_as_of": "2026-10-23",
+      "total_listings": 206
+    },
+    {
       "card_id": 847,
       "name": "Uxie - 2010 (Yuta Komatsuda)",
       "set_id": 5500029,
@@ -34935,6 +38091,18 @@
       "total_listings": 189
     },
     {
+      "card_id": 861,
+      "name": "Dedenne GX - 2019 (Henry Brand)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "57/214",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.41,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 17
+    },
+    {
       "card_id": 17914,
       "name": "Code Card - Mewtwo V-UNION Special Collection",
       "set_id": 5500048,
@@ -34981,6 +38149,18 @@
       "market_price_usd": 5.39,
       "market_price_as_of": "2026-10-21",
       "total_listings": 216
+    },
+    {
+      "card_id": 38772,
+      "name": "Alolan Diglett - 9/12",
+      "set_id": 5500145,
+      "set_name": "McDonald's Promos 2017",
+      "number": "009/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.39,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 61
     },
     {
       "card_id": 5488,
@@ -35089,6 +38269,18 @@
       "market_price_usd": 5.37,
       "market_price_as_of": "2026-10-12",
       "total_listings": 240
+    },
+    {
+      "card_id": 1778,
+      "name": "Double Rainbow Energy - 2008 (Dylan Lefavour)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "88/100",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.37,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 14
     },
     {
       "card_id": 36039,
@@ -35211,6 +38403,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 1311,
+      "name": "Warp Point - 2010 (Michael Pramawat)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "88/100",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.35,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
+    },
+    {
       "card_id": 19009,
       "name": "Flannery (Secret)",
       "set_id": 5500170,
@@ -35259,6 +38463,18 @@
       "total_listings": 277
     },
     {
+      "card_id": 540,
+      "name": "Garbodor (51) - 2018 (Magnus Pedersen)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "51/145",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.35,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 10
+    },
+    {
       "card_id": 17259,
       "name": "Finizen",
       "set_id": 5500030,
@@ -35281,6 +38497,18 @@
       "market_price_usd": 5.34,
       "market_price_as_of": "2026-10-21",
       "total_listings": 133
+    },
+    {
+      "card_id": 38778,
+      "name": "Crabrawler - 7/12",
+      "set_id": 5500145,
+      "set_name": "McDonald's Promos 2017",
+      "number": "007/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.34,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 84
     },
     {
       "card_id": 13912,
@@ -35389,6 +38617,18 @@
       "market_price_usd": 5.31,
       "market_price_as_of": "2026-10-23",
       "total_listings": 143
+    },
+    {
+      "card_id": 24872,
+      "name": "Peeking Red Card (Secret Rare)",
+      "set_id": 5500013,
+      "set_name": "SM - Ultra Prism",
+      "number": "169/156",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.31,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 53
     },
     {
       "card_id": 4098,
@@ -35583,6 +38823,18 @@
       "total_listings": 155
     },
     {
+      "card_id": 1903,
+      "name": "Yveltal - 2016 (Shunto Sadahiro)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "65/114",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.26,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
+    },
+    {
       "card_id": 198,
       "name": "Flying Pikachu VMAX - 2022 (Ondrej Skubal)",
       "set_id": 5500029,
@@ -35629,6 +38881,42 @@
       "market_price_usd": 5.26,
       "market_price_as_of": "2026-10-09",
       "total_listings": 506
+    },
+    {
+      "card_id": 1485,
+      "name": "Steven's Advice - 2004 (Chris Fulop)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "92/101",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.25,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 20
+    },
+    {
+      "card_id": 1194,
+      "name": "Crobat G - 2010 (Yuta Komatsuda)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "47/127",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.24,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 7
+    },
+    {
+      "card_id": 1280,
+      "name": "Chansey - 2008 (Paul Atanassov)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "76/123",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.24,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 12
     },
     {
       "card_id": 14442,
@@ -35931,6 +39219,18 @@
       "total_listings": 309
     },
     {
+      "card_id": 38771,
+      "name": "Cutiefly - 10/12",
+      "set_id": 5500145,
+      "set_name": "McDonald's Promos 2017",
+      "number": "010/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.18,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 62
+    },
+    {
       "card_id": 20254,
       "name": "Perrin - 209/167",
       "set_id": 5500051,
@@ -36003,6 +39303,30 @@
       "total_listings": 54
     },
     {
+      "card_id": 637,
+      "name": "Holon Transceiver - 2007 (Akira Miyazaki)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "98/113",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.16,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 4
+    },
+    {
+      "card_id": 1198,
+      "name": "Holon Transceiver - 2007 (Jeremy Scharff-Kim)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "98/113",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.15,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
       "card_id": 21552,
       "name": "Candice (Full Art)",
       "set_id": 5500161,
@@ -36013,6 +39337,18 @@
       "market_price_usd": 5.15,
       "market_price_as_of": "2026-10-15",
       "total_listings": 210
+    },
+    {
+      "card_id": 1288,
+      "name": "N - 2015 (Alejandro Ng-Guzman)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "96/108",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.14,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
     },
     {
       "card_id": 13774,
@@ -36061,6 +39397,18 @@
       "market_price_usd": 5.14,
       "market_price_as_of": "2026-10-09",
       "total_listings": 348
+    },
+    {
+      "card_id": 504,
+      "name": "Zeraora GX - 2019 (Haruki Miyamoto)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "86/214",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.14,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 6
     },
     {
       "card_id": 5456,
@@ -36159,6 +39507,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 1538,
+      "name": "Marshadow - 2019 (Haruki Miyamoto)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "81/214",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.11,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 8
+    },
+    {
       "card_id": 17552,
       "name": "Zamazenta V (Full Art)",
       "set_id": 5500025,
@@ -36181,6 +39541,18 @@
       "market_price_usd": 5.11,
       "market_price_as_of": "2026-10-17",
       "total_listings": 88
+    },
+    {
+      "card_id": 37090,
+      "name": "Alolan Vulpix (29)",
+      "set_id": 5500074,
+      "set_name": "SM Trainer Kit: Alolan Sandslash & Alolan Ninetales",
+      "number": "21/145",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.11,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 22
     },
     {
       "card_id": 2295449,
@@ -36229,6 +39601,30 @@
       "market_price_usd": 5.09,
       "market_price_as_of": "2026-10-15",
       "total_listings": 145
+    },
+    {
+      "card_id": 76,
+      "name": "Scyther - 2008 (Tristan Robinson)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "46/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.09,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
+    },
+    {
+      "card_id": 796,
+      "name": "Dunsparce - 2005 (Michael Gonzalez)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "60/100",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.09,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 34
     },
     {
       "card_id": 13434,
@@ -36339,6 +39735,18 @@
       "total_listings": 525
     },
     {
+      "card_id": 77,
+      "name": "Medicham ex - 2005 (Curran Hill)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "95/106",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.05,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 20
+    },
+    {
       "card_id": 17253,
       "name": "Voltorb",
       "set_id": 5500030,
@@ -36363,6 +39771,18 @@
       "total_listings": 61
     },
     {
+      "card_id": 30,
+      "name": "Landorus EX - 2015 (Rowan Stavenow)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "89/149",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.04,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 21
+    },
+    {
       "card_id": 36263,
       "name": "Altaria GX",
       "set_id": 5500049,
@@ -36385,6 +39805,18 @@
       "market_price_usd": 5.04,
       "market_price_as_of": "2026-10-23",
       "total_listings": 58
+    },
+    {
+      "card_id": 1290,
+      "name": "Plusle - 2006 (Hiroki Yano)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "44/107",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.03,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 15
     },
     {
       "card_id": 19524,
@@ -36567,6 +39999,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 1422,
+      "name": "Pokemon Retriever - 2006 (Jimmy Ballard)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "84/109",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 0
+    },
+    {
       "card_id": 1516,
       "name": "Cynthia's Feelings - 2010 (Mychael Bryan)",
       "set_id": 5500029,
@@ -36577,6 +40021,30 @@
       "market_price_usd": 5.0,
       "market_price_as_of": "2026-10-23",
       "total_listings": 0
+    },
+    {
+      "card_id": 1845,
+      "name": "Windstorm - 2008 (Dylan Lefavour)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "85/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 5
+    },
+    {
+      "card_id": 1846,
+      "name": "Castaway - 2008 (Dylan Lefavour)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "72/100",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 9
     },
     {
       "card_id": 1852,
@@ -36601,6 +40069,30 @@
       "market_price_usd": 5.0,
       "market_price_as_of": "2026-10-18",
       "total_listings": 210
+    },
+    {
+      "card_id": 751,
+      "name": "Shaymin EX - 2015 (Rowan Stavenow)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "77/108",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 11
+    },
+    {
+      "card_id": 807,
+      "name": "Duskull - 2010 (Michael Pramawat)",
+      "set_id": 5500029,
+      "set_name": "World Championship Decks",
+      "number": "86/132",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 3
     }
   ]
 }
