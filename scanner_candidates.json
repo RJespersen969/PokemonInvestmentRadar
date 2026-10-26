@@ -1,19 +1,43 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-25T07:59:00.701391+00:00",
+  "generated_at": "2026-10-26T08:16:18.927198+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 94,
+  "next_set_index": 99,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 11,
-  "total_candidates": 3507,
-  "cards_with_price_history": 16235,
+  "api_calls": 16,
+  "total_candidates": 3892,
+  "cards_with_price_history": 17360,
   "candidates": [
+    {
+      "card_id": 14605,
+      "name": "Eevee & Snorlax GX - SM169",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM169",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 199.83,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 32
+    },
+    {
+      "card_id": 14834,
+      "name": "Raikou - SM150 (Prerelease) (Staff)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM150",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 198.83,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
+    },
     {
       "card_id": 17849,
       "name": "Sylveon V (Alternate Full Art)",
@@ -25,6 +49,18 @@
       "market_price_usd": 196.14,
       "market_price_as_of": "2026-10-18",
       "total_listings": 51
+    },
+    {
+      "card_id": 14593,
+      "name": "Magikarp & Wailord GX",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM166",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 195.95,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 48
     },
     {
       "card_id": 18754,
@@ -315,6 +351,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 14631,
+      "name": "Reshiram & Charizard GX - SM201",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM201",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 177.2,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 109
+    },
+    {
       "card_id": 22378,
       "name": "Pikachu & Zekrom GX (Full Art)",
       "set_id": 5500079,
@@ -459,6 +507,18 @@
       "total_listings": 95
     },
     {
+      "card_id": 14818,
+      "name": "Alolan Sandslash - SM18 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM18",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 165.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 2
+    },
+    {
       "card_id": 6048,
       "name": "Mew V - 113/264",
       "set_id": 5500194,
@@ -543,6 +603,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 12798,
+      "name": "Charizard - 3/110 (WotC Legendary Collection)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "003/110",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 158.64,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
+    },
+    {
       "card_id": 4786,
       "name": "Dragonite (Cosmos Holo)",
       "set_id": 5500123,
@@ -565,6 +637,18 @@
       "market_price_usd": 156.58,
       "market_price_as_of": "2026-10-25",
       "total_listings": 64
+    },
+    {
+      "card_id": 14643,
+      "name": "Venusaur & Snivy GX - SM229",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM229",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 156.08,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 31
     },
     {
       "card_id": 6004,
@@ -711,6 +795,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 14554,
+      "name": "Pikachu - SM162",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM162",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 146.91,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 90
+    },
+    {
       "card_id": 22391,
       "name": "Celebi & Venusaur GX (Secret)",
       "set_id": 5500079,
@@ -759,6 +855,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 14843,
+      "name": "Alolan Raichu - SM72 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM72",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 144.99,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 2
+    },
+    {
       "card_id": 6127,
       "name": "Vaporeon VMAX - 030/203",
       "set_id": 5500194,
@@ -769,6 +877,18 @@
       "market_price_usd": 144.93,
       "market_price_as_of": "2026-10-15",
       "total_listings": 3
+    },
+    {
+      "card_id": 14553,
+      "name": "Moltres & Zapdos & Articuno GX",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM210",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 144.11,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 115
     },
     {
       "card_id": 37501,
@@ -925,6 +1045,18 @@
       "market_price_usd": 140.7,
       "market_price_as_of": "2026-10-18",
       "total_listings": 59
+    },
+    {
+      "card_id": 14797,
+      "name": "Lycanroc - SM118 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM118",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 139.98,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
     },
     {
       "card_id": 100009842,
@@ -1131,6 +1263,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 12873,
+      "name": "Rayquaza - 22/107",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "022/107",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 132.59,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 18
+    },
+    {
       "card_id": 18474,
       "name": "Pikachu - 225 (World Championship 2025) [Winner]",
       "set_id": 5500070,
@@ -1167,6 +1311,18 @@
       "total_listings": 298
     },
     {
+      "card_id": 25068,
+      "name": "Umbreon GX (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "154/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 129.92,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 71
+    },
+    {
       "card_id": 4461,
       "name": "Charmander - 9/108 (Toys R Us Promo)",
       "set_id": 5500123,
@@ -1177,6 +1333,18 @@
       "market_price_usd": 129.23,
       "market_price_as_of": "2026-10-23",
       "total_listings": 21
+    },
+    {
+      "card_id": 14600,
+      "name": "Eevee GX - SM233",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM233",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 129.01,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 101
     },
     {
       "card_id": 7203,
@@ -1309,6 +1477,30 @@
       "market_price_usd": 124.98,
       "market_price_as_of": "2026-10-09",
       "total_listings": 8
+    },
+    {
+      "card_id": 14562,
+      "name": "Espeon & Deoxys GX - SM240",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM240",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 124.62,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 105
+    },
+    {
+      "card_id": 26393,
+      "name": "M Charizard EX (Full Art)",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "101/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 124.59,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 184
     },
     {
       "card_id": 26222,
@@ -1455,6 +1647,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 14727,
+      "name": "Charizard - SM158",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM158",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 118.91,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 18
+    },
+    {
       "card_id": 4074,
       "name": "Ancient Mew",
       "set_id": 5500123,
@@ -1467,6 +1671,18 @@
       "total_listings": 181
     },
     {
+      "card_id": 12901,
+      "name": "Umbreon - 10/90 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "010/090",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 118.51,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 11
+    },
+    {
       "card_id": 885,
       "name": "Jolteon Star - 2007 (Tom Roos)",
       "set_id": 5500029,
@@ -1477,6 +1693,30 @@
       "market_price_usd": 117.67,
       "market_price_as_of": "2026-10-23",
       "total_listings": 7
+    },
+    {
+      "card_id": 14803,
+      "name": "Wash Rotom - SM94 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM94",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 117.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
+    },
+    {
+      "card_id": 14640,
+      "name": "Ash's Pikachu - SM109",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM109",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 116.36,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 70
     },
     {
       "card_id": 21888,
@@ -1659,6 +1899,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 14635,
+      "name": "Shining Lugia - SM82",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM82",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 112.72,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 41
+    },
+    {
       "card_id": 5849,
       "name": "Umbreon V - 094/203",
       "set_id": 5500194,
@@ -1743,6 +1995,18 @@
       "total_listings": 101
     },
     {
+      "card_id": 14855,
+      "name": "Phione - SM220 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM220",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 108.82,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
+    },
+    {
       "card_id": 19557,
       "name": "Muk & Alolan Muk GX (197) (Full Art)",
       "set_id": 5500191,
@@ -1813,6 +2077,18 @@
       "market_price_usd": 106.12,
       "market_price_as_of": "2026-10-23",
       "total_listings": 13
+    },
+    {
+      "card_id": 13048,
+      "name": "Garchomp - 5/147 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "005/147",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 105.81,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 1
     },
     {
       "card_id": 16048,
@@ -1911,6 +2187,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 13029,
+      "name": "Latios - 22/110 (Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "022/110",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 102.8,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 15
+    },
+    {
       "card_id": 13409,
       "name": "Dragapult ex - 165/131",
       "set_id": 5500017,
@@ -1969,6 +2257,18 @@
       "market_price_usd": 102.2,
       "market_price_as_of": "2026-10-09",
       "total_listings": 184
+    },
+    {
+      "card_id": 14618,
+      "name": "Charizard & Braixen GX - SM230",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM230",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 102.09,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 90
     },
     {
       "card_id": 16671,
@@ -2199,6 +2499,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 26300,
+      "name": "Charizard",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "11/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 97.52,
+      "market_price_as_of": "2026-10-25",
+      "total_listings": 272
+    },
+    {
       "card_id": 15660,
       "name": "Raichu - 211/193",
       "set_id": 5500150,
@@ -2209,6 +2521,18 @@
       "market_price_usd": 97.13,
       "market_price_as_of": "2026-10-14",
       "total_listings": 117
+    },
+    {
+      "card_id": 14831,
+      "name": "Drampa - SM21 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM21",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 97.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
     },
     {
       "card_id": 38154,
@@ -2355,6 +2679,18 @@
       "total_listings": 50
     },
     {
+      "card_id": 12675,
+      "name": "Machamp - 8/102 (Base Set Shadowless)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "008/102",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 94.53,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 91
+    },
+    {
       "card_id": 24875,
       "name": "Leafeon GX (Secret Rare)",
       "set_id": 5500013,
@@ -2413,6 +2749,30 @@
       "market_price_usd": 92.8,
       "market_price_as_of": "2026-10-22",
       "total_listings": 37
+    },
+    {
+      "card_id": 14838,
+      "name": "Melmetal - SM181 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM181",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 92.74,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 12
+    },
+    {
+      "card_id": 14807,
+      "name": "Manectric - SM130 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM130",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 92.62,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
     },
     {
       "card_id": 22294,
@@ -2499,6 +2859,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 14571,
+      "name": "Celebi & Venusaur GX - SM167",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM167",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 91.5,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 90
+    },
+    {
       "card_id": 19004,
       "name": "Galarian Rapidash V (Alternate Full Art)",
       "set_id": 5500170,
@@ -2533,6 +2905,18 @@
       "market_price_usd": 90.26,
       "market_price_as_of": "2026-10-11",
       "total_listings": 176
+    },
+    {
+      "card_id": 14781,
+      "name": "Dragonite GX - SM156",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM156",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 90.24,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 33
     },
     {
       "card_id": 21887,
@@ -2787,6 +3171,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 14809,
+      "name": "Shiinotic - SM10 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM10",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 85.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
+    },
+    {
       "card_id": 36101,
       "name": "Lucario GX",
       "set_id": 5500083,
@@ -2905,6 +3301,18 @@
       "market_price_usd": 83.32,
       "market_price_as_of": "2026-10-24",
       "total_listings": 29
+    },
+    {
+      "card_id": 14820,
+      "name": "Delcatty - SM132 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM132",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 82.98,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
     },
     {
       "card_id": 21878,
@@ -3051,6 +3459,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 13025,
+      "name": "Latias - 21/110",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "021/110",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 81.18,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 23
+    },
+    {
       "card_id": 18428,
       "name": "Eevee - 173 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -3120,6 +3540,30 @@
       "printing": "Holofoil",
       "market_price_usd": 80.0,
       "market_price_as_of": "2026-10-23",
+      "total_listings": 3
+    },
+    {
+      "card_id": 14842,
+      "name": "Oranguru - SM13 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM13",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 79.99,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 0
+    },
+    {
+      "card_id": 14849,
+      "name": "Nidoqueen - SM160 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM160",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 79.99,
+      "market_price_as_of": "2026-10-26",
       "total_listings": 3
     },
     {
@@ -3255,6 +3699,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 14853,
+      "name": "Necrozma - SM204 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM204",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 76.74,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
+    },
+    {
       "card_id": 26224,
       "name": "Dialga GX (Secret)",
       "set_id": 5500192,
@@ -3313,6 +3769,30 @@
       "market_price_usd": 76.29,
       "market_price_as_of": "2026-10-09",
       "total_listings": 82
+    },
+    {
+      "card_id": 12733,
+      "name": "Tyranitar - 26/95 (HGSS Unleashed)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "026/095",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 76.12,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 26
+    },
+    {
+      "card_id": 14819,
+      "name": "Registeel - SM75 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM75",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 76.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
     },
     {
       "card_id": 16735,
@@ -3397,6 +3877,18 @@
       "market_price_usd": 74.53,
       "market_price_as_of": "2026-10-23",
       "total_listings": 4
+    },
+    {
+      "card_id": 12784,
+      "name": "Deoxys - 16/107 (EX Deoxys)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "016/107",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 74.21,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
     },
     {
       "card_id": 24415,
@@ -3783,6 +4275,18 @@
       "total_listings": 70
     },
     {
+      "card_id": 14806,
+      "name": "Blacephalon - SM221 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM221",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 70.11,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 7
+    },
+    {
       "card_id": 145,
       "name": "Tropical Beach - 2011 (Ross Cawthon)",
       "set_id": 5500029,
@@ -3807,6 +4311,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 14814,
+      "name": "Amoonguss - SM202 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM202",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 69.95,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
+    },
+    {
       "card_id": 14191,
       "name": "Galarian Perrserker - SWSH008 (Prerelease) [Staff]",
       "set_id": 5500149,
@@ -3817,6 +4333,30 @@
       "market_price_usd": 69.58,
       "market_price_as_of": "2026-10-21",
       "total_listings": 5
+    },
+    {
+      "card_id": 14589,
+      "name": "Lucario & Melmetal GX - SM192",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM192",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 69.25,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 110
+    },
+    {
+      "card_id": 14622,
+      "name": "Charizard - SM226",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM226",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 69.19,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 76
     },
     {
       "card_id": 19556,
@@ -4143,6 +4683,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 14686,
+      "name": "Pikachu - SM98",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM98",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 66.13,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 21
+    },
+    {
       "card_id": 17806,
       "name": "Rayquaza V (Full Art)",
       "set_id": 5500048,
@@ -4263,6 +4815,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 12886,
+      "name": "Ho-Oh - 27/115 (Cosmos Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "027/115",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.21,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 26
+    },
+    {
       "card_id": 4536,
       "name": "Hop's Snorlax - 117/159 (EB Games) (Cosmos Holo)",
       "set_id": 5500123,
@@ -4311,6 +4875,18 @@
       "total_listings": 106
     },
     {
+      "card_id": 12844,
+      "name": "Lugia - 29/115 (EX Unseen Forces)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "029/115",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 64.73,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 26
+    },
+    {
       "card_id": 4411,
       "name": "Greninja ex (GameStop Metal Card)",
       "set_id": 5500123,
@@ -4345,6 +4921,18 @@
       "market_price_usd": 64.61,
       "market_price_as_of": "2026-10-22",
       "total_listings": 117
+    },
+    {
+      "card_id": 26391,
+      "name": "M Blastoise EX (Full Art)",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "102/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 64.45,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 201
     },
     {
       "card_id": 16739,
@@ -4417,6 +5005,18 @@
       "market_price_usd": 64.05,
       "market_price_as_of": "2026-10-21",
       "total_listings": 100
+    },
+    {
+      "card_id": 14829,
+      "name": "Xurkitree - SM116 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM116",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 64.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 4
     },
     {
       "card_id": 4563,
@@ -4585,6 +5185,18 @@
       "market_price_usd": 62.78,
       "market_price_as_of": "2026-10-09",
       "total_listings": 96
+    },
+    {
+      "card_id": 14602,
+      "name": "Mimikyu - SM163",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM163",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 62.47,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 44
     },
     {
       "card_id": 24881,
@@ -4887,6 +5499,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 14642,
+      "name": "Shining Celebi - SM79",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM79",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 60.2,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 39
+    },
+    {
       "card_id": 23005,
       "name": "Arceus V (Alternate Full Art)",
       "set_id": 5500201,
@@ -4897,6 +5521,30 @@
       "market_price_usd": 60.17,
       "market_price_as_of": "2026-10-17",
       "total_listings": 102
+    },
+    {
+      "card_id": 14749,
+      "name": "Eevee GX - SM174",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM174",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 60.16,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 9
+    },
+    {
+      "card_id": 14650,
+      "name": "Ash's Pikachu - SM110",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM110",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 60.13,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 71
     },
     {
       "card_id": 4380,
@@ -5007,6 +5655,18 @@
       "total_listings": 238
     },
     {
+      "card_id": 14796,
+      "name": "Zygarde - SM48 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM48",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 59.25,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 7
+    },
+    {
       "card_id": 5204,
       "name": "Pikachu - SM86 (Build-A-Bear Workshop Exclusive)",
       "set_id": 5500123,
@@ -5055,6 +5715,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 14816,
+      "name": "Passimian - SM12 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM12",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 59.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 10
+    },
+    {
       "card_id": 21894,
       "name": "Alakazam ex - 201/165",
       "set_id": 5500171,
@@ -5065,6 +5737,18 @@
       "market_price_usd": 58.95,
       "market_price_as_of": "2026-10-13",
       "total_listings": 337
+    },
+    {
+      "card_id": 12768,
+      "name": "Espeon - 2/90 (HGSS Undaunted - Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "002/090",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 58.81,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 8
     },
     {
       "card_id": 18499,
@@ -5113,6 +5797,18 @@
       "market_price_usd": 58.5,
       "market_price_as_of": "2026-10-24",
       "total_listings": 9
+    },
+    {
+      "card_id": 14626,
+      "name": "Ash's Pikachu - SM111",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM111",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 58.47,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 75
     },
     {
       "card_id": 13458,
@@ -5209,6 +5905,18 @@
       "market_price_usd": 57.4,
       "market_price_as_of": "2026-10-24",
       "total_listings": 54
+    },
+    {
+      "card_id": 12849,
+      "name": "Dark Blastoise - 4/110 (WotC Legendary Collection)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "004/110",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 57.35,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 39
     },
     {
       "card_id": 4880,
@@ -5439,6 +6147,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 14848,
+      "name": "Malamar - SM117 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM117",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 55.49,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 2
+    },
+    {
       "card_id": 18485,
       "name": "Pawmot - 006 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -5449,6 +6169,30 @@
       "market_price_usd": 55.37,
       "market_price_as_of": "2026-10-14",
       "total_listings": 4
+    },
+    {
+      "card_id": 24993,
+      "name": "Umbreon GX (Full Art)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "142/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 55.3,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 99
+    },
+    {
+      "card_id": 14641,
+      "name": "Ash's Pikachu - SM112",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM112",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 55.16,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 55
     },
     {
       "card_id": 21891,
@@ -5497,6 +6241,18 @@
       "market_price_usd": 54.63,
       "market_price_as_of": "2026-10-16",
       "total_listings": 167
+    },
+    {
+      "card_id": 25076,
+      "name": "Espeon GX (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "152/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.57,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 42
     },
     {
       "card_id": 17816,
@@ -5556,6 +6312,18 @@
       "printing": "Holofoil",
       "market_price_usd": 54.26,
       "market_price_as_of": "2026-10-18",
+      "total_listings": 41
+    },
+    {
+      "card_id": 12898,
+      "name": "Blastoise - 14/100 (EX Crystal Guardians)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "014/100",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.18,
+      "market_price_as_of": "2026-10-26",
       "total_listings": 41
     },
     {
@@ -5643,6 +6411,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 14636,
+      "name": "Umbreon GX - SM36",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM36",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 53.42,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 60
+    },
+    {
       "card_id": 23563,
       "name": "Mega Kangaskhan ex - 182/132",
       "set_id": 5500179,
@@ -5665,6 +6445,18 @@
       "market_price_usd": 53.34,
       "market_price_as_of": "2026-10-23",
       "total_listings": 28
+    },
+    {
+      "card_id": 14563,
+      "name": "Charizard GX - SM60",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM60",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 53.24,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 141
     },
     {
       "card_id": 23562,
@@ -5811,6 +6603,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 14645,
+      "name": "Ash's Pikachu - SM113",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM113",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 52.02,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 76
+    },
+    {
       "card_id": 20785,
       "name": "Sawsbuck - 166/162",
       "set_id": 5500066,
@@ -5845,6 +6649,18 @@
       "market_price_usd": 51.88,
       "market_price_as_of": "2026-10-15",
       "total_listings": 13
+    },
+    {
+      "card_id": 14828,
+      "name": "Heatran - SM96 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM96",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 51.78,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
     },
     {
       "card_id": 24607,
@@ -5905,6 +6721,18 @@
       "market_price_usd": 51.51,
       "market_price_as_of": "2026-10-23",
       "total_listings": 37
+    },
+    {
+      "card_id": 26369,
+      "name": "Dragonite EX (Full Art)",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "106/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 51.45,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 122
     },
     {
       "card_id": 22191,
@@ -6123,6 +6951,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 14817,
+      "name": "Pheromosa - SM115 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM115",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 50.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
+    },
+    {
       "card_id": 36717,
       "name": "Entei V",
       "set_id": 5500218,
@@ -6133,6 +6973,18 @@
       "market_price_usd": 50.0,
       "market_price_as_of": "2026-10-14",
       "total_listings": 143
+    },
+    {
+      "card_id": 14804,
+      "name": "Tapu Lele - SM152 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM152",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 49.99,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 7
     },
     {
       "card_id": 13683,
@@ -6193,6 +7045,18 @@
       "market_price_usd": 49.49,
       "market_price_as_of": "2026-10-15",
       "total_listings": 6
+    },
+    {
+      "card_id": 14840,
+      "name": "Volcanion - SM179 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM179",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 49.44,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 10
     },
     {
       "card_id": 4706,
@@ -6277,6 +7141,30 @@
       "market_price_usd": 49.04,
       "market_price_as_of": "2026-10-09",
       "total_listings": 139
+    },
+    {
+      "card_id": 14811,
+      "name": "Terrakion - SM205 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM205",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 48.95,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 4
+    },
+    {
+      "card_id": 14854,
+      "name": "Tapu Fini - SM203 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM203",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 48.95,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
     },
     {
       "card_id": 2302179,
@@ -6423,6 +7311,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 13020,
+      "name": "Swampert - 27/100 (EX Crystal Guardians)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "027/100",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 48.06,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 29
+    },
+    {
       "card_id": 19559,
       "name": "Dedenne GX (Secret)",
       "set_id": 5500191,
@@ -6555,6 +7455,18 @@
       "total_listings": 176
     },
     {
+      "card_id": 14844,
+      "name": "Fennekin - 15/131 (Toys R' Us Promo)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "15/131",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 47.43,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 4
+    },
+    {
       "card_id": 23241,
       "name": "Mimikyu V (Full Art)",
       "set_id": 5500041,
@@ -6577,6 +7489,18 @@
       "market_price_usd": 47.35,
       "market_price_as_of": "2026-10-21",
       "total_listings": 130
+    },
+    {
+      "card_id": 26337,
+      "name": "Mewtwo EX (Full Art)",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "103/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.34,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 120
     },
     {
       "card_id": 22272,
@@ -6615,6 +7539,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 14596,
+      "name": "Ash's Pikachu - SM114",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM114",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 47.2,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 65
+    },
+    {
       "card_id": 17404,
       "name": "Snorlax VMAX",
       "set_id": 5500025,
@@ -6639,6 +7575,18 @@
       "total_listings": 170
     },
     {
+      "card_id": 12842,
+      "name": "Dark Tyranitar - 20/109 (EX Team Rocket Returns)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "020/109",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.09,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 47
+    },
+    {
       "card_id": 35175,
       "name": "Blastoise",
       "set_id": 5500053,
@@ -6649,6 +7597,18 @@
       "market_price_usd": 47.09,
       "market_price_as_of": "2026-10-12",
       "total_listings": 21
+    },
+    {
+      "card_id": 14658,
+      "name": "Detective Pikachu - SM170 (Stamped)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM170",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 47.06,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 16
     },
     {
       "card_id": 36748,
@@ -6711,6 +7671,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 12730,
+      "name": "Sylveon - 72/111 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "072/111",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 46.77,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
+    },
+    {
       "card_id": 28890,
       "name": "Dragonite VSTAR (Secret)",
       "set_id": 5500021,
@@ -6745,6 +7717,18 @@
       "market_price_usd": 46.53,
       "market_price_as_of": "2026-10-23",
       "total_listings": 22
+    },
+    {
+      "card_id": 12865,
+      "name": "Gyarados - 19/100 (DP Stormfront)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "019/100",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 46.41,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 44
     },
     {
       "card_id": 24824,
@@ -6939,6 +7923,18 @@
       "total_listings": 135
     },
     {
+      "card_id": 14768,
+      "name": "Alolan Raichu - SM72 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM72",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 45.58,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 24
+    },
+    {
       "card_id": 16905,
       "name": "Mega Sableye & Tyranitar GX (Full Art)",
       "set_id": 5500211,
@@ -7093,6 +8089,18 @@
       "market_price_usd": 45.22,
       "market_price_as_of": "2026-10-24",
       "total_listings": 57
+    },
+    {
+      "card_id": 14556,
+      "name": "Reshiram & Charizard GX - SM247",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM247",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 45.18,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 107
     },
     {
       "card_id": 19618,
@@ -7263,6 +8271,18 @@
       "total_listings": 91
     },
     {
+      "card_id": 14743,
+      "name": "Detective Pikachu - SM170",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM170",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 44.57,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 12
+    },
+    {
       "card_id": 38808,
       "name": "Eevee - 11/12",
       "set_id": 5500193,
@@ -7369,6 +8389,18 @@
       "market_price_usd": 44.16,
       "market_price_as_of": "2026-10-09",
       "total_listings": 81
+    },
+    {
+      "card_id": 12726,
+      "name": "Dragonite - 151/236 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "151/236",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.04,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 17
     },
     {
       "card_id": 24295,
@@ -7611,6 +8643,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 24976,
+      "name": "Lillie (Full Art)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "147/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.66,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 156
+    },
+    {
       "card_id": 5597,
       "name": "Mew ex - 151/165",
       "set_id": 5500194,
@@ -7657,6 +8701,18 @@
       "market_price_usd": 42.36,
       "market_price_as_of": "2026-10-09",
       "total_listings": 90
+    },
+    {
+      "card_id": 14837,
+      "name": "Eevee GX - SM176",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM176",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 42.32,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 16
     },
     {
       "card_id": 6102,
@@ -7803,6 +8859,18 @@
       "total_listings": 199
     },
     {
+      "card_id": 14736,
+      "name": "Raikou - SM150 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM150",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 41.76,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 12
+    },
+    {
       "card_id": 18473,
       "name": "Scream Tail - 065 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -7887,6 +8955,18 @@
       "total_listings": 123
     },
     {
+      "card_id": 12810,
+      "name": "Venusaur - 28/100 (EX Crystal Guardians)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "028/100",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.38,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 50
+    },
+    {
       "card_id": 19645,
       "name": "Celebi Prism Star",
       "set_id": 5500141,
@@ -7947,6 +9027,30 @@
       "total_listings": 76
     },
     {
+      "card_id": 12923,
+      "name": "Raichu - 10/123 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "010/123",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.13,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 10
+    },
+    {
+      "card_id": 14734,
+      "name": "Kyogre - SM129 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM129",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 41.07,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 26
+    },
+    {
       "card_id": 14891,
       "name": "Gengar VMAX",
       "set_id": 5500208,
@@ -7983,6 +9087,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 14815,
+      "name": "Celesteela - SM131 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM131",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 41.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
+    },
+    {
       "card_id": 16484,
       "name": "Charizard & Braixen GX",
       "set_id": 5500206,
@@ -7993,6 +9109,18 @@
       "market_price_usd": 41.0,
       "market_price_as_of": "2026-10-21",
       "total_listings": 117
+    },
+    {
+      "card_id": 14852,
+      "name": "Buzzwole - SM218 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM218",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.99,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 6
     },
     {
       "card_id": 7235,
@@ -8041,6 +9169,42 @@
       "market_price_usd": 40.64,
       "market_price_as_of": "2026-10-09",
       "total_listings": 161
+    },
+    {
+      "card_id": 14827,
+      "name": "Mudsdale - SM20 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM20",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.63,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 7
+    },
+    {
+      "card_id": 14612,
+      "name": "Pikachu - SM86",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM86",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.48,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 50
+    },
+    {
+      "card_id": 14779,
+      "name": "Lucario - SM95 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM95",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.47,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 10
     },
     {
       "card_id": 18495,
@@ -8427,6 +9591,30 @@
       "total_listings": 11
     },
     {
+      "card_id": 14836,
+      "name": "Bruxish - SM11 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM11",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.37,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
+    },
+    {
+      "card_id": 14682,
+      "name": "Psyduck - SM199 (Detective Pikachu Stamped)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM199",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.33,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 38
+    },
+    {
       "card_id": 38812,
       "name": "Slowpoke - 5/12",
       "set_id": 5500193,
@@ -8655,6 +9843,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 12667,
+      "name": "Gyarados 21/98",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "021/098",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 38.79,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 58
+    },
+    {
       "card_id": 24430,
       "name": "Underground Expedition (Full Art)",
       "set_id": 5500088,
@@ -8737,6 +9937,18 @@
       "market_price_usd": 38.69,
       "market_price_as_of": "2026-10-22",
       "total_listings": 115
+    },
+    {
+      "card_id": 26319,
+      "name": "M Charizard EX",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "13/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.66,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 238
     },
     {
       "card_id": 18459,
@@ -8967,6 +10179,18 @@
       "total_listings": 274
     },
     {
+      "card_id": 12971,
+      "name": "Feraligatr - 20/123 (Cosmos Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "020/123",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.97,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 23
+    },
+    {
       "card_id": 16512,
       "name": "Koffing (Secret)",
       "set_id": 5500206,
@@ -9123,6 +10347,18 @@
       "total_listings": 158
     },
     {
+      "card_id": 14785,
+      "name": "Eevee GX - SM175",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM175",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 37.08,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 19
+    },
+    {
       "card_id": 38831,
       "name": "Pikachu - 6/12",
       "set_id": 5500203,
@@ -9169,6 +10405,18 @@
       "market_price_usd": 36.87,
       "market_price_as_of": "2026-10-21",
       "total_listings": 50
+    },
+    {
+      "card_id": 14624,
+      "name": "Trevenant & Dusknoir GX - SM217",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM217",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 36.81,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 52
     },
     {
       "card_id": 752,
@@ -9315,6 +10563,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 14821,
+      "name": "Bewear - SM49 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM49",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 36.09,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 8
+    },
+    {
       "card_id": 19650,
       "name": "Lugia GX",
       "set_id": 5500141,
@@ -9435,6 +10695,18 @@
       "total_listings": 60
     },
     {
+      "card_id": 12716,
+      "name": "Glaceon - 20/100 (DP Majestic Dawn)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "020/100",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.65,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 83
+    },
+    {
       "card_id": 26245,
       "name": "Energy Recycler (Secret)",
       "set_id": 5500192,
@@ -9445,6 +10717,18 @@
       "market_price_usd": 35.64,
       "market_price_as_of": "2026-10-24",
       "total_listings": 45
+    },
+    {
+      "card_id": 14778,
+      "name": "Jirachi - SM161",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM161",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 35.62,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 20
     },
     {
       "card_id": 29,
@@ -9529,6 +10813,30 @@
       "market_price_usd": 35.33,
       "market_price_as_of": "2026-10-14",
       "total_listings": 16
+    },
+    {
+      "card_id": 14552,
+      "name": "Pikachu & Zekrom GX - SM248",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM248",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 35.25,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 119
+    },
+    {
+      "card_id": 26303,
+      "name": "Mew",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "53/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.24,
+      "market_price_as_of": "2026-10-25",
+      "total_listings": 199
     },
     {
       "card_id": 2163514,
@@ -9637,6 +10945,18 @@
       "market_price_usd": 34.69,
       "market_price_as_of": "2026-10-24",
       "total_listings": 0
+    },
+    {
+      "card_id": 12783,
+      "name": "Lucario - 14/95 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "014/095",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.68,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 12
     },
     {
       "card_id": 26225,
@@ -9939,6 +11259,18 @@
       "total_listings": 122
     },
     {
+      "card_id": 12706,
+      "name": "Umbreon - 10/90",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "010/090",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 33.87,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 37
+    },
+    {
       "card_id": 2155089,
       "name": "Crobat - 076 [Staff]",
       "set_id": 5500111,
@@ -9973,6 +11305,18 @@
       "market_price_usd": 33.74,
       "market_price_as_of": "2026-10-14",
       "total_listings": 59
+    },
+    {
+      "card_id": 14826,
+      "name": "Seviper - SM46 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM46",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 33.67,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 1
     },
     {
       "card_id": 13719,
@@ -10047,6 +11391,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 14611,
+      "name": "Pikachu - SM81",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM81",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 33.35,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 62
+    },
+    {
       "card_id": 15927,
       "name": "Garchomp ex - 245/182",
       "set_id": 5500212,
@@ -10071,6 +11427,18 @@
       "total_listings": 123
     },
     {
+      "card_id": 14653,
+      "name": "Greninja GX - SM197",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM197",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 33.28,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 97
+    },
+    {
       "card_id": 4472,
       "name": "Eevee - 63/98 (Build-A-Bear Workshop Exclusive)",
       "set_id": 5500123,
@@ -10083,6 +11451,30 @@
       "total_listings": 48
     },
     {
+      "card_id": 13013,
+      "name": "Metagross - 4/95 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "004/095",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.19,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 16
+    },
+    {
+      "card_id": 26386,
+      "name": "M Venusaur EX (Full Art)",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "100/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.08,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 180
+    },
+    {
       "card_id": 100008287,
       "name": "Ditto - 106 (30th Celebration)",
       "set_id": 5500111,
@@ -10093,6 +11485,18 @@
       "market_price_usd": 33.03,
       "market_price_as_of": "2026-10-08",
       "total_listings": 1
+    },
+    {
+      "card_id": 14620,
+      "name": "Pikachu - SM157",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM157",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 33.03,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 46
     },
     {
       "card_id": 4336,
@@ -10191,6 +11595,18 @@
       "total_listings": 114
     },
     {
+      "card_id": 14558,
+      "name": "Snorlax GX - SM05",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM05",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 32.73,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 148
+    },
+    {
       "card_id": 38178,
       "name": "Blaziken VMAX",
       "set_id": 5500197,
@@ -10201,6 +11617,18 @@
       "market_price_usd": 32.63,
       "market_price_as_of": "2026-10-15",
       "total_listings": 180
+    },
+    {
+      "card_id": 12735,
+      "name": "Leafeon - 24/100 (DP Majestic Dawn)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "024/100",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.61,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 57
     },
     {
       "card_id": 13456,
@@ -10251,6 +11679,18 @@
       "total_listings": 64
     },
     {
+      "card_id": 26355,
+      "name": "Misty's Determination (Full Art)",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "108/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.42,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 194
+    },
+    {
       "card_id": 4513,
       "name": "Raikou - 16/132 (Cracked Ice Holo)",
       "set_id": 5500123,
@@ -10287,6 +11727,18 @@
       "total_listings": 118
     },
     {
+      "card_id": 12677,
+      "name": "Lugia - 78/124 (XY Fates Collide)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "078/124",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 32.35,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 21
+    },
+    {
       "card_id": 2119579,
       "name": "Mega Starmie ex - 118/088",
       "set_id": 5500047,
@@ -10297,6 +11749,18 @@
       "market_price_usd": 32.25,
       "market_price_as_of": "2026-10-09",
       "total_listings": 304
+    },
+    {
+      "card_id": 14746,
+      "name": "Crabominable - SM47 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM47",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 32.23,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
     },
     {
       "card_id": 24455,
@@ -10393,6 +11857,18 @@
       "market_price_usd": 31.87,
       "market_price_as_of": "2026-10-23",
       "total_listings": 29
+    },
+    {
+      "card_id": 14699,
+      "name": "Mimikyu - SM99",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM99",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 31.85,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 68
     },
     {
       "card_id": 24439,
@@ -10527,6 +12003,18 @@
       "total_listings": 198
     },
     {
+      "card_id": 12651,
+      "name": "Umbreon - 64/116",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "064/116",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 31.6,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 45
+    },
+    {
       "card_id": 19417,
       "name": "Lucario & Melmetal GX",
       "set_id": 5500191,
@@ -10537,6 +12025,18 @@
       "market_price_usd": 31.59,
       "market_price_as_of": "2026-10-22",
       "total_listings": 64
+    },
+    {
+      "card_id": 12834,
+      "name": "Dialga - 16/106 (Cosmos Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "016/106",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.57,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 32
     },
     {
       "card_id": 15756,
@@ -10743,6 +12243,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 12650,
+      "name": "Pikachu - 28/73 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "028/073",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 30.86,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
+    },
+    {
       "card_id": 37631,
       "name": "Pikachu (Blue Border)",
       "set_id": 5500165,
@@ -10851,6 +12363,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 25043,
+      "name": "Espeon GX (Full Art)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "140/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.58,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 53
+    },
+    {
       "card_id": 1373,
       "name": "Jolteon ex - 2006 (Jimmy Ballard)",
       "set_id": 5500029,
@@ -10885,6 +12409,18 @@
       "market_price_usd": 30.56,
       "market_price_as_of": "2026-10-15",
       "total_listings": 3
+    },
+    {
+      "card_id": 14561,
+      "name": "Mewtwo - SM77",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM77",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 30.51,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 48
     },
     {
       "card_id": 24660,
@@ -10971,6 +12507,30 @@
       "total_listings": 111
     },
     {
+      "card_id": 14628,
+      "name": "Pikachu - SM206",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM206",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 30.26,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 57
+    },
+    {
+      "card_id": 14577,
+      "name": "Ash's Pikachu - SM108",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM108",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 30.23,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 80
+    },
+    {
       "card_id": 18471,
       "name": "Miraidon - 092 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -10983,6 +12543,30 @@
       "total_listings": 18
     },
     {
+      "card_id": 25086,
+      "name": "Lapras GX (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "151/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.14,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 51
+    },
+    {
+      "card_id": 25002,
+      "name": "Ultra Ball (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "161/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.12,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 105
+    },
+    {
       "card_id": 579,
       "name": "Mewtwo - 2009 (David Cohen)",
       "set_id": 5500029,
@@ -10993,6 +12577,18 @@
       "market_price_usd": 30.04,
       "market_price_as_of": "2026-10-24",
       "total_listings": 6
+    },
+    {
+      "card_id": 14839,
+      "name": "Stakataka - SM180 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM180",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.99,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 7
     },
     {
       "card_id": 5045,
@@ -11031,6 +12627,18 @@
       "total_listings": 86
     },
     {
+      "card_id": 14720,
+      "name": "Alolan Meowth - SM51",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM51",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.88,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 37
+    },
+    {
       "card_id": 36747,
       "name": "Simisear VSTAR",
       "set_id": 5500218,
@@ -11053,6 +12661,18 @@
       "market_price_usd": 29.86,
       "market_price_as_of": "2026-10-24",
       "total_listings": 189
+    },
+    {
+      "card_id": 14663,
+      "name": "Espeon GX - SM35",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM35",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.82,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 51
     },
     {
       "card_id": 13735,
@@ -11125,6 +12745,18 @@
       "market_price_usd": 29.45,
       "market_price_as_of": "2026-10-25",
       "total_listings": 61
+    },
+    {
+      "card_id": 12889,
+      "name": "Blastoise - 25/181 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "025/181",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.42,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 18
     },
     {
       "card_id": 13718,
@@ -11209,6 +12841,18 @@
       "market_price_usd": 29.17,
       "market_price_as_of": "2026-10-09",
       "total_listings": 143
+    },
+    {
+      "card_id": 12800,
+      "name": "Mewtwo - 75/214 (SM Unbroken Bonds) (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "075/214",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.16,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 15
     },
     {
       "card_id": 35620,
@@ -11763,6 +13407,18 @@
       "total_listings": 63
     },
     {
+      "card_id": 13057,
+      "name": "Ninetales - 17/95 (Call of Legends)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "017/095",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 27.97,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 21
+    },
+    {
       "card_id": 38112,
       "name": "Mew VMAX (Secret)",
       "set_id": 5500130,
@@ -12147,6 +13803,30 @@
       "total_listings": 272
     },
     {
+      "card_id": 14599,
+      "name": "Detective Pikachu - SM190 (Stamped)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM190",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 27.16,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 70
+    },
+    {
+      "card_id": 14566,
+      "name": "Charizard GX - SM195",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM195",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 27.1,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 208
+    },
+    {
       "card_id": 2295366,
       "name": "2025 World Championship Deck: Riley McKay (Flutter Devo Gardevoir)",
       "set_id": 5500029,
@@ -12253,6 +13933,30 @@
       "market_price_usd": 26.96,
       "market_price_as_of": "2026-10-21",
       "total_listings": 46
+    },
+    {
+      "card_id": 12875,
+      "name": "Charizard - 14/181 (SM Team Up)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "014/181",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.92,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 26
+    },
+    {
+      "card_id": 14567,
+      "name": "Mew - SM215",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM215",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 26.87,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 62
     },
     {
       "card_id": 36098,
@@ -12387,6 +14091,18 @@
       "total_listings": 160
     },
     {
+      "card_id": 12646,
+      "name": "Mewtwo - 51/108 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "051/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.67,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 65
+    },
+    {
       "card_id": 19688,
       "name": "Umbreon",
       "set_id": 5500141,
@@ -12433,6 +14149,18 @@
       "market_price_usd": 26.64,
       "market_price_as_of": "2026-10-09",
       "total_listings": 333
+    },
+    {
+      "card_id": 12680,
+      "name": "Pikachu - 35/108 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "035/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.6,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 61
     },
     {
       "card_id": 4482,
@@ -12541,6 +14269,18 @@
       "market_price_usd": 26.42,
       "market_price_as_of": "2026-10-15",
       "total_listings": 17
+    },
+    {
+      "card_id": 12769,
+      "name": "Ninetales - 15/108 (XY Evolutions) (Non-Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "015/108",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 26.39,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 7
     },
     {
       "card_id": 5061,
@@ -12699,6 +14439,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 12740,
+      "name": "Dark Raichu - 7/110 (WotC Legendary Collection)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "007/110",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 26.1,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 38
+    },
+    {
       "card_id": 19823,
       "name": "Net Ball (Secret)",
       "set_id": 5500141,
@@ -12709,6 +14461,18 @@
       "market_price_usd": 26.02,
       "market_price_as_of": "2026-10-23",
       "total_listings": 41
+    },
+    {
+      "card_id": 14582,
+      "name": "Pikachu GX - SM232",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM232",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 26.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 108
     },
     {
       "card_id": 14401,
@@ -12745,6 +14509,18 @@
       "market_price_usd": 25.85,
       "market_price_as_of": "2026-10-09",
       "total_listings": 151
+    },
+    {
+      "card_id": 12795,
+      "name": "Mew - 53/108 (XY Evolutions)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "053/108",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 25.83,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 28
     },
     {
       "card_id": 2139532,
@@ -12819,6 +14595,18 @@
       "total_listings": 24
     },
     {
+      "card_id": 14716,
+      "name": "Zekrom GX - SM138",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM138",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.7,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 67
+    },
+    {
       "card_id": 17831,
       "name": "Glaceon V (Full Art)",
       "set_id": 5500048,
@@ -12841,6 +14629,18 @@
       "market_price_usd": 25.68,
       "market_price_as_of": "2026-10-17",
       "total_listings": 128
+    },
+    {
+      "card_id": 14793,
+      "name": "Salazzle - SM73 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM73",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.66,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 11
     },
     {
       "card_id": 4771,
@@ -12879,6 +14679,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 14798,
+      "name": "Wash Rotom - SM94 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM94",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.58,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 32
+    },
+    {
       "card_id": 24889,
       "name": "Celesteela GX (Secret Rare)",
       "set_id": 5500013,
@@ -12891,6 +14703,30 @@
       "total_listings": 49
     },
     {
+      "card_id": 12713,
+      "name": "Feraligatr - 20/123 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "020/123",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.54,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 29
+    },
+    {
+      "card_id": 12772,
+      "name": "Tyranitar - 30/100 (DP Stormfront)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "030/100",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.54,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 28
+    },
+    {
       "card_id": 18478,
       "name": "Aegislash - 060 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -12901,6 +14737,18 @@
       "market_price_usd": 25.54,
       "market_price_as_of": "2026-10-14",
       "total_listings": 10
+    },
+    {
+      "card_id": 13030,
+      "name": "Swampert - 11/106 (EX Emerald)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "011/106",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 25.41,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 6
     },
     {
       "card_id": 18469,
@@ -13095,6 +14943,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 14555,
+      "name": "Shining Ho-Oh - SM70",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM70",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.02,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 169
+    },
+    {
       "card_id": 13646,
       "name": "Minccino - 152/086",
       "set_id": 5500093,
@@ -13239,6 +15099,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 12669,
+      "name": "Gengar - 60/162 (XY BREAKthrough)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "060/162",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 24.8,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 60
+    },
+    {
       "card_id": 19567,
       "name": "Pheromosa & Buzzwole GX (191) (Full Art)",
       "set_id": 5500191,
@@ -13261,6 +15133,18 @@
       "market_price_usd": 24.74,
       "market_price_as_of": "2026-10-09",
       "total_listings": 94
+    },
+    {
+      "card_id": 24939,
+      "name": "Umbreon GX",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "80/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.74,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 211
     },
     {
       "card_id": 30147,
@@ -13345,6 +15229,18 @@
       "market_price_usd": 24.58,
       "market_price_as_of": "2026-10-15",
       "total_listings": 43
+    },
+    {
+      "card_id": 12630,
+      "name": "Machamp - 8/102",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "008/102",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 24.57,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 459
     },
     {
       "card_id": 4767,
@@ -13575,6 +15471,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 12823,
+      "name": "Arcanine G - 15/147",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "015/147",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.09,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 37
+    },
+    {
       "card_id": 37468,
       "name": "Jolteon EX - 28a/83",
       "set_id": 5500060,
@@ -13609,6 +15517,30 @@
       "market_price_usd": 24.01,
       "market_price_as_of": "2026-10-22",
       "total_listings": 114
+    },
+    {
+      "card_id": 12762,
+      "name": "Typhlosion - 32/123 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "032/123",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.91,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 41
+    },
+    {
+      "card_id": 14675,
+      "name": "Alolan Marowak GX - SM187",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM187",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.88,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 47
     },
     {
       "card_id": 22722,
@@ -13911,6 +15843,30 @@
       "total_listings": 29
     },
     {
+      "card_id": 14846,
+      "name": "Shiinotic - SM10 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM10",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.24,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 7
+    },
+    {
+      "card_id": 14713,
+      "name": "Pikachu - SM227",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM227",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.21,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 56
+    },
+    {
       "card_id": 36102,
       "name": "Guzma",
       "set_id": 5500083,
@@ -13921,6 +15877,30 @@
       "market_price_usd": 23.15,
       "market_price_as_of": "2026-10-21",
       "total_listings": 65
+    },
+    {
+      "card_id": 14800,
+      "name": "Regirock - 53/111 (Cosmos Holo)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "53/111",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.14,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 3
+    },
+    {
+      "card_id": 12830,
+      "name": "Gengar - 38/111 (Prerelease Kit Exclusive)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "038/111",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 23.13,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
     },
     {
       "card_id": 17830,
@@ -14055,6 +16035,18 @@
       "total_listings": 0
     },
     {
+      "card_id": 14632,
+      "name": "Pikachu - SM234",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM234",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.98,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 90
+    },
+    {
       "card_id": 2155097,
       "name": "Goodra - 077 [Staff]",
       "set_id": 5500111,
@@ -14127,6 +16119,18 @@
       "total_listings": 44
     },
     {
+      "card_id": 13075,
+      "name": "Slowbro - 13/115",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "13/115",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 22.77,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 4
+    },
+    {
       "card_id": 15820,
       "name": "Eiscue - 205/193",
       "set_id": 5500150,
@@ -14173,6 +16177,18 @@
       "market_price_usd": 22.71,
       "market_price_as_of": "2026-10-25",
       "total_listings": 63
+    },
+    {
+      "card_id": 13068,
+      "name": "Feraligatr - 4/115",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "4/115",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 22.7,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 6
     },
     {
       "card_id": 38101,
@@ -14245,6 +16261,18 @@
       "market_price_usd": 22.6,
       "market_price_as_of": "2026-10-25",
       "total_listings": 26
+    },
+    {
+      "card_id": 14665,
+      "name": "Primarina GX - SM39",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM39",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.58,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 66
     },
     {
       "card_id": 35158,
@@ -14403,6 +16431,18 @@
       "total_listings": 39
     },
     {
+      "card_id": 14683,
+      "name": "Bulbasaur - SM198 (In-Store Event Promo)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM198",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.28,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 25
+    },
+    {
       "card_id": 13756,
       "name": "Alomomola - 108/086",
       "set_id": 5500093,
@@ -14461,6 +16501,30 @@
       "market_price_usd": 22.22,
       "market_price_as_of": "2026-10-15",
       "total_listings": 11
+    },
+    {
+      "card_id": 14588,
+      "name": "Mimikyu - SM29",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM29",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.18,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 88
+    },
+    {
+      "card_id": 14721,
+      "name": "Entei - SM219 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM219",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.17,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 26
     },
     {
       "card_id": 22831,
@@ -14713,6 +16777,18 @@
       "market_price_usd": 21.68,
       "market_price_as_of": "2026-10-11",
       "total_listings": 103
+    },
+    {
+      "card_id": 14799,
+      "name": "Alolan Sandslash - SM18 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM18",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.65,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 15
     },
     {
       "card_id": 26239,
@@ -15037,6 +17113,18 @@
       "market_price_usd": 21.1,
       "market_price_as_of": "2026-10-25",
       "total_listings": 67
+    },
+    {
+      "card_id": 14792,
+      "name": "Oranguru - SM13 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM13",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.06,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 10
     },
     {
       "card_id": 21857,
@@ -15483,6 +17571,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 26353,
+      "name": "M Blastoise EX",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "22/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.64,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 215
+    },
+    {
       "card_id": 36730,
       "name": "Lumineon V",
       "set_id": 5500218,
@@ -15591,6 +17691,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 14791,
+      "name": "Regice - 28/111 (Cosmos Holo)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "28/111",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.48,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 6
+    },
+    {
       "card_id": 15965,
       "name": "Iron Valiant ex - 249/182",
       "set_id": 5500212,
@@ -15687,6 +17799,18 @@
       "total_listings": 33
     },
     {
+      "card_id": 12960,
+      "name": "Arcanine - 1/123 (HeartGold & SoulSilver)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "001/123",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 20.26,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 27
+    },
+    {
       "card_id": 18743,
       "name": "Ethan's Ho-Oh ex - 239/182",
       "set_id": 5500009,
@@ -15709,6 +17833,18 @@
       "market_price_usd": 20.22,
       "market_price_as_of": "2026-10-22",
       "total_listings": 34
+    },
+    {
+      "card_id": 14570,
+      "name": "Pikachu - SM76",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM76",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.21,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 127
     },
     {
       "card_id": 4566,
@@ -15757,6 +17893,18 @@
       "market_price_usd": 20.18,
       "market_price_as_of": "2026-10-23",
       "total_listings": 9
+    },
+    {
+      "card_id": 14557,
+      "name": "Blastoise GX - SM189",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM189",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.17,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 100
     },
     {
       "card_id": 1468,
@@ -15829,6 +17977,18 @@
       "market_price_usd": 20.14,
       "market_price_as_of": "2026-10-21",
       "total_listings": 122
+    },
+    {
+      "card_id": 12744,
+      "name": "Glaceon - 23/116 (BW Plasma Freeze)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "023/116",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.13,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 36
     },
     {
       "card_id": 15628,
@@ -16047,6 +18207,18 @@
       "total_listings": 50
     },
     {
+      "card_id": 12986,
+      "name": "Nidoking - 6/102 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "006/102",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.91,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 19
+    },
+    {
       "card_id": 27794,
       "name": "Mega Charizard X ex - 109/094",
       "set_id": 5500152,
@@ -16105,6 +18277,18 @@
       "market_price_usd": 19.84,
       "market_price_as_of": "2026-10-12",
       "total_listings": 123
+    },
+    {
+      "card_id": 14724,
+      "name": "Bulbasaur - SM198 (Detective Pikachu Stamped)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM198",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.83,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 52
     },
     {
       "card_id": 203,
@@ -16237,6 +18421,18 @@
       "market_price_usd": 19.7,
       "market_price_as_of": "2026-10-09",
       "total_listings": 304
+    },
+    {
+      "card_id": 12904,
+      "name": "Typhlosion - 17/115 (EX Unseen Forces)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "017/115",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 19.69,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 43
     },
     {
       "card_id": 14071,
@@ -16539,6 +18735,30 @@
       "total_listings": 66
     },
     {
+      "card_id": 14847,
+      "name": "Oricorio - SM19 (Prerelease) [Staff]",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM19",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.33,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 9
+    },
+    {
+      "card_id": 25092,
+      "name": "Solgaleo GX (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "155/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.32,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 53
+    },
+    {
       "card_id": 19616,
       "name": "Dedenne (142)",
       "set_id": 5500141,
@@ -16549,6 +18769,18 @@
       "market_price_usd": 19.3,
       "market_price_as_of": "2026-10-23",
       "total_listings": 102
+    },
+    {
+      "card_id": 14692,
+      "name": "Deoxys - SM164",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM164",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.29,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 46
     },
     {
       "card_id": 20798,
@@ -16573,6 +18805,18 @@
       "market_price_usd": 19.28,
       "market_price_as_of": "2026-10-19",
       "total_listings": 113
+    },
+    {
+      "card_id": 14574,
+      "name": "Eevee GX - SM242",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM242",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.27,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 87
     },
     {
       "card_id": 1535,
@@ -16971,6 +19215,18 @@
       "total_listings": 275
     },
     {
+      "card_id": 14575,
+      "name": "Mewtwo GX - SM196",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM196",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.74,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 136
+    },
+    {
       "card_id": 15614,
       "name": "Floragato - 197/193",
       "set_id": 5500150,
@@ -16983,6 +19239,18 @@
       "total_listings": 143
     },
     {
+      "card_id": 12792,
+      "name": "Palkia - 26/106 (Cosmos Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "026/106",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.68,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 37
+    },
+    {
       "card_id": 27842,
       "name": "Dawn - 129/094",
       "set_id": 5500152,
@@ -16993,6 +19261,18 @@
       "market_price_usd": 18.63,
       "market_price_as_of": "2026-10-09",
       "total_listings": 403
+    },
+    {
+      "card_id": 26315,
+      "name": "Charizard EX",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "12/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.62,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 173
     },
     {
       "card_id": 36104,
@@ -17091,6 +19371,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 12752,
+      "name": "Leafeon - 11/116 (BW Plasma Freeze)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "011/116",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.46,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 33
+    },
+    {
       "card_id": 14536,
       "name": "Dewott (Master Ball Pattern)",
       "set_id": 5500153,
@@ -17149,6 +19441,18 @@
       "market_price_usd": 18.39,
       "market_price_as_of": "2026-10-10",
       "total_listings": 161
+    },
+    {
+      "card_id": 12658,
+      "name": "Charizard - 25/185 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "025/185",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.34,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 13
     },
     {
       "card_id": 35184,
@@ -17271,6 +19575,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 14652,
+      "name": "Ho-Oh GX - SM80",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM80",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.21,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 80
+    },
+    {
       "card_id": 23465,
       "name": "Vulpix - 138/132",
       "set_id": 5500179,
@@ -17353,6 +19669,18 @@
       "market_price_usd": 18.11,
       "market_price_as_of": "2026-10-23",
       "total_listings": 16
+    },
+    {
+      "card_id": 14833,
+      "name": "Drampa - SM21 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM21",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.06,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 13
     },
     {
       "card_id": 36049,
@@ -17583,6 +19911,30 @@
       "total_listings": 147
     },
     {
+      "card_id": 14754,
+      "name": "Zapdos - SM159 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM159",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.83,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 31
+    },
+    {
+      "card_id": 14639,
+      "name": "Lucario GX - SM100",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM100",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.81,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 95
+    },
+    {
       "card_id": 16766,
       "name": "Pikachu (56)",
       "set_id": 5500211,
@@ -17593,6 +19945,18 @@
       "market_price_usd": 17.8,
       "market_price_as_of": "2026-10-22",
       "total_listings": 254
+    },
+    {
+      "card_id": 12754,
+      "name": "Vileplume - 045/165",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "045/165",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 17.79,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 29
     },
     {
       "card_id": 22182,
@@ -17643,6 +20007,18 @@
       "total_listings": 120
     },
     {
+      "card_id": 14706,
+      "name": "Salamence GX - SM139",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM139",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.68,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 36
+    },
+    {
       "card_id": 2299721,
       "name": "Bastiodon - 085 [Staff]",
       "set_id": 5500111,
@@ -17653,6 +20029,18 @@
       "market_price_usd": 17.68,
       "market_price_as_of": "2026-10-09",
       "total_listings": 28
+    },
+    {
+      "card_id": 25080,
+      "name": "Lunala GX (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "153/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.68,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 43
     },
     {
       "card_id": 14434,
@@ -17677,6 +20065,18 @@
       "market_price_usd": 17.64,
       "market_price_as_of": "2026-10-14",
       "total_listings": 320
+    },
+    {
+      "card_id": 14738,
+      "name": "Suicune - SM149 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM149",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.63,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 48
     },
     {
       "card_id": 16234,
@@ -17787,6 +20187,18 @@
       "total_listings": 36
     },
     {
+      "card_id": 14595,
+      "name": "Mewtwo - SM214",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM214",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.57,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 50
+    },
+    {
       "card_id": 19617,
       "name": "Alolan Dugtrio",
       "set_id": 5500141,
@@ -17797,6 +20209,18 @@
       "market_price_usd": 17.54,
       "market_price_as_of": "2026-10-23",
       "total_listings": 108
+    },
+    {
+      "card_id": 14672,
+      "name": "Zygarde GX - SM122",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM122",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.52,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 79
     },
     {
       "card_id": 5587,
@@ -18195,6 +20619,18 @@
       "total_listings": 75
     },
     {
+      "card_id": 14693,
+      "name": "Kingdra GX - SM155",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM155",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.13,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 42
+    },
+    {
       "card_id": 36085,
       "name": "Guzzlord GX",
       "set_id": 5500083,
@@ -18205,6 +20641,18 @@
       "market_price_usd": 17.13,
       "market_price_as_of": "2026-10-21",
       "total_listings": 65
+    },
+    {
+      "card_id": 14616,
+      "name": "Latios - SM88",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM88",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.12,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 71
     },
     {
       "card_id": 38,
@@ -18229,6 +20677,18 @@
       "market_price_usd": 17.12,
       "market_price_as_of": "2026-10-23",
       "total_listings": 18
+    },
+    {
+      "card_id": 14705,
+      "name": "Incineroar GX - SM38",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM38",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.1,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 63
     },
     {
       "card_id": 14510,
@@ -18279,6 +20739,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 14759,
+      "name": "Lycanroc - SM118 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM118",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.03,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 20
+    },
+    {
       "card_id": 248,
       "name": "Oracle - 2004 (Chris Fulop)",
       "set_id": 5500029,
@@ -18289,6 +20761,18 @@
       "market_price_usd": 17.01,
       "market_price_as_of": "2026-10-23",
       "total_listings": 7
+    },
+    {
+      "card_id": 14718,
+      "name": "Registeel - 68/111 (Cosmos Holo)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "68/111",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 1
     },
     {
       "card_id": 18299,
@@ -18411,6 +20895,18 @@
       "total_listings": 164
     },
     {
+      "card_id": 26306,
+      "name": "Mewtwo EX",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "52/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.85,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 87
+    },
+    {
       "card_id": 14537,
       "name": "Accelgor (Master Ball Pattern)",
       "set_id": 5500153,
@@ -18457,6 +20953,18 @@
       "market_price_usd": 16.79,
       "market_price_as_of": "2026-10-24",
       "total_listings": 176
+    },
+    {
+      "card_id": 14637,
+      "name": "Latias - SM87",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM87",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.78,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 66
     },
     {
       "card_id": 1899,
@@ -18529,6 +21037,18 @@
       "market_price_usd": 16.73,
       "market_price_as_of": "2026-10-18",
       "total_listings": 80
+    },
+    {
+      "card_id": 12982,
+      "name": "Zoroark - 71/108 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "071/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.71,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 27
     },
     {
       "card_id": 13654,
@@ -18795,6 +21315,18 @@
       "total_listings": 61
     },
     {
+      "card_id": 12812,
+      "name": "Emboar - 27/113 (Legendary Treasures)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "027/113",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 16.48,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 25
+    },
+    {
       "card_id": 18607,
       "name": "Team Rocket's Mewtwo ex - 213/182",
       "set_id": 5500009,
@@ -18963,6 +21495,18 @@
       "total_listings": 205
     },
     {
+      "card_id": 12778,
+      "name": "Gardevoir - 9/108 (EX Power Keepers)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "009/108",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 16.3,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 46
+    },
+    {
       "card_id": 13829,
       "name": "Amoonguss (Master Ball Pattern)",
       "set_id": 5500093,
@@ -19059,6 +21603,18 @@
       "total_listings": 74
     },
     {
+      "card_id": 12728,
+      "name": "Greninja - 40/122 (XY BREAKpoint)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "040/122",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.2,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 60
+    },
+    {
       "card_id": 4483,
       "name": "Pikachu - 018/091 (Reverse Cosmos Holo)",
       "set_id": 5500123,
@@ -19143,6 +21699,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 14564,
+      "name": "Pikachu - SM183",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM183",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.15,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 85
+    },
+    {
       "card_id": 20790,
       "name": "Reuniclus - 171/162",
       "set_id": 5500066,
@@ -19153,6 +21721,18 @@
       "market_price_usd": 16.12,
       "market_price_as_of": "2026-10-12",
       "total_listings": 93
+    },
+    {
+      "card_id": 25089,
+      "name": "Tauros GX (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "156/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.11,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 48
     },
     {
       "card_id": 30143,
@@ -19177,6 +21757,30 @@
       "market_price_usd": 16.08,
       "market_price_as_of": "2026-10-12",
       "total_listings": 44
+    },
+    {
+      "card_id": 12845,
+      "name": "Espeon - 2/90 (HGSS Undaunted)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "002/090",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 16.06,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
+    },
+    {
+      "card_id": 12839,
+      "name": "Typhlosion - 32/123 (Cosmos Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "032/123",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.05,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 38
     },
     {
       "card_id": 26925,
@@ -19407,6 +22011,30 @@
       "total_listings": 257
     },
     {
+      "card_id": 14782,
+      "name": "Persian - SM182 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM182",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.84,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 24
+    },
+    {
+      "card_id": 12724,
+      "name": "Electivire - 25/132 (Cosmos Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "025/132",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.83,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 74
+    },
+    {
       "card_id": 13938,
       "name": "Espeon - SWSH174",
       "set_id": 5500149,
@@ -19417,6 +22045,18 @@
       "market_price_usd": 15.83,
       "market_price_as_of": "2026-10-21",
       "total_listings": 97
+    },
+    {
+      "card_id": 14662,
+      "name": "Alolan Sandslash GX - SM236",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM236",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.82,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 33
     },
     {
       "card_id": 17168,
@@ -19573,6 +22213,18 @@
       "market_price_usd": 15.73,
       "market_price_as_of": "2026-10-15",
       "total_listings": 7
+    },
+    {
+      "card_id": 14719,
+      "name": "Solgaleo GX - SM104",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM104",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.72,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 47
     },
     {
       "card_id": 21132,
@@ -19851,6 +22503,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 14783,
+      "name": "Bewear - SM49 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM49",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.5,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 16
+    },
+    {
       "card_id": 14131,
       "name": "Houndoom - SWSH090 (Prerelease)",
       "set_id": 5500149,
@@ -20019,6 +22683,18 @@
       "total_listings": 229
     },
     {
+      "card_id": 14704,
+      "name": "Articuno - SM144",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM144",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.4,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 41
+    },
+    {
       "card_id": 20744,
       "name": "Grotle - 164/162",
       "set_id": 5500066,
@@ -20101,6 +22777,18 @@
       "market_price_usd": 15.31,
       "market_price_as_of": "2026-10-25",
       "total_listings": 50
+    },
+    {
+      "card_id": 14790,
+      "name": "Zygarde - SM48 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM48",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.3,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 17
     },
     {
       "card_id": 21394,
@@ -20235,6 +22923,18 @@
       "total_listings": 113
     },
     {
+      "card_id": 12731,
+      "name": "Raichu - 49/162 (XY BREAKthrough) (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "049/162",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.19,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 29
+    },
+    {
       "card_id": 14371,
       "name": "Vanillite - 111/086",
       "set_id": 5500153,
@@ -20331,6 +23031,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 14760,
+      "name": "White Kyurem GX - SM141",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM141",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.12,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 48
+    },
+    {
       "card_id": 37479,
       "name": "Slowking - 21/122 (Cosmos Holo)",
       "set_id": 5500060,
@@ -20377,6 +23089,18 @@
       "market_price_usd": 15.02,
       "market_price_as_of": "2026-10-18",
       "total_listings": 187
+    },
+    {
+      "card_id": 12753,
+      "name": "Rampardos - 33/123 (Cosmos Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "033/123",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.01,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 72
     },
     {
       "card_id": 20149,
@@ -20523,6 +23247,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 14586,
+      "name": "Lunala GX - SM103a",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM103a",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.9,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 62
+    },
+    {
       "card_id": 36704,
       "name": "Ditto",
       "set_id": 5500218,
@@ -20557,6 +23293,18 @@
       "market_price_usd": 14.85,
       "market_price_as_of": "2026-10-11",
       "total_listings": 214
+    },
+    {
+      "card_id": 12699,
+      "name": "Blastoise - 16/101 (BW Plasma Blast)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "016/101",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 14.8,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 61
     },
     {
       "card_id": 1505,
@@ -20679,6 +23427,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 12694,
+      "name": "Dragonite - 52/108 (XY Roaring Skies)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "052/108",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 14.74,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 34
+    },
+    {
       "card_id": 19610,
       "name": "Phanpy",
       "set_id": 5500141,
@@ -20751,6 +23511,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 26291,
+      "name": "Mewtwo",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "51/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.71,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 458
+    },
+    {
       "card_id": 28870,
       "name": "Spinarak (Peelable Ditto)",
       "set_id": 5500021,
@@ -20785,6 +23557,18 @@
       "market_price_usd": 14.7,
       "market_price_as_of": "2026-10-18",
       "total_listings": 85
+    },
+    {
+      "card_id": 25020,
+      "name": "Psychic Energy (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "162/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.7,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 71
     },
     {
       "card_id": 22352,
@@ -20967,6 +23751,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 12833,
+      "name": "Groudon - 113/236 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "113/236",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.54,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 24
+    },
+    {
       "card_id": 15706,
       "name": "Tropius - 195/193",
       "set_id": 5500150,
@@ -21087,6 +23883,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 12652,
+      "name": "Eevee - 155/214 (Let's Play, Eevee!) (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "155/214",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 14.42,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 23
+    },
+    {
       "card_id": 16701,
       "name": "Flygon GX (Full Art)",
       "set_id": 5500206,
@@ -21145,6 +23953,18 @@
       "market_price_usd": 14.38,
       "market_price_as_of": "2026-10-13",
       "total_listings": 297
+    },
+    {
+      "card_id": 25073,
+      "name": "Lurantis GX (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "150/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.38,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 61
     },
     {
       "card_id": 30131,
@@ -21219,6 +24039,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 14669,
+      "name": "Eevee - SM235",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM235",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.33,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 73
+    },
+    {
       "card_id": 23551,
       "name": "Lt. Surge's Bargain - 185/132",
       "set_id": 5500179,
@@ -21267,6 +24099,18 @@
       "total_listings": 605
     },
     {
+      "card_id": 14573,
+      "name": "Flareon GX - SM171",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM171",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.26,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 94
+    },
+    {
       "card_id": 36060,
       "name": "Lycanroc GX (SV66)",
       "set_id": 5500083,
@@ -21277,6 +24121,18 @@
       "market_price_usd": 14.25,
       "market_price_as_of": "2026-10-21",
       "total_listings": 61
+    },
+    {
+      "card_id": 14745,
+      "name": "Zapdos - SM145",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM145",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.24,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 45
     },
     {
       "card_id": 38156,
@@ -21363,6 +24219,30 @@
       "total_listings": 38
     },
     {
+      "card_id": 14583,
+      "name": "Eevee - SM184 (Cosmos Holo)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM184",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.19,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 57
+    },
+    {
+      "card_id": 14735,
+      "name": "Xurkitree GX - SM68",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM68",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.19,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 44
+    },
+    {
       "card_id": 38188,
       "name": "Zeraora V",
       "set_id": 5500197,
@@ -21399,6 +24279,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 14775,
+      "name": "Pikachu - SM04",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM04",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.14,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 14
+    },
+    {
       "card_id": 18986,
       "name": "Metagross VMAX (Secret)",
       "set_id": 5500170,
@@ -21409,6 +24301,18 @@
       "market_price_usd": 14.14,
       "market_price_as_of": "2026-10-18",
       "total_listings": 57
+    },
+    {
+      "card_id": 14763,
+      "name": "Phione - SM220 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM220",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.12,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 32
     },
     {
       "card_id": 15732,
@@ -21433,6 +24337,18 @@
       "market_price_usd": 14.11,
       "market_price_as_of": "2026-10-17",
       "total_listings": 138
+    },
+    {
+      "card_id": 14708,
+      "name": "Pheromosa GX - SM66",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM66",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.1,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 42
     },
     {
       "card_id": 19349,
@@ -21855,6 +24771,18 @@
       "total_listings": 71
     },
     {
+      "card_id": 26370,
+      "name": "M Pidgeot EX (Full Art)",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "105/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.79,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 207
+    },
+    {
       "card_id": 13372,
       "name": "Cornerstone Mask Ogerpon ex - 160/131",
       "set_id": 5500017,
@@ -21903,6 +24831,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 14773,
+      "name": "Lunala GX - SM103",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM103",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.72,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
+    },
+    {
       "card_id": 14323,
       "name": "Mienfoo - 133/086",
       "set_id": 5500153,
@@ -21937,6 +24877,18 @@
       "market_price_usd": 13.69,
       "market_price_as_of": "2026-10-09",
       "total_listings": 31
+    },
+    {
+      "card_id": 12707,
+      "name": "Dark Marowak - 7/109 (EX Team Rocket Returns)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "007/109",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 13.66,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 58
     },
     {
       "card_id": 14073,
@@ -22009,6 +24961,18 @@
       "market_price_usd": 13.62,
       "market_price_as_of": "2026-10-09",
       "total_listings": 101
+    },
+    {
+      "card_id": 14784,
+      "name": "Registeel - SM75 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM75",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.59,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 15
     },
     {
       "card_id": 4879,
@@ -22431,6 +25395,18 @@
       "total_listings": 75
     },
     {
+      "card_id": 12894,
+      "name": "Mightyena - 18/108 (Cosmos Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "018/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.23,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
+    },
+    {
       "card_id": 16532,
       "name": "Sylveon",
       "set_id": 5500206,
@@ -22513,6 +25489,18 @@
       "market_price_usd": 13.15,
       "market_price_as_of": "2026-10-09",
       "total_listings": 27
+    },
+    {
+      "card_id": 25039,
+      "name": "Metal Energy (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "163/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.14,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
     },
     {
       "card_id": 14273,
@@ -22803,6 +25791,18 @@
       "total_listings": 407
     },
     {
+      "card_id": 12709,
+      "name": "Team Aqua's Kyogre - 3/95 (EX Team Magma vs Team Aqua)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "003/095",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 12.95,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 58
+    },
+    {
       "card_id": 13818,
       "name": "Bisharp (Master Ball Pattern)",
       "set_id": 5500093,
@@ -23007,6 +26007,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 14766,
+      "name": "Pikachu - SM04 (Target Non-Holo)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM04",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 12.81,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 25
+    },
+    {
       "card_id": 28885,
       "name": "Melmetal VMAX (Secret)",
       "set_id": 5500021,
@@ -23065,6 +26077,18 @@
       "market_price_usd": 12.78,
       "market_price_as_of": "2026-10-15",
       "total_listings": 17
+    },
+    {
+      "card_id": 12975,
+      "name": "Swampert - 35/168 (SM Celestial Storm)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "035/168",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.77,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 10
     },
     {
       "card_id": 36103,
@@ -23149,6 +26173,18 @@
       "market_price_usd": 12.71,
       "market_price_as_of": "2026-10-23",
       "total_listings": 20
+    },
+    {
+      "card_id": 12963,
+      "name": "Milotic C - 35/147 (DPPt Supreme Victors)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "035/147",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.7,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 50
     },
     {
       "card_id": 2301803,
@@ -23355,6 +26391,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 14748,
+      "name": "Salamence - SM140",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM140",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.59,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 28
+    },
+    {
       "card_id": 20769,
       "name": "Chatot - 181/162",
       "set_id": 5500066,
@@ -23511,6 +26559,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 26350,
+      "name": "M Venusaur EX",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "2/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.49,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 265
+    },
+    {
       "card_id": 25239,
       "name": "Terapagos ex - 173/142",
       "set_id": 5500045,
@@ -23523,6 +26583,18 @@
       "total_listings": 165
     },
     {
+      "card_id": 12851,
+      "name": "Garchomp - 99/156 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "099/156",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.47,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 23
+    },
+    {
       "card_id": 36746,
       "name": "Hisuian Samurott VSTAR",
       "set_id": 5500218,
@@ -23533,6 +26605,18 @@
       "market_price_usd": 12.47,
       "market_price_as_of": "2026-10-14",
       "total_listings": 168
+    },
+    {
+      "card_id": 14664,
+      "name": "Blacephalon - SM221 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM221",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.46,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 18
     },
     {
       "card_id": 37,
@@ -23761,6 +26845,18 @@
       "market_price_usd": 12.35,
       "market_price_as_of": "2026-10-10",
       "total_listings": 94
+    },
+    {
+      "card_id": 14711,
+      "name": "Latias - SM135",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM135",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.35,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 56
     },
     {
       "card_id": 1042,
@@ -24049,6 +27145,18 @@
       "market_price_usd": 12.15,
       "market_price_as_of": "2026-10-11",
       "total_listings": 209
+    },
+    {
+      "card_id": 26296,
+      "name": "Surfing Pikachu",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "111/108",
+      "rarity": "Secret Rare",
+      "printing": "Normal",
+      "market_price_usd": 12.15,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 179
     },
     {
       "card_id": 38813,
@@ -24723,6 +27831,18 @@
       "total_listings": 243
     },
     {
+      "card_id": 26320,
+      "name": "Dragonite EX",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "72/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.74,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 108
+    },
+    {
       "card_id": 17243,
       "name": "Ceruledge - 162/091",
       "set_id": 5500030,
@@ -24807,6 +27927,18 @@
       "total_listings": 138
     },
     {
+      "card_id": 12860,
+      "name": "Steelix - 24/95 (HGSS Unleashed)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "024/095",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.7,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 31
+    },
+    {
       "card_id": 37638,
       "name": "Arcanine",
       "set_id": 5500165,
@@ -24877,6 +28009,18 @@
       "market_price_usd": 11.68,
       "market_price_as_of": "2026-10-23",
       "total_listings": 14
+    },
+    {
+      "card_id": 14569,
+      "name": "Solgaleo GX - SM104a",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM104a",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.67,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 74
     },
     {
       "card_id": 18069,
@@ -25069,6 +28213,18 @@
       "market_price_usd": 11.58,
       "market_price_as_of": "2026-10-21",
       "total_listings": 26
+    },
+    {
+      "card_id": 14732,
+      "name": "Latios - SM136",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM136",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.58,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 38
     },
     {
       "card_id": 18235,
@@ -25287,6 +28443,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 12953,
+      "name": "Swampert - 12/147 (DPPt Supreme Victors)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "012/147",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 11.48,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
+    },
+    {
       "card_id": 16808,
       "name": "Relicanth",
       "set_id": 5500211,
@@ -25297,6 +28465,18 @@
       "market_price_usd": 11.48,
       "market_price_as_of": "2026-10-22",
       "total_listings": 89
+    },
+    {
+      "card_id": 14739,
+      "name": "Ultra Necrozma GX - SM126",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM126",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.47,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 71
     },
     {
       "card_id": 17444,
@@ -25345,6 +28525,18 @@
       "market_price_usd": 11.45,
       "market_price_as_of": "2026-10-21",
       "total_listings": 46
+    },
+    {
+      "card_id": 12838,
+      "name": "Lucario - 14/95 (Call of Legends)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "014/095",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 11.44,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 23
     },
     {
       "card_id": 14534,
@@ -25635,6 +28827,18 @@
       "total_listings": 258
     },
     {
+      "card_id": 14740,
+      "name": "Moltres - SM143",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM143",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.28,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 50
+    },
+    {
       "card_id": 17673,
       "name": "Jolteon VMAX",
       "set_id": 5500048,
@@ -25707,6 +28911,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 14603,
+      "name": "Raichu GX - SM90",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM90",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.24,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 94
+    },
+    {
       "card_id": 14014,
       "name": "Zacian V - SWSH076",
       "set_id": 5500149,
@@ -25767,6 +28983,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 14579,
+      "name": "Detective Pikachu - SM194",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM194",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.19,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 98
+    },
+    {
       "card_id": 21379,
       "name": "Machamp V (Full Art)",
       "set_id": 5500099,
@@ -25791,6 +29019,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 14604,
+      "name": "Vaporeon GX - SM172",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM172",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.18,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 76
+    },
+    {
       "card_id": 17877,
       "name": "Metal Energy (Secret)",
       "set_id": 5500048,
@@ -25801,6 +29041,18 @@
       "market_price_usd": 11.18,
       "market_price_as_of": "2026-10-18",
       "total_listings": 108
+    },
+    {
+      "card_id": 12801,
+      "name": "Venusaur (Secret Wonders)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "020/132",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 11.17,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 65
     },
     {
       "card_id": 14513,
@@ -25837,6 +29089,18 @@
       "market_price_usd": 11.12,
       "market_price_as_of": "2026-10-12",
       "total_listings": 130
+    },
+    {
+      "card_id": 12962,
+      "name": "Meganium - 26/123 (Cosmos Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "026/123",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.11,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 27
     },
     {
       "card_id": 36090,
@@ -25945,6 +29209,18 @@
       "market_price_usd": 11.06,
       "market_price_as_of": "2026-10-09",
       "total_listings": 25
+    },
+    {
+      "card_id": 14712,
+      "name": "Reshiram GX - SM137",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM137",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.06,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 54
     },
     {
       "card_id": 15780,
@@ -26079,6 +29355,18 @@
       "total_listings": 136
     },
     {
+      "card_id": 24992,
+      "name": "Lapras GX (Full Art)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "139/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.93,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 96
+    },
+    {
       "card_id": 818,
       "name": "Professor Elm's Training Method - 2004 (Reed Weichler)",
       "set_id": 5500029,
@@ -26091,6 +29379,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 14549,
+      "name": "Charizard GX - SM211",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM211",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.92,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 229
+    },
+    {
       "card_id": 36275,
       "name": "Switch Raft (Secret)",
       "set_id": 5500049,
@@ -26101,6 +29401,18 @@
       "market_price_usd": 10.92,
       "market_price_as_of": "2026-10-23",
       "total_listings": 38
+    },
+    {
+      "card_id": 12958,
+      "name": "Venusaur (DPPt Supreme Victors)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "013/147",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 10.91,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 51
     },
     {
       "card_id": 14340,
@@ -26811,6 +30123,18 @@
       "total_listings": 140
     },
     {
+      "card_id": 26297,
+      "name": "Flying Pikachu",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "110/108",
+      "rarity": "Secret Rare",
+      "printing": "Normal",
+      "market_price_usd": 10.55,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 184
+    },
+    {
       "card_id": 4318,
       "name": "Scizor - 141/197 (Cosmos Holo)",
       "set_id": 5500123,
@@ -26895,6 +30219,18 @@
       "total_listings": 95
     },
     {
+      "card_id": 14794,
+      "name": "Oricorio - SM19 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM19",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.46,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
+    },
+    {
       "card_id": 17187,
       "name": "Oddish",
       "set_id": 5500030,
@@ -26941,6 +30277,18 @@
       "market_price_usd": 10.44,
       "market_price_as_of": "2026-10-18",
       "total_listings": 51
+    },
+    {
+      "card_id": 14728,
+      "name": "Pheromosa - SM115 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM115",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.43,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 16
     },
     {
       "card_id": 2302166,
@@ -27085,6 +30433,18 @@
       "market_price_usd": 10.37,
       "market_price_as_of": "2026-10-24",
       "total_listings": 24
+    },
+    {
+      "card_id": 14830,
+      "name": "Bruxish - SM11 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM11",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.36,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 10
     },
     {
       "card_id": 15972,
@@ -27507,6 +30867,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 14627,
+      "name": "Raikou GX",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM121",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.17,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 56
+    },
+    {
       "card_id": 35190,
       "name": "Onix",
       "set_id": 5500053,
@@ -27591,6 +30963,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 14700,
+      "name": "Decidueye GX - SM37",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM37",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.13,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 77
+    },
+    {
       "card_id": 16733,
       "name": "Giant Hearth (Secret)",
       "set_id": 5500206,
@@ -27601,6 +30985,18 @@
       "market_price_usd": 10.13,
       "market_price_as_of": "2026-10-21",
       "total_listings": 52
+    },
+    {
+      "card_id": 14580,
+      "name": "Ho-Oh GX - SM57",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM57",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.12,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 66
     },
     {
       "card_id": 17257,
@@ -28011,6 +31407,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 25061,
+      "name": "Switch (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "160/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.93,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 111
+    },
+    {
       "card_id": 26170,
       "name": "Zygarde GX",
       "set_id": 5500192,
@@ -28131,6 +31539,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 26356,
+      "name": "M Slowbro EX",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "27/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.86,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 181
+    },
+    {
       "card_id": 16473,
       "name": "Rowlet - 17/236",
       "set_id": 5500206,
@@ -28153,6 +31573,18 @@
       "market_price_usd": 9.84,
       "market_price_as_of": "2026-10-23",
       "total_listings": 124
+    },
+    {
+      "card_id": 14823,
+      "name": "Passimian - SM12 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM12",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.84,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 22
     },
     {
       "card_id": 22186,
@@ -28215,6 +31647,18 @@
       "total_listings": 49
     },
     {
+      "card_id": 14786,
+      "name": "Nidoqueen - SM160 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM160",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.81,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 34
+    },
+    {
       "card_id": 6800,
       "name": "N's Zekrom",
       "set_id": 5500112,
@@ -28237,6 +31681,18 @@
       "market_price_usd": 9.79,
       "market_price_as_of": "2026-10-14",
       "total_listings": 142
+    },
+    {
+      "card_id": 26351,
+      "name": "Darkness Energy",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "97/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.79,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 197
     },
     {
       "card_id": 37849,
@@ -28323,6 +31779,18 @@
       "total_listings": 156
     },
     {
+      "card_id": 12855,
+      "name": "Team Magma's Groudon - 9/95 (EX Team Magma vs Team Aqua)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "009/095",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 9.74,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 52
+    },
+    {
       "card_id": 22979,
       "name": "Marnie's Pride (Full Art)",
       "set_id": 5500201,
@@ -28381,6 +31849,18 @@
       "market_price_usd": 9.71,
       "market_price_as_of": "2026-10-22",
       "total_listings": 136
+    },
+    {
+      "card_id": 12821,
+      "name": "Kyogre - 53/236 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "053/236",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.7,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 19
     },
     {
       "card_id": 14181,
@@ -28453,6 +31933,18 @@
       "market_price_usd": 9.69,
       "market_price_as_of": "2026-10-14",
       "total_listings": 244
+    },
+    {
+      "card_id": 12856,
+      "name": "Garchomp - 91/124 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "091/124",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.68,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 29
     },
     {
       "card_id": 25232,
@@ -28719,6 +32211,18 @@
       "total_listings": 469
     },
     {
+      "card_id": 12956,
+      "name": "Zeraora - 60/214 (SM Unbroken Bonds) (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "060/214",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.54,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 19
+    },
+    {
       "card_id": 13633,
       "name": "Emolga - 112/086",
       "set_id": 5500093,
@@ -28863,6 +32367,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 14673,
+      "name": "Naganadel GX - SM125",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM125",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.48,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 118
+    },
+    {
       "card_id": 16548,
       "name": "Stoutland (Secret)",
       "set_id": 5500206,
@@ -28909,6 +32425,18 @@
       "market_price_usd": 9.46,
       "market_price_as_of": "2026-10-09",
       "total_listings": 30
+    },
+    {
+      "card_id": 24941,
+      "name": "Espeon GX",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "61/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.46,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 156
     },
     {
       "card_id": 23939,
@@ -28995,6 +32523,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 14592,
+      "name": "Jolteon GX - SM173",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM173",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.41,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 111
+    },
+    {
       "card_id": 22217,
       "name": "Dragonite",
       "set_id": 5500079,
@@ -29005,6 +32545,18 @@
       "market_price_usd": 9.41,
       "market_price_as_of": "2026-10-21",
       "total_listings": 74
+    },
+    {
+      "card_id": 12804,
+      "name": "Lucario V - 027/073 (Non-Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "27/73",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 9.39,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 17
     },
     {
       "card_id": 14535,
@@ -29113,6 +32665,18 @@
       "market_price_usd": 9.35,
       "market_price_as_of": "2026-10-21",
       "total_listings": 188
+    },
+    {
+      "card_id": 24985,
+      "name": "Professor Kukui (Full Art)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "148/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.34,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 79
     },
     {
       "card_id": 29651,
@@ -29331,6 +32895,18 @@
       "total_listings": 51
     },
     {
+      "card_id": 14666,
+      "name": "Psyduck - SM199 (In-Store Event Promo)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM199",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.25,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 21
+    },
+    {
       "card_id": 2119509,
       "name": "Meowth ex - 107/088",
       "set_id": 5500047,
@@ -29437,6 +33013,18 @@
       "market_price_usd": 9.16,
       "market_price_as_of": "2026-10-11",
       "total_listings": 136
+    },
+    {
+      "card_id": 26302,
+      "name": "Gyarados",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "34/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.16,
+      "market_price_as_of": "2026-10-25",
+      "total_listings": 279
     },
     {
       "card_id": 37480,
@@ -29605,6 +33193,18 @@
       "market_price_usd": 9.08,
       "market_price_as_of": "2026-10-15",
       "total_listings": 26
+    },
+    {
+      "card_id": 12980,
+      "name": "Meganium - 26/123 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "026/123",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.07,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 41
     },
     {
       "card_id": 14015,
@@ -29823,6 +33423,18 @@
       "total_listings": 236
     },
     {
+      "card_id": 14825,
+      "name": "Delcatty - SM132 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM132",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.93,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 21
+    },
+    {
       "card_id": 13611,
       "name": "Beartic - 110/086",
       "set_id": 5500093,
@@ -29871,6 +33483,30 @@
       "total_listings": 155
     },
     {
+      "card_id": 2299011,
+      "name": "Spiritomb - 035/084 (Non-Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "035/084",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 8.92,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 0
+    },
+    {
+      "card_id": 12745,
+      "name": "Kyogre - 53/160 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "053/160",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.91,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 24
+    },
+    {
       "card_id": 18596,
       "name": "Team Rocket's Houndoom - 191/182",
       "set_id": 5500009,
@@ -29893,6 +33529,18 @@
       "market_price_usd": 8.91,
       "market_price_as_of": "2026-10-17",
       "total_listings": 88
+    },
+    {
+      "card_id": 26365,
+      "name": "Pidgeot EX (Full Art)",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "104/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.91,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 184
     },
     {
       "card_id": 18225,
@@ -29991,6 +33639,30 @@
       "total_listings": 1
     },
     {
+      "card_id": 25041,
+      "name": "Nest Ball (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "158/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.87,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 156
+    },
+    {
+      "card_id": 12759,
+      "name": "Articuno - 16/108 (XY Roaring Skies)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "016/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.86,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 54
+    },
+    {
       "card_id": 15958,
       "name": "Professor Sada's Vitality - 256/182",
       "set_id": 5500212,
@@ -30073,6 +33745,18 @@
       "market_price_usd": 8.82,
       "market_price_as_of": "2026-10-14",
       "total_listings": 326
+    },
+    {
+      "card_id": 14697,
+      "name": "Alolan Raichu - SM65",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM65",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.81,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
     },
     {
       "card_id": 18414,
@@ -30699,6 +34383,18 @@
       "total_listings": 81
     },
     {
+      "card_id": 25007,
+      "name": "Team Skull Grunt (Full Art)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "149/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.6,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 123
+    },
+    {
       "card_id": 31404,
       "name": "Lapras VMAX",
       "set_id": 5500042,
@@ -30865,6 +34561,18 @@
       "market_price_usd": 8.52,
       "market_price_as_of": "2026-10-24",
       "total_listings": 9
+    },
+    {
+      "card_id": 26292,
+      "name": "Charizard Spirit Link",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "75/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.52,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 800
     },
     {
       "card_id": 26818,
@@ -31431,6 +35139,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 14729,
+      "name": "Tapu Lele - SM152 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM152",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.31,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 33
+    },
+    {
       "card_id": 2136202,
       "name": "Doublade - 067",
       "set_id": 5500111,
@@ -31515,6 +35235,30 @@
       "total_listings": 243
     },
     {
+      "card_id": 14598,
+      "name": "Glaceon GX - SM147",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM147",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.25,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 113
+    },
+    {
+      "card_id": 26325,
+      "name": "Raichu",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "36/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.25,
+      "market_price_as_of": "2026-10-25",
+      "total_listings": 244
+    },
+    {
       "card_id": 38151,
       "name": "Single Strike Urshifu VMAX",
       "set_id": 5500144,
@@ -31537,6 +35281,18 @@
       "market_price_usd": 8.25,
       "market_price_as_of": "2026-10-24",
       "total_listings": 11
+    },
+    {
+      "card_id": 12702,
+      "name": "Alolan Ninetales - 28/147 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "028/147",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.24,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 53
     },
     {
       "card_id": 14026,
@@ -31827,6 +35583,18 @@
       "total_listings": 171
     },
     {
+      "card_id": 14801,
+      "name": "Manectric - SM130 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM130",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.16,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 23
+    },
+    {
       "card_id": 14279,
       "name": "Mienshao - 134/086",
       "set_id": 5500153,
@@ -31861,6 +35629,18 @@
       "market_price_usd": 8.13,
       "market_price_as_of": "2026-10-09",
       "total_listings": 151
+    },
+    {
+      "card_id": 14676,
+      "name": "Rowlet - SM22",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM22",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.13,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 71
     },
     {
       "card_id": 22779,
@@ -31993,6 +35773,30 @@
       "market_price_usd": 8.08,
       "market_price_as_of": "2026-10-10",
       "total_listings": 445
+    },
+    {
+      "card_id": 25084,
+      "name": "Gumshoos GX (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "157/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.08,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 110
+    },
+    {
+      "card_id": 26345,
+      "name": "Brock's Grit (Full Art)",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "107/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.08,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 202
     },
     {
       "card_id": 38120,
@@ -32727,6 +36531,18 @@
       "total_listings": 198
     },
     {
+      "card_id": 12895,
+      "name": "Camerupt - 4/107 (EX Deoxys)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "004/107",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 7.78,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 22
+    },
+    {
       "card_id": 18401,
       "name": "Feraligatr - 089 (Prerelease)",
       "set_id": 5500070,
@@ -32785,6 +36601,18 @@
       "market_price_usd": 7.77,
       "market_price_as_of": "2026-10-14",
       "total_listings": 217
+    },
+    {
+      "card_id": 14767,
+      "name": "Necrozma - SM204 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM204",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.76,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 40
     },
     {
       "card_id": 16547,
@@ -32905,6 +36733,18 @@
       "market_price_usd": 7.7,
       "market_price_as_of": "2026-10-21",
       "total_listings": 295
+    },
+    {
+      "card_id": 26290,
+      "name": "Pikachu",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "35/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.7,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 868
     },
     {
       "card_id": 35199,
@@ -33075,6 +36915,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 14646,
+      "name": "Typhlosion - SM185",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM185",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.62,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 70
+    },
+    {
       "card_id": 5961,
       "name": "Hisuian Zoroark VSTAR - 147/196",
       "set_id": 5500194,
@@ -33085,6 +36937,18 @@
       "market_price_usd": 7.62,
       "market_price_as_of": "2026-10-15",
       "total_listings": 10
+    },
+    {
+      "card_id": 14756,
+      "name": "Stakataka - SM180 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM180",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.61,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 20
     },
     {
       "card_id": 16468,
@@ -33291,6 +37155,30 @@
       "total_listings": 78
     },
     {
+      "card_id": 13054,
+      "name": "Entei - 47/214 (SM Lost Thunder)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "047/214",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.53,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 23
+    },
+    {
+      "card_id": 14787,
+      "name": "Regirock - SM74 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM74",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.53,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 27
+    },
+    {
       "card_id": 183,
       "name": "Jirachi EX - 2015 (Jacob Van Wagner)",
       "set_id": 5500029,
@@ -33423,6 +37311,18 @@
       "total_listings": 661
     },
     {
+      "card_id": 14802,
+      "name": "Seviper - SM46 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM46",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.49,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 14
+    },
+    {
       "card_id": 13131,
       "name": "Jolteon ex - 030/131",
       "set_id": 5500017,
@@ -33493,6 +37393,18 @@
       "market_price_usd": 7.47,
       "market_price_as_of": "2026-10-10",
       "total_listings": 270
+    },
+    {
+      "card_id": 26318,
+      "name": "Zapdos",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "42/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.46,
+      "market_price_as_of": "2026-10-25",
+      "total_listings": 227
     },
     {
       "card_id": 1334,
@@ -33675,6 +37587,18 @@
       "total_listings": 374
     },
     {
+      "card_id": 24928,
+      "name": "Psyduck",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "28/149",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.41,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 367
+    },
+    {
       "card_id": 36220,
       "name": "Gyarados",
       "set_id": 5500049,
@@ -33685,6 +37609,18 @@
       "market_price_usd": 7.41,
       "market_price_as_of": "2026-10-22",
       "total_listings": 72
+    },
+    {
+      "card_id": 14751,
+      "name": "Buzzwole GX - SM69",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM69",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.4,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 42
     },
     {
       "card_id": 16663,
@@ -33709,6 +37645,18 @@
       "market_price_usd": 7.4,
       "market_price_as_of": "2026-10-15",
       "total_listings": 250
+    },
+    {
+      "card_id": 25030,
+      "name": "Lunala GX (Full Art)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "141/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.4,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 69
     },
     {
       "card_id": 951,
@@ -33915,6 +37863,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 14757,
+      "name": "Xurkitree - SM116 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM116",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.32,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 18
+    },
+    {
       "card_id": 19543,
       "name": "Persian GX (Full Art)",
       "set_id": 5500191,
@@ -34023,6 +37983,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 13085,
+      "name": "Grass Energy (2017 Unnumbered) (Wave Foil)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": null,
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.25,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 1
+    },
+    {
       "card_id": 24723,
       "name": "Eevee (104)",
       "set_id": 5500013,
@@ -34045,6 +38017,18 @@
       "market_price_usd": 7.23,
       "market_price_as_of": "2026-10-21",
       "total_listings": 110
+    },
+    {
+      "card_id": 14741,
+      "name": "Celesteela - SM131 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM131",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.23,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 12
     },
     {
       "card_id": 16634,
@@ -34105,6 +38089,18 @@
       "market_price_usd": 7.23,
       "market_price_as_of": "2026-10-09",
       "total_listings": 434
+    },
+    {
+      "card_id": 14694,
+      "name": "Buzzwole - SM218 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM218",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.22,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 24
     },
     {
       "card_id": 16579,
@@ -34587,6 +38583,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 13077,
+      "name": "Solgaleo - 87/145 (Water Web Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "087/145",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.02,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 21
+    },
+    {
       "card_id": 18579,
       "name": "Rapidash - 189/182",
       "set_id": 5500009,
@@ -34645,6 +38653,18 @@
       "market_price_usd": 7.01,
       "market_price_as_of": "2026-10-24",
       "total_listings": 30
+    },
+    {
+      "card_id": 13024,
+      "name": "Gallade E4 - 20/111 (DPPt Rising Rivals)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "020/111",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 62
     },
     {
       "card_id": 17993,
@@ -35103,6 +39123,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 14777,
+      "name": "Malamar - SM117 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM117",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.83,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 29
+    },
+    {
       "card_id": 26831,
       "name": "Guzzlord GX",
       "set_id": 5500043,
@@ -35271,6 +39303,30 @@
       "total_listings": 105
     },
     {
+      "card_id": 12723,
+      "name": "Umbreon V - 094/203 (Non-Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "094/203",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 6.77,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 23
+    },
+    {
+      "card_id": 14568,
+      "name": "Zoroark GX - SM84",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM84",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.77,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 129
+    },
+    {
       "card_id": 18361,
       "name": "Meowscarada ex - 078",
       "set_id": 5500070,
@@ -35353,6 +39409,18 @@
       "market_price_usd": 6.76,
       "market_price_as_of": "2026-10-25",
       "total_listings": 58
+    },
+    {
+      "card_id": 12822,
+      "name": "Mimikyu - 58/145 (SM Guardians Rising)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "058/145",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.74,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 38
     },
     {
       "card_id": 17777,
@@ -35583,6 +39651,30 @@
       "total_listings": 73
     },
     {
+      "card_id": 26335,
+      "name": "Blastoise EX",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "21/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.68,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 151
+    },
+    {
+      "card_id": 26317,
+      "name": "Ninetales",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "15/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.67,
+      "market_price_as_of": "2026-10-25",
+      "total_listings": 252
+    },
+    {
       "card_id": 4076,
       "name": "Vaporeon ex - 023/131 (Prismatic Evolutions Stamp)",
       "set_id": 5500123,
@@ -35655,6 +39747,18 @@
       "total_listings": 140
     },
     {
+      "card_id": 14667,
+      "name": "Celebi - SM224",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM224",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.62,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 65
+    },
+    {
       "card_id": 20200,
       "name": "Torkoal - 172/167",
       "set_id": 5500051,
@@ -35677,6 +39781,18 @@
       "market_price_usd": 6.62,
       "market_price_as_of": "2026-10-15",
       "total_listings": 39
+    },
+    {
+      "card_id": 12881,
+      "name": "Samurott - 31/114",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "031/114",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.61,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 76
     },
     {
       "card_id": 16487,
@@ -35739,6 +39855,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 14709,
+      "name": "Celesteela GX - SM67",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM67",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.6,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 41
+    },
+    {
       "card_id": 21119,
       "name": "Cinderace V (Full Art)",
       "set_id": 5500094,
@@ -35787,6 +39915,18 @@
       "total_listings": 66
     },
     {
+      "card_id": 25004,
+      "name": "Solgaleo GX (Full Art)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "143/149",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.59,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 78
+    },
+    {
       "card_id": 31421,
       "name": "Cinderace",
       "set_id": 5500042,
@@ -35809,6 +39949,18 @@
       "market_price_usd": 6.58,
       "market_price_as_of": "2026-10-21",
       "total_listings": 29
+    },
+    {
+      "card_id": 14608,
+      "name": "Leafeon GX - SM146",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM146",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.58,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 84
     },
     {
       "card_id": 24505,
@@ -35859,6 +40011,18 @@
       "total_listings": 113
     },
     {
+      "card_id": 14774,
+      "name": "Alolan Ninetales - SM128",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM128",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 6.56,
+      "market_price_as_of": "2026-10-25",
+      "total_listings": 5
+    },
+    {
       "card_id": 17138,
       "name": "Cleffa",
       "set_id": 5500030,
@@ -35893,6 +40057,18 @@
       "market_price_usd": 6.56,
       "market_price_as_of": "2026-10-21",
       "total_listings": 58
+    },
+    {
+      "card_id": 14742,
+      "name": "Exeggcute - SM119",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM119",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.55,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 29
     },
     {
       "card_id": 23427,
@@ -36279,6 +40455,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 14668,
+      "name": "Dusk Mane Necrozma GX - SM102",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM102",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.43,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 106
+    },
+    {
       "card_id": 17301,
       "name": "Pawmi - 142/091",
       "set_id": 5500030,
@@ -36373,6 +40561,18 @@
       "market_price_usd": 6.41,
       "market_price_as_of": "2026-10-23",
       "total_listings": 40
+    },
+    {
+      "card_id": 12815,
+      "name": "Mew - 76/214",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "076/214",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 6.4,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 33
     },
     {
       "card_id": 13581,
@@ -36507,6 +40707,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 26295,
+      "name": "Fairy Energy",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "99/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.35,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 217
+    },
+    {
       "card_id": 38774,
       "name": "Alolan Meowth - 8/12",
       "set_id": 5500145,
@@ -36639,6 +40851,18 @@
       "total_listings": 69
     },
     {
+      "card_id": 26321,
+      "name": "Clefairy",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "63/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.32,
+      "market_price_as_of": "2026-10-25",
+      "total_listings": 161
+    },
+    {
       "card_id": 31417,
       "name": "Arctozolt",
       "set_id": 5500042,
@@ -36663,6 +40887,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 14789,
+      "name": "Mudsdale - SM20 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM20",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.31,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 14
+    },
+    {
       "card_id": 15712,
       "name": "Orthworm - 224/193",
       "set_id": 5500150,
@@ -36673,6 +40909,18 @@
       "market_price_usd": 6.31,
       "market_price_as_of": "2026-10-14",
       "total_listings": 114
+    },
+    {
+      "card_id": 25074,
+      "name": "Rotom Dex (Secret)",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "159/149",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.31,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 75
     },
     {
       "card_id": 25151,
@@ -36733,6 +40981,18 @@
       "market_price_usd": 6.29,
       "market_price_as_of": "2026-10-12",
       "total_listings": 139
+    },
+    {
+      "card_id": 14761,
+      "name": "Gumshoos - SM97 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM97",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.27,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 19
     },
     {
       "card_id": 5683,
@@ -36877,6 +41137,18 @@
       "market_price_usd": 6.23,
       "market_price_as_of": "2026-10-23",
       "total_listings": 8
+    },
+    {
+      "card_id": 24932,
+      "name": "Poliwag",
+      "set_id": 5500018,
+      "set_name": "SM Base Set",
+      "number": "30/149",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.23,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 305
     },
     {
       "card_id": 19250,
@@ -37179,6 +41451,18 @@
       "total_listings": 101
     },
     {
+      "card_id": 14661,
+      "name": "Leafeon - SM237",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM237",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 6.13,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 54
+    },
+    {
       "card_id": 31454,
       "name": "Toxel",
       "set_id": 5500042,
@@ -37441,6 +41725,30 @@
       "market_price_usd": 6.07,
       "market_price_as_of": "2026-10-11",
       "total_listings": 263
+    },
+    {
+      "card_id": 12688,
+      "name": "Xerneas - 96/146 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "096/146",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.06,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 38
+    },
+    {
+      "card_id": 12867,
+      "name": "Mamoswine - 5/102 (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "005/102",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.06,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 23
     },
     {
       "card_id": 16277,
@@ -38007,6 +42315,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 12928,
+      "name": "Azumarill - 1/109 (EX Team Rocket Returns)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "001/109",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.93,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 21
+    },
+    {
       "card_id": 21008,
       "name": "Tool Scrapper (Secret)",
       "set_id": 5500094,
@@ -38125,6 +42445,18 @@
       "market_price_usd": 5.91,
       "market_price_as_of": "2026-10-09",
       "total_listings": 531
+    },
+    {
+      "card_id": 14550,
+      "name": "Detective Pikachu - SM190",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM190",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.9,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 218
     },
     {
       "card_id": 24652,
@@ -38355,6 +42687,30 @@
       "total_listings": 164
     },
     {
+      "card_id": 26304,
+      "name": "Machamp",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "59/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.82,
+      "market_price_as_of": "2026-10-25",
+      "total_listings": 302
+    },
+    {
+      "card_id": 14630,
+      "name": "Glaceon - SM238",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM238",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 5.81,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 54
+    },
+    {
       "card_id": 22766,
       "name": "Kommo-o GX (Full Art)",
       "set_id": 5500036,
@@ -38463,6 +42819,18 @@
       "total_listings": 95
     },
     {
+      "card_id": 14644,
+      "name": "Dawn Wings Necrozma GX - SM101",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM101",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.78,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 94
+    },
+    {
       "card_id": 18283,
       "name": "Scream Tail - 065",
       "set_id": 5500070,
@@ -38521,6 +42889,30 @@
       "market_price_usd": 5.78,
       "market_price_as_of": "2026-10-09",
       "total_listings": 1800
+    },
+    {
+      "card_id": 13081,
+      "name": "Lechonk - 154/198 (Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "154/198",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.77,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 1
+    },
+    {
+      "card_id": 14771,
+      "name": "Salazzle - SM73 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM73",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.77,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 16
     },
     {
       "card_id": 15750,
@@ -38593,6 +42985,18 @@
       "market_price_usd": 5.76,
       "market_price_as_of": "2026-10-17",
       "total_listings": 103
+    },
+    {
+      "card_id": 12780,
+      "name": "Greninja V - 073/264 (Non-Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "073/264",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 5.75,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 33
     },
     {
       "card_id": 22197,
@@ -38727,6 +43131,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 13006,
+      "name": "Groudon - 6/95 (Call of Legends)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "006/095",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.73,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 33
+    },
+    {
       "card_id": 14266,
       "name": "Ferroseed - 148/086",
       "set_id": 5500153,
@@ -38857,6 +43273,18 @@
       "market_price_usd": 5.72,
       "market_price_as_of": "2026-10-24",
       "total_listings": 4
+    },
+    {
+      "card_id": 14750,
+      "name": "Heatran - SM96 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM96",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.71,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 9
     },
     {
       "card_id": 100018069,
@@ -39327,6 +43755,18 @@
       "total_listings": 145
     },
     {
+      "card_id": 12879,
+      "name": "Groudon - 84/160 (XY Primal Clash)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "084/160",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.57,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 42
+    },
+    {
       "card_id": 14098,
       "name": "Deoxys - SWSH170 (Prerelease)",
       "set_id": 5500149,
@@ -39409,6 +43849,18 @@
       "market_price_usd": 5.56,
       "market_price_as_of": "2026-10-23",
       "total_listings": 133
+    },
+    {
+      "card_id": 12668,
+      "name": "Charizard - 3/70 (Let's Play, Eevee!)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "003/070",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.55,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 68
     },
     {
       "card_id": 22301,
@@ -39735,6 +44187,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 13033,
+      "name": "Dugtrio - 5/100 (EX Crystal Guardians)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "005/100",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.47,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 13
+    },
+    {
       "card_id": 15959,
       "name": "Professor Turo's Scenario - 257/182",
       "set_id": 5500212,
@@ -39975,6 +44439,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 14659,
+      "name": "Porygon-Z GX - SM216",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM216",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.41,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 66
+    },
+    {
       "card_id": 17285,
       "name": "Mankey - 169/091",
       "set_id": 5500030,
@@ -40023,6 +44499,30 @@
       "total_listings": 17
     },
     {
+      "card_id": 14591,
+      "name": "Stakataka - SM209",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM209",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.4,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 57
+    },
+    {
+      "card_id": 14765,
+      "name": "Aipom - SM244",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM244",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 5.4,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 32
+    },
+    {
       "card_id": 17914,
       "name": "Code Card - Mewtwo V-UNION Special Collection",
       "set_id": 5500048,
@@ -40057,6 +44557,18 @@
       "market_price_usd": 5.4,
       "market_price_as_of": "2026-10-15",
       "total_listings": 127
+    },
+    {
+      "card_id": 26336,
+      "name": "Ninetales BREAK",
+      "set_id": 5500147,
+      "set_name": "XY - Evolutions",
+      "number": "16/108",
+      "rarity": "Rare BREAK",
+      "printing": "Holofoil",
+      "market_price_usd": 5.4,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 126
     },
     {
       "card_id": 13878,
@@ -40239,6 +44751,18 @@
       "total_listings": 101
     },
     {
+      "card_id": 12959,
+      "name": "Druddigon - 94/135 (BW Plasma Storm)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "094/135",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.36,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 45
+    },
+    {
       "card_id": 17195,
       "name": "Smoliv",
       "set_id": 5500030,
@@ -40333,6 +44857,18 @@
       "market_price_usd": 5.35,
       "market_price_as_of": "2026-10-24",
       "total_listings": 7
+    },
+    {
+      "card_id": 14747,
+      "name": "Melmetal - SM181 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM181",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.35,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 26
     },
     {
       "card_id": 19009,
@@ -40453,6 +44989,18 @@
       "market_price_usd": 5.33,
       "market_price_as_of": "2026-10-21",
       "total_listings": 101
+    },
+    {
+      "card_id": 14696,
+      "name": "Kommo-o GX - SM71",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM71",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 79
     },
     {
       "card_id": 18958,
@@ -40743,6 +45291,30 @@
       "total_listings": 155
     },
     {
+      "card_id": 12641,
+      "name": "Blastoise - 31/149 (Non-Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "031/149",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.27,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 149
+    },
+    {
+      "card_id": 12749,
+      "name": "Ampharos - 1/132 (DP Secret Wonders)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "001/132",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.27,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 51
+    },
+    {
       "card_id": 1903,
       "name": "Yveltal - 2016 (Shunto Sadahiro)",
       "set_id": 5500029,
@@ -40923,6 +45495,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 12843,
+      "name": "Meganium - 010/132",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "010/132",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.23,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 24
+    },
+    {
       "card_id": 14112,
       "name": "Zeraora VMAX - SWSH264",
       "set_id": 5500149,
@@ -41005,6 +45589,18 @@
       "market_price_usd": 5.22,
       "market_price_as_of": "2026-10-23",
       "total_listings": 5
+    },
+    {
+      "card_id": 12692,
+      "name": "Raikou - 32/73 (Let's Play, Pikachu!) (Cracked Ice Holo)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": "032/073",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.21,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 11
     },
     {
       "card_id": 22247,
@@ -41871,6 +46467,18 @@
       "total_listings": 64
     },
     {
+      "card_id": 14753,
+      "name": "Amoonguss - SM202 (Prerelease)",
+      "set_id": 5500076,
+      "set_name": "SM Promos",
+      "number": "SM202",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.02,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 32
+    },
+    {
       "card_id": 16266,
       "name": "Toedscool - 201/198",
       "set_id": 5500032,
@@ -41977,6 +46585,18 @@
       "market_price_usd": 5.01,
       "market_price_as_of": "2026-10-15",
       "total_listings": 16
+    },
+    {
+      "card_id": 13105,
+      "name": "Metal Energy (2017 Unnumbered) (Wave Foil)",
+      "set_id": 5500101,
+      "set_name": "Deck Exclusives",
+      "number": null,
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-10-26",
+      "total_listings": 5
     },
     {
       "card_id": 1375,
