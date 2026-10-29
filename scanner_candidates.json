@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-28T08:18:56.942455+00:00",
+  "generated_at": "2026-10-29T08:19:44.560490+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 109,
+  "next_set_index": 114,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 9,
-  "total_candidates": 4439,
-  "cards_with_price_history": 18662,
+  "api_calls": 10,
+  "total_candidates": 4715,
+  "cards_with_price_history": 19257,
   "candidates": [
     {
       "card_id": 6616,
@@ -133,6 +133,18 @@
       "market_price_usd": 193.85,
       "market_price_as_of": "2026-10-28",
       "total_listings": 110
+    },
+    {
+      "card_id": 15524,
+      "name": "Crobat - 10/12 (Box Topper)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "010/012",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 192.99,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 4
     },
     {
       "card_id": 6429,
@@ -291,6 +303,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 15424,
+      "name": "Dark Raichu - S3/S4 (Box Topper)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "S3/S4",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 185.0,
+      "market_price_as_of": "2026-09-15",
+      "total_listings": 1
+    },
+    {
       "card_id": 35216,
       "name": "Charizard",
       "set_id": 5500053,
@@ -385,6 +409,18 @@
       "market_price_usd": 180.36,
       "market_price_as_of": "2026-10-21",
       "total_listings": 44
+    },
+    {
+      "card_id": 15515,
+      "name": "Kabutops - 12/12 (Box Topper)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "012/012",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 180.0,
+      "market_price_as_of": "2026-09-22",
+      "total_listings": 0
     },
     {
       "card_id": 13467,
@@ -627,6 +663,18 @@
       "total_listings": 94
     },
     {
+      "card_id": 15480,
+      "name": "Alakazam - 1/12 (Box Topper)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "001/012",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 166.66,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 2
+    },
+    {
       "card_id": 17252,
       "name": "Gardevoir ex - 233/091",
       "set_id": 5500030,
@@ -781,6 +829,18 @@
       "market_price_usd": 158.64,
       "market_price_as_of": "2026-10-26",
       "total_listings": 40
+    },
+    {
+      "card_id": 29001,
+      "name": "M Rayquaza EX (61)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "61/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 158.1,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 85
     },
     {
       "card_id": 6634,
@@ -2079,6 +2139,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 15496,
+      "name": "Primal Groudon EX - 97/98",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "097/098",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 120.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 3
+    },
+    {
       "card_id": 38750,
       "name": "Eevee - 12/12",
       "set_id": 5500002,
@@ -2089,6 +2161,18 @@
       "market_price_usd": 119.99,
       "market_price_as_of": "2026-10-27",
       "total_listings": 3
+    },
+    {
+      "card_id": 15373,
+      "name": "Pikachu EX - XY124",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY124",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 119.95,
+      "market_price_as_of": "2026-02-16",
+      "total_listings": 1
     },
     {
       "card_id": 19553,
@@ -2175,6 +2259,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 30569,
+      "name": "M Sceptile EX (85 Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "85/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 118.12,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 62
+    },
+    {
       "card_id": 885,
       "name": "Jolteon Star - 2007 (Tom Roos)",
       "set_id": 5500029,
@@ -2185,6 +2281,18 @@
       "market_price_usd": 117.67,
       "market_price_as_of": "2026-10-23",
       "total_listings": 7
+    },
+    {
+      "card_id": 30560,
+      "name": "M Tyranitar EX (92 Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "92/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 117.08,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 60
     },
     {
       "card_id": 14803,
@@ -2343,6 +2451,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 28981,
+      "name": "M Rayquaza EX (76)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "76/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 113.91,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 74
+    },
+    {
       "card_id": 5010,
       "name": "Team Rocket's Zapdos (EB Games Exclusive)",
       "set_id": 5500123,
@@ -2437,6 +2557,18 @@
       "market_price_usd": 111.26,
       "market_price_as_of": "2026-10-15",
       "total_listings": 12
+    },
+    {
+      "card_id": 15466,
+      "name": "Articuno, Moltres, and Zapdos (Warner Bros. Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 110.13,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 14
     },
     {
       "card_id": 5016,
@@ -2545,6 +2677,18 @@
       "market_price_usd": 108.82,
       "market_price_as_of": "2026-10-26",
       "total_listings": 5
+    },
+    {
+      "card_id": 30559,
+      "name": "Tyranitar EX (91 Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "91/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 108.79,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 28
     },
     {
       "card_id": 19557,
@@ -2895,6 +3039,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 29053,
+      "name": "M Latios EX (102 Full Art)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "102/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 101.63,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 102
+    },
+    {
       "card_id": 38757,
       "name": "Dedenne - 10/12",
       "set_id": 5500002,
@@ -3051,6 +3207,30 @@
       "total_listings": 0
     },
     {
+      "card_id": 15450,
+      "name": "Feraligatr - 2/12 (Box Topper)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "002/012",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 99.99,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 2
+    },
+    {
+      "card_id": 15513,
+      "name": "Rayquaza - XY64",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY64",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 99.99,
+      "market_price_as_of": "2026-10-09",
+      "total_listings": 0
+    },
+    {
       "card_id": 6560,
       "name": "Darkness Energy (Special) - 93/109 (Cosmos Holo) [Winner]",
       "set_id": 5500087,
@@ -3073,6 +3253,30 @@
       "market_price_usd": 99.99,
       "market_price_as_of": "2026-10-27",
       "total_listings": 6
+    },
+    {
+      "card_id": 15520,
+      "name": "Espeon - 6/12 (Box Topper)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "006/012",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 99.97,
+      "market_price_as_of": "2026-09-16",
+      "total_listings": 0
+    },
+    {
+      "card_id": 15533,
+      "name": "Scizor - 7/12",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "007/012",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 99.97,
+      "market_price_as_of": "2026-09-16",
+      "total_listings": 0
     },
     {
       "card_id": 100008306,
@@ -3145,6 +3349,18 @@
       "market_price_usd": 98.98,
       "market_price_as_of": "2026-10-27",
       "total_listings": 4
+    },
+    {
+      "card_id": 15471,
+      "name": "Suicune - 7/12",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "007/012",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 98.95,
+      "market_price_as_of": "2026-07-10",
+      "total_listings": 0
     },
     {
       "card_id": 14198,
@@ -3435,6 +3651,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 15400,
+      "name": "Charizard EX - XY121 (XY Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY121",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 94.97,
+      "market_price_as_of": "2026-10-20",
+      "total_listings": 2
+    },
+    {
       "card_id": 5940,
       "name": "Sylveon V - 074/203",
       "set_id": 5500194,
@@ -3577,6 +3805,18 @@
       "market_price_usd": 92.44,
       "market_price_as_of": "2026-10-13",
       "total_listings": 302
+    },
+    {
+      "card_id": 15464,
+      "name": "Darkrai & Cresselia Legend - 99/102 & 100/102 (Single Oversized Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "099/102 & 100/102",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 92.14,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 5
     },
     {
       "card_id": 20779,
@@ -3987,6 +4227,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 15274,
+      "name": "Umbreon & Darkrai GX - SM241",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM241",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 85.15,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 10
+    },
+    {
       "card_id": 5984,
       "name": "Mimikyu ex - 004",
       "set_id": 5500194,
@@ -4311,6 +4563,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 30570,
+      "name": "Ampharos EX (87 Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "87/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 81.29,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 25
+    },
+    {
       "card_id": 13025,
       "name": "Latias - 21/110",
       "set_id": 5500101,
@@ -4405,6 +4669,30 @@
       "market_price_usd": 80.33,
       "market_price_as_of": "2026-10-09",
       "total_listings": 191
+    },
+    {
+      "card_id": 15380,
+      "name": "Electabuzz - 1 (Best of Game 1 Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "001",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 80.0,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 0
+    },
+    {
+      "card_id": 30557,
+      "name": "M Ampharos EX (88 Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "88/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 80.0,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 72
     },
     {
       "card_id": 5048,
@@ -5391,6 +5679,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 15458,
+      "name": "Blastoise EX - XY122",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY122",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 69.99,
+      "market_price_as_of": "2026-09-15",
+      "total_listings": 2
+    },
+    {
       "card_id": 14814,
       "name": "Amoonguss - SM202 (Prerelease) [Staff]",
       "set_id": 5500076,
@@ -5715,6 +6015,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 30487,
+      "name": "Gyarados (21)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "21/98",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 66.91,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 188
+    },
+    {
       "card_id": 36288,
       "name": "Reshiram GX (Secret)",
       "set_id": 5500049,
@@ -5919,6 +6231,30 @@
       "total_listings": 95
     },
     {
+      "card_id": 29016,
+      "name": "Latios EX (101 Full Art)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "101/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.71,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 65
+    },
+    {
+      "card_id": 30553,
+      "name": "Sceptile EX (84 Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "84/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.69,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 34
+    },
+    {
       "card_id": 36268,
       "name": "Zinnia (Full Art)",
       "set_id": 5500049,
@@ -6025,6 +6361,18 @@
       "market_price_usd": 65.0,
       "market_price_as_of": "2026-10-23",
       "total_listings": 2
+    },
+    {
+      "card_id": 15437,
+      "name": "Snorlax V - 141/202",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "141/202",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 64.99,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 0
     },
     {
       "card_id": 6512,
@@ -6747,6 +7095,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 15522,
+      "name": "Pikachu at the Museum",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 60.5,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 12
+    },
+    {
       "card_id": 4744,
       "name": "Team Aqua's Cacnea - 24/95 (Prerelease)",
       "set_id": 5500123,
@@ -6817,6 +7177,30 @@
       "market_price_usd": 60.13,
       "market_price_as_of": "2026-10-26",
       "total_listings": 71
+    },
+    {
+      "card_id": 15508,
+      "name": "Charizard VSTAR",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "018/172",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 60.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 1
+    },
+    {
+      "card_id": 15534,
+      "name": "Yveltal - XY06",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY06",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 59.99,
+      "market_price_as_of": "2026-10-01",
+      "total_listings": 1
     },
     {
       "card_id": 4380,
@@ -6912,6 +7296,18 @@
       "printing": "Holofoil",
       "market_price_usd": 59.55,
       "market_price_as_of": "2026-10-15",
+      "total_listings": 5
+    },
+    {
+      "card_id": 15523,
+      "name": "______'s Oshawott",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "N/A",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 59.45,
+      "market_price_as_of": "2026-10-28",
       "total_listings": 5
     },
     {
@@ -7237,6 +7633,18 @@
       "market_price_usd": 57.74,
       "market_price_as_of": "2026-10-21",
       "total_listings": 56
+    },
+    {
+      "card_id": 28962,
+      "name": "Rayquaza EX (75)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "75/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 57.68,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 96
     },
     {
       "card_id": 18476,
@@ -7623,6 +8031,18 @@
       "total_listings": 55
     },
     {
+      "card_id": 15412,
+      "name": "Zoroark and Legendary Pokemon (World of Illusions Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 55.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 9
+    },
+    {
       "card_id": 6729,
       "name": "Pumpkaboo - 56/146 (Pokemon League) [1st Place]",
       "set_id": 5500087,
@@ -7959,6 +8379,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 15486,
+      "name": "Mew V - 069/189",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "069/189",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 52.88,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 6
+    },
+    {
       "card_id": 18461,
       "name": "Koraidon - 014 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -8043,6 +8475,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 30555,
+      "name": "Hoopa EX (89 Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "89/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 52.42,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 45
+    },
+    {
       "card_id": 14031,
       "name": "Flareon VMAX - SWSH180",
       "set_id": 5500149,
@@ -8089,6 +8533,30 @@
       "market_price_usd": 52.25,
       "market_price_as_of": "2026-10-21",
       "total_listings": 4
+    },
+    {
+      "card_id": 29038,
+      "name": "M Gallade EX (100 Full Art)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "100/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 52.13,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 110
+    },
+    {
+      "card_id": 15426,
+      "name": "Primal Kyogre EX - 55/160",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "055/160",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 52.04,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 17
     },
     {
       "card_id": 14645,
@@ -8535,6 +9003,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 15511,
+      "name": "Xerneas - XY05",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY05",
+      "rarity": "Promo",
+      "printing": "Foil",
+      "market_price_usd": 50.0,
+      "market_price_as_of": "2026-10-01",
+      "total_listings": 0
+    },
+    {
       "card_id": 36717,
       "name": "Entei V",
       "set_id": 5500218,
@@ -8571,6 +9051,30 @@
       "total_listings": 7
     },
     {
+      "card_id": 15433,
+      "name": "M Gyarados EX - 27/122",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "027/122",
+      "rarity": "Promo",
+      "printing": "Foil",
+      "market_price_usd": 49.99,
+      "market_price_as_of": "2026-10-01",
+      "total_listings": 0
+    },
+    {
+      "card_id": 15497,
+      "name": "Lugia VSTAR",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "139/195",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 49.99,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 1
+    },
+    {
       "card_id": 6571,
       "name": "Nest Ball - 181/198 (Europe Championships)",
       "set_id": 5500087,
@@ -8593,6 +9097,18 @@
       "market_price_usd": 49.99,
       "market_price_as_of": "2026-10-27",
       "total_listings": 1
+    },
+    {
+      "card_id": 15446,
+      "name": "M Salamence EX - XY171",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY171",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 49.95,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 13
     },
     {
       "card_id": 6755,
@@ -8665,6 +9181,18 @@
       "market_price_usd": 49.49,
       "market_price_as_of": "2026-10-15",
       "total_listings": 6
+    },
+    {
+      "card_id": 15501,
+      "name": "______'s Snivy",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "N/A",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 49.48,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 5
     },
     {
       "card_id": 14840,
@@ -8809,6 +9337,18 @@
       "market_price_usd": 48.88,
       "market_price_as_of": "2026-10-15",
       "total_listings": 61
+    },
+    {
+      "card_id": 15365,
+      "name": "Magikarp & Wailord GX - SM166",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM166",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 48.82,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 11
     },
     {
       "card_id": 18444,
@@ -9049,6 +9589,30 @@
       "market_price_usd": 47.99,
       "market_price_as_of": "2026-10-23",
       "total_listings": 5
+    },
+    {
+      "card_id": 15258,
+      "name": "M Rayquaza EX - 98/98",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "098/098",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 47.97,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 25
+    },
+    {
+      "card_id": 15394,
+      "name": "______'s Tepig",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "N/A",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 47.86,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 4
     },
     {
       "card_id": 1557,
@@ -10131,6 +10695,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 30547,
+      "name": "Kyurem EX (86 Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "86/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.29,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 45
+    },
+    {
       "card_id": 22370,
       "name": "Nita (Full Art)",
       "set_id": 5500079,
@@ -10671,6 +11247,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 15441,
+      "name": "Charizard ex - 125/197",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "125/197",
+      "rarity": "Double Rare",
+      "printing": "Normal",
+      "market_price_usd": 41.99,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 5
+    },
+    {
       "card_id": 16667,
       "name": "Lillie's Poke Doll (Secret)",
       "set_id": 5500206,
@@ -10705,6 +11293,18 @@
       "market_price_usd": 41.86,
       "market_price_as_of": "2026-10-14",
       "total_listings": 199
+    },
+    {
+      "card_id": 15346,
+      "name": "Arceus - DP50 (DP Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "DP50",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 41.79,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 10
     },
     {
       "card_id": 14736,
@@ -11043,6 +11643,18 @@
       "total_listings": 141
     },
     {
+      "card_id": 30564,
+      "name": "Steven (Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "95/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.72,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 85
+    },
+    {
       "card_id": 19527,
       "name": "Pheromosa & Buzzwole GX (Secret)",
       "set_id": 5500191,
@@ -11307,6 +11919,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 15456,
+      "name": "Hitmonchan - 2 (Best of Game 2 Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "002",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 40.0,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 2
+    },
+    {
       "card_id": 4927,
       "name": "Icy Sky's Shaymin (Japanese 11th Movie Commemoration Set)",
       "set_id": 5500123,
@@ -11329,6 +11953,42 @@
       "market_price_usd": 40.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 7
+    },
+    {
+      "card_id": 15383,
+      "name": "Venusaur EX - XY123",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY123",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.99,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 1
+    },
+    {
+      "card_id": 15482,
+      "name": "Kyogre - XY51",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY51",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.99,
+      "market_price_as_of": "2026-10-24",
+      "total_listings": 0
+    },
+    {
+      "card_id": 15512,
+      "name": "Groudon - XY52 (XY Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY52",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.99,
+      "market_price_as_of": "2026-09-22",
+      "total_listings": 0
     },
     {
       "card_id": 5099,
@@ -11389,6 +12049,18 @@
       "market_price_usd": 39.89,
       "market_price_as_of": "2026-10-23",
       "total_listings": 11
+    },
+    {
+      "card_id": 29029,
+      "name": "Hydreigon EX (103 Full Art)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "103/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.84,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 65
     },
     {
       "card_id": 2302158,
@@ -11749,6 +12421,18 @@
       "market_price_usd": 39.05,
       "market_price_as_of": "2026-10-24",
       "total_listings": 11
+    },
+    {
+      "card_id": 15294,
+      "name": "Pikachu EX - XY174",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY174",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 39.05,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 19
     },
     {
       "card_id": 24433,
@@ -12195,6 +12879,18 @@
       "total_listings": 274
     },
     {
+      "card_id": 15457,
+      "name": "Volcanion - 26/114",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "026/114",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 38.0,
+      "market_price_as_of": "2026-10-01",
+      "total_listings": 1
+    },
+    {
       "card_id": 12971,
       "name": "Feraligatr - 20/123 (Cosmos Holo)",
       "set_id": 5500101,
@@ -12373,6 +13069,18 @@
       "market_price_usd": 37.47,
       "market_price_as_of": "2026-10-11",
       "total_listings": 99
+    },
+    {
+      "card_id": 29044,
+      "name": "Winona (108 Full Art)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "108/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.17,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 119
     },
     {
       "card_id": 16096,
@@ -12939,6 +13647,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 15275,
+      "name": "Rayquaza GX - 177a/168",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "177a/168",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 35.36,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 5
+    },
+    {
       "card_id": 4276,
       "name": "Charmander - 004/165 (GameStop Exclusive)",
       "set_id": 5500123,
@@ -13081,6 +13801,18 @@
       "market_price_usd": 35.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 26
+    },
+    {
+      "card_id": 15492,
+      "name": "Primal Groudon EX - 86/160",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "086/160",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 34.92,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
     },
     {
       "card_id": 20434,
@@ -13299,6 +14031,18 @@
       "total_listings": 187
     },
     {
+      "card_id": 15467,
+      "name": "Pikachu - 58/102",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "058/102",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 34.49,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 11
+    },
+    {
       "card_id": 6301,
       "name": "Welder - 189a/214 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -13381,6 +14125,18 @@
       "market_price_usd": 34.21,
       "market_price_as_of": "2026-10-23",
       "total_listings": 8
+    },
+    {
+      "card_id": 15381,
+      "name": "M Swampert EX - XY87",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY87",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 34.14,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 17
     },
     {
       "card_id": 4322,
@@ -13633,6 +14389,18 @@
       "market_price_usd": 33.55,
       "market_price_as_of": "2026-10-23",
       "total_listings": 30
+    },
+    {
+      "card_id": 28983,
+      "name": "Rayquaza EX (60)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "60/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.46,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 76
     },
     {
       "card_id": 6602,
@@ -14091,6 +14859,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 15445,
+      "name": "M Garchomp EX - XY168",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY168",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 32.01,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 6
+    },
+    {
       "card_id": 6454,
       "name": "Counter Catcher - 91/111 (League Cup) [Staff]",
       "set_id": 5500087,
@@ -14379,6 +15159,18 @@
       "total_listings": 116
     },
     {
+      "card_id": 15439,
+      "name": "Deoxys EX - 53/116 (Plasma Freeze)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "053/116",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 31.5,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 8
+    },
+    {
       "card_id": 26218,
       "name": "Xerneas GX (Full Art)",
       "set_id": 5500192,
@@ -14451,6 +15243,18 @@
       "total_listings": 93
     },
     {
+      "card_id": 15393,
+      "name": "Raikou, Entei & Suicune",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 31.28,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 15
+    },
+    {
       "card_id": 18452,
       "name": "Noctowl - 141 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -14473,6 +15277,18 @@
       "market_price_usd": 31.27,
       "market_price_as_of": "2026-10-23",
       "total_listings": 23
+    },
+    {
+      "card_id": 15447,
+      "name": "Alolan Marowak GX - SM187",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM187",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 31.25,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 8
     },
     {
       "card_id": 16294,
@@ -14955,6 +15771,18 @@
       "total_listings": 105
     },
     {
+      "card_id": 30545,
+      "name": "Machamp EX (90 Full Art)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "90/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.08,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 47
+    },
+    {
       "card_id": 6283,
       "name": "Dawn (Regional Championship)",
       "set_id": 5500087,
@@ -15063,6 +15891,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 15470,
+      "name": "Ultra Necrozma GX - SM126",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM126",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.95,
+      "market_price_as_of": "2025-11-03",
+      "total_listings": 1
+    },
+    {
       "card_id": 21555,
       "name": "Unown V (Alternate Full Art)",
       "set_id": 5500161,
@@ -15123,6 +15963,18 @@
       "total_listings": 189
     },
     {
+      "card_id": 28986,
+      "name": "Dragonite (52 Delta)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "52/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.84,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 168
+    },
+    {
       "card_id": 14663,
       "name": "Espeon GX - SM35",
       "set_id": 5500076,
@@ -15171,6 +16023,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 15427,
+      "name": "Darkrai - BW73 (BW Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "BW73",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.7,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 2
+    },
+    {
       "card_id": 18744,
       "name": "Ethan's Adventure - 236/182",
       "set_id": 5500009,
@@ -15181,6 +16045,18 @@
       "market_price_usd": 29.59,
       "market_price_as_of": "2026-10-10",
       "total_listings": 184
+    },
+    {
+      "card_id": 15468,
+      "name": "Mewtwo EX - 54/99",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "054/099",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.54,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 15
     },
     {
       "card_id": 18939,
@@ -15205,6 +16081,18 @@
       "market_price_usd": 29.45,
       "market_price_as_of": "2026-10-25",
       "total_listings": 61
+    },
+    {
+      "card_id": 15488,
+      "name": "Mimikyu (Delta Species) - SWSH136",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH136",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.44,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 11
     },
     {
       "card_id": 12889,
@@ -15543,6 +16431,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 15317,
+      "name": "Arcanine BREAK - XY180 (XY Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY180",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 28.65,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 23
+    },
+    {
       "card_id": 22841,
       "name": "Tapu Lele GX (Secret)",
       "set_id": 5500036,
@@ -15673,6 +16573,18 @@
       "market_price_usd": 28.46,
       "market_price_as_of": "2026-10-24",
       "total_listings": 6
+    },
+    {
+      "card_id": 30491,
+      "name": "M Tyranitar EX",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "43/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.39,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 181
     },
     {
       "card_id": 38187,
@@ -16143,6 +17055,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 29010,
+      "name": "Shaymin EX (106 Full Art)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "106/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.53,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 72
+    },
+    {
       "card_id": 38834,
       "name": "Eevee - 12/12",
       "set_id": 5500203,
@@ -16431,6 +17355,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 15465,
+      "name": "Tornadus, Thundurus & Landorus (Forces of Nature Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 27.21,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 6
+    },
+    {
       "card_id": 3894,
       "name": "Luxray GL - 2010 (Mychael Bryan)",
       "set_id": 5500029,
@@ -16441,6 +17377,18 @@
       "market_price_usd": 27.21,
       "market_price_as_of": "2026-10-24",
       "total_listings": 6
+    },
+    {
+      "card_id": 37874,
+      "name": "Team Magma's Great Ball",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "31/34",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.2,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 235
     },
     {
       "card_id": 38104,
@@ -16585,6 +17533,18 @@
       "market_price_usd": 27.0,
       "market_price_as_of": "2026-10-23",
       "total_listings": 3
+    },
+    {
+      "card_id": 15453,
+      "name": "M Blaziken EX - XY86",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY86",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 26.97,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 17
     },
     {
       "card_id": 22224,
@@ -16779,6 +17739,18 @@
       "total_listings": 104
     },
     {
+      "card_id": 30513,
+      "name": "M Sceptile EX",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "8/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.67,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 122
+    },
+    {
       "card_id": 19819,
       "name": "Suicune GX (Full Art)",
       "set_id": 5500141,
@@ -16813,6 +17785,18 @@
       "market_price_usd": 26.64,
       "market_price_as_of": "2026-10-09",
       "total_listings": 333
+    },
+    {
+      "card_id": 15337,
+      "name": "Darkrai - DP24 (DP Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "DP24",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 26.63,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 15
     },
     {
       "card_id": 12680,
@@ -17029,6 +18013,18 @@
       "market_price_usd": 26.33,
       "market_price_as_of": "2026-10-22",
       "total_listings": 14
+    },
+    {
+      "card_id": 15301,
+      "name": "Espeon & Deoxys GX Oversized - SM240 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM240",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 26.32,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 10
     },
     {
       "card_id": 23993,
@@ -17439,6 +18435,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 15431,
+      "name": "Espeon GX - SM35 (SM Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM35",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.54,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 11
+    },
+    {
       "card_id": 18478,
       "name": "Aegislash - 060 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -17727,6 +18735,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 15438,
+      "name": "Regigigas - DP40",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "DP40",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.0,
+      "market_price_as_of": "2026-09-29",
+      "total_listings": 8
+    },
+    {
       "card_id": 1871,
       "name": "Milotic - 2005 (Jeremy Maron)",
       "set_id": 5500029,
@@ -17931,6 +18951,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 28997,
+      "name": "Energy Switch",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "109/108",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.68,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 69
+    },
+    {
       "card_id": 100018090,
       "name": "Shining Celebi",
       "set_id": 5500238,
@@ -18001,6 +19033,18 @@
       "market_price_usd": 24.63,
       "market_price_as_of": "2026-10-15",
       "total_listings": 137
+    },
+    {
+      "card_id": 30490,
+      "name": "Lugia EX",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "68/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.62,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 139
     },
     {
       "card_id": 2302212,
@@ -18159,6 +19203,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 15303,
+      "name": "Charizard GX - SM60 (SM Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM60",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 24.38,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 32
+    },
+    {
       "card_id": 38173,
       "name": "Rayquaza VMAX (Secret)",
       "set_id": 5500197,
@@ -18193,6 +19249,18 @@
       "market_price_usd": 24.28,
       "market_price_as_of": "2026-10-13",
       "total_listings": 278
+    },
+    {
+      "card_id": 15342,
+      "name": "Umbreon GX - SM36",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM36",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 24.27,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 17
     },
     {
       "card_id": 6494,
@@ -18255,6 +19323,18 @@
       "total_listings": 72
     },
     {
+      "card_id": 15410,
+      "name": "Flareon GX - SM171 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM171",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 24.13,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 6
+    },
+    {
       "card_id": 6172,
       "name": "Corviknight V - 109/163",
       "set_id": 5500194,
@@ -18277,6 +19357,18 @@
       "market_price_usd": 24.09,
       "market_price_as_of": "2026-10-26",
       "total_listings": 37
+    },
+    {
+      "card_id": 29003,
+      "name": "M Latios EX",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "59/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.07,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 128
     },
     {
       "card_id": 37468,
@@ -18541,6 +19633,18 @@
       "market_price_usd": 23.53,
       "market_price_as_of": "2026-10-10",
       "total_listings": 406
+    },
+    {
+      "card_id": 15296,
+      "name": "Gengar EX - 34/119",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "034/119",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.51,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
     },
     {
       "card_id": 13851,
@@ -19347,6 +20451,18 @@
       "total_listings": 134
     },
     {
+      "card_id": 15362,
+      "name": "Rayquaza EX - XY66",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY66",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.43,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 14
+    },
+    {
       "card_id": 23657,
       "name": "M Houndoom EX",
       "set_id": 5500195,
@@ -19549,6 +20665,18 @@
       "market_price_usd": 22.12,
       "market_price_as_of": "2026-10-09",
       "total_listings": 159
+    },
+    {
+      "card_id": 28973,
+      "name": "VS Seeker",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "110/108",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.09,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 58
     },
     {
       "card_id": 37491,
@@ -20007,6 +21135,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 15304,
+      "name": "Reshiram & Charizard GX - SM201",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM201",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.34,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 26
+    },
+    {
       "card_id": 5717,
       "name": "Gengar - 066/196",
       "set_id": 5500194,
@@ -20017,6 +21157,18 @@
       "market_price_usd": 21.31,
       "market_price_as_of": "2026-10-15",
       "total_listings": 51
+    },
+    {
+      "card_id": 15277,
+      "name": "Charizard & Braixen GX - SM230 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM230",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.3,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 13
     },
     {
       "card_id": 16718,
@@ -20341,6 +21493,18 @@
       "market_price_usd": 20.91,
       "market_price_as_of": "2026-10-09",
       "total_listings": 177
+    },
+    {
+      "card_id": 15481,
+      "name": "Dialga - DP26 (DP Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "DP26",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.9,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 11
     },
     {
       "card_id": 2119569,
@@ -20823,6 +21987,30 @@
       "total_listings": 116
     },
     {
+      "card_id": 30523,
+      "name": "Energy Retrieval",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "99/98",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.44,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 169
+    },
+    {
+      "card_id": 29026,
+      "name": "Thundurus EX (98 Full Art)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "98/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.43,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 72
+    },
+    {
       "card_id": 100018080,
       "name": "Darkrai & Cresselia Legend (Top)",
       "set_id": 5500238,
@@ -20929,6 +22117,18 @@
       "market_price_usd": 20.25,
       "market_price_as_of": "2026-10-10",
       "total_listings": 222
+    },
+    {
+      "card_id": 15487,
+      "name": "Ho-Oh GX - SM80 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM80",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.22,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 5
     },
     {
       "card_id": 22345,
@@ -21183,6 +22383,30 @@
       "total_listings": 2
     },
     {
+      "card_id": 15428,
+      "name": "Mewtwo EX - 61/162",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "061/162",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 4
+    },
+    {
+      "card_id": 15452,
+      "name": "Pikachu V - 043/185 (Vivid Voltage Stamped)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "043/185",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 2
+    },
+    {
       "card_id": 17703,
       "name": "Medicham V (Alternate Full Art)",
       "set_id": 5500048,
@@ -21205,6 +22429,30 @@
       "market_price_usd": 20.0,
       "market_price_as_of": "2026-10-20",
       "total_listings": 114
+    },
+    {
+      "card_id": 15397,
+      "name": "Hisuian Decidueye VSTAR - 084/189",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "084/189",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.99,
+      "market_price_as_of": "2026-10-22",
+      "total_listings": 1
+    },
+    {
+      "card_id": 15472,
+      "name": "Hoopa EX - 36/98 (Ancient Origins)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "036/098",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.99,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 0
     },
     {
       "card_id": 17237,
@@ -21327,6 +22575,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 15379,
+      "name": "Lunala GX - SM103",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM103",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.96,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 5
+    },
+    {
       "card_id": 16515,
       "name": "Floette",
       "set_id": 5500206,
@@ -21373,6 +22633,18 @@
       "market_price_usd": 19.93,
       "market_price_as_of": "2026-10-24",
       "total_listings": 11
+    },
+    {
+      "card_id": 15386,
+      "name": "Solgaleo GX - SM104",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM104",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.92,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 7
     },
     {
       "card_id": 36058,
@@ -21589,6 +22861,18 @@
       "market_price_usd": 19.74,
       "market_price_as_of": "2026-10-23",
       "total_listings": 9
+    },
+    {
+      "card_id": 29047,
+      "name": "Gallade EX (99 Full Art)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "99/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.72,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 100
     },
     {
       "card_id": 5678,
@@ -21841,6 +23125,18 @@
       "market_price_usd": 19.51,
       "market_price_as_of": "2026-10-27",
       "total_listings": 16
+    },
+    {
+      "card_id": 15371,
+      "name": "M Tyranitar EX - 43/98",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "043/098",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.5,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 15
     },
     {
       "card_id": 14505,
@@ -22225,6 +23521,30 @@
       "market_price_usd": 19.17,
       "market_price_as_of": "2026-10-09",
       "total_listings": 62
+    },
+    {
+      "card_id": 15217,
+      "name": "Vaporeon VMAX - SWSH182",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH182",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.17,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
+    },
+    {
+      "card_id": 30521,
+      "name": "M Ampharos EX",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "28/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.17,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 114
     },
     {
       "card_id": 17262,
@@ -22647,6 +23967,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 15443,
+      "name": "Vaporeon GX - SM172",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM172",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.54,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 6
+    },
+    {
       "card_id": 6630,
       "name": "Escape Board - 122/156 (League Cup) [Staff]",
       "set_id": 5500087,
@@ -22705,6 +24037,18 @@
       "market_price_usd": 18.51,
       "market_price_as_of": "2026-10-09",
       "total_listings": 139
+    },
+    {
+      "card_id": 37879,
+      "name": "Team Aqua's Spheal",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "3/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.5,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 81
     },
     {
       "card_id": 15793,
@@ -22971,6 +24315,18 @@
       "total_listings": 80
     },
     {
+      "card_id": 15474,
+      "name": "Salamence GX - SM139 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM139",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.21,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 13
+    },
+    {
       "card_id": 23465,
       "name": "Vulpix - 138/132",
       "set_id": 5500179,
@@ -23079,6 +24435,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 15323,
+      "name": "Charizard GX - SM195 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM195",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.05,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 31
+    },
+    {
       "card_id": 36049,
       "name": "Quagsire",
       "set_id": 5500083,
@@ -23175,6 +24543,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 15509,
+      "name": "Aurorus EX - XY102 (XY Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY102",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.95,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 12
+    },
+    {
       "card_id": 24763,
       "name": "Lunala Prism Star",
       "set_id": 5500013,
@@ -23269,6 +24649,18 @@
       "market_price_usd": 17.92,
       "market_price_as_of": "2026-10-09",
       "total_listings": 77
+    },
+    {
+      "card_id": 15421,
+      "name": "M Metagross EX - XY35",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY35",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.92,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 17
     },
     {
       "card_id": 17834,
@@ -23379,6 +24771,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 15415,
+      "name": "Alolan Sandslash GX - SM236",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM236",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.79,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 8
+    },
+    {
       "card_id": 22182,
       "name": "Psyduck",
       "set_id": 5500079,
@@ -23403,6 +24807,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 15328,
+      "name": "Tyrantrum EX - XY70",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY70",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.77,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 13
+    },
+    {
       "card_id": 20751,
       "name": "Snom - 168/162",
       "set_id": 5500066,
@@ -23413,6 +24829,18 @@
       "market_price_usd": 17.72,
       "market_price_as_of": "2026-10-12",
       "total_listings": 141
+    },
+    {
+      "card_id": 28949,
+      "name": "Rayquaza Spirit Link",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "87/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.71,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 315
     },
     {
       "card_id": 703,
@@ -23533,6 +24961,18 @@
       "market_price_usd": 17.62,
       "market_price_as_of": "2026-10-13",
       "total_listings": 349
+    },
+    {
+      "card_id": 15462,
+      "name": "M Lucario EX - 55a/111",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "055a/111",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.6,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 21
     },
     {
       "card_id": 22239,
@@ -23835,6 +25275,18 @@
       "total_listings": 128
     },
     {
+      "card_id": 15332,
+      "name": "M Mawile EX - XY104",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY104",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.36,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 9
+    },
+    {
       "card_id": 18381,
       "name": "Thundurus - 209 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -24087,6 +25539,18 @@
       "total_listings": 75
     },
     {
+      "card_id": 37891,
+      "name": "Team Aqua Grunt",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "26/34",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.14,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 157
+    },
+    {
       "card_id": 14693,
       "name": "Kingdra GX - SM155",
       "set_id": 5500076,
@@ -24171,6 +25635,18 @@
       "total_listings": 63
     },
     {
+      "card_id": 15318,
+      "name": "Mewtwo GX - SM196",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM196",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.1,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 18
+    },
+    {
       "card_id": 14510,
       "name": "Lampent (Master Ball Pattern)",
       "set_id": 5500153,
@@ -24181,6 +25657,18 @@
       "market_price_usd": 17.09,
       "market_price_as_of": "2026-10-09",
       "total_listings": 13
+    },
+    {
+      "card_id": 15219,
+      "name": "Jolteon VMAX - SWSH184",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH184",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.08,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 22
     },
     {
       "card_id": 27945,
@@ -24243,6 +25731,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 28984,
+      "name": "Jirachi",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "42/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.02,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 75
+    },
+    {
       "card_id": 248,
       "name": "Oracle - 2004 (Chris Fulop)",
       "set_id": 5500029,
@@ -24265,6 +25765,18 @@
       "market_price_usd": 17.0,
       "market_price_as_of": "2026-10-26",
       "total_listings": 1
+    },
+    {
+      "card_id": 15385,
+      "name": "Palkia - DP27",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "DP27",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 6
     },
     {
       "card_id": 18299,
@@ -24337,6 +25849,18 @@
       "market_price_usd": 16.99,
       "market_price_as_of": "2026-10-19",
       "total_listings": 56
+    },
+    {
+      "card_id": 29011,
+      "name": "Wally (107 Full Art)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "107/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.98,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 106
     },
     {
       "card_id": 13722,
@@ -24445,6 +25969,18 @@
       "market_price_usd": 16.82,
       "market_price_as_of": "2026-10-09",
       "total_listings": 96
+    },
+    {
+      "card_id": 186483,
+      "name": "Snorlax VMAX - 142/202",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "142/202",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.81,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 23
     },
     {
       "card_id": 24319,
@@ -25371,6 +26907,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 15329,
+      "name": "Ho-Oh BREAK - XY154 (XY Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY154",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.1,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 14
+    },
+    {
       "card_id": 30143,
       "name": "Cufant - 076/064",
       "set_id": 5500139,
@@ -25393,6 +26941,18 @@
       "market_price_usd": 16.08,
       "market_price_as_of": "2026-10-12",
       "total_listings": 44
+    },
+    {
+      "card_id": 15451,
+      "name": "Zygarde GX - SM122",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM122",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.07,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 9
     },
     {
       "card_id": 38797,
@@ -25659,6 +27219,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 15218,
+      "name": "Flareon VMAX - SWSH180",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH180",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.85,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 23
+    },
+    {
       "card_id": 18742,
       "name": "Yanmega ex - 228/182",
       "set_id": 5500009,
@@ -25705,6 +27277,18 @@
       "market_price_usd": 15.83,
       "market_price_as_of": "2026-10-21",
       "total_listings": 97
+    },
+    {
+      "card_id": 15293,
+      "name": "Rayquaza EX - XY69",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY69",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.83,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 11
     },
     {
       "card_id": 14662,
@@ -25911,6 +27495,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 15351,
+      "name": "Jolteon GX - SM173 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM173",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.72,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 6
+    },
+    {
       "card_id": 6530,
       "name": "Cherish Ball - 191a/236 (League Cup) [Staff]",
       "set_id": 5500087,
@@ -26053,6 +27649,18 @@
       "market_price_usd": 15.62,
       "market_price_as_of": "2026-10-24",
       "total_listings": 11
+    },
+    {
+      "card_id": 15315,
+      "name": "Charizard EX - XY17 (XY Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY17",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.62,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 28
     },
     {
       "card_id": 5,
@@ -26233,6 +27841,18 @@
       "market_price_usd": 15.51,
       "market_price_as_of": "2026-10-14",
       "total_listings": 105
+    },
+    {
+      "card_id": 28999,
+      "name": "M Gallade EX",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "35/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.51,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 179
     },
     {
       "card_id": 14521,
@@ -26775,6 +28395,18 @@
       "total_listings": 91
     },
     {
+      "card_id": 15331,
+      "name": "Charizard EX - 11/106",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "011/106",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.17,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 39
+    },
+    {
       "card_id": 13813,
       "name": "Beheeyem (Master Ball Pattern)",
       "set_id": 5500093,
@@ -26833,6 +28465,18 @@
       "market_price_usd": 15.12,
       "market_price_as_of": "2026-10-26",
       "total_listings": 48
+    },
+    {
+      "card_id": 15432,
+      "name": "Dragonite EX - 74/111",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "074/111",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.08,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 37
     },
     {
       "card_id": 37479,
@@ -26907,6 +28551,30 @@
       "total_listings": 72
     },
     {
+      "card_id": 15460,
+      "name": "Reshiram, Zekrom & Kyurem",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 6
+    },
+    {
+      "card_id": 15477,
+      "name": "Primal Kyogre EX - 96/98",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "096/098",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.0,
+      "market_price_as_of": "2025-12-29",
+      "total_listings": 1
+    },
+    {
       "card_id": 32209,
       "name": "Geodude (Stamped)",
       "set_id": 5500089,
@@ -26917,6 +28585,18 @@
       "market_price_usd": 15.0,
       "market_price_as_of": "2026-10-28",
       "total_listings": 0
+    },
+    {
+      "card_id": 15401,
+      "name": "Decidueye ex - 015/197",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "015/197",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.99,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 3
     },
     {
       "card_id": 20149,
@@ -26991,6 +28671,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 15350,
+      "name": "M Diancie EX - XY44",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY44",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.97,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 13
+    },
+    {
       "card_id": 24410,
       "name": "Banette GX (Full Art)",
       "set_id": 5500088,
@@ -27037,6 +28729,18 @@
       "market_price_usd": 14.95,
       "market_price_as_of": "2026-10-09",
       "total_listings": 48
+    },
+    {
+      "card_id": 15495,
+      "name": "Eternatus V - 116/189",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "116/189",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.95,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 0
     },
     {
       "card_id": 537,
@@ -27457,6 +29161,18 @@
       "market_price_usd": 14.7,
       "market_price_as_of": "2026-10-27",
       "total_listings": 11
+    },
+    {
+      "card_id": 28968,
+      "name": "Dragonite (51)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "51/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.69,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 160
     },
     {
       "card_id": 22352,
@@ -28047,6 +29763,18 @@
       "total_listings": 605
     },
     {
+      "card_id": 37873,
+      "name": "Team Magma's Zangoose",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "22/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.27,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 130
+    },
+    {
       "card_id": 14573,
       "name": "Flareon GX - SM171",
       "set_id": 5500076,
@@ -28081,6 +29809,18 @@
       "market_price_usd": 14.24,
       "market_price_as_of": "2026-10-26",
       "total_listings": 45
+    },
+    {
+      "card_id": 15484,
+      "name": "Zoroark BW - BW19",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "BW19",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.24,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 13
     },
     {
       "card_id": 38156,
@@ -28599,6 +30339,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 15320,
+      "name": "Arceus VSTAR - 123/172",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "123/172",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.97,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 9
+    },
+    {
       "card_id": 19702,
       "name": "Nihilego",
       "set_id": 5500141,
@@ -28669,6 +30421,18 @@
       "market_price_usd": 13.92,
       "market_price_as_of": "2026-10-15",
       "total_listings": 114
+    },
+    {
+      "card_id": 37870,
+      "name": "Team Aqua's Sharpedo",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "21/34",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.91,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 118
     },
     {
       "card_id": 19401,
@@ -29019,6 +30783,18 @@
       "total_listings": 101
     },
     {
+      "card_id": 30510,
+      "name": "Entei (15)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "15/98",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.62,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 166
+    },
+    {
       "card_id": 14784,
       "name": "Registeel - SM75 (Prerelease)",
       "set_id": 5500076,
@@ -29029,6 +30805,18 @@
       "market_price_usd": 13.59,
       "market_price_as_of": "2026-10-26",
       "total_listings": 15
+    },
+    {
+      "card_id": 15295,
+      "name": "Light Toxtricity - SWSH137",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH137",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 13.55,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 17
     },
     {
       "card_id": 4879,
@@ -29583,6 +31371,18 @@
       "total_listings": 80
     },
     {
+      "card_id": 37896,
+      "name": "Team Aqua Admin",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "25/34",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.16,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 127
+    },
+    {
       "card_id": 14527,
       "name": "Pignite (Master Ball Pattern)",
       "set_id": 5500153,
@@ -29799,6 +31599,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 15251,
+      "name": "Snorlax GX - SM05",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM05",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 13.04,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 30
+    },
+    {
       "card_id": 6261,
       "name": "Fire Energy (2007-2008 League Promo)",
       "set_id": 5500087,
@@ -29857,6 +31669,30 @@
       "market_price_usd": 13.0,
       "market_price_as_of": "2026-10-09",
       "total_listings": 29
+    },
+    {
+      "card_id": 15396,
+      "name": "Shadow Lugia (Nintendo World Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 13.0,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 2
+    },
+    {
+      "card_id": 15485,
+      "name": "Keldeo EX - 49/99",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "049/099",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 8
     },
     {
       "card_id": 15922,
@@ -30121,6 +31957,18 @@
       "market_price_usd": 12.88,
       "market_price_as_of": "2026-10-27",
       "total_listings": 30
+    },
+    {
+      "card_id": 37887,
+      "name": "Team Aqua's Seviper",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "9/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.86,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 104
     },
     {
       "card_id": 14516,
@@ -31107,6 +32955,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 15416,
+      "name": "Incineroar GX - SM38 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM38",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.36,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
+    },
+    {
       "card_id": 16223,
       "name": "Tarountula - 199/198",
       "set_id": 5500032,
@@ -31407,6 +33267,18 @@
       "total_listings": 33
     },
     {
+      "card_id": 37885,
+      "name": "Team Magma's Poochyena",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "17/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.17,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 90
+    },
+    {
       "card_id": 13637,
       "name": "Simipour - 102/086",
       "set_id": 5500093,
@@ -31417,6 +33289,18 @@
       "market_price_usd": 12.16,
       "market_price_as_of": "2026-10-09",
       "total_listings": 114
+    },
+    {
+      "card_id": 15378,
+      "name": "Melmetal GX - SM178",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM178",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.16,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 18
     },
     {
       "card_id": 20909,
@@ -31561,6 +33445,18 @@
       "market_price_usd": 12.1,
       "market_price_as_of": "2026-10-15",
       "total_listings": 41
+    },
+    {
+      "card_id": 15220,
+      "name": "Pikachu V-UNION",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.07,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 47
     },
     {
       "card_id": 14153,
@@ -31827,6 +33723,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 15405,
+      "name": "Lucario GX - SM100",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM100",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.97,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 15
+    },
+    {
       "card_id": 18602,
       "name": "Shaymin - 185/182",
       "set_id": 5500009,
@@ -31837,6 +33745,18 @@
       "market_price_usd": 11.97,
       "market_price_as_of": "2026-10-10",
       "total_listings": 321
+    },
+    {
+      "card_id": 30509,
+      "name": "Tyranitar EX",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "42/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.97,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 130
     },
     {
       "card_id": 36724,
@@ -31885,6 +33805,18 @@
       "market_price_usd": 11.96,
       "market_price_as_of": "2026-10-24",
       "total_listings": 22
+    },
+    {
+      "card_id": 15449,
+      "name": "Flygon EX - XY61 (XY Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY61",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.95,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 30
     },
     {
       "card_id": 20675,
@@ -32091,6 +34023,18 @@
       "total_listings": 259
     },
     {
+      "card_id": 37882,
+      "name": "Team Magma's Aggron",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "14/34",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.82,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 86
+    },
+    {
       "card_id": 13801,
       "name": "Crustle (Master Ball Pattern)",
       "set_id": 5500093,
@@ -32163,6 +34107,42 @@
       "total_listings": 99
     },
     {
+      "card_id": 15298,
+      "name": "Alolan Raichu - SM65",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM65",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.79,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 7
+    },
+    {
+      "card_id": 15305,
+      "name": "Ash-Greninja EX - XY133 (XY Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY133",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.79,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 31
+    },
+    {
+      "card_id": 15476,
+      "name": "M Absol EX - XY63",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY63",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.78,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 21
+    },
+    {
       "card_id": 19665,
       "name": "Blacephalon GX",
       "set_id": 5500141,
@@ -32209,6 +34189,18 @@
       "market_price_usd": 11.75,
       "market_price_as_of": "2026-10-14",
       "total_listings": 243
+    },
+    {
+      "card_id": 37878,
+      "name": "Team Aqua's Mightyena",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "18/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.75,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 91
     },
     {
       "card_id": 26320,
@@ -32523,6 +34515,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 15429,
+      "name": "M Sharpedo EX - XY200",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY200",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.61,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 12
+    },
+    {
       "card_id": 13413,
       "name": "Amarys - 170/131",
       "set_id": 5500017,
@@ -32581,6 +34585,18 @@
       "market_price_usd": 11.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 150
+    },
+    {
+      "card_id": 15469,
+      "name": "Greninja GX - SM197 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM197",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.59,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 13
     },
     {
       "card_id": 14176,
@@ -32667,6 +34683,18 @@
       "total_listings": 143
     },
     {
+      "card_id": 15316,
+      "name": "Rayquaza VMAX - 111/203",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "111/203",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.57,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 5
+    },
+    {
       "card_id": 13650,
       "name": "Elgyem - 120/086",
       "set_id": 5500093,
@@ -32677,6 +34705,18 @@
       "market_price_usd": 11.56,
       "market_price_as_of": "2026-10-09",
       "total_listings": 122
+    },
+    {
+      "card_id": 15370,
+      "name": "Guzzlord GX - 63a/111",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "063a/111",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.55,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 8
     },
     {
       "card_id": 4259,
@@ -32991,6 +35031,18 @@
       "total_listings": 175
     },
     {
+      "card_id": 15278,
+      "name": "Greninja V-UNION",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.42,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 22
+    },
+    {
       "card_id": 17275,
       "name": "Luxray",
       "set_id": 5500030,
@@ -33049,6 +35101,18 @@
       "market_price_usd": 11.39,
       "market_price_as_of": "2026-10-22",
       "total_listings": 52
+    },
+    {
+      "card_id": 28955,
+      "name": "Articuno (17 Delta)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "17/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.39,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 222
     },
     {
       "card_id": 13886,
@@ -33231,6 +35295,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 37883,
+      "name": "Team Aqua's Grimer",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "7/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.32,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 128
+    },
+    {
       "card_id": 14884,
       "name": "Gengar V",
       "set_id": 5500208,
@@ -33327,6 +35403,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 28945,
+      "name": "Double Dragon Energy",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "97/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.25,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 456
+    },
+    {
       "card_id": 6082,
       "name": "Crobat - 091/163",
       "set_id": 5500194,
@@ -33373,6 +35461,18 @@
       "market_price_usd": 11.23,
       "market_price_as_of": "2026-10-22",
       "total_listings": 22
+    },
+    {
+      "card_id": 37875,
+      "name": "Team Magma's Aron",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "12/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.23,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 77
     },
     {
       "card_id": 23650,
@@ -33553,6 +35653,18 @@
       "market_price_usd": 11.11,
       "market_price_as_of": "2026-10-26",
       "total_listings": 27
+    },
+    {
+      "card_id": 15363,
+      "name": "M Beedrill EX - XY158",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY158",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.11,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 20
     },
     {
       "card_id": 36090,
@@ -34119,6 +36231,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 28989,
+      "name": "Shaymin EX",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "77/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.86,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 58
+    },
+    {
       "card_id": 5508,
       "name": "Ditto - 132/165 (Cosmos Holo)",
       "set_id": 5500194,
@@ -34153,6 +36277,18 @@
       "market_price_usd": 10.83,
       "market_price_as_of": "2026-10-23",
       "total_listings": 53
+    },
+    {
+      "card_id": 15360,
+      "name": "Porygon-Z GX - SM216 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM216",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.82,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 10
     },
     {
       "card_id": 18314,
@@ -34237,6 +36373,18 @@
       "market_price_usd": 10.79,
       "market_price_as_of": "2026-10-27",
       "total_listings": 13
+    },
+    {
+      "card_id": 15339,
+      "name": "Blastoise GX - SM189 (Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM189",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.78,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 24
     },
     {
       "card_id": 4438,
@@ -34503,6 +36651,18 @@
       "total_listings": 66
     },
     {
+      "card_id": 15390,
+      "name": "Empoleon BREAK - XY134 (XY Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY134",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.63,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
+    },
+    {
       "card_id": 38668,
       "name": "Pikachu",
       "set_id": 5500033,
@@ -34621,6 +36781,18 @@
       "market_price_usd": 10.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 25
+    },
+    {
+      "card_id": 15359,
+      "name": "Lunala GX - 66/149",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "066/149",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.59,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 8
     },
     {
       "card_id": 23460,
@@ -35031,6 +37203,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 15479,
+      "name": "M Aerodactyl EX - XY98",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY98",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.36,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 21
+    },
+    {
       "card_id": 15972,
       "name": "Veluza - 192/182",
       "set_id": 5500212,
@@ -35295,6 +37479,18 @@
       "total_listings": 141
     },
     {
+      "card_id": 15259,
+      "name": "Mewtwo V-UNION",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.27,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 19
+    },
+    {
       "card_id": 13587,
       "name": "Musharna - 117/086",
       "set_id": 5500093,
@@ -35439,6 +37635,18 @@
       "total_listings": 112
     },
     {
+      "card_id": 15442,
+      "name": "Primarina GX - SM39",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM39",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.21,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 20
+    },
+    {
       "card_id": 16976,
       "name": "Naganadel GX (Full Art)",
       "set_id": 5500211,
@@ -35461,6 +37669,18 @@
       "market_price_usd": 10.2,
       "market_price_as_of": "2026-10-24",
       "total_listings": 50
+    },
+    {
+      "card_id": 15270,
+      "name": "Pikachu & Zekrom GX - SM248",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM248",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.19,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 36
     },
     {
       "card_id": 15578,
@@ -35691,6 +37911,30 @@
       "total_listings": 81
     },
     {
+      "card_id": 30486,
+      "name": "Metagross (50)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "50/98",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.1,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 274
+    },
+    {
+      "card_id": 37877,
+      "name": "Team Magma's Mightyena",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "19/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.1,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 114
+    },
+    {
       "card_id": 1356,
       "name": "Dusknoir - 2010 (Michael Pramawat)",
       "set_id": 5500029,
@@ -35895,6 +38139,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 15516,
+      "name": "M Charizard EX - 13/106 (Form Y)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "013/106",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.0,
+      "market_price_as_of": "2026-04-20",
+      "total_listings": 0
+    },
+    {
       "card_id": 1734,
       "name": "Girafarig - 2006 (Miska Saari)",
       "set_id": 5500029,
@@ -35955,6 +38211,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 15473,
+      "name": "Kommo-o GX - SM71 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM71",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.99,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 14
+    },
+    {
       "card_id": 2299646,
       "name": "Totodile - 048",
       "set_id": 5500111,
@@ -36003,6 +38271,18 @@
       "total_listings": 123
     },
     {
+      "card_id": 15478,
+      "name": "Krookodile EX - XY25",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY25",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.97,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
+    },
+    {
       "card_id": 18367,
       "name": "Chien-Pao - 152",
       "set_id": 5500070,
@@ -36013,6 +38293,18 @@
       "market_price_usd": 9.97,
       "market_price_as_of": "2026-10-14",
       "total_listings": 76
+    },
+    {
+      "card_id": 15225,
+      "name": "Charizard GX - SM211 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM211",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.96,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 22
     },
     {
       "card_id": 6321,
@@ -36075,6 +38367,30 @@
       "total_listings": 11
     },
     {
+      "card_id": 15404,
+      "name": "Iron Crown ex - 081/162",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "081/162",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.94,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 11
+    },
+    {
+      "card_id": 15498,
+      "name": "Kyurem V - 048/196",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "048/196",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.94,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 6
+    },
+    {
       "card_id": 38158,
       "name": "Rapid Strike Urshifu VMAX",
       "set_id": 5500144,
@@ -36097,6 +38413,18 @@
       "market_price_usd": 9.94,
       "market_price_as_of": "2026-10-15",
       "total_listings": 15
+    },
+    {
+      "card_id": 15266,
+      "name": "Mewtwo EX - XY183",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY183",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.93,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 25
     },
     {
       "card_id": 25061,
@@ -36373,6 +38701,18 @@
       "market_price_usd": 9.81,
       "market_price_as_of": "2026-10-26",
       "total_listings": 34
+    },
+    {
+      "card_id": 30535,
+      "name": "Lucky Helmet",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "77/98",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.81,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 284
     },
     {
       "card_id": 6800,
@@ -36963,6 +39303,18 @@
       "total_listings": 509
     },
     {
+      "card_id": 30497,
+      "name": "Gardevoir",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "54/98",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.57,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 131
+    },
+    {
       "card_id": 38090,
       "name": "Ice Rider Calyrex VMAX",
       "set_id": 5500061,
@@ -37191,6 +39543,30 @@
       "total_listings": 20
     },
     {
+      "card_id": 15255,
+      "name": "Reshiram & Charizard GX - SM247",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM247",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.49,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 32
+    },
+    {
+      "card_id": 37872,
+      "name": "Team Magma's Claydol",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "11/34",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.49,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 132
+    },
+    {
       "card_id": 5761,
       "name": "Cinccino - 147/202",
       "set_id": 5500194,
@@ -37393,6 +39769,18 @@
       "market_price_usd": 9.41,
       "market_price_as_of": "2026-10-21",
       "total_listings": 74
+    },
+    {
+      "card_id": 29012,
+      "name": "Latios EX",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "58/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.41,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 86
     },
     {
       "card_id": 12804,
@@ -37623,6 +40011,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 15388,
+      "name": "Raging Bolt ex - 123/162",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "123/162",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.31,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 7
+    },
+    {
       "card_id": 19726,
       "name": "Shuckle GX",
       "set_id": 5500141,
@@ -37839,6 +40239,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 37148,
+      "name": "Latias (#30 Holo)",
+      "set_id": 5500121,
+      "set_name": "XY Trainer Kit: Latias & Latios",
+      "number": "30/30",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 9.23,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 49
+    },
+    {
       "card_id": 14078,
       "name": "Pikachu V-Union - SWSH141",
       "set_id": 5500149,
@@ -37849,6 +40261,18 @@
       "market_price_usd": 9.22,
       "market_price_as_of": "2026-10-21",
       "total_listings": 57
+    },
+    {
+      "card_id": 15398,
+      "name": "Buzzwole GX - SM69 (SM Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM69",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.18,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
     },
     {
       "card_id": 17863,
@@ -37945,6 +40369,18 @@
       "market_price_usd": 9.15,
       "market_price_as_of": "2026-10-09",
       "total_listings": 178
+    },
+    {
+      "card_id": 186650,
+      "name": "Mewtwo EX - 52/108",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "052/108",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.15,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 22
     },
     {
       "card_id": 237,
@@ -38127,6 +40563,18 @@
       "total_listings": 137
     },
     {
+      "card_id": 15489,
+      "name": "Blastoise VMAX - SWSH103",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH103",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.06,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 21
+    },
+    {
       "card_id": 24377,
       "name": "Groudon",
       "set_id": 5500088,
@@ -38137,6 +40585,18 @@
       "market_price_usd": 9.06,
       "market_price_as_of": "2026-10-22",
       "total_listings": 68
+    },
+    {
+      "card_id": 30539,
+      "name": "Ampharos EX",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "27/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.04,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 40
     },
     {
       "card_id": 24519,
@@ -38221,6 +40681,30 @@
       "market_price_usd": 9.0,
       "market_price_as_of": "2026-10-09",
       "total_listings": 142
+    },
+    {
+      "card_id": 15435,
+      "name": "Tapu Lele GX - 60a/145",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "060a/145",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 12
+    },
+    {
+      "card_id": 15461,
+      "name": "Garchomp EX - XY09 (XY Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY09",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.0,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 12
     },
     {
       "card_id": 5193,
@@ -38545,6 +41029,18 @@
       "market_price_usd": 8.89,
       "market_price_as_of": "2026-10-23",
       "total_listings": 154
+    },
+    {
+      "card_id": 15414,
+      "name": "M Camerupt EX - XY198",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY198",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.88,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 17
     },
     {
       "card_id": 17215,
@@ -39243,6 +41739,18 @@
       "total_listings": 80
     },
     {
+      "card_id": 15357,
+      "name": "Dragonite EX - 72/108",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "072/108",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.66,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 11
+    },
+    {
       "card_id": 20830,
       "name": "Iron Crown ex - 216/162",
       "set_id": 5500066,
@@ -39663,6 +42171,18 @@
       "total_listings": 218
     },
     {
+      "card_id": 15504,
+      "name": "Latias (Vstar Universe Japanese Exclusive)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "195/172",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.5,
+      "market_price_as_of": "2026-10-04",
+      "total_listings": 2
+    },
+    {
       "card_id": 19741,
       "name": "Suicune GX",
       "set_id": 5500141,
@@ -39843,6 +42363,18 @@
       "total_listings": 458
     },
     {
+      "card_id": 37871,
+      "name": "Team Aqua's Sealeo",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "4/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.43,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 130
+    },
+    {
       "card_id": 21570,
       "name": "Ho-Oh V (Full Art)",
       "set_id": 5500161,
@@ -39973,6 +42505,18 @@
       "market_price_usd": 8.39,
       "market_price_as_of": "2026-10-21",
       "total_listings": 40
+    },
+    {
+      "card_id": 15403,
+      "name": "Scizor EX - 76/122",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "076/122",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.38,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 23
     },
     {
       "card_id": 17133,
@@ -40263,6 +42807,18 @@
       "total_listings": 33
     },
     {
+      "card_id": 15366,
+      "name": "Venusaur VMAX - SWSH102",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH102",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.31,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 28
+    },
+    {
       "card_id": 2136202,
       "name": "Doublade - 067",
       "set_id": 5500111,
@@ -40275,6 +42831,30 @@
       "total_listings": 68
     },
     {
+      "card_id": 37867,
+      "name": "Team Aqua's Muk",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "8/34",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.3,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 121
+    },
+    {
+      "card_id": 15312,
+      "name": "Cinderace V - SWSH015",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH015",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.29,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
+    },
+    {
       "card_id": 15953,
       "name": "Tulip - 259/182",
       "set_id": 5500212,
@@ -40285,6 +42865,18 @@
       "market_price_usd": 8.29,
       "market_price_as_of": "2026-10-12",
       "total_listings": 176
+    },
+    {
+      "card_id": 15307,
+      "name": "Pikachu GX - SM232",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM232",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.28,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 18
     },
     {
       "card_id": 35221,
@@ -40575,6 +43167,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 30520,
+      "name": "Sceptile EX",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "7/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.2,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 70
+    },
+    {
       "card_id": 38817,
       "name": "Chansey - 10/12",
       "set_id": 5500193,
@@ -40717,6 +43321,18 @@
       "market_price_usd": 8.16,
       "market_price_as_of": "2026-10-26",
       "total_listings": 23
+    },
+    {
+      "card_id": 37897,
+      "name": "Team Aqua's Poochyena",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "16/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.16,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 87
     },
     {
       "card_id": 14279,
@@ -40983,6 +43599,18 @@
       "total_listings": 75
     },
     {
+      "card_id": 37893,
+      "name": "Team Magma's Lairon",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "13/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.06,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 131
+    },
+    {
       "card_id": 16775,
       "name": "Gible",
       "set_id": 5500211,
@@ -41137,6 +43765,18 @@
       "market_price_usd": 7.99,
       "market_price_as_of": "2026-10-24",
       "total_listings": 3
+    },
+    {
+      "card_id": 15425,
+      "name": "Grimmsnarl V - SWSH057",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH057",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.99,
+      "market_price_as_of": "2026-02-09",
+      "total_listings": 1
     },
     {
       "card_id": 16281,
@@ -41343,6 +43983,18 @@
       "total_listings": 176
     },
     {
+      "card_id": 37890,
+      "name": "Team Magma's Numel",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "1/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.93,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 89
+    },
+    {
       "card_id": 17110,
       "name": "Gardevoir ex - 217/091",
       "set_id": 5500030,
@@ -41499,6 +44151,18 @@
       "total_listings": 148
     },
     {
+      "card_id": 15310,
+      "name": "Blaziken ex",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "024/159",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.86,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
+    },
+    {
       "card_id": 19685,
       "name": "Lapras",
       "set_id": 5500141,
@@ -41569,6 +44233,18 @@
       "market_price_usd": 7.84,
       "market_price_as_of": "2026-10-17",
       "total_listings": 118
+    },
+    {
+      "card_id": 15260,
+      "name": "Terapagos & Friends",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.84,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 27
     },
     {
       "card_id": 24283,
@@ -41787,6 +44463,18 @@
       "total_listings": 71
     },
     {
+      "card_id": 28961,
+      "name": "Togekiss (45)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "45/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.78,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 93
+    },
+    {
       "card_id": 4314,
       "name": "Lucario - 63/124 (Cosmos Holo)",
       "set_id": 5500123,
@@ -41941,6 +44629,18 @@
       "market_price_usd": 7.72,
       "market_price_as_of": "2026-10-17",
       "total_listings": 95
+    },
+    {
+      "card_id": 15324,
+      "name": "Gallade EX - XY45 (XY Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "XY45",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.72,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 28
     },
     {
       "card_id": 36230,
@@ -42171,6 +44871,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 28943,
+      "name": "Pikachu",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "20/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.63,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 406
+    },
+    {
       "card_id": 6597,
       "name": "Heatran - 30/146 (Regional Championships)",
       "set_id": 5500087,
@@ -42205,6 +44917,18 @@
       "market_price_usd": 7.62,
       "market_price_as_of": "2026-10-28",
       "total_listings": 193
+    },
+    {
+      "card_id": 30522,
+      "name": "Hoopa EX",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "36/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.62,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 104
     },
     {
       "card_id": 5961,
@@ -42339,6 +45063,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 15284,
+      "name": "Pikachu - 58/102 (25th Anniversary)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "58/102",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 7.58,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 27
+    },
+    {
       "card_id": 20251,
       "name": "Enamorus - 180/167",
       "set_id": 5500051,
@@ -42421,6 +45157,18 @@
       "market_price_usd": 7.56,
       "market_price_as_of": "2026-10-22",
       "total_listings": 66
+    },
+    {
+      "card_id": 15434,
+      "name": "Kingdra EX - 73/124",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "073/124",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.55,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 30
     },
     {
       "card_id": 27939,
@@ -43203,6 +45951,18 @@
       "total_listings": 208
     },
     {
+      "card_id": 30536,
+      "name": "Trainers' Mail (Secret)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "100/98",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.34,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 85
+    },
+    {
       "card_id": 13645,
       "name": "Pawniard - 142/086",
       "set_id": 5500093,
@@ -43719,6 +46479,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 15313,
+      "name": "Raichu GX - SM213",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM213",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.15,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 28
+    },
+    {
       "card_id": 20258,
       "name": "Sunflora - 169/167",
       "set_id": 5500051,
@@ -43897,6 +46669,18 @@
       "market_price_usd": 7.1,
       "market_price_as_of": "2026-10-23",
       "total_listings": 14
+    },
+    {
+      "card_id": 15247,
+      "name": "Meowth VMAX - SWSH005",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH005",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.1,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 30
     },
     {
       "card_id": 38226,
@@ -44175,6 +46959,18 @@
       "total_listings": 62
     },
     {
+      "card_id": 15355,
+      "name": "Hydreigon C - SWSH138",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH138",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 7.0,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 22
+    },
+    {
       "card_id": 17993,
       "name": "Alolan Dugtrio - 208/191",
       "set_id": 5500180,
@@ -44331,6 +47127,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 15448,
+      "name": "Zoroark GX - SM84",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM84",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.96,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 34
+    },
+    {
       "card_id": 17462,
       "name": "Lapras V (Full Art)",
       "set_id": 5500025,
@@ -44389,6 +47197,18 @@
       "market_price_usd": 6.94,
       "market_price_as_of": "2026-10-21",
       "total_listings": 16
+    },
+    {
+      "card_id": 15257,
+      "name": "Leafeon VSTAR - SWSH195",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH195",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.94,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 41
     },
     {
       "card_id": 6360,
@@ -44703,6 +47523,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 15413,
+      "name": "Miraidon ex",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "081/198",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.83,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 4
+    },
+    {
       "card_id": 26831,
       "name": "Guzzlord GX",
       "set_id": 5500043,
@@ -44713,6 +47545,18 @@
       "market_price_usd": 6.83,
       "market_price_as_of": "2026-10-25",
       "total_listings": 129
+    },
+    {
+      "card_id": 29048,
+      "name": "Hydreigon EX",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "62/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.83,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 116
     },
     {
       "card_id": 38231,
@@ -44797,6 +47641,18 @@
       "market_price_usd": 6.81,
       "market_price_as_of": "2026-10-15",
       "total_listings": 31
+    },
+    {
+      "card_id": 15454,
+      "name": "Silvally GX - SM91",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM91",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.8,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 26
     },
     {
       "card_id": 516,
@@ -45411,6 +48267,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 15250,
+      "name": "Charizard ex - 054/091",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "054/091",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.65,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 38
+    },
+    {
       "card_id": 23626,
       "name": "Zoroark BREAK",
       "set_id": 5500195,
@@ -45433,6 +48301,30 @@
       "market_price_usd": 6.65,
       "market_price_as_of": "2026-10-28",
       "total_listings": 113
+    },
+    {
+      "card_id": 37884,
+      "name": "Team Magma's Secret Base",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "32/34",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.65,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 228
+    },
+    {
+      "card_id": 15418,
+      "name": "Darkrai GX - 88a/147",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "088a/147",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.64,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 16
     },
     {
       "card_id": 17178,
@@ -45927,6 +48819,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 15338,
+      "name": "Kangaskhan GX - SM188 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM188",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.52,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 9
+    },
+    {
       "card_id": 17865,
       "name": "Zinnia's Resolve (Secret)",
       "set_id": 5500048,
@@ -46047,6 +48951,18 @@
       "total_listings": 115
     },
     {
+      "card_id": 15490,
+      "name": "White Kyurem GX - SM141",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM141",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.49,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 14
+    },
+    {
       "card_id": 611,
       "name": "R Energy - 2005 (Takashi Yoneda)",
       "set_id": 5500029,
@@ -46057,6 +48973,18 @@
       "market_price_usd": 6.49,
       "market_price_as_of": "2026-10-24",
       "total_listings": 12
+    },
+    {
+      "card_id": 15491,
+      "name": "Solgaleo GX - 89/149",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "089/149",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.48,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 19
     },
     {
       "card_id": 21441,
@@ -46405,6 +49333,18 @@
       "market_price_usd": 6.4,
       "market_price_as_of": "2026-10-11",
       "total_listings": 220
+    },
+    {
+      "card_id": 15499,
+      "name": "Rillaboom V - SWSH014",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH014",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.39,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 21
     },
     {
       "card_id": 5700,
@@ -46815,6 +49755,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 15322,
+      "name": "Dragonite V - SWSH154",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH154",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.28,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 27
+    },
+    {
       "card_id": 6236,
       "name": "Professor's Letter - 123/146 (Pokemon League)",
       "set_id": 5500087,
@@ -47017,6 +49969,18 @@
       "market_price_usd": 6.23,
       "market_price_as_of": "2026-10-26",
       "total_listings": 305
+    },
+    {
+      "card_id": 37888,
+      "name": "Team Aqua's Carvanha",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "20/34",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.23,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 135
     },
     {
       "card_id": 19250,
@@ -47235,6 +50199,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 30511,
+      "name": "Gyarados (20)",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "20/98",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.17,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 282
+    },
+    {
       "card_id": 6471,
       "name": "Lusamine - 153a/156 (League Challenge) [3rd Place]",
       "set_id": 5500087,
@@ -47391,6 +50367,18 @@
       "total_listings": 271
     },
     {
+      "card_id": 15285,
+      "name": "Gyarados GX - SM212 (SM Black Star Promo)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM212",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.14,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 30
+    },
+    {
       "card_id": 16828,
       "name": "Celebi",
       "set_id": 5500211,
@@ -47487,6 +50475,18 @@
       "total_listings": 98
     },
     {
+      "card_id": 37889,
+      "name": "Team Magma's Camerupt",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "2/34",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.12,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 158
+    },
+    {
       "card_id": 5708,
       "name": "Fezandipiti ex - 038/064 (Series 7)",
       "set_id": 5500194,
@@ -47521,6 +50521,18 @@
       "market_price_usd": 6.11,
       "market_price_as_of": "2026-10-21",
       "total_listings": 32
+    },
+    {
+      "card_id": 15243,
+      "name": "Raichu GX - SM90",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM90",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.11,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 23
     },
     {
       "card_id": 19372,
@@ -47619,6 +50631,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 37149,
+      "name": "Latios (#30 Holo)",
+      "set_id": 5500121,
+      "set_name": "XY Trainer Kit: Latias & Latios",
+      "number": "30/30",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 6.1,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 72
+    },
+    {
       "card_id": 21631,
       "name": "Wallace (Full Art)",
       "set_id": 5500161,
@@ -47653,6 +50677,18 @@
       "market_price_usd": 6.09,
       "market_price_as_of": "2026-10-09",
       "total_listings": 596
+    },
+    {
+      "card_id": 15287,
+      "name": "Zacian V-UNION",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": null,
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.08,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 33
     },
     {
       "card_id": 18316,
@@ -47883,6 +50919,18 @@
       "total_listings": 177
     },
     {
+      "card_id": 28956,
+      "name": "Altaria (74 Delta)",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "74/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.05,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 197
+    },
+    {
       "card_id": 6583,
       "name": "Shelmet - 8/111 (Pokemon League) [2nd Place]",
       "set_id": 5500087,
@@ -48061,6 +51109,18 @@
       "market_price_usd": 6.02,
       "market_price_as_of": "2026-10-15",
       "total_listings": 17
+    },
+    {
+      "card_id": 15420,
+      "name": "Tsareena GX - SM56",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM56",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.01,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 15
     },
     {
       "card_id": 1086,
@@ -48591,6 +51651,30 @@
       "total_listings": 218
     },
     {
+      "card_id": 15269,
+      "name": "Lugia ex (Prismatic Evolutions Stamped)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "082/131",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.9,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 26
+    },
+    {
+      "card_id": 15369,
+      "name": "Tapu Fini GX - 39a/147",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "039a/147",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.9,
+      "market_price_as_of": "2026-10-01",
+      "total_listings": 2
+    },
+    {
       "card_id": 24652,
       "name": "Alolan Muk GX (Full Art)",
       "set_id": 5500119,
@@ -48831,6 +51915,18 @@
       "total_listings": 229
     },
     {
+      "card_id": 15230,
+      "name": "Pikachu VMAX - SWSH286",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH286",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.82,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 69
+    },
+    {
       "card_id": 15938,
       "name": "Garganacl - 202/182",
       "set_id": 5500212,
@@ -48889,6 +51985,18 @@
       "market_price_usd": 5.81,
       "market_price_as_of": "2026-10-19",
       "total_listings": 169
+    },
+    {
+      "card_id": 37869,
+      "name": "Team Aqua's Walrein",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "5/34",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.81,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 150
     },
     {
       "card_id": 17487,
@@ -49299,6 +52407,18 @@
       "total_listings": 413
     },
     {
+      "card_id": 28975,
+      "name": "Deoxys",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "33/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.74,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 113
+    },
+    {
       "card_id": 31409,
       "name": "Snom",
       "set_id": 5500042,
@@ -49515,6 +52635,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 15211,
+      "name": "Charizard ex -196",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "196",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 5.71,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 76
+    },
+    {
       "card_id": 100018069,
       "name": "Solgaleo GX",
       "set_id": 5500238,
@@ -49585,6 +52717,18 @@
       "market_price_usd": 5.7,
       "market_price_as_of": "2026-10-27",
       "total_listings": 10
+    },
+    {
+      "card_id": 15327,
+      "name": "Eternatus VMAX - SWSH045",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH045",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.69,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 27
     },
     {
       "card_id": 36490,
@@ -49875,6 +53019,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 15367,
+      "name": "Silvally GX - 90/111",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "090/111",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.61,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 14
+    },
+    {
       "card_id": 23006,
       "name": "Whimsicott VSTAR (Secret)",
       "set_id": 5500201,
@@ -49885,6 +53041,18 @@
       "market_price_usd": 5.61,
       "market_price_as_of": "2026-10-17",
       "total_listings": 140
+    },
+    {
+      "card_id": 30488,
+      "name": "Flareon",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "13/98",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.61,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 252
     },
     {
       "card_id": 4451,
@@ -49957,6 +53125,18 @@
       "market_price_usd": 5.6,
       "market_price_as_of": "2026-10-09",
       "total_listings": 359
+    },
+    {
+      "card_id": 28946,
+      "name": "Meowth",
+      "set_id": 5500095,
+      "set_name": "XY - Roaring Skies",
+      "number": "67/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.6,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 357
     },
     {
       "card_id": 2133467,
@@ -50065,6 +53245,18 @@
       "market_price_usd": 5.57,
       "market_price_as_of": "2026-10-21",
       "total_listings": 21
+    },
+    {
+      "card_id": 15244,
+      "name": "Glaceon VSTAR - SWSH197",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH197",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.57,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 44
     },
     {
       "card_id": 18608,
@@ -50355,6 +53547,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 15216,
+      "name": "Morpeko V-Union (SWSH287-290)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH290",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.5,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 61
+    },
+    {
       "card_id": 1751,
       "name": "Pokemon Retriever - 2006 (Miska Saari)",
       "set_id": 5500029,
@@ -50413,6 +53617,18 @@
       "market_price_usd": 5.5,
       "market_price_as_of": "2026-10-21",
       "total_listings": 101
+    },
+    {
+      "card_id": 37898,
+      "name": "Team Magma Admin",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "29/34",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.5,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 177
     },
     {
       "card_id": 166,
@@ -50583,6 +53799,18 @@
       "total_listings": 151
     },
     {
+      "card_id": 30480,
+      "name": "Magikarp",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "19/98",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.46,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 718
+    },
+    {
       "card_id": 1064,
       "name": "Fieldworker - 2007 (Jun Hasebe)",
       "set_id": 5500029,
@@ -50617,6 +53845,18 @@
       "market_price_usd": 5.45,
       "market_price_as_of": "2026-10-27",
       "total_listings": 21
+    },
+    {
+      "card_id": 15506,
+      "name": "Bewear GX - SM34 (Black Star Promos)",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM34",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.44,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 24
     },
     {
       "card_id": 16525,
@@ -50749,6 +53989,18 @@
       "market_price_usd": 5.43,
       "market_price_as_of": "2026-10-27",
       "total_listings": 20
+    },
+    {
+      "card_id": 15268,
+      "name": "Mimikyu ex",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "004",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.42,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 26
     },
     {
       "card_id": 2133475,
@@ -50965,6 +54217,18 @@
       "market_price_usd": 5.39,
       "market_price_as_of": "2026-10-15",
       "total_listings": 6
+    },
+    {
+      "card_id": 15430,
+      "name": "Polteageist V - SWSH021",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH021",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.38,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 23
     },
     {
       "card_id": 16014,
@@ -51447,6 +54711,18 @@
       "total_listings": 580
     },
     {
+      "card_id": 15364,
+      "name": "Toxtricity V - SWSH017",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SWSH017",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.31,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 24
+    },
+    {
       "card_id": 17783,
       "name": "Dracozolt V (Full Art)",
       "set_id": 5500048,
@@ -51805,6 +55081,18 @@
       "market_price_usd": 5.25,
       "market_price_as_of": "2026-10-25",
       "total_listings": 49
+    },
+    {
+      "card_id": 37880,
+      "name": "Team Aqua's Great Ball",
+      "set_id": 5500187,
+      "set_name": "Double Crisis",
+      "number": "27/34",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.25,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 109
     },
     {
       "card_id": 6644,
@@ -52491,6 +55779,18 @@
       "total_listings": 284
     },
     {
+      "card_id": 15455,
+      "name": "Pheromosa GX - SM66",
+      "set_id": 5500069,
+      "set_name": "Jumbo Cards",
+      "number": "SM66",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.12,
+      "market_price_as_of": "2026-10-28",
+      "total_listings": 21
+    },
+    {
       "card_id": 17748,
       "name": "Zinnia's Resolve (Full Art)",
       "set_id": 5500048,
@@ -52585,6 +55885,18 @@
       "market_price_usd": 5.11,
       "market_price_as_of": "2026-10-28",
       "total_listings": 61
+    },
+    {
+      "card_id": 30538,
+      "name": "Machamp EX",
+      "set_id": 5500196,
+      "set_name": "XY - Ancient Origins",
+      "number": "37/98",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.11,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 85
     },
     {
       "card_id": 37090,
