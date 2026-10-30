@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-10-29T08:19:44.560490+00:00",
+  "generated_at": "2026-10-30T08:20:01.594282+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 114,
+  "next_set_index": 119,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 10,
-  "total_candidates": 4715,
-  "cards_with_price_history": 19257,
+  "api_calls": 8,
+  "total_candidates": 4831,
+  "cards_with_price_history": 19723,
   "candidates": [
     {
       "card_id": 6616,
@@ -387,6 +387,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 25688,
+      "name": "Kyogre EX (148 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "148/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 181.16,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 30
+    },
+    {
       "card_id": 13475,
       "name": "Flareon ex - 146/131",
       "set_id": 5500017,
@@ -469,6 +481,18 @@
       "market_price_usd": 179.03,
       "market_price_as_of": "2026-10-09",
       "total_listings": 93
+    },
+    {
+      "card_id": 25678,
+      "name": "Groudon EX (150 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "150/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 178.13,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 36
     },
     {
       "card_id": 16715,
@@ -711,6 +735,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 27364,
+      "name": "Dragonite EX (108 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "108/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 163.61,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 43
+    },
+    {
       "card_id": 6048,
       "name": "Mew V - 113/264",
       "set_id": 5500194,
@@ -925,6 +961,18 @@
       "market_price_usd": 153.68,
       "market_price_as_of": "2026-10-22",
       "total_listings": 21
+    },
+    {
+      "card_id": 27630,
+      "name": "M Gengar EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "35/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 153.45,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 117
     },
     {
       "card_id": 17023,
@@ -1323,6 +1371,18 @@
       "total_listings": 175
     },
     {
+      "card_id": 27394,
+      "name": "M Lucario EX (Secret)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "113/111",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 142.45,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 67
+    },
+    {
       "card_id": 19001,
       "name": "Snorlax (Secret)",
       "set_id": 5500170,
@@ -1429,6 +1489,18 @@
       "market_price_usd": 140.7,
       "market_price_as_of": "2026-10-18",
       "total_listings": 59
+    },
+    {
+      "card_id": 27334,
+      "name": "Lucario EX (107 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "107/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 140.07,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 77
     },
     {
       "card_id": 6638,
@@ -2715,6 +2787,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 25703,
+      "name": "M Gardevoir EX (156 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "156/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 107.27,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 58
+    },
+    {
       "card_id": 17511,
       "name": "Snorlax VMAX (Secret)",
       "set_id": 5500025,
@@ -3711,6 +3795,18 @@
       "total_listings": 36
     },
     {
+      "card_id": 25704,
+      "name": "M Aggron EX (154 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "154/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 94.12,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 65
+    },
+    {
       "card_id": 20463,
       "name": "Charizard ex - 223/197",
       "set_id": 5500138,
@@ -4213,6 +4309,18 @@
       "market_price_usd": 86.48,
       "market_price_as_of": "2026-10-14",
       "total_listings": 107
+    },
+    {
+      "card_id": 27595,
+      "name": "Gengar EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "34/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 86.31,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 139
     },
     {
       "card_id": 22357,
@@ -5389,6 +5497,18 @@
       "market_price_usd": 72.93,
       "market_price_as_of": "2026-10-22",
       "total_listings": 23
+    },
+    {
+      "card_id": 25684,
+      "name": "Gardevoir EX (155 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "155/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 72.89,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 44
     },
     {
       "card_id": 6783,
@@ -6867,6 +6987,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 25618,
+      "name": "Primal Kyogre EX (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "55/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 61.83,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 128
+    },
+    {
       "card_id": 36499,
       "name": "Mew (Secret)",
       "set_id": 5500114,
@@ -7743,6 +7875,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 25701,
+      "name": "Wailord EX (147 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "147/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 57.18,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 53
+    },
+    {
       "card_id": 213952,
       "name": "Darkrai GX (Secret)",
       "set_id": 5500119,
@@ -8091,6 +8235,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 25610,
+      "name": "Primal Groudon EX (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "86/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.63,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 61
+    },
+    {
       "card_id": 28871,
       "name": "Mewtwo V (Alternate Full Art)",
       "set_id": 5500021,
@@ -8233,6 +8389,18 @@
       "market_price_usd": 53.9,
       "market_price_as_of": "2026-10-09",
       "total_listings": 102
+    },
+    {
+      "card_id": 27699,
+      "name": "M Manectric EX (120 Secret Rare)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "120/119",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 53.84,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 83
     },
     {
       "card_id": 22340,
@@ -8461,6 +8629,18 @@
       "market_price_usd": 52.54,
       "market_price_as_of": "2026-10-10",
       "total_listings": 164
+    },
+    {
+      "card_id": 27387,
+      "name": "M Heracross EX (Secret)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "112/111",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 52.51,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 101
     },
     {
       "card_id": 22334,
@@ -8977,6 +9157,18 @@
       "market_price_usd": 50.28,
       "market_price_as_of": "2026-10-27",
       "total_listings": 3
+    },
+    {
+      "card_id": 25674,
+      "name": "Sharpedo EX (152 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "152/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 50.09,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 59
     },
     {
       "card_id": 6646,
@@ -10215,6 +10407,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 25662,
+      "name": "Aggron EX (153 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "153/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.65,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 55
+    },
+    {
       "card_id": 19516,
       "name": "Lucario & Melmetal GX (Full Art)",
       "set_id": 5500191,
@@ -10573,6 +10777,18 @@
       "market_price_usd": 44.93,
       "market_price_as_of": "2026-10-24",
       "total_listings": 16
+    },
+    {
+      "card_id": 38818,
+      "name": "Pikachu - 5/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "005/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 44.86,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 35
     },
     {
       "card_id": 18477,
@@ -11703,6 +11919,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 27303,
+      "name": "M Lucario EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "55/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.51,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 151
+    },
+    {
       "card_id": 14612,
       "name": "Pikachu - SM86",
       "set_id": 5500076,
@@ -11835,6 +12063,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 27328,
+      "name": "Heracross EX (105 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "105/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.21,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 72
+    },
+    {
       "card_id": 18254,
       "name": "Mewtwo - 052",
       "set_id": 5500070,
@@ -11893,6 +12133,18 @@
       "market_price_usd": 40.06,
       "market_price_as_of": "2026-10-18",
       "total_listings": 76
+    },
+    {
+      "card_id": 27332,
+      "name": "Korrina (111 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "111/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.05,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 104
     },
     {
       "card_id": 4295,
@@ -12337,6 +12589,18 @@
       "market_price_usd": 39.24,
       "market_price_as_of": "2026-10-18",
       "total_listings": 65
+    },
+    {
+      "card_id": 27319,
+      "name": "Fossil Researcher (110 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "110/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.21,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 47
     },
     {
       "card_id": 18496,
@@ -14487,6 +14751,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 27287,
+      "name": "Sylveon",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "72/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.2,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 107
+    },
+    {
       "card_id": 13013,
       "name": "Metagross - 4/95 (Cracked Ice Holo)",
       "set_id": 5500101,
@@ -14739,6 +15015,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 25630,
+      "name": "Swampert (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "36/160",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.47,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 107
+    },
+    {
       "card_id": 38770,
       "name": "Pikachu - 5/12",
       "set_id": 5500145,
@@ -14881,6 +15169,18 @@
       "market_price_usd": 32.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 12
+    },
+    {
+      "card_id": 25692,
+      "name": "Teammates (160 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "160/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.97,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 74
     },
     {
       "card_id": 5134,
@@ -15627,6 +15927,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 27315,
+      "name": "Seismitoad EX (106 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "106/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.46,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 63
+    },
+    {
       "card_id": 37463,
       "name": "Zygarde EX - 54a/124",
       "set_id": 5500060,
@@ -15735,6 +16047,18 @@
       "total_listings": 80
     },
     {
+      "card_id": 25632,
+      "name": "M Gardevoir EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "106/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.18,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 158
+    },
+    {
       "card_id": 18471,
       "name": "Miraidon - 092 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -15805,6 +16129,18 @@
       "market_price_usd": 30.04,
       "market_price_as_of": "2026-10-24",
       "total_listings": 6
+    },
+    {
+      "card_id": 36963,
+      "name": "Jigglypuff (#25)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "25/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 30.0,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 7
     },
     {
       "card_id": 6637,
@@ -15879,6 +16215,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 27326,
+      "name": "Hawlucha EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "64/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.97,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 69
+    },
+    {
       "card_id": 5045,
       "name": "Iron Moth - 028/182 (European Promo)",
       "set_id": 5500123,
@@ -15901,6 +16249,18 @@
       "market_price_usd": 29.95,
       "market_price_as_of": "2025-11-03",
       "total_listings": 1
+    },
+    {
+      "card_id": 25695,
+      "name": "Camerupt EX (146 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "146/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.95,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 66
     },
     {
       "card_id": 21555,
@@ -16153,6 +16513,18 @@
       "market_price_usd": 29.29,
       "market_price_as_of": "2026-10-10",
       "total_listings": 133
+    },
+    {
+      "card_id": 27598,
+      "name": "Gengar Spirit Link",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "95/119",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.24,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 123
     },
     {
       "card_id": 2139021,
@@ -18387,6 +18759,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 27658,
+      "name": "AZ (117 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "117/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.59,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 87
+    },
+    {
       "card_id": 14798,
       "name": "Wash Rotom - SM94 (Prerelease)",
       "set_id": 5500076,
@@ -18543,6 +18927,18 @@
       "total_listings": 86
     },
     {
+      "card_id": 25664,
+      "name": "Switch (163 Secret Rare)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "163/160",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.37,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 51
+    },
+    {
       "card_id": 4520,
       "name": "Vaporeon - 22/98 (Cosmos Holo)",
       "set_id": 5500123,
@@ -18589,6 +18985,18 @@
       "market_price_usd": 25.27,
       "market_price_as_of": "2026-10-09",
       "total_listings": 209
+    },
+    {
+      "card_id": 25698,
+      "name": "Enhanced Hammer (162 Secret Rare)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "162/160",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.23,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 57
     },
     {
       "card_id": 6434,
@@ -18661,6 +19069,18 @@
       "market_price_usd": 25.11,
       "market_price_as_of": "2026-10-27",
       "total_listings": 140
+    },
+    {
+      "card_id": 25696,
+      "name": "Archie's Ace in the Hole (157 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "157/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.09,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 76
     },
     {
       "card_id": 18182,
@@ -19323,6 +19743,18 @@
       "total_listings": 72
     },
     {
+      "card_id": 25605,
+      "name": "Dive Ball (161 Secret Rare)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "161/160",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.14,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 56
+    },
+    {
       "card_id": 15410,
       "name": "Flareon GX - SM171 (SM Black Star Promo)",
       "set_id": 5500069,
@@ -19453,6 +19885,18 @@
       "market_price_usd": 23.88,
       "market_price_as_of": "2026-10-26",
       "total_listings": 47
+    },
+    {
+      "card_id": 27280,
+      "name": "Pikachu",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "27/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.87,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 310
     },
     {
       "card_id": 22722,
@@ -19731,6 +20175,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 27670,
+      "name": "Florges EX (116 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "116/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.37,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 42
+    },
+    {
       "card_id": 17002,
       "name": "Keldeo GX (Secret)",
       "set_id": 5500211,
@@ -19765,6 +20221,18 @@
       "market_price_usd": 23.32,
       "market_price_as_of": "2026-10-24",
       "total_listings": 8
+    },
+    {
+      "card_id": 25676,
+      "name": "Maxie's Hidden Ball Trick (158 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "158/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.28,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 84
     },
     {
       "card_id": 24848,
@@ -19825,6 +20293,18 @@
       "market_price_usd": 23.24,
       "market_price_as_of": "2026-10-26",
       "total_listings": 7
+    },
+    {
+      "card_id": 25708,
+      "name": "Trevenant EX (145 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "145/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.22,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 58
     },
     {
       "card_id": 14713,
@@ -21243,6 +21723,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 25631,
+      "name": "M Aggron EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "94/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.25,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 114
+    },
+    {
       "card_id": 26231,
       "name": "Zygarde GX (Full Art)",
       "set_id": 5500192,
@@ -21853,6 +22345,18 @@
       "market_price_usd": 20.64,
       "market_price_as_of": "2026-10-14",
       "total_listings": 155
+    },
+    {
+      "card_id": 38827,
+      "name": "Honedge - 7/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "007/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.62,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 80
     },
     {
       "card_id": 26252,
@@ -22803,6 +23307,18 @@
       "total_listings": 216
     },
     {
+      "card_id": 38823,
+      "name": "Inkay - 6/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "006/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.75,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 62
+    },
+    {
       "card_id": 6618,
       "name": "Darkness Energy (2011 Pokemon League)",
       "set_id": 5500087,
@@ -23079,6 +23595,30 @@
       "total_listings": 39
     },
     {
+      "card_id": 25552,
+      "name": "Torchic (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "26/160",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.57,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 206
+    },
+    {
+      "card_id": 25604,
+      "name": "Kyogre EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "54/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.54,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 111
+    },
+    {
       "card_id": 37492,
       "name": "Guzzlord GX - 63a/111",
       "set_id": 5500060,
@@ -23151,6 +23691,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 38825,
+      "name": "Froakie - 4/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "004/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.49,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 56
+    },
+    {
       "card_id": 16514,
       "name": "Marshadow",
       "set_id": 5500206,
@@ -23221,6 +23773,18 @@
       "market_price_usd": 19.41,
       "market_price_as_of": "2026-10-18",
       "total_listings": 61
+    },
+    {
+      "card_id": 25652,
+      "name": "Professor Birch's Observations (159 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "159/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.4,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 24
     },
     {
       "card_id": 2153349,
@@ -23751,6 +24315,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 27661,
+      "name": "Manectric EX (113 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "113/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.87,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 74
+    },
+    {
       "card_id": 1526,
       "name": "Piplup (DP03) - 2008 (Dylan Lefavour)",
       "set_id": 5500029,
@@ -23773,6 +24349,18 @@
       "market_price_usd": 18.85,
       "market_price_as_of": "2026-10-12",
       "total_listings": 57
+    },
+    {
+      "card_id": 27682,
+      "name": "Malamar EX (115 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "115/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.83,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 71
     },
     {
       "card_id": 5164,
@@ -24133,6 +24721,18 @@
       "market_price_usd": 18.44,
       "market_price_as_of": "2026-10-17",
       "total_listings": 57
+    },
+    {
+      "card_id": 25562,
+      "name": "Nidoqueen (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "69/160",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.42,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 172
     },
     {
       "card_id": 7129,
@@ -24735,6 +25335,18 @@
       "total_listings": 31
     },
     {
+      "card_id": 38828,
+      "name": "Fennekin - 3/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "003/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.82,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 61
+    },
+    {
       "card_id": 14639,
       "name": "Lucario GX - SM100",
       "set_id": 5500076,
@@ -24865,6 +25477,18 @@
       "market_price_usd": 17.7,
       "market_price_as_of": "2026-10-22",
       "total_listings": 120
+    },
+    {
+      "card_id": 25686,
+      "name": "Sceptile (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "9/160",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.7,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 140
     },
     {
       "card_id": 14706,
@@ -26019,6 +26643,18 @@
       "total_listings": 66
     },
     {
+      "card_id": 25590,
+      "name": "Rhyperior (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "77/160",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.78,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 115
+    },
+    {
       "card_id": 6374,
       "name": "Machop - 64/101 (City Championships)",
       "set_id": 5500087,
@@ -26103,6 +26739,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 27286,
+      "name": "Dragonite EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "74/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.74,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 192
+    },
+    {
       "card_id": 31422,
       "name": "Yamper",
       "set_id": 5500042,
@@ -26185,6 +26833,18 @@
       "market_price_usd": 16.68,
       "market_price_as_of": "2026-10-09",
       "total_listings": 90
+    },
+    {
+      "card_id": 27647,
+      "name": "Lysandre's Trump Card (118 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "118/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.68,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 91
     },
     {
       "card_id": 36710,
@@ -26835,6 +27495,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 25574,
+      "name": "Tentacool (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "71/160",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.17,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 211
+    },
+    {
       "card_id": 100140393,
       "name": "Golbat - 050/086 (Pokeween 2026)",
       "set_id": 5500123,
@@ -27123,6 +27795,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 27300,
+      "name": "Tyrantrum",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "62/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.94,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 307
+    },
+    {
       "card_id": 4033,
       "name": "Bulbasaur - 133/132 (Mega Evolution Stamped)",
       "set_id": 5500123,
@@ -27169,6 +27853,18 @@
       "market_price_usd": 15.9,
       "market_price_as_of": "2026-10-27",
       "total_listings": 8
+    },
+    {
+      "card_id": 27338,
+      "name": "M Heracross EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "5/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.89,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 161
     },
     {
       "card_id": 14517,
@@ -27361,6 +28057,18 @@
       "market_price_usd": 15.8,
       "market_price_as_of": "2026-10-15",
       "total_listings": 27
+    },
+    {
+      "card_id": 25602,
+      "name": "Groudon EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "85/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.79,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 100
     },
     {
       "card_id": 4364,
@@ -27709,6 +28417,18 @@
       "market_price_usd": 15.61,
       "market_price_as_of": "2026-10-12",
       "total_listings": 35
+    },
+    {
+      "card_id": 27323,
+      "name": "Battle Reporter (109 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "109/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.6,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 100
     },
     {
       "card_id": 4552,
@@ -28407,6 +29127,18 @@
       "total_listings": 39
     },
     {
+      "card_id": 25608,
+      "name": "Kingdra (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "108/160",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.16,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 112
+    },
+    {
       "card_id": 13813,
       "name": "Beheeyem (Master Ball Pattern)",
       "set_id": 5500093,
@@ -28609,6 +29341,18 @@
       "market_price_usd": 14.99,
       "market_price_as_of": "2026-10-11",
       "total_listings": 362
+    },
+    {
+      "card_id": 38829,
+      "name": "Bunnelby - 10/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "010/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.99,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 93
     },
     {
       "card_id": 6667,
@@ -30315,6 +31059,18 @@
       "total_listings": 41
     },
     {
+      "card_id": 27340,
+      "name": "Lucario EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "54/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.0,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 58
+    },
+    {
       "card_id": 4419,
       "name": "Lechonk - 154/198 (Store Promo)",
       "set_id": 5500123,
@@ -30699,6 +31455,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 27668,
+      "name": "M Manectric EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "24/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.67,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 174
+    },
+    {
       "card_id": 12707,
       "name": "Dark Marowak - 7/109 (EX Team Rocket Returns)",
       "set_id": 5500101,
@@ -31023,6 +31791,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 25628,
+      "name": "Azumarill (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "104/160",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.4,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 78
+    },
+    {
       "card_id": 15606,
       "name": "Boss's Orders - 265/193",
       "set_id": 5500150,
@@ -31201,6 +31981,18 @@
       "market_price_usd": 13.3,
       "market_price_as_of": "2026-10-23",
       "total_listings": 18
+    },
+    {
+      "card_id": 38826,
+      "name": "Chespin - 2/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "002/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.29,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 55
     },
     {
       "card_id": 36115,
@@ -31777,6 +32569,18 @@
       "market_price_usd": 12.98,
       "market_price_as_of": "2026-10-09",
       "total_listings": 407
+    },
+    {
+      "card_id": 38822,
+      "name": "Fletchling - 11/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "011/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.97,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 58
     },
     {
       "card_id": 27123,
@@ -32943,6 +33747,18 @@
       "total_listings": 187
     },
     {
+      "card_id": 27295,
+      "name": "Aurorus",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "26/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.37,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 308
+    },
+    {
       "card_id": 6695,
       "name": "Carmine - 145/167 (Regional Stamp Promo)",
       "set_id": 5500087,
@@ -33085,6 +33901,18 @@
       "market_price_usd": 12.32,
       "market_price_as_of": "2026-10-25",
       "total_listings": 58
+    },
+    {
+      "card_id": 38824,
+      "name": "Weedle - 1/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "001/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.31,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 40
     },
     {
       "card_id": 38816,
@@ -34131,6 +34959,18 @@
       "total_listings": 31
     },
     {
+      "card_id": 27674,
+      "name": "Dialga EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "62/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.79,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 71
+    },
+    {
       "card_id": 15476,
       "name": "M Absol EX - XY63",
       "set_id": 5500069,
@@ -34141,6 +34981,18 @@
       "market_price_usd": 11.78,
       "market_price_as_of": "2026-10-28",
       "total_listings": 21
+    },
+    {
+      "card_id": 27297,
+      "name": "Glaceon",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "19/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.77,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 127
     },
     {
       "card_id": 19665,
@@ -34693,6 +35545,18 @@
       "market_price_usd": 11.57,
       "market_price_as_of": "2026-10-28",
       "total_listings": 5
+    },
+    {
+      "card_id": 38819,
+      "name": "Snubbull - 8/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "008/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.57,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 44
     },
     {
       "card_id": 13650,
@@ -35919,6 +36783,18 @@
       "total_listings": 113
     },
     {
+      "card_id": 38821,
+      "name": "Swirlix - 9/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "009/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.97,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 43
+    },
+    {
       "card_id": 2155086,
       "name": "Goodra - 077",
       "set_id": 5500111,
@@ -36337,6 +37213,18 @@
       "market_price_usd": 10.81,
       "market_price_as_of": "2026-10-21",
       "total_listings": 69
+    },
+    {
+      "card_id": 27299,
+      "name": "Leafeon",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "7/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.81,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 154
     },
     {
       "card_id": 20433,
@@ -38535,6 +39423,18 @@
       "total_listings": 144
     },
     {
+      "card_id": 38820,
+      "name": "Furfrou - 12/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "number": "012/012",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.89,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 72
+    },
+    {
       "card_id": 6701,
       "name": "Shelmet - 8/111 (Pokemon League) [1st Place]",
       "set_id": 5500087,
@@ -38605,6 +39505,30 @@
       "market_price_usd": 9.85,
       "market_price_as_of": "2026-10-21",
       "total_listings": 139
+    },
+    {
+      "card_id": 25547,
+      "name": "Skitty",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "113/160",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.85,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 134
+    },
+    {
+      "card_id": 25576,
+      "name": "Milotic",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "44/160",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.85,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 93
     },
     {
       "card_id": 100101490,
@@ -38799,6 +39723,18 @@
       "total_listings": 88
     },
     {
+      "card_id": 27284,
+      "name": "Amaura",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "25/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.78,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 370
+    },
+    {
       "card_id": 19671,
       "name": "Slowking",
       "set_id": 5500141,
@@ -38833,6 +39769,18 @@
       "market_price_usd": 9.75,
       "market_price_as_of": "2026-10-23",
       "total_listings": 0
+    },
+    {
+      "card_id": 36966,
+      "name": "Clefairy (#13)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "13/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 9.75,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 2
     },
     {
       "card_id": 38125,
@@ -39555,6 +40503,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 36991,
+      "name": "Clefairy (#19)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "19/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 9.49,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 1
+    },
+    {
       "card_id": 37872,
       "name": "Team Magma's Claydol",
       "set_id": 5500187,
@@ -39819,6 +40779,18 @@
       "total_listings": 39
     },
     {
+      "card_id": 25613,
+      "name": "Gardevoir EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "105/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.39,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 75
+    },
+    {
       "card_id": 26259,
       "name": "Beast Ring (Secret)",
       "set_id": 5500192,
@@ -39889,6 +40861,18 @@
       "market_price_usd": 9.36,
       "market_price_as_of": "2026-10-09",
       "total_listings": 49
+    },
+    {
+      "card_id": 27279,
+      "name": "Eevee",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "80/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.36,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 380
     },
     {
       "card_id": 13946,
@@ -40393,6 +41377,30 @@
       "market_price_usd": 9.15,
       "market_price_as_of": "2026-10-23",
       "total_listings": 16
+    },
+    {
+      "card_id": 27612,
+      "name": "Diancie",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "71/119",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.15,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 56
+    },
+    {
+      "card_id": 36986,
+      "name": "Slakoth (#15)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "15/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 9.15,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 0
     },
     {
       "card_id": 38293,
@@ -41569,6 +42577,18 @@
       "market_price_usd": 8.73,
       "market_price_as_of": "2026-10-19",
       "total_listings": 129
+    },
+    {
+      "card_id": 27291,
+      "name": "Tyrunt",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "61/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.71,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 433
     },
     {
       "card_id": 32957,
@@ -42867,6 +43887,18 @@
       "total_listings": 176
     },
     {
+      "card_id": 25582,
+      "name": "Bidoof (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "117/160",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.29,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 209
+    },
+    {
       "card_id": 15307,
       "name": "Pikachu GX - SM232",
       "set_id": 5500069,
@@ -43789,6 +44821,30 @@
       "market_price_usd": 7.99,
       "market_price_as_of": "2026-10-14",
       "total_listings": 212
+    },
+    {
+      "card_id": 27594,
+      "name": "Battle Compressor",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "92/119",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.99,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 336
+    },
+    {
+      "card_id": 36983,
+      "name": "Clefable (#28)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "28/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 7.99,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 6
     },
     {
       "card_id": 38838,
@@ -45027,6 +46083,18 @@
       "total_listings": 165
     },
     {
+      "card_id": 27593,
+      "name": "VS Seeker",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "109/119",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.6,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 331
+    },
+    {
       "card_id": 20198,
       "name": "Froslass - 174/167",
       "set_id": 5500051,
@@ -45423,6 +46491,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 27325,
+      "name": "Politoed",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "18/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.49,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 28
+    },
+    {
       "card_id": 13131,
       "name": "Jolteon ex - 030/131",
       "set_id": 5500017,
@@ -45649,6 +46729,18 @@
       "market_price_usd": 7.42,
       "market_price_as_of": "2026-10-15",
       "total_listings": 226
+    },
+    {
+      "card_id": 25658,
+      "name": "Weakness Policy (164 Secret Rare)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "164/160",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.42,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 79
     },
     {
       "card_id": 32113,
@@ -45925,6 +47017,18 @@
       "market_price_usd": 7.36,
       "market_price_as_of": "2026-10-14",
       "total_listings": 103
+    },
+    {
+      "card_id": 25575,
+      "name": "Ludicolo (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "37/160",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.36,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 196
     },
     {
       "card_id": 1414,
@@ -46477,6 +47581,18 @@
       "market_price_usd": 7.16,
       "market_price_as_of": "2026-10-23",
       "total_listings": 32
+    },
+    {
+      "card_id": 27649,
+      "name": "Xerosic (119 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "119/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.16,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 93
     },
     {
       "card_id": 15313,
@@ -47235,6 +48351,18 @@
       "total_listings": 43
     },
     {
+      "card_id": 36965,
+      "name": "Bidoof",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "12/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 6.92,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 0
+    },
+    {
       "card_id": 17177,
       "name": "Jumpluff",
       "set_id": 5500030,
@@ -47629,6 +48757,18 @@
       "market_price_usd": 6.81,
       "market_price_as_of": "2026-10-24",
       "total_listings": 116
+    },
+    {
+      "card_id": 27378,
+      "name": "Heracross EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "4/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.81,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 69
     },
     {
       "card_id": 5829,
@@ -48255,6 +49395,18 @@
       "total_listings": 212
     },
     {
+      "card_id": 27350,
+      "name": "Hitmontop",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "49/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.66,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 279
+    },
+    {
       "card_id": 5612,
       "name": "Teal Mask Ogerpon ex - 025/167 (Prize Pack Series 6)",
       "set_id": 5500194,
@@ -48661,6 +49813,18 @@
       "market_price_usd": 6.57,
       "market_price_as_of": "2026-10-28",
       "total_listings": 95
+    },
+    {
+      "card_id": 37011,
+      "name": "Wigglytuff (#14 Non-Holo)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "14/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 6.57,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 1
     },
     {
       "card_id": 14774,
@@ -49179,6 +50343,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 36972,
+      "name": "Pidgey (#29)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "29/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 6.44,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 4
+    },
+    {
       "card_id": 38094,
       "name": "Allister",
       "set_id": 5500061,
@@ -49443,6 +50619,18 @@
       "total_listings": 69
     },
     {
+      "card_id": 36969,
+      "name": "Swirlix (#18)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "18/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 6.36,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 9
+    },
+    {
       "card_id": 14086,
       "name": "Jirachi V - 299",
       "set_id": 5500149,
@@ -49465,6 +50653,18 @@
       "market_price_usd": 6.35,
       "market_price_as_of": "2026-10-26",
       "total_listings": 217
+    },
+    {
+      "card_id": 27283,
+      "name": "Plusle",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "31/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.35,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 175
     },
     {
       "card_id": 38774,
@@ -49983,6 +51183,18 @@
       "total_listings": 135
     },
     {
+      "card_id": 25548,
+      "name": "Silent Lab",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "140/160",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.22,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 177
+    },
+    {
       "card_id": 19250,
       "name": "Magnezone VSTAR (Secret)",
       "set_id": 5500024,
@@ -50197,6 +51409,30 @@
       "market_price_usd": 6.17,
       "market_price_as_of": "2026-10-18",
       "total_listings": 111
+    },
+    {
+      "card_id": 27310,
+      "name": "Blaziken",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "14/111",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.17,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 129
+    },
+    {
+      "card_id": 27636,
+      "name": "Florges EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "67/119",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.17,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 53
     },
     {
       "card_id": 30511,
@@ -51039,6 +52275,18 @@
       "total_listings": 124
     },
     {
+      "card_id": 36985,
+      "name": "Pidgeotto (#23)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "23/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 6.03,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 15
+    },
+    {
       "card_id": 13952,
       "name": "Arceus VSTAR - SWSH307",
       "set_id": 5500149,
@@ -51447,6 +52695,18 @@
       "total_listings": 157
     },
     {
+      "card_id": 25651,
+      "name": "Blaziken",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "28/160",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.95,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 83
+    },
+    {
       "card_id": 20410,
       "name": "Charizard ex - 125/197",
       "set_id": 5500138,
@@ -51469,6 +52729,18 @@
       "market_price_usd": 5.94,
       "market_price_as_of": "2026-10-20",
       "total_listings": 101
+    },
+    {
+      "card_id": 27635,
+      "name": "Goodra",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "77/119",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.94,
+      "market_price_as_of": "2026-10-29",
+      "total_listings": 127
     },
     {
       "card_id": 35747,
@@ -52731,6 +54003,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 25621,
+      "name": "Wailord EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "38/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.69,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 66
+    },
+    {
       "card_id": 36490,
       "name": "Flying Pikachu VMAX",
       "set_id": 5500114,
@@ -53319,6 +54603,18 @@
       "total_listings": 549
     },
     {
+      "card_id": 36981,
+      "name": "Slakoth (#26)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "26/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.56,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 4
+    },
+    {
       "card_id": 4097,
       "name": "Snorlax - 141/192 (Cosmos Holo)",
       "set_id": 5500123,
@@ -53761,6 +55057,18 @@
       "market_price_usd": 5.47,
       "market_price_as_of": "2026-10-16",
       "total_listings": 142
+    },
+    {
+      "card_id": 25558,
+      "name": "Hippopotas",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "87/160",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.47,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 223
     },
     {
       "card_id": 18226,
@@ -54711,6 +56019,18 @@
       "total_listings": 580
     },
     {
+      "card_id": 36998,
+      "name": "Jigglypuff (#12)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "12/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.32,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 1
+    },
+    {
       "card_id": 15364,
       "name": "Toxtricity V - SWSH017",
       "set_id": 5500069,
@@ -55563,6 +56883,18 @@
       "total_listings": 236
     },
     {
+      "card_id": 36982,
+      "name": "Clefable (#16)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "16/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.16,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 6
+    },
+    {
       "card_id": 5765,
       "name": "Ethan's Ho-Oh ex - 039/182",
       "set_id": 5500194,
@@ -56139,6 +57471,18 @@
       "total_listings": 518
     },
     {
+      "card_id": 27604,
+      "name": "Mystery Energy",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "112/119",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.06,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 390
+    },
+    {
       "card_id": 17503,
       "name": "Wobbuffet V (Full Art)",
       "set_id": 5500025,
@@ -56221,6 +57565,18 @@
       "market_price_usd": 5.04,
       "market_price_as_of": "2026-10-15",
       "total_listings": 61
+    },
+    {
+      "card_id": 27298,
+      "name": "Raichu",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "number": "28/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.04,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 142
     },
     {
       "card_id": 27925,
@@ -56439,6 +57795,30 @@
       "total_listings": 127
     },
     {
+      "card_id": 25645,
+      "name": "Aggron EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "number": "93/160",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 72
+    },
+    {
+      "card_id": 27611,
+      "name": "Swalot",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "number": "38/119",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 97
+    },
+    {
       "card_id": 6069,
       "name": "Starmie V - 030/189",
       "set_id": 5500194,
@@ -56557,6 +57937,18 @@
       "market_price_usd": 5.0,
       "market_price_as_of": "2026-10-28",
       "total_listings": 3
+    },
+    {
+      "card_id": 37016,
+      "name": "Swirlix (#1)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "number": "1/30",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-10-30",
+      "total_listings": 6
     },
     {
       "card_id": 38271,

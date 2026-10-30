@@ -269599,6 +269599,6530 @@
           "market_price_as_of": "2026-10-29"
         }
       ]
+    },
+    "25619:Reverse Holofoil": {
+      "card_id": 25619,
+      "name": "Weedle",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.61,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25638:Reverse Holofoil": {
+      "card_id": 25638,
+      "name": "Lotad",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.71,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25677:Holofoil": {
+      "card_id": 25677,
+      "name": "Aegislash",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.79,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25567:Reverse Holofoil": {
+      "card_id": 25567,
+      "name": "Mr. Mime",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.26,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25559:Reverse Holofoil": {
+      "card_id": 25559,
+      "name": "Marill",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25566:Reverse Holofoil": {
+      "card_id": 25566,
+      "name": "Azumarill",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.85,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25628:Reverse Holofoil": {
+      "card_id": 25628,
+      "name": "Azumarill (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 13.4,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25613:Holofoil": {
+      "card_id": 25613,
+      "name": "Gardevoir EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.39,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25632:Holofoil": {
+      "card_id": 25632,
+      "name": "M Gardevoir EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 30.18,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25601:Reverse Holofoil": {
+      "card_id": 25601,
+      "name": "Kingdra",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.3,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25608:Reverse Holofoil": {
+      "card_id": 25608,
+      "name": "Kingdra (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 15.16,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25596:Reverse Holofoil": {
+      "card_id": 25596,
+      "name": "Vibrava",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.62,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25687:Reverse Holofoil": {
+      "card_id": 25687,
+      "name": "Lombre",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25625:Holofoil": {
+      "card_id": 25625,
+      "name": "Flygon",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.51,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25635:Reverse Holofoil": {
+      "card_id": 25635,
+      "name": "Zigzagoon",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.04,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25697:Reverse Holofoil": {
+      "card_id": 25697,
+      "name": "Linoone",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25547:Reverse Holofoil": {
+      "card_id": 25547,
+      "name": "Skitty",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.85,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25637:Reverse Holofoil": {
+      "card_id": 25637,
+      "name": "Delcatty",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.9,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25594:Reverse Holofoil": {
+      "card_id": 25594,
+      "name": "Spinda",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.76,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25555:Reverse Holofoil": {
+      "card_id": 25555,
+      "name": "Bidoof",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25582:Reverse Holofoil": {
+      "card_id": 25582,
+      "name": "Bidoof (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 8.29,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25685:Reverse Holofoil": {
+      "card_id": 25685,
+      "name": "Bibarel",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25700:Reverse Holofoil": {
+      "card_id": 25700,
+      "name": "Bouffalant",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.38,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25633:Reverse Holofoil": {
+      "card_id": 25633,
+      "name": "Ludicolo",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.06,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25587:Reverse Holofoil": {
+      "card_id": 25587,
+      "name": "Bunnelby",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25554:Reverse Holofoil": {
+      "card_id": 25554,
+      "name": "Bunnelby (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.12,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25581:Reverse Holofoil": {
+      "card_id": 25581,
+      "name": "Acro Bike",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.82,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25669:Reverse Holofoil": {
+      "card_id": 25669,
+      "name": "Aggron Spirit Link",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25599:Reverse Holofoil": {
+      "card_id": 25599,
+      "name": "Archie's Ace in the Hole",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.48,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25546:Reverse Holofoil": {
+      "card_id": 25546,
+      "name": "Dive Ball",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.61,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25550:Reverse Holofoil": {
+      "card_id": 25550,
+      "name": "Energy Retrieval",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.79,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25626:Reverse Holofoil": {
+      "card_id": 25626,
+      "name": "Escape Rope",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.03,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25657:Reverse Holofoil": {
+      "card_id": 25657,
+      "name": "Exp. Share",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25679:Reverse Holofoil": {
+      "card_id": 25679,
+      "name": "Fresh Water Set",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25627:Reverse Holofoil": {
+      "card_id": 25627,
+      "name": "Surskit",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25595:Reverse Holofoil": {
+      "card_id": 25595,
+      "name": "Gardevoir Spirit Link",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.98,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25659:Reverse Holofoil": {
+      "card_id": 25659,
+      "name": "Groudon Spirit Link",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.31,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25614:Reverse Holofoil": {
+      "card_id": 25614,
+      "name": "Kyogre Spirit Link",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.9,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25671:Reverse Holofoil": {
+      "card_id": 25671,
+      "name": "Maxie's Hidden Ball Trick",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.63,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25617:Reverse Holofoil": {
+      "card_id": 25617,
+      "name": "Professor Birch's Observations",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25545:Reverse Holofoil": {
+      "card_id": 25545,
+      "name": "Rare Candy",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.6,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25642:Reverse Holofoil": {
+      "card_id": 25642,
+      "name": "Repeat Ball",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.46,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25551:Reverse Holofoil": {
+      "card_id": 25551,
+      "name": "Rough Seas",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.47,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25648:Reverse Holofoil": {
+      "card_id": 25648,
+      "name": "Scorched Earth",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25634:Reverse Holofoil": {
+      "card_id": 25634,
+      "name": "Shrine of Memories",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25670:Reverse Holofoil": {
+      "card_id": 25670,
+      "name": "Masquerain",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25548:Reverse Holofoil": {
+      "card_id": 25548,
+      "name": "Silent Lab",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.22,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25544:Reverse Holofoil": {
+      "card_id": 25544,
+      "name": "Teammates",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.31,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25706:Reverse Holofoil": {
+      "card_id": 25706,
+      "name": "Weakness Policy",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25597:Reverse Holofoil": {
+      "card_id": 25597,
+      "name": "Shield Energy",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.4,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25585:Reverse Holofoil": {
+      "card_id": 25585,
+      "name": "Wonder Energy",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25708:Holofoil": {
+      "card_id": 25708,
+      "name": "Trevenant EX (145 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 23.22,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25695:Holofoil": {
+      "card_id": 25695,
+      "name": "Camerupt EX (146 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 29.95,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25701:Holofoil": {
+      "card_id": 25701,
+      "name": "Wailord EX (147 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 57.18,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25688:Holofoil": {
+      "card_id": 25688,
+      "name": "Kyogre EX (148 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 181.16,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25680:Holofoil": {
+      "card_id": 25680,
+      "name": "Primal Kyogre EX (Alpha - 149 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 363.35,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25572:Reverse Holofoil": {
+      "card_id": 25572,
+      "name": "Shroomish",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.62,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25678:Holofoil": {
+      "card_id": 25678,
+      "name": "Groudon EX (150 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 178.13,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25705:Holofoil": {
+      "card_id": 25705,
+      "name": "Primal Groudon EX (Omega - 151 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 227.5,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25674:Holofoil": {
+      "card_id": 25674,
+      "name": "Sharpedo EX (152 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 50.09,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25662:Holofoil": {
+      "card_id": 25662,
+      "name": "Aggron EX (153 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 45.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25704:Holofoil": {
+      "card_id": 25704,
+      "name": "M Aggron EX (154 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 94.12,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25684:Holofoil": {
+      "card_id": 25684,
+      "name": "Gardevoir EX (155 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 72.89,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25703:Holofoil": {
+      "card_id": 25703,
+      "name": "M Gardevoir EX (156 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 107.27,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25696:Holofoil": {
+      "card_id": 25696,
+      "name": "Archie's Ace in the Hole (157 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 25.09,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25676:Holofoil": {
+      "card_id": 25676,
+      "name": "Maxie's Hidden Ball Trick (158 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 23.28,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25652:Holofoil": {
+      "card_id": 25652,
+      "name": "Professor Birch's Observations (159 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 19.4,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25643:Reverse Holofoil": {
+      "card_id": 25643,
+      "name": "Breloom",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25692:Holofoil": {
+      "card_id": 25692,
+      "name": "Teammates (160 Full Art)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 31.97,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25605:Holofoil": {
+      "card_id": 25605,
+      "name": "Dive Ball (161 Secret Rare)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 24.14,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25698:Holofoil": {
+      "card_id": 25698,
+      "name": "Enhanced Hammer (162 Secret Rare)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 25.23,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25664:Holofoil": {
+      "card_id": 25664,
+      "name": "Switch (163 Secret Rare)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 25.37,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25658:Holofoil": {
+      "card_id": 25658,
+      "name": "Weakness Policy (164 Secret Rare)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 7.42,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25568:Reverse Holofoil": {
+      "card_id": 25568,
+      "name": "Volbeat",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.88,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25557:Reverse Holofoil": {
+      "card_id": 25557,
+      "name": "Illumise",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.32,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25649:Holofoil": {
+      "card_id": 25649,
+      "name": "Trevenant EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.17,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25665:Reverse Holofoil": {
+      "card_id": 25665,
+      "name": "Kakuna",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25553:Reverse Holofoil": {
+      "card_id": 25553,
+      "name": "Vulpix",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.23,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25563:Reverse Holofoil": {
+      "card_id": 25563,
+      "name": "Ninetales",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.92,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25591:Reverse Holofoil": {
+      "card_id": 25591,
+      "name": "Slugma",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.6,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25660:Reverse Holofoil": {
+      "card_id": 25660,
+      "name": "Magcargo",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25589:Reverse Holofoil": {
+      "card_id": 25589,
+      "name": "Magcargo (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.39,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25561:Reverse Holofoil": {
+      "card_id": 25561,
+      "name": "Torchic",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25552:Reverse Holofoil": {
+      "card_id": 25552,
+      "name": "Torchic (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 19.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25611:Reverse Holofoil": {
+      "card_id": 25611,
+      "name": "Combusken",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.78,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25651:Holofoil": {
+      "card_id": 25651,
+      "name": "Blaziken",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.95,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25588:Holofoil": {
+      "card_id": 25588,
+      "name": "Camerupt EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.91,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25620:Reverse Holofoil": {
+      "card_id": 25620,
+      "name": "Beedrill",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.99,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25600:Reverse Holofoil": {
+      "card_id": 25600,
+      "name": "Horsea",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.68,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25673:Reverse Holofoil": {
+      "card_id": 25673,
+      "name": "Seadra",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.7,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25580:Reverse Holofoil": {
+      "card_id": 25580,
+      "name": "Staryu",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.89,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25549:Reverse Holofoil": {
+      "card_id": 25549,
+      "name": "Mudkip",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.28,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25565:Reverse Holofoil": {
+      "card_id": 25565,
+      "name": "Marshtomp",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.25,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25578:Reverse Holofoil": {
+      "card_id": 25578,
+      "name": "Swampert",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.32,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25630:Reverse Holofoil": {
+      "card_id": 25630,
+      "name": "Swampert (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 32.47,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25575:Reverse Holofoil": {
+      "card_id": 25575,
+      "name": "Ludicolo (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 7.36,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25621:Holofoil": {
+      "card_id": 25621,
+      "name": "Wailord EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.69,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25636:Reverse Holofoil": {
+      "card_id": 25636,
+      "name": "Barboach",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25640:Reverse Holofoil": {
+      "card_id": 25640,
+      "name": "Tangela",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25639:Reverse Holofoil": {
+      "card_id": 25639,
+      "name": "Whiscash",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.66,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25570:Reverse Holofoil": {
+      "card_id": 25570,
+      "name": "Whiscash (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.24,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25656:Reverse Holofoil": {
+      "card_id": 25656,
+      "name": "Corphish",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.77,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25647:Reverse Holofoil": {
+      "card_id": 25647,
+      "name": "Feebas",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.66,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25576:Reverse Holofoil": {
+      "card_id": 25576,
+      "name": "Milotic",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.85,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25556:Reverse Holofoil": {
+      "card_id": 25556,
+      "name": "Spheal (45)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.98,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25573:Reverse Holofoil": {
+      "card_id": 25573,
+      "name": "Spheal (46)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25655:Reverse Holofoil": {
+      "card_id": 25655,
+      "name": "Sealeo",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25691:Reverse Holofoil": {
+      "card_id": 25691,
+      "name": "Walrein",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25624:Reverse Holofoil": {
+      "card_id": 25624,
+      "name": "Clamperl",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.72,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25623:Reverse Holofoil": {
+      "card_id": 25623,
+      "name": "Tangrowth",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.6,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25615:Reverse Holofoil": {
+      "card_id": 25615,
+      "name": "Huntail",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.11,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25646:Reverse Holofoil": {
+      "card_id": 25646,
+      "name": "Gorebyss",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25577:Reverse Holofoil": {
+      "card_id": 25577,
+      "name": "Gorebyss (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.41,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25666:Normal": {
+      "card_id": 25666,
+      "name": "Kyogre",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.71,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25604:Holofoil": {
+      "card_id": 25604,
+      "name": "Kyogre EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 19.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25618:Holofoil": {
+      "card_id": 25618,
+      "name": "Primal Kyogre EX (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 61.83,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25593:Reverse Holofoil": {
+      "card_id": 25593,
+      "name": "Manaphy",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.33,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25699:Reverse Holofoil": {
+      "card_id": 25699,
+      "name": "Chinchou",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25622:Reverse Holofoil": {
+      "card_id": 25622,
+      "name": "Lanturn",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.67,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25571:Reverse Holofoil": {
+      "card_id": 25571,
+      "name": "Electrike",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.68,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25569:Reverse Holofoil": {
+      "card_id": 25569,
+      "name": "Treecko",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.09,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25560:Reverse Holofoil": {
+      "card_id": 25560,
+      "name": "Electrike (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.75,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25654:Reverse Holofoil": {
+      "card_id": 25654,
+      "name": "Manectric",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.86,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25616:Reverse Holofoil": {
+      "card_id": 25616,
+      "name": "Tynamo",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25683:Reverse Holofoil": {
+      "card_id": 25683,
+      "name": "Eelektrik",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.5,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25586:Reverse Holofoil": {
+      "card_id": 25586,
+      "name": "Eelektrik (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.81,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25681:Reverse Holofoil": {
+      "card_id": 25681,
+      "name": "Eelektross",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.05,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25592:Reverse Holofoil": {
+      "card_id": 25592,
+      "name": "Nidoran (F)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.71,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25583:Reverse Holofoil": {
+      "card_id": 25583,
+      "name": "Nidorina",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.18,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25584:Reverse Holofoil": {
+      "card_id": 25584,
+      "name": "Nidoqueen",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.08,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25562:Reverse Holofoil": {
+      "card_id": 25562,
+      "name": "Nidoqueen (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 18.42,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25606:Reverse Holofoil": {
+      "card_id": 25606,
+      "name": "Grovyle",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.09,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25609:Reverse Holofoil": {
+      "card_id": 25609,
+      "name": "Tentacool",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.67,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25574:Reverse Holofoil": {
+      "card_id": 25574,
+      "name": "Tentacool (Alpha)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 16.17,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25682:Reverse Holofoil": {
+      "card_id": 25682,
+      "name": "Tentacruel",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.88,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25598:Reverse Holofoil": {
+      "card_id": 25598,
+      "name": "Starmie",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.82,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25668:Reverse Holofoil": {
+      "card_id": 25668,
+      "name": "Rhyhorn",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25663:Reverse Holofoil": {
+      "card_id": 25663,
+      "name": "Rhydon",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25644:Reverse Holofoil": {
+      "card_id": 25644,
+      "name": "Rhyperior",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.84,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25590:Reverse Holofoil": {
+      "card_id": 25590,
+      "name": "Rhyperior (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 16.78,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25702:Reverse Holofoil": {
+      "card_id": 25702,
+      "name": "Nosepass",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.76,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25607:Reverse Holofoil": {
+      "card_id": 25607,
+      "name": "Meditite",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25564:Reverse Holofoil": {
+      "card_id": 25564,
+      "name": "Sceptile",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.58,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25690:Holofoil": {
+      "card_id": 25690,
+      "name": "Medicham",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25579:Reverse Holofoil": {
+      "card_id": 25579,
+      "name": "Medicham (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.77,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25694:Reverse Holofoil": {
+      "card_id": 25694,
+      "name": "Trapinch",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25689:Reverse Holofoil": {
+      "card_id": 25689,
+      "name": "Solrock",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.31,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25629:Reverse Holofoil": {
+      "card_id": 25629,
+      "name": "Groudon",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.83,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25602:Holofoil": {
+      "card_id": 25602,
+      "name": "Groudon EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 15.79,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25610:Holofoil": {
+      "card_id": 25610,
+      "name": "Primal Groudon EX (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 54.63,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25558:Reverse Holofoil": {
+      "card_id": 25558,
+      "name": "Hippopotas",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.47,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25675:Reverse Holofoil": {
+      "card_id": 25675,
+      "name": "Hippowdon",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.75,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25603:Reverse Holofoil": {
+      "card_id": 25603,
+      "name": "Drilbur",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.53,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25686:Holofoil": {
+      "card_id": 25686,
+      "name": "Sceptile (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 17.7,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25672:Reverse Holofoil": {
+      "card_id": 25672,
+      "name": "Diggersby",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25612:Holofoil": {
+      "card_id": 25612,
+      "name": "Sharpedo EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25667:Reverse Holofoil": {
+      "card_id": 25667,
+      "name": "Crawdaunt",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.85,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25645:Holofoil": {
+      "card_id": 25645,
+      "name": "Aggron EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.01,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25631:Holofoil": {
+      "card_id": 25631,
+      "name": "M Aggron EX",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 21.25,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25693:Reverse Holofoil": {
+      "card_id": 25693,
+      "name": "Probopass",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25641:Reverse Holofoil": {
+      "card_id": 25641,
+      "name": "Excadrill",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.83,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25653:Holofoil": {
+      "card_id": 25653,
+      "name": "Excadrill (Omega)",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.98,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "25650:Reverse Holofoil": {
+      "card_id": 25650,
+      "name": "Honedge",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "25661:Reverse Holofoil": {
+      "card_id": 25661,
+      "name": "Doublade",
+      "set_id": 5500118,
+      "set_name": "XY - Primal Clash",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "36962:Normal": {
+      "card_id": 36962,
+      "name": "Fletchling",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.78,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37016:Normal": {
+      "card_id": 37016,
+      "name": "Swirlix (#1)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36988:Normal": {
+      "card_id": 36988,
+      "name": "Fairy Energy (#10)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.6,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36994:Normal": {
+      "card_id": 36994,
+      "name": "Honedge (#11)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36989:Normal": {
+      "card_id": 36989,
+      "name": "Pidgey (#11)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36965:Normal": {
+      "card_id": 36965,
+      "name": "Bidoof",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.92,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36998:Normal": {
+      "card_id": 36998,
+      "name": "Jigglypuff (#12)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.32,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36966:Normal": {
+      "card_id": 36966,
+      "name": "Clefairy (#13)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.75,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37006:Normal": {
+      "card_id": 37006,
+      "name": "Pawniard (#13)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37001:Normal": {
+      "card_id": 37001,
+      "name": "Doublade (#14)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37011:Normal": {
+      "card_id": 37011,
+      "name": "Wigglytuff (#14 Non-Holo)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37015:Normal": {
+      "card_id": 37015,
+      "name": "Potion (#15 - Wigglytuff)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.79,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36986:Normal": {
+      "card_id": 36986,
+      "name": "Slakoth (#15)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.15,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37004:Normal": {
+      "card_id": 37004,
+      "name": "Bisharp (#16 Non-Holo)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.86,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36982:Normal": {
+      "card_id": 36982,
+      "name": "Clefable (#16)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.16,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37003:Normal": {
+      "card_id": 37003,
+      "name": "Patrat",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.6,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36976:Normal": {
+      "card_id": 36976,
+      "name": "Metal Energy (#18)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.1,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36969:Normal": {
+      "card_id": 36969,
+      "name": "Swirlix (#18)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.36,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36991:Normal": {
+      "card_id": 36991,
+      "name": "Clefairy (#19)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.49,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36973:Normal": {
+      "card_id": 36973,
+      "name": "Tierno (Bisharp)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37022:Normal": {
+      "card_id": 37022,
+      "name": "Metal Energy (#2)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37019:Normal": {
+      "card_id": 37019,
+      "name": "Pidgeotto (#2)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.8,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36979:Normal": {
+      "card_id": 36979,
+      "name": "Potion (#20 - Wigglytuff)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.79,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36974:Normal": {
+      "card_id": 36974,
+      "name": "Trevor (Bisharp)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.98,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37002:Normal": {
+      "card_id": 37002,
+      "name": "Fairy Energy (#21)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.5,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36995:Normal": {
+      "card_id": 36995,
+      "name": "Pawniard (#21)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.62,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36987:Normal": {
+      "card_id": 36987,
+      "name": "Fairy Energy (#22)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37007:Normal": {
+      "card_id": 37007,
+      "name": "Metal Energy (#22)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.7,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37008:Normal": {
+      "card_id": 37008,
+      "name": "Doublade (#23)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36985:Normal": {
+      "card_id": 36985,
+      "name": "Pidgeotto (#23)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.03,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36997:Normal": {
+      "card_id": 36997,
+      "name": "Metal Energy (#24)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.5,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36970:Normal": {
+      "card_id": 36970,
+      "name": "Trevor (Wigglytuff)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.07,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36963:Normal": {
+      "card_id": 36963,
+      "name": "Jigglypuff (#25)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 30.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36984:Normal": {
+      "card_id": 36984,
+      "name": "Potion (#25 - Bisharp)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.99,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36981:Normal": {
+      "card_id": 36981,
+      "name": "Slakoth (#26)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.56,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36964:Normal": {
+      "card_id": 36964,
+      "name": "Tierno (Wigglytuff)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36992:Normal": {
+      "card_id": 36992,
+      "name": "Fairy Energy (#27)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36971:Normal": {
+      "card_id": 36971,
+      "name": "Honedge (#27)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.5,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36983:Normal": {
+      "card_id": 36983,
+      "name": "Clefable (#28)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 7.99,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37018:Normal": {
+      "card_id": 37018,
+      "name": "Vigoroth (#28)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.5,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36972:Normal": {
+      "card_id": 36972,
+      "name": "Pidgey (#29)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.44,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37023:Normal": {
+      "card_id": 37023,
+      "name": "Potion (#29 - Bisharp)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.22,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37009:Normal": {
+      "card_id": 37009,
+      "name": "Fairy Energy (#3)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.4,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36978:Holofoil": {
+      "card_id": 36978,
+      "name": "Bisharp (#30 Holo)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.79,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36993:Holofoil": {
+      "card_id": 36993,
+      "name": "Wigglytuff (#30 Holo)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.7,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37010:Normal": {
+      "card_id": 37010,
+      "name": "Sentret",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.2,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36975:Normal": {
+      "card_id": 36975,
+      "name": "Vigoroth (#4)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36968:Normal": {
+      "card_id": 36968,
+      "name": "Fairy Energy (#6)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.5,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36990:Normal": {
+      "card_id": 36990,
+      "name": "Metal Energy (#6)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37017:Normal": {
+      "card_id": 37017,
+      "name": "Fairy Energy (#7)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.5,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "36996:Normal": {
+      "card_id": 36996,
+      "name": "Metal Energy (#7)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37013:Normal": {
+      "card_id": 37013,
+      "name": "Fairy Energy (#8)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37005:Normal": {
+      "card_id": 37005,
+      "name": "Fairy Energy (#9)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.13,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "37014:Normal": {
+      "card_id": 37014,
+      "name": "Metal Energy (#9)",
+      "set_id": 5500012,
+      "set_name": "XY Trainer Kit: Bisharp & Wigglytuff",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27725:Normal": {
+      "card_id": 27725,
+      "name": "Code Card - Collector Chest",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.04,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27717:Normal": {
+      "card_id": 27717,
+      "name": "Code Card - Gallade EX Box",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27678:Reverse Holofoil": {
+      "card_id": 27678,
+      "name": "Venonat",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27663:Reverse Holofoil": {
+      "card_id": 27663,
+      "name": "Talonflame",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.14,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27673:Reverse Holofoil": {
+      "card_id": 27673,
+      "name": "Manectric Spirit Link",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27615:Reverse Holofoil": {
+      "card_id": 27615,
+      "name": "Professor Sycamore",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27643:Reverse Holofoil": {
+      "card_id": 27643,
+      "name": "Robo Substitute",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.12,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27683:Reverse Holofoil": {
+      "card_id": 27683,
+      "name": "Roller Skates",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.46,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27705:Reverse Holofoil": {
+      "card_id": 27705,
+      "name": "Shauna",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27637:Reverse Holofoil": {
+      "card_id": 27637,
+      "name": "Steel Shelter",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27671:Reverse Holofoil": {
+      "card_id": 27671,
+      "name": "Target Whistle",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27646:Reverse Holofoil": {
+      "card_id": 27646,
+      "name": "Tierno",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27629:Reverse Holofoil": {
+      "card_id": 27629,
+      "name": "Trick Coin",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27593:Reverse Holofoil": {
+      "card_id": 27593,
+      "name": "VS Seeker",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 7.6,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27633:Reverse Holofoil": {
+      "card_id": 27633,
+      "name": "Litleo",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27659:Reverse Holofoil": {
+      "card_id": 27659,
+      "name": "Xerosic",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.48,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27617:Reverse Holofoil": {
+      "card_id": 27617,
+      "name": "Double Colorless Energy",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.16,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27604:Reverse Holofoil": {
+      "card_id": 27604,
+      "name": "Mystery Energy",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.06,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27661:Holofoil": {
+      "card_id": 27661,
+      "name": "Manectric EX (113 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 18.87,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27681:Holofoil": {
+      "card_id": 27681,
+      "name": "Gengar EX (114 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 763.24,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27682:Holofoil": {
+      "card_id": 27682,
+      "name": "Malamar EX (115 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 18.83,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27670:Holofoil": {
+      "card_id": 27670,
+      "name": "Florges EX (116 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 23.37,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27658:Holofoil": {
+      "card_id": 27658,
+      "name": "AZ (117 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 25.59,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27647:Holofoil": {
+      "card_id": 27647,
+      "name": "Lysandre's Trump Card (118 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 16.68,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27649:Holofoil": {
+      "card_id": 27649,
+      "name": "Xerosic (119 Full Art)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 7.16,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27672:Holofoil": {
+      "card_id": 27672,
+      "name": "Pyroar",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.02,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27699:Holofoil": {
+      "card_id": 27699,
+      "name": "M Manectric EX (120 Secret Rare)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 53.84,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27704:Holofoil": {
+      "card_id": 27704,
+      "name": "M Gengar EX (121 Secret Rare)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 503.58,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27715:Holofoil": {
+      "card_id": 27715,
+      "name": "Dialga EX (122 Secret Rare)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1018.2,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27694:Reverse Holofoil": {
+      "card_id": 27694,
+      "name": "Krabby",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.59,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27631:Reverse Holofoil": {
+      "card_id": 27631,
+      "name": "Kingler",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.33,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27599:Reverse Holofoil": {
+      "card_id": 27599,
+      "name": "Totodile",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27610:Reverse Holofoil": {
+      "card_id": 27610,
+      "name": "Croconaw",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.91,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27651:Reverse Holofoil": {
+      "card_id": 27651,
+      "name": "Feraligatr",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.56,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27666:Reverse Holofoil": {
+      "card_id": 27666,
+      "name": "Finneon",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.59,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27680:Reverse Holofoil": {
+      "card_id": 27680,
+      "name": "Lumineon",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.82,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27621:Reverse Holofoil": {
+      "card_id": 27621,
+      "name": "Venomoth",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.08,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27614:Reverse Holofoil": {
+      "card_id": 27614,
+      "name": "Frillish",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27613:Reverse Holofoil": {
+      "card_id": 27613,
+      "name": "Jellicent",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.73,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27686:Reverse Holofoil": {
+      "card_id": 27686,
+      "name": "Alomomola",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27688:Holofoil": {
+      "card_id": 27688,
+      "name": "Manectric EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.38,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27668:Holofoil": {
+      "card_id": 27668,
+      "name": "M Manectric EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 13.67,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27625:Reverse Holofoil": {
+      "card_id": 27625,
+      "name": "Pachirisu",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.08,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27605:Reverse Holofoil": {
+      "card_id": 27605,
+      "name": "Joltik",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.56,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27691:Reverse Holofoil": {
+      "card_id": 27691,
+      "name": "Galvantula",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.82,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27624:Reverse Holofoil": {
+      "card_id": 27624,
+      "name": "Helioptile (28)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.79,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27628:Reverse Holofoil": {
+      "card_id": 27628,
+      "name": "Helioptile (29)",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27710:Reverse Holofoil": {
+      "card_id": 27710,
+      "name": "Yanma",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27669:Reverse Holofoil": {
+      "card_id": 27669,
+      "name": "Heliolisk",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.67,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27697:Reverse Holofoil": {
+      "card_id": 27697,
+      "name": "Zubat",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.82,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27642:Reverse Holofoil": {
+      "card_id": 27642,
+      "name": "Golbat",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.84,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27623:Reverse Holofoil": {
+      "card_id": 27623,
+      "name": "Crobat",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.17,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27595:Holofoil": {
+      "card_id": 27595,
+      "name": "Gengar EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 86.31,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27630:Holofoil": {
+      "card_id": 27630,
+      "name": "M Gengar EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 153.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27600:Reverse Holofoil": {
+      "card_id": 27600,
+      "name": "Wobbuffet",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.98,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27641:Reverse Holofoil": {
+      "card_id": 27641,
+      "name": "Gulpin",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.97,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27611:Reverse Holofoil": {
+      "card_id": 27611,
+      "name": "Swalot",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.01,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27644:Reverse Holofoil": {
+      "card_id": 27644,
+      "name": "Munna",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27706:Reverse Holofoil": {
+      "card_id": 27706,
+      "name": "Yanmega",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.6,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27665:Reverse Holofoil": {
+      "card_id": 27665,
+      "name": "Musharna",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.67,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27602:Reverse Holofoil": {
+      "card_id": 27602,
+      "name": "Litwick",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.61,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27618:Reverse Holofoil": {
+      "card_id": 27618,
+      "name": "Lampent",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.62,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27652:Holofoil": {
+      "card_id": 27652,
+      "name": "Chandelure",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.35,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27606:Reverse Holofoil": {
+      "card_id": 27606,
+      "name": "Pumpkaboo",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27695:Reverse Holofoil": {
+      "card_id": 27695,
+      "name": "Gourgeist",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.42,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27692:Reverse Holofoil": {
+      "card_id": 27692,
+      "name": "Gligar",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27693:Reverse Holofoil": {
+      "card_id": 27693,
+      "name": "Gliscor",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.76,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27701:Reverse Holofoil": {
+      "card_id": 27701,
+      "name": "Roggenrola",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27709:Reverse Holofoil": {
+      "card_id": 27709,
+      "name": "Boldore",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27632:Reverse Holofoil": {
+      "card_id": 27632,
+      "name": "Sewaddle",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27690:Reverse Holofoil": {
+      "card_id": 27690,
+      "name": "Gigalith",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.93,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27687:Reverse Holofoil": {
+      "card_id": 27687,
+      "name": "Murkrow",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.61,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27662:Reverse Holofoil": {
+      "card_id": 27662,
+      "name": "Honchkrow",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.91,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27619:Reverse Holofoil": {
+      "card_id": 27619,
+      "name": "Poochyena",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.07,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27660:Reverse Holofoil": {
+      "card_id": 27660,
+      "name": "Mightyena",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27627:Reverse Holofoil": {
+      "card_id": 27627,
+      "name": "Spiritomb",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.81,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27656:Reverse Holofoil": {
+      "card_id": 27656,
+      "name": "Purrloin",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.69,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27664:Reverse Holofoil": {
+      "card_id": 27664,
+      "name": "Liepard",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.78,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27648:Holofoil": {
+      "card_id": 27648,
+      "name": "Malamar EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.21,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27684:Reverse Holofoil": {
+      "card_id": 27684,
+      "name": "Skarmory",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.26,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27607:Reverse Holofoil": {
+      "card_id": 27607,
+      "name": "Swadloon",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.78,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27712:Reverse Holofoil": {
+      "card_id": 27712,
+      "name": "Bronzor",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27616:Reverse Holofoil": {
+      "card_id": 27616,
+      "name": "Bronzong",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.82,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27674:Holofoil": {
+      "card_id": 27674,
+      "name": "Dialga EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 11.79,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27679:Reverse Holofoil": {
+      "card_id": 27679,
+      "name": "Heatran",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27714:Reverse Holofoil": {
+      "card_id": 27714,
+      "name": "Escavalier",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.91,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27696:Holofoil": {
+      "card_id": 27696,
+      "name": "Aegislash EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.98,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27707:Reverse Holofoil": {
+      "card_id": 27707,
+      "name": "Klefki",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.7,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27636:Holofoil": {
+      "card_id": 27636,
+      "name": "Florges EX",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.17,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27603:Reverse Holofoil": {
+      "card_id": 27603,
+      "name": "Swirlix",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.4,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27653:Holofoil": {
+      "card_id": 27653,
+      "name": "Slurpuff",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.83,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27685:Reverse Holofoil": {
+      "card_id": 27685,
+      "name": "Leavanny",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.96,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27596:Reverse Holofoil": {
+      "card_id": 27596,
+      "name": "Dedenne",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.6,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27612:Holofoil": {
+      "card_id": 27612,
+      "name": "Diancie",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.15,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27667:Reverse Holofoil": {
+      "card_id": 27667,
+      "name": "Deino",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27702:Reverse Holofoil": {
+      "card_id": 27702,
+      "name": "Zweilous",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27626:Reverse Holofoil": {
+      "card_id": 27626,
+      "name": "Hydreigon",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.04,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27640:Reverse Holofoil": {
+      "card_id": 27640,
+      "name": "Goomy",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.7,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27655:Reverse Holofoil": {
+      "card_id": 27655,
+      "name": "Sliggoo",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.78,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27635:Reverse Holofoil": {
+      "card_id": 27635,
+      "name": "Goodra",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.94,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27689:Reverse Holofoil": {
+      "card_id": 27689,
+      "name": "Spearow",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27677:Reverse Holofoil": {
+      "card_id": 27677,
+      "name": "Fearow",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27698:Reverse Holofoil": {
+      "card_id": 27698,
+      "name": "Karrablast",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27597:Reverse Holofoil": {
+      "card_id": 27597,
+      "name": "Chansey",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.72,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27639:Reverse Holofoil": {
+      "card_id": 27639,
+      "name": "Blissey",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.41,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27634:Reverse Holofoil": {
+      "card_id": 27634,
+      "name": "Girafarig",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.69,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27650:Reverse Holofoil": {
+      "card_id": 27650,
+      "name": "Whismur",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27657:Reverse Holofoil": {
+      "card_id": 27657,
+      "name": "Loudred",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.67,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27713:Reverse Holofoil": {
+      "card_id": 27713,
+      "name": "Exploud",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.68,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27700:Reverse Holofoil": {
+      "card_id": 27700,
+      "name": "Regigigas",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.62,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27638:Reverse Holofoil": {
+      "card_id": 27638,
+      "name": "Bunnelby",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27703:Reverse Holofoil": {
+      "card_id": 27703,
+      "name": "Diggersby",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.66,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27645:Reverse Holofoil": {
+      "card_id": 27645,
+      "name": "Fletchling",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27675:Reverse Holofoil": {
+      "card_id": 27675,
+      "name": "Fletchinder",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27620:Reverse Holofoil": {
+      "card_id": 27620,
+      "name": "Furfrou",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.1,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27622:Reverse Holofoil": {
+      "card_id": 27622,
+      "name": "AZ",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.81,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27594:Reverse Holofoil": {
+      "card_id": 27594,
+      "name": "Battle Compressor",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 7.99,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27601:Reverse Holofoil": {
+      "card_id": 27601,
+      "name": "Dimension Valley",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.66,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27609:Reverse Holofoil": {
+      "card_id": 27609,
+      "name": "Enhanced Hammer",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.8,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27598:Reverse Holofoil": {
+      "card_id": 27598,
+      "name": "Gengar Spirit Link",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 29.24,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27708:Reverse Holofoil": {
+      "card_id": 27708,
+      "name": "Hand Scope",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27676:Holofoil": {
+      "card_id": 27676,
+      "name": "Head Ringer",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.72,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27654:Holofoil": {
+      "card_id": 27654,
+      "name": "Jamming Net",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.31,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27608:Reverse Holofoil": {
+      "card_id": 27608,
+      "name": "Lysandre's Trump Card",
+      "set_id": 5500067,
+      "set_name": "XY - Phantom Forces",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.23,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27317:Reverse Holofoil": {
+      "card_id": 27317,
+      "name": "Bellsprout",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27375:Reverse Holofoil": {
+      "card_id": 27375,
+      "name": "Magmar",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.53,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27385:Reverse Holofoil": {
+      "card_id": 27385,
+      "name": "Super Scoop Up",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27388:Reverse Holofoil": {
+      "card_id": 27388,
+      "name": "Tool Retriever",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27389:Reverse Holofoil": {
+      "card_id": 27389,
+      "name": "Training Center",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27330:Reverse Holofoil": {
+      "card_id": 27330,
+      "name": "Herbal Energy",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.11,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27290:Reverse Holofoil": {
+      "card_id": 27290,
+      "name": "Strong Energy",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.29,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27328:Holofoil": {
+      "card_id": 27328,
+      "name": "Heracross EX (105 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 40.21,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27315:Holofoil": {
+      "card_id": 27315,
+      "name": "Seismitoad EX (106 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 30.46,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27334:Holofoil": {
+      "card_id": 27334,
+      "name": "Lucario EX (107 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 140.07,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27364:Holofoil": {
+      "card_id": 27364,
+      "name": "Dragonite EX (108 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 163.61,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27323:Holofoil": {
+      "card_id": 27323,
+      "name": "Battle Reporter (109 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 15.6,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27354:Reverse Holofoil": {
+      "card_id": 27354,
+      "name": "Magmortar",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.01,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27319:Holofoil": {
+      "card_id": 27319,
+      "name": "Fossil Researcher (110 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 39.21,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27332:Holofoil": {
+      "card_id": 27332,
+      "name": "Korrina (111 Full Art)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 40.05,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27387:Holofoil": {
+      "card_id": 27387,
+      "name": "M Heracross EX (Secret)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 52.51,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27394:Holofoil": {
+      "card_id": 27394,
+      "name": "M Lucario EX (Secret)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 142.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27308:Reverse Holofoil": {
+      "card_id": 27308,
+      "name": "Torchic",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.8,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27367:Reverse Holofoil": {
+      "card_id": 27367,
+      "name": "Combusken",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27310:Reverse Holofoil": {
+      "card_id": 27310,
+      "name": "Blaziken",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.17,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27322:Reverse Holofoil": {
+      "card_id": 27322,
+      "name": "Poliwag",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.51,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27296:Reverse Holofoil": {
+      "card_id": 27296,
+      "name": "Poliwhirl",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27312:Holofoil": {
+      "card_id": 27312,
+      "name": "Poliwrath",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.67,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27325:Reverse Holofoil": {
+      "card_id": 27325,
+      "name": "Politoed",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 7.49,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27297:Reverse Holofoil": {
+      "card_id": 27297,
+      "name": "Glaceon",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 11.77,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27346:Reverse Holofoil": {
+      "card_id": 27346,
+      "name": "Weepinbell",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.99,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27318:Holofoil": {
+      "card_id": 27318,
+      "name": "Seismitoad EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.46,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27304:Reverse Holofoil": {
+      "card_id": 27304,
+      "name": "Cubchoo",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27349:Reverse Holofoil": {
+      "card_id": 27349,
+      "name": "Beartic",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.64,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27324:Reverse Holofoil": {
+      "card_id": 27324,
+      "name": "Clauncher",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.41,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27358:Reverse Holofoil": {
+      "card_id": 27358,
+      "name": "Clawitzer",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.78,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27284:Reverse Holofoil": {
+      "card_id": 27284,
+      "name": "Amaura",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.78,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27295:Reverse Holofoil": {
+      "card_id": 27295,
+      "name": "Aurorus",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 12.37,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27280:Reverse Holofoil": {
+      "card_id": 27280,
+      "name": "Pikachu",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 23.87,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27298:Reverse Holofoil": {
+      "card_id": 27298,
+      "name": "Raichu",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 5.04,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27341:Reverse Holofoil": {
+      "card_id": 27341,
+      "name": "Electabuzz",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27329:Reverse Holofoil": {
+      "card_id": 27329,
+      "name": "Victreebel",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.42,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27361:Reverse Holofoil": {
+      "card_id": 27361,
+      "name": "Electivire",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.46,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27283:Reverse Holofoil": {
+      "card_id": 27283,
+      "name": "Plusle",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.35,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27281:Reverse Holofoil": {
+      "card_id": 27281,
+      "name": "Minun",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 3.85,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27377:Reverse Holofoil": {
+      "card_id": 27377,
+      "name": "Thundurus",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27289:Reverse Holofoil": {
+      "card_id": 27289,
+      "name": "Dedenne",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.54,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27333:Reverse Holofoil": {
+      "card_id": 27333,
+      "name": "Drowzee",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27362:Reverse Holofoil": {
+      "card_id": 27362,
+      "name": "Hypno",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.06,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27352:Reverse Holofoil": {
+      "card_id": 27352,
+      "name": "Jynx",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.23,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27331:Reverse Holofoil": {
+      "card_id": 27331,
+      "name": "Skorupi",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.42,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27294:Reverse Holofoil": {
+      "card_id": 27294,
+      "name": "Gothita",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.69,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27378:Holofoil": {
+      "card_id": 27378,
+      "name": "Heracross EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.81,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27343:Reverse Holofoil": {
+      "card_id": 27343,
+      "name": "Gothorita",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.93,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27360:Reverse Holofoil": {
+      "card_id": 27360,
+      "name": "Gothitelle",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.7,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27374:Reverse Holofoil": {
+      "card_id": 27374,
+      "name": "Golett",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27345:Reverse Holofoil": {
+      "card_id": 27345,
+      "name": "Golurk",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.88,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27307:Reverse Holofoil": {
+      "card_id": 27307,
+      "name": "Machop",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.67,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27363:Reverse Holofoil": {
+      "card_id": 27363,
+      "name": "Machoke",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.87,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27335:Reverse Holofoil": {
+      "card_id": 27335,
+      "name": "Machamp",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.08,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27316:Reverse Holofoil": {
+      "card_id": 27316,
+      "name": "Hitmonlee",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.34,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27372:Reverse Holofoil": {
+      "card_id": 27372,
+      "name": "Hitmonchan",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.53,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27350:Reverse Holofoil": {
+      "card_id": 27350,
+      "name": "Hitmontop",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 6.66,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27338:Holofoil": {
+      "card_id": 27338,
+      "name": "M Heracross EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 15.89,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27342:Reverse Holofoil": {
+      "card_id": 27342,
+      "name": "Breloom",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.12,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27355:Reverse Holofoil": {
+      "card_id": 27355,
+      "name": "Makuhita",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27347:Reverse Holofoil": {
+      "card_id": 27347,
+      "name": "Hariyama",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.89,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27368:Reverse Holofoil": {
+      "card_id": 27368,
+      "name": "Trapinch",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27340:Holofoil": {
+      "card_id": 27340,
+      "name": "Lucario EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 14.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27303:Holofoil": {
+      "card_id": 27303,
+      "name": "M Lucario EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 40.51,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27371:Reverse Holofoil": {
+      "card_id": 27371,
+      "name": "Mienfoo",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27376:Reverse Holofoil": {
+      "card_id": 27376,
+      "name": "Mienshao",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.69,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27339:Reverse Holofoil": {
+      "card_id": 27339,
+      "name": "Landorus",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.8,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27314:Reverse Holofoil": {
+      "card_id": 27314,
+      "name": "Pancham (59)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.79,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27351:Reverse Holofoil": {
+      "card_id": 27351,
+      "name": "Shroomish",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27348:Reverse Holofoil": {
+      "card_id": 27348,
+      "name": "Pancham (60)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27291:Reverse Holofoil": {
+      "card_id": 27291,
+      "name": "Tyrunt",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 8.71,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27300:Reverse Holofoil": {
+      "card_id": 27300,
+      "name": "Tyrantrum",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 15.94,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27313:Reverse Holofoil": {
+      "card_id": 27313,
+      "name": "Hawlucha",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.21,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27326:Holofoil": {
+      "card_id": 27326,
+      "name": "Hawlucha EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 29.97,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27353:Reverse Holofoil": {
+      "card_id": 27353,
+      "name": "Drapion",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27293:Reverse Holofoil": {
+      "card_id": 27293,
+      "name": "Scraggy",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.37,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27373:Reverse Holofoil": {
+      "card_id": 27373,
+      "name": "Scrafty",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.1,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27356:Reverse Holofoil": {
+      "card_id": 27356,
+      "name": "Pangoro",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27292:Reverse Holofoil": {
+      "card_id": 27292,
+      "name": "Clefairy (69)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.69,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27299:Reverse Holofoil": {
+      "card_id": 27299,
+      "name": "Leafeon",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 10.81,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27288:Reverse Holofoil": {
+      "card_id": 27288,
+      "name": "Clefairy (70)",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.74,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27302:Reverse Holofoil": {
+      "card_id": 27302,
+      "name": "Clefable",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.32,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27287:Reverse Holofoil": {
+      "card_id": 27287,
+      "name": "Sylveon",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 33.2,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27344:Reverse Holofoil": {
+      "card_id": 27344,
+      "name": "Klefki",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 1.21,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27286:Holofoil": {
+      "card_id": 27286,
+      "name": "Dragonite EX",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 16.74,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27369:Reverse Holofoil": {
+      "card_id": 27369,
+      "name": "Vibrava",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.59,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27321:Reverse Holofoil": {
+      "card_id": 27321,
+      "name": "Flygon",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27337:Reverse Holofoil": {
+      "card_id": 27337,
+      "name": "Noivern",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.1,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27306:Reverse Holofoil": {
+      "card_id": 27306,
+      "name": "Lickitung",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27327:Reverse Holofoil": {
+      "card_id": 27327,
+      "name": "Lickilicky",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.86,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27370:Reverse Holofoil": {
+      "card_id": 27370,
+      "name": "Shelmet",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.42,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27279:Reverse Holofoil": {
+      "card_id": 27279,
+      "name": "Eevee",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.36,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27311:Reverse Holofoil": {
+      "card_id": 27311,
+      "name": "Slakoth",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27393:Reverse Holofoil": {
+      "card_id": 27393,
+      "name": "Vigoroth",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27365:Reverse Holofoil": {
+      "card_id": 27365,
+      "name": "Slaking",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.88,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27379:Reverse Holofoil": {
+      "card_id": 27379,
+      "name": "Patrat",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.46,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27382:Reverse Holofoil": {
+      "card_id": 27382,
+      "name": "Watchog",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27357:Reverse Holofoil": {
+      "card_id": 27357,
+      "name": "Tornadus",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.94,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27386:Reverse Holofoil": {
+      "card_id": 27386,
+      "name": "Noibat",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "27336:Reverse Holofoil": {
+      "card_id": 27336,
+      "name": "Battle Reporter",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27301:Reverse Holofoil": {
+      "card_id": 27301,
+      "name": "Energy Switch",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.69,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27381:Reverse Holofoil": {
+      "card_id": 27381,
+      "name": "Accelgor",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27282:Reverse Holofoil": {
+      "card_id": 27282,
+      "name": "Focus Sash",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 2.1,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27305:Reverse Holofoil": {
+      "card_id": 27305,
+      "name": "Fossil Researcher",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.5,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27392:Reverse Holofoil": {
+      "card_id": 27392,
+      "name": "Full Heal",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27309:Reverse Holofoil": {
+      "card_id": 27309,
+      "name": "Jaw Fossil",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27285:Reverse Holofoil": {
+      "card_id": 27285,
+      "name": "Korrina",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 4.27,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27391:Reverse Holofoil": {
+      "card_id": 27391,
+      "name": "Maintenance",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27384:Reverse Holofoil": {
+      "card_id": 27384,
+      "name": "Mountain Ring",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27320:Reverse Holofoil": {
+      "card_id": 27320,
+      "name": "Sail Fossil",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.59,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "27380:Reverse Holofoil": {
+      "card_id": 27380,
+      "name": "Sparkling Robe",
+      "set_id": 5500027,
+      "set_name": "XY - Furious Fists",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 0.72,
+          "market_price_as_of": "2026-10-29"
+        }
+      ]
+    },
+    "38824:Holofoil": {
+      "card_id": 38824,
+      "name": "Weedle - 1/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 12.31,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38826:Holofoil": {
+      "card_id": 38826,
+      "name": "Chespin - 2/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 13.29,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38828:Holofoil": {
+      "card_id": 38828,
+      "name": "Fennekin - 3/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 17.82,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38825:Holofoil": {
+      "card_id": 38825,
+      "name": "Froakie - 4/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 19.49,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38818:Holofoil": {
+      "card_id": 38818,
+      "name": "Pikachu - 5/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 44.86,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38823:Holofoil": {
+      "card_id": 38823,
+      "name": "Inkay - 6/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 19.75,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38827:Holofoil": {
+      "card_id": 38827,
+      "name": "Honedge - 7/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 20.62,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38819:Holofoil": {
+      "card_id": 38819,
+      "name": "Snubbull - 8/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 11.57,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38821:Holofoil": {
+      "card_id": 38821,
+      "name": "Swirlix - 9/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 10.97,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38829:Holofoil": {
+      "card_id": 38829,
+      "name": "Bunnelby - 10/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 14.99,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38822:Holofoil": {
+      "card_id": 38822,
+      "name": "Fletchling - 11/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 12.97,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
+    },
+    "38820:Holofoil": {
+      "card_id": 38820,
+      "name": "Furfrou - 12/12",
+      "set_id": 5500200,
+      "set_name": "McDonald's Promos 2014",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-10-30",
+          "market_price_usd": 9.89,
+          "market_price_as_of": "2026-10-30"
+        }
+      ]
     }
   }
 }
