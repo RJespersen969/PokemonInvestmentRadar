@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-03T08:29:31.796841+00:00",
+  "generated_at": "2026-11-04T08:30:38.370722+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 139,
+  "next_set_index": 144,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 8,
-  "total_candidates": 5534,
-  "cards_with_price_history": 21592,
+  "api_calls": 9,
+  "total_candidates": 5840,
+  "cards_with_price_history": 22087,
   "candidates": [
     {
       "card_id": 20118,
@@ -85,6 +85,18 @@
       "market_price_usd": 199.83,
       "market_price_as_of": "2026-10-26",
       "total_listings": 32
+    },
+    {
+      "card_id": 28313,
+      "name": "Victory Cup - BW31 (Battle Road Spring 2013) [1st Place]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW31",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 199.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
     },
     {
       "card_id": 6736,
@@ -253,6 +265,18 @@
       "market_price_usd": 190.03,
       "market_price_as_of": "2026-10-27",
       "total_listings": 11
+    },
+    {
+      "card_id": 28273,
+      "name": "Riolu - BW33 (Cosmos Holo)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW33",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 189.97,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 2
     },
     {
       "card_id": 33144,
@@ -543,6 +567,18 @@
       "total_listings": 93
     },
     {
+      "card_id": 34757,
+      "name": "Palkia & Dialga Legend (Bottom)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "102/102",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 178.28,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 26
+    },
+    {
       "card_id": 25678,
       "name": "Groudon EX (150 Full Art)",
       "set_id": 5500118,
@@ -663,6 +699,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 6742,
+      "name": "Professor Turo's Scenario - 171/182",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "177/182",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 175.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
+    },
+    {
       "card_id": 20112,
       "name": "Gyarados (XY Evolutions Prerelease)",
       "set_id": 5500177,
@@ -709,6 +757,18 @@
       "market_price_usd": 174.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 2
+    },
+    {
+      "card_id": 30651,
+      "name": "Pikachu",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "115/114",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 173.64,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 29
     },
     {
       "card_id": 31180,
@@ -771,6 +831,30 @@
       "total_listings": 130
     },
     {
+      "card_id": 34807,
+      "name": "Absol (Prime)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "91/102",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 170.2,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 16
+    },
+    {
+      "card_id": 28334,
+      "name": "Champions Festival - BW95 (Worlds 13)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW95",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 170.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 2
+    },
+    {
       "card_id": 22139,
       "name": "Pikachu VMAX (Secret)",
       "set_id": 5500178,
@@ -781,6 +865,18 @@
       "market_price_usd": 169.36,
       "market_price_as_of": "2026-10-19",
       "total_listings": 94
+    },
+    {
+      "card_id": 34792,
+      "name": "Darkrai & Cresselia Legend (Bottom)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "100/102",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 167.82,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 45
     },
     {
       "card_id": 31938,
@@ -997,6 +1093,18 @@
       "market_price_usd": 160.26,
       "market_price_as_of": "2026-10-27",
       "total_listings": 3
+    },
+    {
+      "card_id": 34385,
+      "name": "Lightning Energy",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "91/95",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 160.12,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 17
     },
     {
       "card_id": 28770,
@@ -1273,6 +1381,18 @@
       "market_price_usd": 150.5,
       "market_price_as_of": "2026-10-28",
       "total_listings": 115
+    },
+    {
+      "card_id": 2295334,
+      "name": "Professor Sada's Vitality",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "170/182",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 150.05,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
     },
     {
       "card_id": 20120,
@@ -1635,6 +1755,18 @@
       "total_listings": 175
     },
     {
+      "card_id": 34316,
+      "name": "Gyarados",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "7/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 142.5,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 33
+    },
+    {
       "card_id": 27394,
       "name": "M Lucario EX (Secret)",
       "set_id": 5500027,
@@ -1717,6 +1849,18 @@
       "market_price_usd": 141.3,
       "market_price_as_of": "2026-10-14",
       "total_listings": 8
+    },
+    {
+      "card_id": 37683,
+      "name": "Professor Elm's Training Method (2006-2007)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "79/101",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 141.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
     },
     {
       "card_id": 7193,
@@ -1837,6 +1981,18 @@
       "market_price_usd": 139.98,
       "market_price_as_of": "2026-10-26",
       "total_listings": 3
+    },
+    {
+      "card_id": 34817,
+      "name": "Alph Lithograph",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "FOUR",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 139.57,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 10
     },
     {
       "card_id": 100009842,
@@ -1995,6 +2151,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 34774,
+      "name": "Palkia & Dialga Legend (Top)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "101/102",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 136.12,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 27
+    },
+    {
       "card_id": 19976,
       "name": "Greninja - XY24",
       "set_id": 5500177,
@@ -2029,6 +2197,18 @@
       "market_price_usd": 135.34,
       "market_price_as_of": "2026-11-02",
       "total_listings": 16
+    },
+    {
+      "card_id": 37706,
+      "name": "Prof. Oak's Research (2004-2005)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "98/112",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 134.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 6
     },
     {
       "card_id": 4994,
@@ -2103,6 +2283,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 28227,
+      "name": "Eevee - BW94",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW94",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 131.46,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 42
+    },
+    {
       "card_id": 18474,
       "name": "Pikachu - 225 (World Championship 2025) [Winner]",
       "set_id": 5500070,
@@ -2149,6 +2341,18 @@
       "market_price_usd": 130.54,
       "market_price_as_of": "2026-11-02",
       "total_listings": 20
+    },
+    {
+      "card_id": 34794,
+      "name": "Ditto",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "17/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 130.2,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 33
     },
     {
       "card_id": 38755,
@@ -2415,6 +2619,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 28327,
+      "name": "Darmanitan - 25/114 (Prerelease) [Staff]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "25/114",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 125.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
+    },
+    {
       "card_id": 6648,
       "name": "Solgaleo",
       "set_id": 5500087,
@@ -2487,6 +2703,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 30611,
+      "name": "Zekrom (114 Full Art)",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "114/114",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 124.26,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 99
+    },
+    {
       "card_id": 2153400,
       "name": "Mega Greninja ex - 122/086",
       "set_id": 5500213,
@@ -2535,6 +2763,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 37677,
+      "name": "Friends in Paldea - 109/131",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "109/131",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 123.22,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
+    },
+    {
       "card_id": 6007,
       "name": "Mewtwo VSTAR - 031/078",
       "set_id": 5500194,
@@ -2557,6 +2797,18 @@
       "market_price_usd": 123.01,
       "market_price_as_of": "2026-10-22",
       "total_listings": 15
+    },
+    {
+      "card_id": 28336,
+      "name": "Victory Cup - BW30 (Battle Road Spring 2013) [2nd Place]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW30",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 122.75,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
     },
     {
       "card_id": 31959,
@@ -2641,6 +2893,18 @@
       "market_price_usd": 120.0,
       "market_price_as_of": "2026-10-28",
       "total_listings": 3
+    },
+    {
+      "card_id": 28329,
+      "name": "Landorus (Team Plasma) - BW79",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW79",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 119.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 10
     },
     {
       "card_id": 38750,
@@ -2763,6 +3027,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 34383,
+      "name": "Water Energy",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "90/95",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 118.38,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 25
+    },
+    {
       "card_id": 11814,
       "name": "Surfer - 187/191 (Regional Championship) [Staff]",
       "set_id": 5500087,
@@ -2869,6 +3145,18 @@
       "market_price_usd": 116.58,
       "market_price_as_of": "2026-10-27",
       "total_listings": 6
+    },
+    {
+      "card_id": 34730,
+      "name": "Celebi (Prime)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "92/102",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 116.48,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 24
     },
     {
       "card_id": 31233,
@@ -3159,6 +3447,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 34371,
+      "name": "Darkness Energy (Basic)",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "94/95",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 110.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 26
+    },
+    {
       "card_id": 5016,
       "name": "Alolan Vulpix - 21/145 (Build-A-Bear Workshop Exclusive)",
       "set_id": 5500123,
@@ -3327,6 +3627,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 28299,
+      "name": "Pidove - BW15",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW15",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 107.5,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 1
+    },
+    {
       "card_id": 25703,
       "name": "M Gardevoir EX (156 Full Art)",
       "set_id": 5500118,
@@ -3421,6 +3733,18 @@
       "market_price_usd": 106.12,
       "market_price_as_of": "2026-10-23",
       "total_listings": 13
+    },
+    {
+      "card_id": 30610,
+      "name": "Reshiram (113 Full Art)",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "113/114",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 106.02,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 118
     },
     {
       "card_id": 13048,
@@ -3783,6 +4107,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 28224,
+      "name": "Espeon - BW92",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW92",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 100.91,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 50
+    },
+    {
       "card_id": 22,
       "name": "Umbreon ex - 2006 (Jimmy Ballard)",
       "set_id": 5500029,
@@ -3913,6 +4249,30 @@
       "market_price_usd": 99.99,
       "market_price_as_of": "2026-11-01",
       "total_listings": 31
+    },
+    {
+      "card_id": 28298,
+      "name": "Pikachu - BW54",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW54",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 99.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 11
+    },
+    {
+      "card_id": 37698,
+      "name": "Roxanne - 150/189 (2022)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "150/189",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 99.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 5
     },
     {
       "card_id": 6560,
@@ -4191,6 +4551,18 @@
       "total_listings": 272
     },
     {
+      "card_id": 28279,
+      "name": "Victory Cup - BW30 (Battle Road Spring 2012) [2nd Place]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW30",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 97.42,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 1
+    },
+    {
       "card_id": 6670,
       "name": "Boss's Orders - 132/172 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -4407,6 +4779,18 @@
       "total_listings": 0
     },
     {
+      "card_id": 28318,
+      "name": "Crobat - BW51 (Team Plasma) (Prerelease) [Staff]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW51",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 95.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
+    },
+    {
       "card_id": 6424,
       "name": "Ultra Ball - 135/149 (North America Championships) [Staff]",
       "set_id": 5500087,
@@ -4515,6 +4899,18 @@
       "total_listings": 274
     },
     {
+      "card_id": 34358,
+      "name": "Leafeon",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "13/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 93.96,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 26
+    },
+    {
       "card_id": 19896,
       "name": "Palkia (Full Art Promo)",
       "set_id": 5500177,
@@ -4525,6 +4921,18 @@
       "market_price_usd": 93.56,
       "market_price_as_of": "2026-10-31",
       "total_listings": 79
+    },
+    {
+      "card_id": 28310,
+      "name": "Genesect (Team Plasma) - BW86",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW86",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 93.48,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
     },
     {
       "card_id": 20007,
@@ -4609,6 +5017,18 @@
       "market_price_usd": 92.62,
       "market_price_as_of": "2026-10-26",
       "total_listings": 3
+    },
+    {
+      "card_id": 28237,
+      "name": "Vaporeon - BW89",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW89",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 92.62,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 37
     },
     {
       "card_id": 22294,
@@ -4839,6 +5259,18 @@
       "total_listings": 209
     },
     {
+      "card_id": 34804,
+      "name": "Machamp (Prime)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "95/102",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 90.05,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 24
+    },
+    {
       "card_id": 11926,
       "name": "Briar - 132/142 (Regional Championship) [Staff]",
       "set_id": 5500087,
@@ -4849,6 +5281,30 @@
       "market_price_usd": 90.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 11
+    },
+    {
+      "card_id": 28321,
+      "name": "Tornadus EX - BW96 (Prerelease) [Staff]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW96",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 90.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
+    },
+    {
+      "card_id": 37705,
+      "name": "Professor Rowan (2007)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "112/130",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 90.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
     },
     {
       "card_id": 903,
@@ -5175,6 +5631,18 @@
       "total_listings": 126
     },
     {
+      "card_id": 28320,
+      "name": "Victory Cup - BW30 (Battle Road Autumn 2011) [2nd Place]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW30",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 86.42,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
+    },
+    {
       "card_id": 27595,
       "name": "Gengar EX",
       "set_id": 5500067,
@@ -5187,6 +5655,30 @@
       "total_listings": 139
     },
     {
+      "card_id": 28296,
+      "name": "Victory Cup - BW30 (Battle Road Autumn 2012) [2nd Place]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW30",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 85.9,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 2
+    },
+    {
+      "card_id": 28222,
+      "name": "Leafeon - BW87",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW87",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 85.7,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 53
+    },
+    {
       "card_id": 38324,
       "name": "Rayquaza",
       "set_id": 5500080,
@@ -5197,6 +5689,18 @@
       "market_price_usd": 85.6,
       "market_price_as_of": "2026-11-02",
       "total_listings": 20
+    },
+    {
+      "card_id": 34724,
+      "name": "Haunter",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "35/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 85.32,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 127
     },
     {
       "card_id": 19917,
@@ -5559,6 +6063,18 @@
       "total_listings": 104
     },
     {
+      "card_id": 28288,
+      "name": "Metagross - BW75 (Team Plasma) (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW75",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 81.86,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 6
+    },
+    {
       "card_id": 22221,
       "name": "Latias & Latios GX",
       "set_id": 5500079,
@@ -5617,6 +6133,18 @@
       "market_price_usd": 81.18,
       "market_price_as_of": "2026-10-26",
       "total_listings": 23
+    },
+    {
+      "card_id": 28323,
+      "name": "Luxio - BW34 (Cracked Ice Holo)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW34",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 80.91,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
     },
     {
       "card_id": 18428,
@@ -5713,6 +6241,18 @@
       "market_price_usd": 80.33,
       "market_price_as_of": "2026-10-09",
       "total_listings": 191
+    },
+    {
+      "card_id": 28326,
+      "name": "Arcanine - 12/99 (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "12/99",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 80.28,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 5
     },
     {
       "card_id": 15380,
@@ -5895,6 +6435,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 34384,
+      "name": "Psychic Energy",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "92/95",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 79.15,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 15
+    },
+    {
       "card_id": 5058,
       "name": "Snivy - 1/114 (Cosmos Holo)",
       "set_id": 5500123,
@@ -5941,6 +6493,18 @@
       "market_price_usd": 78.27,
       "market_price_as_of": "2026-10-27",
       "total_listings": 33
+    },
+    {
+      "card_id": 28277,
+      "name": "Jigglypuff - BW65",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW65",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 78.15,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
     },
     {
       "card_id": 19887,
@@ -6147,6 +6711,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 28230,
+      "name": "Jolteon - BW91",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW91",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 76.64,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 41
+    },
+    {
       "card_id": 18180,
       "name": "Pikachu ex - 247/191",
       "set_id": 5500180,
@@ -6169,6 +6745,18 @@
       "market_price_usd": 76.29,
       "market_price_as_of": "2026-10-09",
       "total_listings": 82
+    },
+    {
+      "card_id": 28244,
+      "name": "Porygon-Z (Team Plasma) - BW84 (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW84",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 76.24,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 6
     },
     {
       "card_id": 12733,
@@ -6205,6 +6793,18 @@
       "market_price_usd": 76.0,
       "market_price_as_of": "2026-10-26",
       "total_listings": 5
+    },
+    {
+      "card_id": 28225,
+      "name": "Lugia EX (Team Plasma) - BW83",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW83",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 75.8,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 29
     },
     {
       "card_id": 16735,
@@ -6267,6 +6867,18 @@
       "total_listings": 0
     },
     {
+      "card_id": 34388,
+      "name": "Grass Energy",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "88/95",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 74.99,
+      "market_price_as_of": "2026-09-22",
+      "total_listings": 34
+    },
+    {
       "card_id": 6504,
       "name": "Serena - 164/195 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -6277,6 +6889,30 @@
       "market_price_usd": 74.99,
       "market_price_as_of": "2026-10-27",
       "total_listings": 3
+    },
+    {
+      "card_id": 28322,
+      "name": "Victory Cup - BW29 (Battle Road Spring 2012) [3rd Place]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW29",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 74.9,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 1
+    },
+    {
+      "card_id": 34332,
+      "name": "Espeon",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "4/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 74.77,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 24
     },
     {
       "card_id": 30159,
@@ -6325,6 +6961,18 @@
       "market_price_usd": 74.47,
       "market_price_as_of": "2026-10-27",
       "total_listings": 9
+    },
+    {
+      "card_id": 28305,
+      "name": "Victory Cup - BW29 (Battle Road Autumn 2011) [3rd Place]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW29",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 74.25,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 1
     },
     {
       "card_id": 12784,
@@ -6423,6 +7071,18 @@
       "total_listings": 121
     },
     {
+      "card_id": 28245,
+      "name": "Zorua - BW12",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW12",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 73.68,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 18
+    },
+    {
       "card_id": 24425,
       "name": "TV Reporter (Full Art)",
       "set_id": 5500088,
@@ -6433,6 +7093,18 @@
       "market_price_usd": 73.67,
       "market_price_as_of": "2026-10-23",
       "total_listings": 28
+    },
+    {
+      "card_id": 34331,
+      "name": "Ninetales",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "17/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 73.62,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 29
     },
     {
       "card_id": 4447,
@@ -6675,6 +7347,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 34348,
+      "name": "Kyogre",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "12/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 71.96,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 27
+    },
+    {
       "card_id": 38098,
       "name": "Garchomp V",
       "set_id": 5500061,
@@ -6915,6 +7599,18 @@
       "total_listings": 0
     },
     {
+      "card_id": 37686,
+      "name": "League Staff",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "153/185",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 70.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
+    },
+    {
       "card_id": 947,
       "name": "Jirachi - 2005 (Michael Gonzalez)",
       "set_id": 5500029,
@@ -6951,6 +7647,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 28351,
+      "name": "Victory Cup - BW29 (Battle Road Spring 2013) [3rd Place]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW29",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 69.6,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
+    },
+    {
       "card_id": 32515,
       "name": "Lugia EX (Team Plasma)",
       "set_id": 5500207,
@@ -6973,6 +7681,18 @@
       "market_price_usd": 69.58,
       "market_price_as_of": "2026-10-21",
       "total_listings": 5
+    },
+    {
+      "card_id": 28218,
+      "name": "Glaceon - BW90",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW90",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 69.58,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 51
     },
     {
       "card_id": 19979,
@@ -7167,6 +7887,30 @@
       "total_listings": 8
     },
     {
+      "card_id": 34387,
+      "name": "Fire Energy",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "89/95",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 68.08,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 14
+    },
+    {
+      "card_id": 28238,
+      "name": "Flareon - BW88",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW88",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 68.01,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 48
+    },
+    {
       "card_id": 1092,
       "name": "Town Volunteers - 2004 (Kevin Nguyen)",
       "set_id": 5500029,
@@ -7273,6 +8017,18 @@
       "market_price_usd": 67.23,
       "market_price_as_of": "2026-10-23",
       "total_listings": 25
+    },
+    {
+      "card_id": 28287,
+      "name": "Axew - BW16",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW16",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 67.16,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 8
     },
     {
       "card_id": 7283,
@@ -7465,6 +8221,18 @@
       "market_price_usd": 65.99,
       "market_price_as_of": "2026-10-27",
       "total_listings": 6
+    },
+    {
+      "card_id": 28280,
+      "name": "Flygon - BW53 (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW53",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 65.97,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 16
     },
     {
       "card_id": 19019,
@@ -7885,6 +8653,18 @@
       "market_price_usd": 64.0,
       "market_price_as_of": "2026-10-26",
       "total_listings": 4
+    },
+    {
+      "card_id": 28303,
+      "name": "Pansage - BW14",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW14",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 63.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 6
     },
     {
       "card_id": 6591,
@@ -8439,6 +9219,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 28253,
+      "name": "Zoroark - BW19",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW19",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 60.9,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 10
+    },
+    {
       "card_id": 24440,
       "name": "Mr. Mime GX (Secret)",
       "set_id": 5500088,
@@ -8487,6 +9279,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 34368,
+      "name": "Deoxys",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "2/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 60.59,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 40
+    },
+    {
       "card_id": 4913,
       "name": "Lechonk - 154/198 (EB Games Promo)",
       "set_id": 5500123,
@@ -8509,6 +9313,18 @@
       "market_price_usd": 60.5,
       "market_price_as_of": "2026-10-29",
       "total_listings": 12
+    },
+    {
+      "card_id": 34753,
+      "name": "Electrode (Prime)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "93/102",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 60.38,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 10
     },
     {
       "card_id": 4744,
@@ -8751,6 +9567,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 28311,
+      "name": "Genesect - BW101",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW101",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 59.51,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
+    },
+    {
       "card_id": 15523,
       "name": "______'s Oshawott",
       "set_id": 5500069,
@@ -8989,6 +9817,30 @@
       "market_price_usd": 58.46,
       "market_price_as_of": "2026-10-10",
       "total_listings": 119
+    },
+    {
+      "card_id": 34799,
+      "name": "Magnezone (Prime)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "96/102",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 58.43,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 13
+    },
+    {
+      "card_id": 34315,
+      "name": "Jirachi",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "11/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 58.36,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 19
     },
     {
       "card_id": 27167,
@@ -9435,6 +10287,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 28271,
+      "name": "Meowth - BW35",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW35",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 56.28,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 13
+    },
+    {
       "card_id": 36725,
       "name": "Suicune V",
       "set_id": 5500218,
@@ -9627,6 +10491,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 34378,
+      "name": "Metal Energy (Basic)",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "95/95",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 55.0,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 27
+    },
+    {
       "card_id": 6729,
       "name": "Pumpkaboo - 56/146 (Pokemon League) [1st Place]",
       "set_id": 5500087,
@@ -9649,6 +10525,18 @@
       "market_price_usd": 54.95,
       "market_price_as_of": "2026-11-02",
       "total_listings": 27
+    },
+    {
+      "card_id": 37684,
+      "name": "Professor Birch (2006)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "82/106",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 54.95,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
     },
     {
       "card_id": 25458,
@@ -9699,6 +10587,18 @@
       "total_listings": 110
     },
     {
+      "card_id": 34339,
+      "name": "Groudon",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "6/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.67,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 30
+    },
+    {
       "card_id": 100034357,
       "name": "Mewtwo ex - 151/128",
       "set_id": 5500219,
@@ -9745,6 +10645,18 @@
       "market_price_usd": 54.57,
       "market_price_as_of": "2026-10-26",
       "total_listings": 42
+    },
+    {
+      "card_id": 28274,
+      "name": "Ampharos - BW67",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW67",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 54.45,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 25
     },
     {
       "card_id": 17816,
@@ -9987,6 +10899,18 @@
       "total_listings": 114
     },
     {
+      "card_id": 34287,
+      "name": "Vaporeon",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "52/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 53.4,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 89
+    },
+    {
       "card_id": 4480,
       "name": "Mew - 111/110 (Non-Holo DVD Promo)",
       "set_id": 5500123,
@@ -10069,6 +10993,18 @@
       "market_price_usd": 52.83,
       "market_price_as_of": "2026-10-14",
       "total_listings": 76
+    },
+    {
+      "card_id": 34330,
+      "name": "Feraligatr",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "25/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 52.8,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 44
     },
     {
       "card_id": 18470,
@@ -10587,6 +11523,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 37680,
+      "name": "Professor Oak's Visit (2008-2009)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "122/132",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 50.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 5
+    },
+    {
       "card_id": 19728,
       "name": "Mimikyu GX",
       "set_id": 5500141,
@@ -10753,6 +11701,18 @@
       "market_price_usd": 50.0,
       "market_price_as_of": "2026-10-01",
       "total_listings": 0
+    },
+    {
+      "card_id": 34771,
+      "name": "Bronzong",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "15/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 50.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 25
     },
     {
       "card_id": 36717,
@@ -11079,6 +12039,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 28337,
+      "name": "Altaria - BW48 (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW48",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 48.93,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 13
+    },
+    {
       "card_id": 2302179,
       "name": "Mega Gengar ex - 056/094",
       "set_id": 5500194,
@@ -11185,6 +12157,18 @@
       "market_price_usd": 48.66,
       "market_price_as_of": "2026-10-27",
       "total_listings": 80
+    },
+    {
+      "card_id": 34809,
+      "name": "Wailord",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "31/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 48.63,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 29
     },
     {
       "card_id": 32809,
@@ -11547,6 +12531,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 28220,
+      "name": "Rayquaza EX -BW47",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW47",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 47.4,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 43
+    },
+    {
       "card_id": 35782,
       "name": "Moltres & Zapdos & Articuno GX",
       "set_id": 5500125,
@@ -11679,6 +12675,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 34720,
+      "name": "Cubone",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "60/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 47.09,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 77
+    },
+    {
       "card_id": 35175,
       "name": "Blastoise",
       "set_id": 5500053,
@@ -11737,6 +12745,18 @@
       "market_price_usd": 47.02,
       "market_price_as_of": "2026-10-14",
       "total_listings": 117
+    },
+    {
+      "card_id": 28210,
+      "name": "Mewtwo EX - BW45",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW45",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 46.97,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 75
     },
     {
       "card_id": 31191,
@@ -12159,6 +13179,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 37675,
+      "name": "Professor's Research [Professor Turo] - 190/198",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "190/198",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 45.5,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 12
+    },
+    {
       "card_id": 6682,
       "name": "Greninja - 40/122 (Pokemon League) [3rd Place]",
       "set_id": 5500087,
@@ -12169,6 +13201,18 @@
       "market_price_usd": 45.49,
       "market_price_as_of": "2026-10-27",
       "total_listings": 16
+    },
+    {
+      "card_id": 34746,
+      "name": "Yanmega (Prime)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "98/102",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.47,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 23
     },
     {
       "card_id": 36084,
@@ -12361,6 +13405,18 @@
       "market_price_usd": 45.12,
       "market_price_as_of": "2026-10-23",
       "total_listings": 2
+    },
+    {
+      "card_id": 28306,
+      "name": "Gigalith 53/98 (Prerelease) [Staff]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "53/98",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 45.1,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 5
     },
     {
       "card_id": 6130,
@@ -12759,6 +13815,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 34283,
+      "name": "Slowpoke",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "70/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 44.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 96
+    },
+    {
       "card_id": 24295,
       "name": "Rayquaza GX",
       "set_id": 5500088,
@@ -12865,6 +13933,18 @@
       "market_price_usd": 43.61,
       "market_price_as_of": "2026-10-31",
       "total_listings": 55
+    },
+    {
+      "card_id": 34354,
+      "name": "Houndoom",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "10/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 43.61,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 16
     },
     {
       "card_id": 14388,
@@ -13023,6 +14103,18 @@
       "total_listings": 142
     },
     {
+      "card_id": 34355,
+      "name": "Typhlosion",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "35/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 42.74,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 36
+    },
+    {
       "card_id": 13673,
       "name": "Audino - 151/086",
       "set_id": 5500093,
@@ -13105,6 +14197,18 @@
       "market_price_usd": 42.5,
       "market_price_as_of": "2026-10-15",
       "total_listings": 79
+    },
+    {
+      "card_id": 34350,
+      "name": "Lucario",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "14/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 42.49,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 16
     },
     {
       "card_id": 24461,
@@ -13899,6 +15003,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 34785,
+      "name": "Celebi",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "3/102",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.33,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 14
+    },
+    {
       "card_id": 17207,
       "name": "Charmander - 109/091",
       "set_id": 5500030,
@@ -13959,6 +15075,18 @@
       "total_listings": 72
     },
     {
+      "card_id": 28232,
+      "name": "Landorus - BW43",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW43",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.19,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 58
+    },
+    {
       "card_id": 18254,
       "name": "Mewtwo - 052",
       "set_id": 5500070,
@@ -13969,6 +15097,18 @@
       "market_price_usd": 40.16,
       "market_price_as_of": "2026-10-14",
       "total_listings": 336
+    },
+    {
+      "card_id": 34743,
+      "name": "Dragonair",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "32/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.15,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 61
     },
     {
       "card_id": 18475,
@@ -14065,6 +15205,18 @@
       "market_price_usd": 40.0,
       "market_price_as_of": "2026-10-29",
       "total_listings": 2
+    },
+    {
+      "card_id": 28300,
+      "name": "Victory Cup - BW29 (Battle Road Autumn 2012) [3rd Place]",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW29",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
     },
     {
       "card_id": 30852,
@@ -14197,6 +15349,18 @@
       "market_price_usd": 39.89,
       "market_price_as_of": "2026-10-23",
       "total_listings": 11
+    },
+    {
+      "card_id": 28302,
+      "name": "Luxio - BW34 (Cosmos Holo)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW34",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.85,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
     },
     {
       "card_id": 29029,
@@ -14521,6 +15685,18 @@
       "market_price_usd": 39.24,
       "market_price_as_of": "2026-10-18",
       "total_listings": 65
+    },
+    {
+      "card_id": 34372,
+      "name": "Ho-Oh",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "9/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.24,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 22
     },
     {
       "card_id": 27319,
@@ -14955,6 +16131,42 @@
       "total_listings": 19
     },
     {
+      "card_id": 28295,
+      "name": "Ninetales - BW66",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW66",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 38.51,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 7
+    },
+    {
+      "card_id": 34292,
+      "name": "Magikarp",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "61/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 38.51,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 79
+    },
+    {
+      "card_id": 34328,
+      "name": "Dialga",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "3/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.5,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 28
+    },
+    {
       "card_id": 18410,
       "name": "Pikachu - 101",
       "set_id": 5500070,
@@ -15267,6 +16479,18 @@
       "total_listings": 41
     },
     {
+      "card_id": 34299,
+      "name": "Flareon",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "44/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.8,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 82
+    },
+    {
       "card_id": 14455,
       "name": "Emboar - 098/086",
       "set_id": 5500153,
@@ -15409,6 +16633,30 @@
       "market_price_usd": 37.08,
       "market_price_as_of": "2026-10-26",
       "total_listings": 19
+    },
+    {
+      "card_id": 34285,
+      "name": "Totodile",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "74/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.08,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 157
+    },
+    {
+      "card_id": 28215,
+      "name": "Darkrai EX - BW46",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW46",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 37.05,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 53
     },
     {
       "card_id": 38831,
@@ -15673,6 +16921,18 @@
       "market_price_usd": 36.4,
       "market_price_as_of": "2026-10-25",
       "total_listings": 64
+    },
+    {
+      "card_id": 28209,
+      "name": "Deoxys EX (Team Plasma) - BW82",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW82",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 36.39,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 73
     },
     {
       "card_id": 23646,
@@ -16263,6 +17523,18 @@
       "total_listings": 125
     },
     {
+      "card_id": 28228,
+      "name": "Minccino - BW13 (Cosmos Holo)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW13",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 34.82,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 27
+    },
+    {
       "card_id": 21864,
       "name": "Poliwhirl - 176/165",
       "set_id": 5500171,
@@ -16575,6 +17847,18 @@
       "total_listings": 163
     },
     {
+      "card_id": 28315,
+      "name": "Crobat - BW51 (Team Plasma) (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW51",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 34.3,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 5
+    },
+    {
       "card_id": 25276,
       "name": "Terapagos ex - 170/142",
       "set_id": 5500045,
@@ -16813,6 +18097,18 @@
       "market_price_usd": 33.74,
       "market_price_as_of": "2026-10-14",
       "total_listings": 59
+    },
+    {
+      "card_id": 28258,
+      "name": "Riolu - BW33",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW33",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 33.73,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 24
     },
     {
       "card_id": 6740,
@@ -17307,6 +18603,18 @@
       "total_listings": 125
     },
     {
+      "card_id": 34725,
+      "name": "Gastly",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "63/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.57,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 120
+    },
+    {
       "card_id": 20424,
       "name": "Ninetales -199/197",
       "set_id": 5500138,
@@ -17341,6 +18649,18 @@
       "market_price_usd": 32.52,
       "market_price_as_of": "2026-10-09",
       "total_listings": 108
+    },
+    {
+      "card_id": 2295338,
+      "name": "Professor's Research [Professor Juniper] - 085/086",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "085/086",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.49,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 7
     },
     {
       "card_id": 25630,
@@ -17497,6 +18817,18 @@
       "market_price_usd": 32.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 12
+    },
+    {
+      "card_id": 34286,
+      "name": "Vulpix",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "75/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 138
     },
     {
       "card_id": 25692,
@@ -17751,6 +19083,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 34344,
+      "name": "Palkia",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "19/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.66,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 22
+    },
+    {
       "card_id": 14158,
       "name": "Cinccino - SWSH009 (Prerelease)",
       "set_id": 5500149,
@@ -17881,6 +19225,18 @@
       "market_price_usd": 31.5,
       "market_price_as_of": "2026-10-24",
       "total_listings": 27
+    },
+    {
+      "card_id": 34337,
+      "name": "Slowking",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "32/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.5,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 34
     },
     {
       "card_id": 6565,
@@ -18145,6 +19501,18 @@
       "market_price_usd": 30.89,
       "market_price_as_of": "2026-10-24",
       "total_listings": 15
+    },
+    {
+      "card_id": 28268,
+      "name": "Volcarona - BW40 (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW40",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 30.87,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 13
     },
     {
       "card_id": 12650,
@@ -18603,6 +19971,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 28278,
+      "name": "Lilligant - BW49",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW49",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 30.16,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 15
+    },
+    {
       "card_id": 18471,
       "name": "Miraidon - 092 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -18745,6 +20125,30 @@
       "market_price_usd": 29.99,
       "market_price_as_of": "2026-10-26",
       "total_listings": 7
+    },
+    {
+      "card_id": 2295336,
+      "name": "Professor's Research [Professor Magnolia] - 223",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "223",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 8
+    },
+    {
+      "card_id": 37692,
+      "name": "Lightning Energy (2004-2005)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "109/109",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 29.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 14
     },
     {
       "card_id": 6339,
@@ -19059,6 +20463,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 34783,
+      "name": "Electivire",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "20/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.46,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 50
+    },
+    {
       "card_id": 24563,
       "name": "Fire Energy (Secret)",
       "set_id": 5500119,
@@ -19153,6 +20569,18 @@
       "market_price_usd": 29.24,
       "market_price_as_of": "2026-10-30",
       "total_listings": 123
+    },
+    {
+      "card_id": 34289,
+      "name": "Jolteon",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "45/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.24,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 103
     },
     {
       "card_id": 2139021,
@@ -19263,6 +20691,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 34319,
+      "name": "Pidgeot",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "30/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.11,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 54
+    },
+    {
       "card_id": 32494,
       "name": "Charmeleon",
       "set_id": 5500207,
@@ -19309,6 +20749,18 @@
       "market_price_usd": 29.02,
       "market_price_as_of": "2026-10-14",
       "total_listings": 19
+    },
+    {
+      "card_id": 2295346,
+      "name": "Professor's Research [Professor Birch] - 221",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "221",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 28.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 6
     },
     {
       "card_id": 20737,
@@ -19381,6 +20833,18 @@
       "market_price_usd": 28.9,
       "market_price_as_of": "2026-10-28",
       "total_listings": 97
+    },
+    {
+      "card_id": 34290,
+      "name": "Eevee",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "56/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.9,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 114
     },
     {
       "card_id": 4383,
@@ -19971,6 +21435,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 37704,
+      "name": "Sonia - 167/192 (2022)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "167/192",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.06,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
+    },
+    {
       "card_id": 13450,
       "name": "Espeon (Master Ball Pattern)",
       "set_id": 5500017,
@@ -20247,6 +21723,18 @@
       "total_listings": 73
     },
     {
+      "card_id": 34810,
+      "name": "Pidgeot",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "29/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.5,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 39
+    },
+    {
       "card_id": 16955,
       "name": "Mawile GX (Secret)",
       "set_id": 5500211,
@@ -20293,6 +21781,18 @@
       "market_price_usd": 27.47,
       "market_price_as_of": "2026-10-23",
       "total_listings": 20
+    },
+    {
+      "card_id": 34797,
+      "name": "Rapidash",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "8/102",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.47,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 22
     },
     {
       "card_id": 852,
@@ -20571,6 +22071,18 @@
       "total_listings": 70
     },
     {
+      "card_id": 28289,
+      "name": "Axew - BW26",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW26",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 27.14,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 10
+    },
+    {
       "card_id": 14566,
       "name": "Charizard GX - SM195",
       "set_id": 5500076,
@@ -20677,6 +22189,18 @@
       "market_price_usd": 27.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 17
+    },
+    {
+      "card_id": 34773,
+      "name": "Pidgeotto",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "47/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 59
     },
     {
       "card_id": 4519,
@@ -21543,6 +23067,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 34745,
+      "name": "Banette",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "14/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.79,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 38
+    },
+    {
       "card_id": 2300516,
       "name": "Archeops - 051 (Fossil Museum Exclusive)",
       "set_id": 5500123,
@@ -21771,6 +23307,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 28266,
+      "name": "White Kyurem - BW59",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW59",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 25.52,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 33
+    },
+    {
       "card_id": 6408,
       "name": "Dedenne - 78/189 (Pokemon League) [Thank You]",
       "set_id": 5500087,
@@ -21987,6 +23535,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 34736,
+      "name": "Marowak",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "44/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.22,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 97
+    },
+    {
       "card_id": 6434,
       "name": "Aqua Patch - 119/145 (League Cup) [Staff]",
       "set_id": 5500087,
@@ -22045,6 +23605,18 @@
       "market_price_usd": 25.16,
       "market_price_as_of": "2026-10-09",
       "total_listings": 48
+    },
+    {
+      "card_id": 34784,
+      "name": "Aggron",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "1/102",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.12,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 21
     },
     {
       "card_id": 26716,
@@ -22743,6 +24315,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 34760,
+      "name": "Magby",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "41/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.31,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 113
+    },
+    {
       "card_id": 21853,
       "name": "Mew ex - 205/165",
       "set_id": 5500171,
@@ -23079,6 +24663,18 @@
       "total_listings": 229
     },
     {
+      "card_id": 37666,
+      "name": "Darkness Energy (2023)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "007",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.7,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 2
+    },
+    {
       "card_id": 6087,
       "name": "Duraludon VMAX - 123/203",
       "set_id": 5500194,
@@ -23295,6 +24891,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 28316,
+      "name": "Minccino - BW13 (Cracked Ice Holo)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW13",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.39,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 13
+    },
+    {
       "card_id": 14498,
       "name": "Emboar (Master Ball Pattern)",
       "set_id": 5500153,
@@ -23389,6 +24997,18 @@
       "market_price_usd": 23.33,
       "market_price_as_of": "2026-10-28",
       "total_listings": 143
+    },
+    {
+      "card_id": 34288,
+      "name": "Pidgey",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "67/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.33,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 190
     },
     {
       "card_id": 1142,
@@ -23605,6 +25225,18 @@
       "market_price_usd": 23.12,
       "market_price_as_of": "2026-10-23",
       "total_listings": 129
+    },
+    {
+      "card_id": 28260,
+      "name": "Black Kyurem - BW58",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW58",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 23.12,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 21
     },
     {
       "card_id": 19874,
@@ -23833,6 +25465,18 @@
       "market_price_usd": 22.91,
       "market_price_as_of": "2026-10-23",
       "total_listings": 151
+    },
+    {
+      "card_id": 37702,
+      "name": "Professor Juniper - 98/108 (2013)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "98/108",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.88,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
     },
     {
       "card_id": 2295374,
@@ -24135,6 +25779,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 28269,
+      "name": "Litwick - BW27",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW27",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.49,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 14
+    },
+    {
       "card_id": 36739,
       "name": "Zeraora VSTAR",
       "set_id": 5500218,
@@ -24217,6 +25873,18 @@
       "market_price_usd": 22.41,
       "market_price_as_of": "2026-10-28",
       "total_listings": 143
+    },
+    {
+      "card_id": 37667,
+      "name": "Judge (2019)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "108/131",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.41,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 10
     },
     {
       "card_id": 2133564,
@@ -24363,6 +26031,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 34759,
+      "name": "Seeker",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "88/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.2,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 36
+    },
+    {
       "card_id": 14588,
       "name": "Mimikyu - SM29",
       "set_id": 5500076,
@@ -24493,6 +26173,18 @@
       "market_price_usd": 21.99,
       "market_price_as_of": "2026-10-22",
       "total_listings": 24
+    },
+    {
+      "card_id": 2295360,
+      "name": "Professor's Research [Professor Kukui] - 222",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "222",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 8
     },
     {
       "card_id": 6425,
@@ -24721,6 +26413,18 @@
       "market_price_usd": 21.74,
       "market_price_as_of": "2026-10-12",
       "total_listings": 19
+    },
+    {
+      "card_id": 37671,
+      "name": "Psychic Energy (2023)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "005",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.74,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 4
     },
     {
       "card_id": 15625,
@@ -25203,6 +26907,18 @@
       "total_listings": 127
     },
     {
+      "card_id": 34353,
+      "name": "Clefable",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "1/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.07,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 20
+    },
+    {
       "card_id": 14792,
       "name": "Oranguru - SM13 (Prerelease)",
       "set_id": 5500076,
@@ -25297,6 +27013,18 @@
       "market_price_usd": 21.0,
       "market_price_as_of": "2026-10-24",
       "total_listings": 73
+    },
+    {
+      "card_id": 34325,
+      "name": "Ampharos",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "23/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 53
     },
     {
       "card_id": 13824,
@@ -25405,6 +27133,18 @@
       "market_price_usd": 20.86,
       "market_price_as_of": "2026-10-21",
       "total_listings": 36
+    },
+    {
+      "card_id": 37665,
+      "name": "Fire Energy (2023)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "002",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.86,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 2
     },
     {
       "card_id": 20074,
@@ -25887,6 +27627,18 @@
       "total_listings": 135
     },
     {
+      "card_id": 28284,
+      "name": "Darumaka - BW18",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW18",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.52,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 23
+    },
+    {
       "card_id": 5912,
       "name": "Arceus VSTAR - 123/172",
       "set_id": 5500194,
@@ -25935,6 +27687,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 37678,
+      "name": "Professor Juniper - 101/114 (2013)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "101/114",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.45,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 2
+    },
+    {
       "card_id": 15965,
       "name": "Iron Valiant ex - 249/182",
       "set_id": 5500212,
@@ -25969,6 +27733,30 @@
       "market_price_usd": 20.44,
       "market_price_as_of": "2026-10-29",
       "total_listings": 169
+    },
+    {
+      "card_id": 37670,
+      "name": "Metal Energy (2023)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "008",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.44,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 4
+    },
+    {
+      "card_id": 37690,
+      "name": "Professor Burnet - SWSH167 (2021)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "SWSH167",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.44,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
     },
     {
       "card_id": 29026,
@@ -26511,6 +28299,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 34819,
+      "name": "Celebi - 3/102 (Non-Holo Movie Exclusive)",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "3/102",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 19.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 0
+    },
+    {
       "card_id": 6598,
       "name": "Multi Energy (Special) 93/100 (League Promo)",
       "set_id": 5500087,
@@ -26595,6 +28395,30 @@
       "total_listings": 338
     },
     {
+      "card_id": 34716,
+      "name": "Twins",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "89/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.97,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 74
+    },
+    {
+      "card_id": 37674,
+      "name": "Lightning Energy (2023)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "004",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.97,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 6
+    },
+    {
       "card_id": 38794,
       "name": "Skitty - 12/12",
       "set_id": 5500172,
@@ -26653,6 +28477,18 @@
       "market_price_usd": 19.95,
       "market_price_as_of": "2026-11-02",
       "total_listings": 242
+    },
+    {
+      "card_id": 34282,
+      "name": "Clefairy",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "54/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.95,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 142
     },
     {
       "card_id": 26251,
@@ -27193,6 +29029,18 @@
       "market_price_usd": 19.58,
       "market_price_as_of": "2026-10-22",
       "total_listings": 178
+    },
+    {
+      "card_id": 28276,
+      "name": "Tornadus EX - BW96 (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW96",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.58,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 16
     },
     {
       "card_id": 17515,
@@ -27867,6 +29715,18 @@
       "total_listings": 55
     },
     {
+      "card_id": 34749,
+      "name": "Kangaskhan",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "36/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.12,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 53
+    },
+    {
       "card_id": 36107,
       "name": "Tapu Koko GX",
       "set_id": 5500083,
@@ -28191,6 +30051,18 @@
       "total_listings": 275
     },
     {
+      "card_id": 37673,
+      "name": "Water Energy (2023)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "003",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.76,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 2
+    },
+    {
       "card_id": 14575,
       "name": "Mewtwo GX - SM196",
       "set_id": 5500076,
@@ -28201,6 +30073,18 @@
       "market_price_usd": 18.74,
       "market_price_as_of": "2026-10-26",
       "total_listings": 136
+    },
+    {
+      "card_id": 34345,
+      "name": "Mismagius",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "28/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.72,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 59
     },
     {
       "card_id": 15614,
@@ -28287,6 +30171,18 @@
       "total_listings": 173
     },
     {
+      "card_id": 37707,
+      "name": "Water Energy (2004-2005)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "106/109",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 18.61,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 8
+    },
+    {
       "card_id": 36104,
       "name": "Tapu Bulu GX",
       "set_id": 5500083,
@@ -28345,6 +30241,18 @@
       "market_price_usd": 18.54,
       "market_price_as_of": "2026-10-28",
       "total_listings": 6
+    },
+    {
+      "card_id": 34732,
+      "name": "Pidgey",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "71/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.54,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 117
     },
     {
       "card_id": 6630,
@@ -28419,6 +30327,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 34719,
+      "name": "Bronzor",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "58/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.52,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 49
+    },
+    {
       "card_id": 13640,
       "name": "Axew - 145/086",
       "set_id": 5500093,
@@ -28429,6 +30349,18 @@
       "market_price_usd": 18.51,
       "market_price_as_of": "2026-10-09",
       "total_listings": 139
+    },
+    {
+      "card_id": 28283,
+      "name": "Druddigon (Team Plasma) - BW80",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW80",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.5,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 25
     },
     {
       "card_id": 37879,
@@ -28647,6 +30579,18 @@
       "total_listings": 247
     },
     {
+      "card_id": 28246,
+      "name": "Reshiram - BW23",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW23",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.33,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 35
+    },
+    {
       "card_id": 853,
       "name": "Diancie - 2017 (Diego Cassiraga)",
       "set_id": 5500029,
@@ -28815,6 +30759,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 34297,
+      "name": "Tangela",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "72/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.16,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 246
+    },
+    {
       "card_id": 22792,
       "name": "Field Blower (Secret)",
       "set_id": 5500036,
@@ -28861,6 +30817,18 @@
       "market_price_usd": 18.13,
       "market_price_as_of": "2026-10-22",
       "total_listings": 70
+    },
+    {
+      "card_id": 37668,
+      "name": "Psychic Energy (2004-2005)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "107/109",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 18.12,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
     },
     {
       "card_id": 4506,
@@ -28957,6 +30925,18 @@
       "market_price_usd": 18.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 121
+    },
+    {
+      "card_id": 37669,
+      "name": "Grass Energy (2023)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "001",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 3
     },
     {
       "card_id": 764,
@@ -29307,6 +31287,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 34296,
+      "name": "Hitmonlee",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "58/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.75,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 219
+    },
+    {
       "card_id": 20751,
       "name": "Snom - 168/162",
       "set_id": 5500066,
@@ -29365,6 +31357,18 @@
       "market_price_usd": 17.7,
       "market_price_as_of": "2026-10-29",
       "total_listings": 140
+    },
+    {
+      "card_id": 34755,
+      "name": "Machamp",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "26/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.7,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 57
     },
     {
       "card_id": 14706,
@@ -29473,6 +31477,18 @@
       "market_price_usd": 17.62,
       "market_price_as_of": "2026-10-13",
       "total_listings": 349
+    },
+    {
+      "card_id": 34727,
+      "name": "Indigo Plateau",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "86/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.62,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 103
     },
     {
       "card_id": 15462,
@@ -29655,6 +31671,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 34788,
+      "name": "Kricketune",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "24/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.5,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 16
+    },
+    {
       "card_id": 5587,
       "name": "Leafeon ex - 006/131",
       "set_id": 5500194,
@@ -29677,6 +31705,18 @@
       "market_price_usd": 17.48,
       "market_price_as_of": "2026-10-25",
       "total_listings": 25
+    },
+    {
+      "card_id": 28285,
+      "name": "Electrode (Team Plasma) - BW76",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW76",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.48,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 7
     },
     {
       "card_id": 31412,
@@ -30015,6 +32055,18 @@
       "total_listings": 448
     },
     {
+      "card_id": 34789,
+      "name": "Magmortar",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "27/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.28,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 49
+    },
+    {
       "card_id": 6654,
       "name": "Grass Energy (2006-2007 League Promo)",
       "set_id": 5500087,
@@ -30073,6 +32125,18 @@
       "market_price_usd": 17.2,
       "market_price_as_of": "2026-10-14",
       "total_listings": 130
+    },
+    {
+      "card_id": 34284,
+      "name": "Cyndaquil",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "55/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.2,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 227
     },
     {
       "card_id": 28863,
@@ -30567,6 +32631,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 28236,
+      "name": "Battle City - BW39",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW39",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.87,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 38
+    },
+    {
       "card_id": 15680,
       "name": "Dedenne ex - 239/193",
       "set_id": 5500150,
@@ -30639,6 +32715,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 28286,
+      "name": "Darmanitan - 25/114 (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "25/114",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.82,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 16
+    },
+    {
       "card_id": 186483,
       "name": "Snorlax VMAX - 142/202",
       "set_id": 5500069,
@@ -30649,6 +32737,18 @@
       "market_price_usd": 16.81,
       "market_price_as_of": "2026-10-28",
       "total_listings": 23
+    },
+    {
+      "card_id": 34769,
+      "name": "Wailmer",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "52/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.8,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 70
     },
     {
       "card_id": 24319,
@@ -30927,6 +33027,18 @@
       "total_listings": 231
     },
     {
+      "card_id": 34342,
+      "name": "Pachirisu",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "18/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.67,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 13
+    },
+    {
       "card_id": 882,
       "name": "Luxray GL LV.X - 2009 (Stephen Silvestro)",
       "set_id": 5500029,
@@ -31033,6 +33145,18 @@
       "market_price_usd": 16.61,
       "market_price_as_of": "2026-10-23",
       "total_listings": 35
+    },
+    {
+      "card_id": 28297,
+      "name": "Haxorus - BW57",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW57",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.61,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 28
     },
     {
       "card_id": 13655,
@@ -31153,6 +33277,18 @@
       "market_price_usd": 16.53,
       "market_price_as_of": "2026-10-13",
       "total_listings": 333
+    },
+    {
+      "card_id": 37708,
+      "name": "Fire Energy (2024)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "010",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 16.53,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 7
     },
     {
       "card_id": 13400,
@@ -31287,6 +33423,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 34733,
+      "name": "Aron",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "56/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.43,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 130
+    },
+    {
       "card_id": 13626,
       "name": "Timburr - 125/086",
       "set_id": 5500093,
@@ -31321,6 +33469,18 @@
       "market_price_usd": 16.4,
       "market_price_as_of": "2026-10-23",
       "total_listings": 6
+    },
+    {
+      "card_id": 37685,
+      "name": "Professor Sycamore (2015)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "122/146",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.4,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 5
     },
     {
       "card_id": 2135967,
@@ -31537,6 +33697,18 @@
       "market_price_usd": 16.25,
       "market_price_as_of": "2026-10-09",
       "total_listings": 364
+    },
+    {
+      "card_id": 34333,
+      "name": "Cleffa",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "24/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.25,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 41
     },
     {
       "card_id": 6958,
@@ -31993,6 +34165,18 @@
       "market_price_usd": 16.0,
       "market_price_as_of": "2026-10-12",
       "total_listings": 144
+    },
+    {
+      "card_id": 34294,
+      "name": "Chikorita",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "53/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 236
     },
     {
       "card_id": 15620,
@@ -32787,6 +34971,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 37697,
+      "name": "Fire Energy (2004-2005)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "108/109",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 15.59,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 8
+    },
+    {
       "card_id": 38085,
       "name": "Galarian Articuno V",
       "set_id": 5500061,
@@ -33339,6 +35535,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 34750,
+      "name": "Electabuzz",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "33/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.24,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 65
+    },
+    {
       "card_id": 6109,
       "name": "Rapid Strike Urshifu VMAX - 088/163",
       "set_id": 5500194,
@@ -33651,6 +35859,18 @@
       "total_listings": 114
     },
     {
+      "card_id": 34312,
+      "name": "Hitmonchan",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "57/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.05,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 302
+    },
+    {
       "card_id": 33082,
       "name": "Houndoom",
       "set_id": 5500064,
@@ -33759,6 +35979,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 28317,
+      "name": "Keldeo - BW60",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW60",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 15.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 6
+    },
+    {
       "card_id": 32209,
       "name": "Geodude (Stamped)",
       "set_id": 5500089,
@@ -33769,6 +36001,18 @@
       "market_price_usd": 15.0,
       "market_price_as_of": "2026-10-28",
       "total_listings": 0
+    },
+    {
+      "card_id": 34304,
+      "name": "Magmar",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "62/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 319
     },
     {
       "card_id": 15401,
@@ -33805,6 +36049,18 @@
       "market_price_usd": 14.99,
       "market_price_as_of": "2026-11-02",
       "total_listings": 69
+    },
+    {
+      "card_id": 37699,
+      "name": "Grass Energy (2004-2005)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "104/109",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 14.99,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 10
     },
     {
       "card_id": 38829,
@@ -34527,6 +36783,30 @@
       "total_listings": 129
     },
     {
+      "card_id": 28265,
+      "name": "Axew - BW10",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW10",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.65,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 19
+    },
+    {
+      "card_id": 30631,
+      "name": "Reshiram",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "26/114",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.65,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 57
+    },
+    {
       "card_id": 22729,
       "name": "Metagross GX (Full Art)",
       "set_id": 5500036,
@@ -34731,6 +37011,18 @@
       "total_listings": 91
     },
     {
+      "card_id": 28216,
+      "name": "Reshiram EX - BW36",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW36",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 14.49,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 80
+    },
+    {
       "card_id": 38833,
       "name": "Alolan Meowth - 10/12",
       "set_id": 5500203,
@@ -34921,6 +37213,18 @@
       "market_price_usd": 14.38,
       "market_price_as_of": "2026-10-11",
       "total_listings": 178
+    },
+    {
+      "card_id": 34327,
+      "name": "Smeargle",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "21/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.38,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 14
     },
     {
       "card_id": 100018063,
@@ -35245,6 +37549,18 @@
       "market_price_usd": 14.19,
       "market_price_as_of": "2026-10-26",
       "total_listings": 44
+    },
+    {
+      "card_id": 37689,
+      "name": "Gym Trainer (2022)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "059/072",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.19,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
     },
     {
       "card_id": 38188,
@@ -35691,6 +38007,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 28294,
+      "name": "Scraggy - BW25 (Cracked Ice Holo)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW25",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.98,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 13
+    },
+    {
       "card_id": 5234,
       "name": "Incineroar - 26/149 (Water Web Holo)",
       "set_id": 5500123,
@@ -35727,6 +38055,30 @@
       "total_listings": 77
     },
     {
+      "card_id": 28304,
+      "name": "Elgyem - BW55",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW55",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 13.96,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
+    },
+    {
+      "card_id": 37679,
+      "name": "Professor's Research [Professor Juniper] - 060/072",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "060/072",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.96,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 12
+    },
+    {
       "card_id": 6481,
       "name": "Professor Elm's Lecture - 188a/214 (League Challenge) [4th Place]",
       "set_id": 5500087,
@@ -35749,6 +38101,18 @@
       "market_price_usd": 13.95,
       "market_price_as_of": "2026-11-02",
       "total_listings": 38
+    },
+    {
+      "card_id": 28255,
+      "name": "N (Supporter) - BW100",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW100",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.94,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 43
     },
     {
       "card_id": 31449,
@@ -35859,6 +38223,18 @@
       "total_listings": 105
     },
     {
+      "card_id": 34782,
+      "name": "Altaria",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "2/102",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.87,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 14
+    },
+    {
       "card_id": 14509,
       "name": "Simisear (Master Ball Pattern)",
       "set_id": 5500153,
@@ -35905,6 +38281,18 @@
       "market_price_usd": 13.83,
       "market_price_as_of": "2026-10-09",
       "total_listings": 36
+    },
+    {
+      "card_id": 28248,
+      "name": "Oshawott - BW03",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW03",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.83,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 33
     },
     {
       "card_id": 23628,
@@ -36243,6 +38631,18 @@
       "total_listings": 100
     },
     {
+      "card_id": 34726,
+      "name": "Spoink",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "77/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.6,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 214
+    },
+    {
       "card_id": 14784,
       "name": "Registeel - SM75 (Prerelease)",
       "set_id": 5500076,
@@ -36289,6 +38689,18 @@
       "market_price_usd": 13.52,
       "market_price_as_of": "2026-10-11",
       "total_listings": 182
+    },
+    {
+      "card_id": 37676,
+      "name": "Professor's Research [Professor Sada] - 189/198",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "189/198",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.52,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 15
     },
     {
       "card_id": 15794,
@@ -36375,6 +38787,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 34813,
+      "name": "Sharpedo",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "30/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.49,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 53
+    },
+    {
       "card_id": 16222,
       "name": "Armarouge - 203/198",
       "set_id": 5500032,
@@ -36397,6 +38821,18 @@
       "market_price_usd": 13.48,
       "market_price_as_of": "2026-10-17",
       "total_listings": 188
+    },
+    {
+      "card_id": 34786,
+      "name": "Nidoking",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "6/102",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.46,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 20
     },
     {
       "card_id": 5842,
@@ -36445,6 +38881,18 @@
       "market_price_usd": 13.45,
       "market_price_as_of": "2026-10-31",
       "total_listings": 38
+    },
+    {
+      "card_id": 34734,
+      "name": "Porygon",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "73/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.45,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 156
     },
     {
       "card_id": 27149,
@@ -36913,6 +39361,18 @@
       "market_price_usd": 13.22,
       "market_price_as_of": "2026-10-21",
       "total_listings": 67
+    },
+    {
+      "card_id": 34301,
+      "name": "Mawile",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "64/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.21,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 160
     },
     {
       "card_id": 38285,
@@ -37479,6 +39939,18 @@
       "total_listings": 88
     },
     {
+      "card_id": 34758,
+      "name": "Porygon-Z",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "7/102",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.92,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 18
+    },
+    {
       "card_id": 17284,
       "name": "Riolu",
       "set_id": 5500030,
@@ -37777,6 +40249,18 @@
       "market_price_usd": 12.78,
       "market_price_as_of": "2026-10-30",
       "total_listings": 174
+    },
+    {
+      "card_id": 30608,
+      "name": "Deerling",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "13/114",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.78,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 191
     },
     {
       "card_id": 6017,
@@ -38475,6 +40959,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 34362,
+      "name": "Magmortar",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "16/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.46,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 11
+    },
+    {
       "card_id": 37,
       "name": "Gyarados - 2010 (Mychael Bryan)",
       "set_id": 5500029,
@@ -38761,6 +41257,18 @@
       "market_price_usd": 12.37,
       "market_price_as_of": "2026-10-30",
       "total_listings": 308
+    },
+    {
+      "card_id": 34796,
+      "name": "Elekid",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "21/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.37,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 47
     },
     {
       "card_id": 6695,
@@ -39195,6 +41703,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 28223,
+      "name": "Zekrom EX - BW38",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW38",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.17,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 68
+    },
+    {
       "card_id": 37885,
       "name": "Team Magma's Poochyena",
       "set_id": 5500187,
@@ -39291,6 +41811,18 @@
       "total_listings": 179
     },
     {
+      "card_id": 28290,
+      "name": "Empoleon - BW56",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW56",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.15,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 22
+    },
+    {
       "card_id": 38813,
       "name": "Magnemite - 8/12",
       "set_id": 5500193,
@@ -39301,6 +41833,18 @@
       "market_price_usd": 12.15,
       "market_price_as_of": "2026-10-22",
       "total_listings": 75
+    },
+    {
+      "card_id": 28256,
+      "name": "Zekrom - BW24",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW24",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.14,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 30
     },
     {
       "card_id": 795,
@@ -39493,6 +42037,18 @@
       "market_price_usd": 12.04,
       "market_price_as_of": "2026-10-11",
       "total_listings": 161
+    },
+    {
+      "card_id": 37703,
+      "name": "Psychic Energy (2024)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "013",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 12.04,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 8
     },
     {
       "card_id": 33119,
@@ -39759,6 +42315,18 @@
       "total_listings": 125
     },
     {
+      "card_id": 37688,
+      "name": "Professor's Research [Professor Rowan] - 147/172",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "147/172",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.97,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 15
+    },
+    {
       "card_id": 38789,
       "name": "Pignite - 4/12",
       "set_id": 5500164,
@@ -39829,6 +42397,18 @@
       "market_price_usd": 11.95,
       "market_price_as_of": "2026-11-03",
       "total_listings": 157
+    },
+    {
+      "card_id": 34765,
+      "name": "Weepinbell",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "53/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.95,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 130
     },
     {
       "card_id": 20675,
@@ -41715,6 +44295,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 34341,
+      "name": "Lost World",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "81/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.2,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 169
+    },
+    {
       "card_id": 38190,
       "name": "Duraludon VMAX",
       "set_id": 5500197,
@@ -41761,6 +44353,18 @@
       "market_price_usd": 11.19,
       "market_price_as_of": "2026-10-24",
       "total_listings": 13
+    },
+    {
+      "card_id": 34816,
+      "name": "Spiritomb",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "10/102",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.19,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 23
     },
     {
       "card_id": 14604,
@@ -41821,6 +44425,18 @@
       "market_price_usd": 11.13,
       "market_price_as_of": "2026-10-09",
       "total_listings": 34
+    },
+    {
+      "card_id": 30609,
+      "name": "Sawsbuck",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "14/114",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.13,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 109
     },
     {
       "card_id": 35543,
@@ -42027,6 +44643,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 34756,
+      "name": "Golduck",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "22/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.05,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 80
+    },
+    {
       "card_id": 15780,
       "name": "Sandygast - 214/193",
       "set_id": 5500150,
@@ -42061,6 +44689,18 @@
       "market_price_usd": 11.03,
       "market_price_as_of": "2026-11-03",
       "total_listings": 115
+    },
+    {
+      "card_id": 34781,
+      "name": "Magmar",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "42/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.03,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 99
     },
     {
       "card_id": 36225,
@@ -42735,6 +45375,18 @@
       "total_listings": 24
     },
     {
+      "card_id": 34752,
+      "name": "Venonat",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "81/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.78,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 233
+    },
+    {
       "card_id": 4438,
       "name": "Brionne - 40/149 (Cosmos Holo)",
       "set_id": 5500123,
@@ -42963,6 +45615,18 @@
       "total_listings": 175
     },
     {
+      "card_id": 37696,
+      "name": "Water Energy (2024)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "011",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.66,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 6
+    },
+    {
       "card_id": 5686,
       "name": "Slowbro - 043/198",
       "set_id": 5500194,
@@ -43047,6 +45711,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 28261,
+      "name": "Gigalith - 53/98 (Prerelease)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "53/98",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 10.63,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 8
+    },
+    {
       "card_id": 32723,
       "name": "Zorua (69)",
       "set_id": 5500204,
@@ -43093,6 +45769,18 @@
       "market_price_usd": 10.62,
       "market_price_as_of": "2026-10-23",
       "total_listings": 18
+    },
+    {
+      "card_id": 34320,
+      "name": "Croconaw",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "41/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.62,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 157
     },
     {
       "card_id": 6297,
@@ -43899,6 +46587,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 30630,
+      "name": "Zorua",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "70/114",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.31,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 258
+    },
+    {
       "card_id": 1928,
       "name": "Wailord EX - 2015 (Jacob Van Wagner)",
       "set_id": 5500029,
@@ -44127,6 +46827,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 28250,
+      "name": "Tornadus - BW42",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW42",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.22,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 55
+    },
+    {
       "card_id": 35220,
       "name": "Hitmonlee",
       "set_id": 5500053,
@@ -44245,6 +46957,30 @@
       "market_price_usd": 10.18,
       "market_price_as_of": "2026-10-23",
       "total_listings": 10
+    },
+    {
+      "card_id": 34318,
+      "name": "Zangoose",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "39/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.18,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 68
+    },
+    {
+      "card_id": 34359,
+      "name": "Mr. Mime",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "29/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.18,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 57
     },
     {
       "card_id": 14135,
@@ -44511,6 +47247,18 @@
       "total_listings": 153
     },
     {
+      "card_id": 34300,
+      "name": "Mime Jr.",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "47/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.09,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 127
+    },
+    {
       "card_id": 24357,
       "name": "Stakataka GX",
       "set_id": 5500088,
@@ -44739,6 +47487,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 34754,
+      "name": "Unown",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "51/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 48
+    },
+    {
       "card_id": 6279,
       "name": "Empoleon FB - 27/147 (League Promo)",
       "set_id": 5500087,
@@ -44809,6 +47569,18 @@
       "market_price_usd": 9.99,
       "market_price_as_of": "2026-11-02",
       "total_listings": 62
+    },
+    {
+      "card_id": 34747,
+      "name": "Nidoran F",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "69/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.99,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 134
     },
     {
       "card_id": 4197,
@@ -45075,6 +47847,18 @@
       "total_listings": 443
     },
     {
+      "card_id": 34715,
+      "name": "Ponyta",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "72/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.91,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 53
+    },
+    {
       "card_id": 4381,
       "name": "Yveltal (Game Stop)",
       "set_id": 5500123,
@@ -45207,6 +47991,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 28249,
+      "name": "Black Kyurem EX - BW62",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW62",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.87,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 74
+    },
+    {
       "card_id": 26356,
       "name": "M Slowbro EX",
       "set_id": 5500147,
@@ -45229,6 +48025,18 @@
       "market_price_usd": 9.86,
       "market_price_as_of": "2026-10-31",
       "total_listings": 93
+    },
+    {
+      "card_id": 34744,
+      "name": "Swablu",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "78/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.86,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 141
     },
     {
       "card_id": 16473,
@@ -45409,6 +48217,30 @@
       "market_price_usd": 9.81,
       "market_price_as_of": "2026-10-31",
       "total_listings": 30
+    },
+    {
+      "card_id": 34293,
+      "name": "Mareep",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "63/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.81,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 236
+    },
+    {
+      "card_id": 34298,
+      "name": "Pidgeotto",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "48/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.81,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 135
     },
     {
       "card_id": 6800,
@@ -45855,6 +48687,18 @@
       "total_listings": 62
     },
     {
+      "card_id": 30641,
+      "name": "Zoroark",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "71/114",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.67,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 118
+    },
+    {
       "card_id": 31225,
       "name": "Exeggutor",
       "set_id": 5500106,
@@ -45865,6 +48709,18 @@
       "market_price_usd": 9.66,
       "market_price_as_of": "2026-11-01",
       "total_listings": 50
+    },
+    {
+      "card_id": 34731,
+      "name": "Machop",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "67/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.66,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 221
     },
     {
       "card_id": 6610,
@@ -45999,6 +48855,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 37700,
+      "name": "Darkness Energy (2024)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "015",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.6,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 5
+    },
+    {
       "card_id": 19919,
       "name": "Xerneas EX - XY07",
       "set_id": 5500177,
@@ -46059,6 +48927,18 @@
       "total_listings": 313
     },
     {
+      "card_id": 34800,
+      "name": "Nidoqueen",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "28/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.58,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 44
+    },
+    {
       "card_id": 13636,
       "name": "Darmanitan - 098/086",
       "set_id": 5500093,
@@ -46117,6 +48997,18 @@
       "market_price_usd": 9.57,
       "market_price_as_of": "2026-10-09",
       "total_listings": 509
+    },
+    {
+      "card_id": 28257,
+      "name": "Genesect - BW99",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW99",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.57,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 19
     },
     {
       "card_id": 30497,
@@ -46287,6 +49179,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 28282,
+      "name": "Lillipup - BW52",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW52",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.52,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 18
+    },
+    {
       "card_id": 2133455,
       "name": "Mega Lucario ex - 033",
       "set_id": 5500111,
@@ -46345,6 +49249,18 @@
       "market_price_usd": 9.5,
       "market_price_as_of": "2026-10-16",
       "total_listings": 124
+    },
+    {
+      "card_id": 34723,
+      "name": "Kricketot",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "65/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.5,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 78
     },
     {
       "card_id": 35584,
@@ -47019,6 +49935,18 @@
       "total_listings": 88
     },
     {
+      "card_id": 28239,
+      "name": "White Kyurem EX - BW63",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW63",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.3,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 93
+    },
+    {
       "card_id": 17383,
       "name": "Snorlax V",
       "set_id": 5500025,
@@ -47655,6 +50583,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 34366,
+      "name": "Hitmontop",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "8/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.04,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 13
+    },
+    {
       "card_id": 24519,
       "name": "Darkrai GX",
       "set_id": 5500119,
@@ -47773,6 +50713,18 @@
       "market_price_usd": 9.0,
       "market_price_as_of": "2026-11-01",
       "total_listings": 138
+    },
+    {
+      "card_id": 30650,
+      "name": "Zekrom",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "47/114",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.0,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 72
     },
     {
       "card_id": 5193,
@@ -48111,6 +51063,18 @@
       "total_listings": 632
     },
     {
+      "card_id": 34305,
+      "name": "Riolu",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "50/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.9,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 181
+    },
+    {
       "card_id": 4526,
       "name": "Mudkip - 33/160 (Sheen Holo)",
       "set_id": 5500123,
@@ -48397,6 +51361,18 @@
       "market_price_usd": 8.8,
       "market_price_as_of": "2026-10-21",
       "total_listings": 127
+    },
+    {
+      "card_id": 28263,
+      "name": "Kyurem - BW44",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW44",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.8,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 34
     },
     {
       "card_id": 38088,
@@ -49623,6 +52599,18 @@
       "total_listings": 71
     },
     {
+      "card_id": 28226,
+      "name": "Meloetta - BW68",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW68",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 8.45,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 29
+    },
+    {
       "card_id": 37581,
       "name": "Bidoof",
       "set_id": 5500050,
@@ -49669,6 +52657,18 @@
       "market_price_usd": 8.43,
       "market_price_as_of": "2026-10-10",
       "total_listings": 458
+    },
+    {
+      "card_id": 28211,
+      "name": "Zekrom - BW005",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW005",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.43,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 74
     },
     {
       "card_id": 37871,
@@ -50113,6 +53113,18 @@
       "market_price_usd": 8.33,
       "market_price_as_of": "2026-10-23",
       "total_listings": 120
+    },
+    {
+      "card_id": 30642,
+      "name": "Joltik (44)",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "44/114",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.33,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 224
     },
     {
       "card_id": 4193,
@@ -51267,6 +54279,30 @@
       "total_listings": 15
     },
     {
+      "card_id": 34739,
+      "name": "Porygon2",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "49/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 84
+    },
+    {
+      "card_id": 34798,
+      "name": "Magneton",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "43/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 107
+    },
+    {
       "card_id": 1219,
       "name": "Copycat - 2006 (Jimmy Ballard)",
       "set_id": 5500029,
@@ -51555,6 +54591,18 @@
       "total_listings": 176
     },
     {
+      "card_id": 37701,
+      "name": "Metal Energy (2024)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "016",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.93,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
+    },
+    {
       "card_id": 37890,
       "name": "Team Magma's Numel",
       "set_id": 5500187,
@@ -51699,6 +54747,18 @@
       "total_listings": 191
     },
     {
+      "card_id": 34777,
+      "name": "Diglett",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "61/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.89,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 141
+    },
+    {
       "card_id": 45,
       "name": "Snorlax - 2023 (Gabriel Fernandez)",
       "set_id": 5500029,
@@ -51819,6 +54879,18 @@
       "total_listings": 244
     },
     {
+      "card_id": 28219,
+      "name": "Oshawott - BW08",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW08",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.85,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 48
+    },
+    {
       "card_id": 14994,
       "name": "Flaaffy (Secret)",
       "set_id": 5500208,
@@ -51865,6 +54937,18 @@
       "market_price_usd": 7.84,
       "market_price_as_of": "2026-10-23",
       "total_listings": 79
+    },
+    {
+      "card_id": 34808,
+      "name": "Grumpig",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "23/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.84,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 96
     },
     {
       "card_id": 1521,
@@ -52611,6 +55695,18 @@
       "total_listings": 104
     },
     {
+      "card_id": 30625,
+      "name": "Ducklett",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "36/114",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.62,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 363
+    },
+    {
       "card_id": 5961,
       "name": "Hisuian Zoroark VSTAR - 147/196",
       "set_id": 5500194,
@@ -52719,6 +55815,30 @@
       "total_listings": 331
     },
     {
+      "card_id": 34306,
+      "name": "Flaaffy",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "43/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.6,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 134
+    },
+    {
+      "card_id": 34351,
+      "name": "Forretress",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "5/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.6,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 10
+    },
+    {
       "card_id": 20198,
       "name": "Froslass - 174/167",
       "set_id": 5500051,
@@ -52801,6 +55921,18 @@
       "market_price_usd": 7.58,
       "market_price_as_of": "2026-10-23",
       "total_listings": 1
+    },
+    {
+      "card_id": 34324,
+      "name": "Relicanth",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "69/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.57,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 268
     },
     {
       "card_id": 5459,
@@ -53559,6 +56691,18 @@
       "total_listings": 69
     },
     {
+      "card_id": 34738,
+      "name": "Tentacruel",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "50/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.4,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 54
+    },
+    {
       "card_id": 951,
       "name": "Giovanni's Charisma - 161/165 - 2024 (Fernando Cifuentes)",
       "set_id": 5500029,
@@ -53979,6 +57123,18 @@
       "total_listings": 435
     },
     {
+      "card_id": 28251,
+      "name": "Drifblim - BW64",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW64",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.26,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 21
+    },
+    {
       "card_id": 32501,
       "name": "Palpitoad",
       "set_id": 5500207,
@@ -54183,6 +57339,18 @@
       "total_listings": 331
     },
     {
+      "card_id": 30723,
+      "name": "Water Energy",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "107/114",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 7.22,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 44
+    },
+    {
       "card_id": 31491,
       "name": "Milcery",
       "set_id": 5500042,
@@ -54241,6 +57409,18 @@
       "market_price_usd": 7.21,
       "market_price_as_of": "2026-10-20",
       "total_listings": 214
+    },
+    {
+      "card_id": 28243,
+      "name": "Serperior - BW20",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW20",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.21,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 73
     },
     {
       "card_id": 32396,
@@ -54711,6 +57891,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 34323,
+      "name": "Darkness Energy (Special)",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "86/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.09,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 173
+    },
+    {
       "card_id": 38131,
       "name": "Dedenne",
       "set_id": 5500144,
@@ -54817,6 +58009,18 @@
       "market_price_usd": 7.07,
       "market_price_as_of": "2026-10-28",
       "total_listings": 83
+    },
+    {
+      "card_id": 34303,
+      "name": "Quilava",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "49/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.06,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 177
     },
     {
       "card_id": 29512,
@@ -55695,6 +58899,18 @@
       "total_listings": 116
     },
     {
+      "card_id": 34793,
+      "name": "Solrock",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "9/102",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.83,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 15
+    },
+    {
       "card_id": 38231,
       "name": "Piplup - 20/25",
       "set_id": 5500117,
@@ -55813,6 +59029,18 @@
       "market_price_usd": 6.8,
       "market_price_as_of": "2026-10-31",
       "total_listings": 35
+    },
+    {
+      "card_id": 34336,
+      "name": "Meganium",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "27/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.8,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 103
     },
     {
       "card_id": 516,
@@ -56055,6 +59283,18 @@
       "total_listings": 197
     },
     {
+      "card_id": 34721,
+      "name": "Tentacool",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "80/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.76,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 111
+    },
+    {
       "card_id": 37478,
       "name": "Entei GX - 10a/73",
       "set_id": 5500060,
@@ -56269,6 +59509,18 @@
       "market_price_usd": 6.71,
       "market_price_as_of": "2026-10-15",
       "total_listings": 17
+    },
+    {
+      "card_id": 34717,
+      "name": "Luvdisc",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "39/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.7,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 83
     },
     {
       "card_id": 38071,
@@ -56835,6 +60087,30 @@
       "total_listings": 92
     },
     {
+      "card_id": 34313,
+      "name": "Phanpy",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "66/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.59,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 311
+    },
+    {
+      "card_id": 34790,
+      "name": "Drapion",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "4/102",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.59,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 31
+    },
+    {
       "card_id": 6539,
       "name": "Avalugg - 31/106 (Pokemon League) [3rd Place]",
       "set_id": 5500087,
@@ -57111,6 +60387,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 37693,
+      "name": "Grass Energy (2024)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "009",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.54,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 6
+    },
+    {
       "card_id": 4517,
       "name": "Rockruff - SM06 (General Mills Promo)",
       "set_id": 5500123,
@@ -57289,6 +60577,18 @@
       "market_price_usd": 6.5,
       "market_price_as_of": "2026-10-28",
       "total_listings": 263
+    },
+    {
+      "card_id": 34740,
+      "name": "Lickilicky",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "38/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.5,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 96
     },
     {
       "card_id": 13588,
@@ -57699,6 +60999,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 34735,
+      "name": "Black Belt",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "85/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.43,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 194
+    },
+    {
       "card_id": 32428,
       "name": "Volcarona",
       "set_id": 5500189,
@@ -57927,6 +61239,18 @@
       "total_listings": 227
     },
     {
+      "card_id": 28229,
+      "name": "Zoroark - BW09",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW09",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.37,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 43
+    },
+    {
       "card_id": 29652,
       "name": "Charizard - 3/70 (#39 Charizard Stamped)",
       "set_id": 5500131,
@@ -57949,6 +61273,18 @@
       "market_price_usd": 6.36,
       "market_price_as_of": "2026-11-01",
       "total_listings": 84
+    },
+    {
+      "card_id": 34360,
+      "name": "Weezing",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "38/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.36,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 79
     },
     {
       "card_id": 36969,
@@ -58083,6 +61419,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 34806,
+      "name": "Lairon",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "37/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.34,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 143
+    },
+    {
       "card_id": 5793,
       "name": "Latias - 193/264",
       "set_id": 5500194,
@@ -58189,6 +61537,18 @@
       "market_price_usd": 6.32,
       "market_price_as_of": "2026-10-25",
       "total_listings": 161
+    },
+    {
+      "card_id": 30672,
+      "name": "Cinccino",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "89/114",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.32,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 105
     },
     {
       "card_id": 31417,
@@ -58321,6 +61681,18 @@
       "market_price_usd": 6.29,
       "market_price_as_of": "2026-10-12",
       "total_listings": 139
+    },
+    {
+      "card_id": 30628,
+      "name": "Oshawott (28)",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "28/114",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.29,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 143
     },
     {
       "card_id": 33053,
@@ -58597,6 +61969,18 @@
       "market_price_usd": 6.23,
       "market_price_as_of": "2026-10-26",
       "total_listings": 305
+    },
+    {
+      "card_id": 34751,
+      "name": "Nidorina",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "45/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.23,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 74
     },
     {
       "card_id": 37888,
@@ -59103,6 +62487,18 @@
       "total_listings": 208
     },
     {
+      "card_id": 37687,
+      "name": "Lightning Energy (2024)",
+      "set_id": 5500026,
+      "set_name": "Professor Program Promos",
+      "number": "012",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 6.15,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 9
+    },
+    {
       "card_id": 38062,
       "name": "Wobbuffet",
       "set_id": 5500133,
@@ -59173,6 +62569,18 @@
       "market_price_usd": 6.14,
       "market_price_as_of": "2026-10-23",
       "total_listings": 101
+    },
+    {
+      "card_id": 28247,
+      "name": "Scraggy - BW25 (Cosmos Holo)",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW25",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.14,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 18
     },
     {
       "card_id": 38068,
@@ -59439,6 +62847,18 @@
       "total_listings": 150
     },
     {
+      "card_id": 34309,
+      "name": "Koffing",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "60/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.1,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 217
+    },
+    {
       "card_id": 37149,
       "name": "Latios (#30 Holo)",
       "set_id": 5500121,
@@ -59473,6 +62893,18 @@
       "market_price_usd": 6.09,
       "market_price_as_of": "2026-10-23",
       "total_listings": 115
+    },
+    {
+      "card_id": 30643,
+      "name": "Krookodile",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "65/114",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.09,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 111
     },
     {
       "card_id": 38330,
@@ -59545,6 +62977,18 @@
       "market_price_usd": 6.08,
       "market_price_as_of": "2026-10-22",
       "total_listings": 41
+    },
+    {
+      "card_id": 28214,
+      "name": "Kyurem EX - BW37",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW37",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 6.08,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 109
     },
     {
       "card_id": 8132,
@@ -60063,6 +63507,18 @@
       "total_listings": 516
     },
     {
+      "card_id": 34728,
+      "name": "Lickitung",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "66/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 122
+    },
+    {
       "card_id": 38746,
       "name": "Torchic - 2/12",
       "set_id": 5500002,
@@ -60291,6 +63747,18 @@
       "total_listings": 120
     },
     {
+      "card_id": 30612,
+      "name": "Oshawott (27)",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "27/114",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.97,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 280
+    },
+    {
       "card_id": 32770,
       "name": "Pawniard",
       "set_id": 5500204,
@@ -60301,6 +63769,18 @@
       "market_price_usd": 5.97,
       "market_price_as_of": "2026-11-02",
       "total_listings": 137
+    },
+    {
+      "card_id": 34291,
+      "name": "Houndour",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "59/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.97,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 149
     },
     {
       "card_id": 4058,
@@ -60337,6 +63817,18 @@
       "market_price_usd": 5.96,
       "market_price_as_of": "2026-10-15",
       "total_listings": 128
+    },
+    {
+      "card_id": 34375,
+      "name": "Tyrogue",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "36/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.96,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 99
     },
     {
       "card_id": 7021,
@@ -60661,6 +64153,18 @@
       "market_price_usd": 5.89,
       "market_price_as_of": "2026-11-01",
       "total_listings": 105
+    },
+    {
+      "card_id": 34779,
+      "name": "Victreebel",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "12/102",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.89,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 23
     },
     {
       "card_id": 38225,
@@ -61719,6 +65223,30 @@
       "total_listings": 52
     },
     {
+      "card_id": 28241,
+      "name": "Emboar - BW21",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW21",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.71,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 77
+    },
+    {
+      "card_id": 34295,
+      "name": "Interviewer's Questions",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "79/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.71,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 308
+    },
+    {
       "card_id": 100018069,
       "name": "Solgaleo GX",
       "set_id": 5500238,
@@ -62115,6 +65643,18 @@
       "total_listings": 124
     },
     {
+      "card_id": 30634,
+      "name": "Scolipede",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "54/114",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.63,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 188
+    },
+    {
       "card_id": 1393,
       "name": "Nidoqueen - 2005 (Jeremy Maron)",
       "set_id": 5500029,
@@ -62331,6 +65871,18 @@
       "total_listings": 357
     },
     {
+      "card_id": 34805,
+      "name": "Venomoth",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "11/102",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.6,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 18
+    },
+    {
       "card_id": 2133467,
       "name": "Popplio - 045",
       "set_id": 5500111,
@@ -62413,6 +65965,18 @@
       "market_price_usd": 5.58,
       "market_price_as_of": "2026-10-26",
       "total_listings": 254
+    },
+    {
+      "card_id": 28221,
+      "name": "Reshiram - BW004",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW004",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.58,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 63
     },
     {
       "card_id": 28702,
@@ -62545,6 +66109,18 @@
       "market_price_usd": 5.56,
       "market_price_as_of": "2026-11-03",
       "total_listings": 59
+    },
+    {
+      "card_id": 34814,
+      "name": "Dugtrio",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "19/102",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.56,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 42
     },
     {
       "card_id": 36981,
@@ -62967,6 +66543,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 30620,
+      "name": "Serperior (5)",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "5/114",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.49,
+      "market_price_as_of": "2026-11-03",
+      "total_listings": 135
+    },
+    {
       "card_id": 32173,
       "name": "Ninetales EX",
       "set_id": 5500089,
@@ -63097,6 +66685,18 @@
       "market_price_usd": 5.47,
       "market_price_as_of": "2026-11-01",
       "total_listings": 40
+    },
+    {
+      "card_id": 34748,
+      "name": "Bellsprout",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "57/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.47,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 202
     },
     {
       "card_id": 18226,
@@ -64503,6 +68103,18 @@
       "total_listings": 88
     },
     {
+      "card_id": 34718,
+      "name": "Aipom",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "55/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.27,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 162
+    },
+    {
       "card_id": 1903,
       "name": "Yveltal - 2016 (Shunto Sadahiro)",
       "set_id": 5500029,
@@ -65283,6 +68895,18 @@
       "total_listings": 288
     },
     {
+      "card_id": 34763,
+      "name": "Electrode",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "34/102",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.14,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 139
+    },
+    {
       "card_id": 504,
       "name": "Zeraora GX - 2019 (Haruki Miyamoto)",
       "set_id": 5500029,
@@ -66039,6 +69663,18 @@
       "total_listings": 158
     },
     {
+      "card_id": 30654,
+      "name": "Snivy (2)",
+      "set_id": 5500115,
+      "set_name": "Black and White",
+      "number": "2/114",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.03,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 221
+    },
+    {
       "card_id": 30812,
       "name": "Deino (93)",
       "set_id": 5500184,
@@ -66243,6 +69879,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 28217,
+      "name": "Thundurus EX (Team Plasma) - BW81",
+      "set_id": 5500091,
+      "set_name": "Black and White Promos",
+      "number": "BW81",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 127
+    },
+    {
       "card_id": 6069,
       "name": "Starmie V - 030/189",
       "set_id": 5500194,
@@ -66373,6 +70021,30 @@
       "market_price_usd": 5.0,
       "market_price_as_of": "2026-11-01",
       "total_listings": 102
+    },
+    {
+      "card_id": 34326,
+      "name": "Pineco",
+      "set_id": 5500102,
+      "set_name": "Call of Legends",
+      "number": "68/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 324
+    },
+    {
+      "card_id": 34770,
+      "name": "Voltorb",
+      "set_id": 5500078,
+      "set_name": "Triumphant",
+      "number": "83/102",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-11-04",
+      "total_listings": 220
     },
     {
       "card_id": 37016,
