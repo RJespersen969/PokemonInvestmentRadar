@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-05T08:32:19.302876+00:00",
+  "generated_at": "2026-11-06T08:29:42.017996+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 149,
+  "next_set_index": 154,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 6,
-  "total_candidates": 6103,
-  "cards_with_price_history": 22473,
+  "api_calls": 8,
+  "total_candidates": 6385,
+  "cards_with_price_history": 22904,
   "candidates": [
     {
       "card_id": 20118,
@@ -363,6 +363,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 31838,
+      "name": "Arceus Lv.X (95)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "95/99",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 186.25,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 20
+    },
+    {
       "card_id": 37476,
       "name": "Rayquaza GX - 177a/168",
       "set_id": 5500060,
@@ -457,6 +469,18 @@
       "market_price_usd": 182.16,
       "market_price_as_of": "2026-10-15",
       "total_listings": 118
+    },
+    {
+      "card_id": 27559,
+      "name": "Blaziken FB Lv.X",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "142",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 181.72,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 28
     },
     {
       "card_id": 780,
@@ -999,6 +1023,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 236651,
+      "name": "Shinx (Shiny)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "SH12",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 165.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 23
+    },
+    {
       "card_id": 31953,
       "name": "Hydreigon",
       "set_id": 5500176,
@@ -1035,6 +1071,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 37819,
+      "name": "Electivire - 20/102 (Prerelease) [Staff]",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "20/102",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 164.33,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 1
+    },
+    {
       "card_id": 36174,
       "name": "Raichu (Prime)",
       "set_id": 5500137,
@@ -1069,6 +1117,18 @@
       "market_price_usd": 163.45,
       "market_price_as_of": "2026-10-15",
       "total_listings": 4
+    },
+    {
+      "card_id": 38703,
+      "name": "Starmie",
+      "set_id": 5500142,
+      "set_name": "Rumble",
+      "number": "5",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 163.32,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 11
     },
     {
       "card_id": 33154,
@@ -1201,6 +1261,18 @@
       "market_price_usd": 160.12,
       "market_price_as_of": "2026-11-03",
       "total_listings": 17
+    },
+    {
+      "card_id": 37817,
+      "name": "Blastoise - 13/95 (Prerelease)",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "13/95",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 159.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 3
     },
     {
       "card_id": 28770,
@@ -1539,6 +1611,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 37820,
+      "name": "Leafeon - 17/90 (Prerelease)",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "17/90",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 149.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 22
+    },
+    {
       "card_id": 38754,
       "name": "Magikarp - 4/12",
       "set_id": 5500002,
@@ -1597,6 +1681,18 @@
       "market_price_usd": 149.04,
       "market_price_as_of": "2026-10-27",
       "total_listings": 4
+    },
+    {
+      "card_id": 27438,
+      "name": "Bulbasaur",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "93",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 149.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 159
     },
     {
       "card_id": 30862,
@@ -2031,6 +2127,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 27485,
+      "name": "Lucario C",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "31",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 140.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 36
+    },
+    {
       "card_id": 6638,
       "name": "Double Colorless Energy - 90/108 (North America Championships) [Staff]",
       "set_id": 5500087,
@@ -2307,6 +2415,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 31842,
+      "name": "Salamence Lv.X",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "98/99",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 135.19,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 16
+    },
+    {
       "card_id": 37706,
       "name": "Prof. Oak's Research (2004-2005)",
       "set_id": 5500026,
@@ -2521,6 +2641,18 @@
       "market_price_usd": 129.5,
       "market_price_as_of": "2026-10-31",
       "total_listings": 47
+    },
+    {
+      "card_id": 38707,
+      "name": "Diglett",
+      "set_id": 5500142,
+      "set_name": "Rumble",
+      "number": "11",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 129.46,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 9
     },
     {
       "card_id": 4461,
@@ -2751,6 +2883,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 27461,
+      "name": "Dragonite FB",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "56",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 125.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 55
+    },
+    {
       "card_id": 28327,
       "name": "Darmanitan - 25/114 (Prerelease) [Staff]",
       "set_id": 5500091,
@@ -2895,6 +3039,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 31615,
+      "name": "Luxray GL Lv.X",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "109/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 123.44,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 1
+    },
+    {
       "card_id": 36280,
       "name": "Ultra Necrozma GX (Secret)",
       "set_id": 5500049,
@@ -2929,6 +3085,18 @@
       "market_price_usd": 123.22,
       "market_price_as_of": "2026-11-04",
       "total_listings": 0
+    },
+    {
+      "card_id": 37803,
+      "name": "Ho-Oh - HGSS01",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS01",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 123.13,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 25
     },
     {
       "card_id": 6007,
@@ -3063,6 +3231,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 31855,
+      "name": "Bagon (Shiny)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "SH10",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 120.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 14
+    },
+    {
       "card_id": 38451,
       "name": "Pikachu (Italian)",
       "set_id": 5500075,
@@ -3121,6 +3301,18 @@
       "market_price_usd": 119.95,
       "market_price_as_of": "2026-02-16",
       "total_listings": 1
+    },
+    {
+      "card_id": 27568,
+      "name": "Relicanth (Shiny)",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "SH8",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 119.94,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 10
     },
     {
       "card_id": 19553,
@@ -3279,6 +3471,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 38702,
+      "name": "Rattata",
+      "set_id": 5500142,
+      "set_name": "Rumble",
+      "number": "15",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 117.58,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 7
+    },
+    {
       "card_id": 38444,
       "name": "Pikachu (Portuguese)",
       "set_id": 5500075,
@@ -3339,6 +3543,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 27462,
+      "name": "Absol G Lv.X",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "141",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 116.85,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 17
+    },
+    {
       "card_id": 6615,
       "name": "Garchomp - 5/147 (Championship Promo)",
       "set_id": 5500087,
@@ -3385,6 +3601,30 @@
       "market_price_usd": 116.36,
       "market_price_as_of": "2026-10-26",
       "total_listings": 70
+    },
+    {
+      "card_id": 31603,
+      "name": "Gallade E4 Lv.X",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "106/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 116.35,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 3
+    },
+    {
+      "card_id": 37805,
+      "name": "Latios - HGSS11 (Cosmos Holo)",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS11",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 116.14,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 15
     },
     {
       "card_id": 26984,
@@ -3601,6 +3841,18 @@
       "market_price_usd": 112.85,
       "market_price_as_of": "2026-10-15",
       "total_listings": 1
+    },
+    {
+      "card_id": 31756,
+      "name": "Charizard",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "1/99",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 112.73,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 46
     },
     {
       "card_id": 14635,
@@ -4083,6 +4335,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 31809,
+      "name": "Arceus Lv.X (94)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "94/99",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 104.4,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 20
+    },
+    {
       "card_id": 6370,
       "name": "Judge - 78/95 (League Promo)",
       "set_id": 5500087,
@@ -4119,6 +4383,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 37812,
+      "name": "Minun - HGSS17",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS17",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 103.29,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 37
+    },
+    {
       "card_id": 38130,
       "name": "Pikachu VMAX",
       "set_id": 5500130,
@@ -4141,6 +4417,30 @@
       "market_price_usd": 103.19,
       "market_price_as_of": "2026-10-27",
       "total_listings": 15
+    },
+    {
+      "card_id": 27513,
+      "name": "Garchomp",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "5",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 103.18,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 27
+    },
+    {
+      "card_id": 38706,
+      "name": "Cherrim",
+      "set_id": 5500142,
+      "set_name": "Rumble",
+      "number": "2",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 102.98,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 10
     },
     {
       "card_id": 4701,
@@ -4455,6 +4755,42 @@
       "total_listings": 1
     },
     {
+      "card_id": 27448,
+      "name": "Magikarp",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 100.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 86
+    },
+    {
+      "card_id": 31618,
+      "name": "Flygon Lv.X",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "105/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 100.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 4
+    },
+    {
+      "card_id": 31623,
+      "name": "Floatzel GL Lv.X",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "104/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 100.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 7
+    },
+    {
       "card_id": 38441,
       "name": "Pikachu (Polish)",
       "set_id": 5500075,
@@ -4683,6 +5019,18 @@
       "total_listings": 74
     },
     {
+      "card_id": 31748,
+      "name": "Pikachu",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "71/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 99.25,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 102
+    },
+    {
       "card_id": 14201,
       "name": "Kangaskhan - SWSH038 (Prerelease) [Staff]",
       "set_id": 5500149,
@@ -4753,6 +5101,18 @@
       "market_price_usd": 98.77,
       "market_price_as_of": "2026-10-21",
       "total_listings": 14
+    },
+    {
+      "card_id": 38714,
+      "name": "Heatran",
+      "set_id": 5500142,
+      "set_name": "Rumble",
+      "number": "4",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 98.48,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 16
     },
     {
       "card_id": 4427,
@@ -4851,6 +5211,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 31552,
+      "name": "Darkrai G",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "3/111",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 97.18,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 43
+    },
+    {
       "card_id": 15660,
       "name": "Raichu - 211/193",
       "set_id": 5500150,
@@ -4945,6 +5317,18 @@
       "market_price_usd": 96.37,
       "market_price_as_of": "2026-10-28",
       "total_listings": 81
+    },
+    {
+      "card_id": 31751,
+      "name": "Charmander",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "59/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 96.35,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 200
     },
     {
       "card_id": 36756,
@@ -5211,6 +5595,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 27491,
+      "name": "Charizard G",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "20",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 93.81,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 49
+    },
+    {
       "card_id": 19896,
       "name": "Palkia (Full Art Promo)",
       "set_id": 5500177,
@@ -5245,6 +5641,30 @@
       "market_price_usd": 93.46,
       "market_price_as_of": "2026-10-31",
       "total_listings": 25
+    },
+    {
+      "card_id": 31621,
+      "name": "Mismagius GL Lv.X",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "110/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 93.31,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 23
+    },
+    {
+      "card_id": 38701,
+      "name": "Bibarel",
+      "set_id": 5500142,
+      "set_name": "Rumble",
+      "number": "16",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 93.15,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 14
     },
     {
       "card_id": 38806,
@@ -5475,6 +5895,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 31545,
+      "name": "Arcanine",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "1/111",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 91.38,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 42
+    },
+    {
       "card_id": 19944,
       "name": "M Blaziken EX",
       "set_id": 5500177,
@@ -5607,6 +6039,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 31622,
+      "name": "Hippowdon Lv.X",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "107/111",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 90.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 8
+    },
+    {
       "card_id": 37705,
       "name": "Professor Rowan (2007)",
       "set_id": 5500026,
@@ -5629,6 +6073,30 @@
       "market_price_usd": 90.0,
       "market_price_as_of": "2026-10-24",
       "total_listings": 11
+    },
+    {
+      "card_id": 38712,
+      "name": "Skuntank",
+      "set_id": 5500142,
+      "set_name": "Rumble",
+      "number": "13",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 89.98,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 15
+    },
+    {
+      "card_id": 38710,
+      "name": "Bastiodon",
+      "set_id": 5500142,
+      "set_name": "Rumble",
+      "number": "14",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 89.97,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 10
     },
     {
       "card_id": 36131,
@@ -5787,6 +6255,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 31510,
+      "name": "Gengar GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "40/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 88.48,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 84
+    },
+    {
       "card_id": 16652,
       "name": "Mega Lopunny & Jigglypuff GX (Secret)",
       "set_id": 5500206,
@@ -5857,6 +6337,18 @@
       "market_price_usd": 87.84,
       "market_price_as_of": "2026-10-28",
       "total_listings": 126
+    },
+    {
+      "card_id": 37793,
+      "name": "Entei - HGSS20",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS20",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 87.06,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 43
     },
     {
       "card_id": 19777,
@@ -6279,6 +6771,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 37797,
+      "name": "Feraligatr (Prime) - HGSS07",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS07",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 82.83,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 28
+    },
+    {
       "card_id": 21878,
       "name": "Zapdos ex - 202/165",
       "set_id": 5500171,
@@ -6481,6 +6985,18 @@
       "market_price_usd": 80.99,
       "market_price_as_of": "2026-11-05",
       "total_listings": 32
+    },
+    {
+      "card_id": 37795,
+      "name": "Typhlosion (Prime) - HGSS09",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS09",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 80.92,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 43
     },
     {
       "card_id": 28323,
@@ -6711,6 +7227,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 31515,
+      "name": "Turtwig GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "85/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 79.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 94
+    },
+    {
       "card_id": 35645,
       "name": "Squirtle",
       "set_id": 5500167,
@@ -6853,6 +7381,18 @@
       "market_price_usd": 78.46,
       "market_price_as_of": "2026-10-31",
       "total_listings": 80
+    },
+    {
+      "card_id": 31570,
+      "name": "Snorlax (33)",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "33/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 78.39,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 31
     },
     {
       "card_id": 6186,
@@ -7261,6 +7801,18 @@
       "market_price_usd": 75.0,
       "market_price_as_of": "2026-10-14",
       "total_listings": 0
+    },
+    {
+      "card_id": 27587,
+      "name": "Yanma (Shiny)",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "SH9",
+      "rarity": "Shiny Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 74.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 10
     },
     {
       "card_id": 34388,
@@ -8127,6 +8679,18 @@
       "total_listings": 51
     },
     {
+      "card_id": 37792,
+      "name": "Suicune - HGSS21",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS21",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 69.56,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 40
+    },
+    {
       "card_id": 19979,
       "name": "M Swampert EX",
       "set_id": 5500177,
@@ -8679,6 +9243,18 @@
       "total_listings": 132
     },
     {
+      "card_id": 27511,
+      "name": "Swampert",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "12",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 65.99,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 60
+    },
+    {
       "card_id": 6325,
       "name": "Professor Elm's Lecture - 188/214 (Regional Championships)",
       "set_id": 5500087,
@@ -8713,6 +9289,18 @@
       "market_price_usd": 65.93,
       "market_price_as_of": "2026-10-18",
       "total_listings": 83
+    },
+    {
+      "card_id": 31802,
+      "name": "Arceus (AR1)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "AR1",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 65.89,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 36
     },
     {
       "card_id": 16710,
@@ -9411,6 +9999,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 31507,
+      "name": "Snorlax (81)",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "81/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 62.67,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 116
+    },
+    {
       "card_id": 31299,
       "name": "Darkness Energy (Basic)",
       "set_id": 5500037,
@@ -9493,6 +10093,18 @@
       "market_price_usd": 62.13,
       "market_price_as_of": "2026-10-09",
       "total_listings": 89
+    },
+    {
+      "card_id": 37808,
+      "name": "Latias - HGSS10 (Cosmos Holo)",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS10",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 61.96,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 35
     },
     {
       "card_id": 19927,
@@ -9709,6 +10321,18 @@
       "market_price_usd": 61.1,
       "market_price_as_of": "2026-10-23",
       "total_listings": 46
+    },
+    {
+      "card_id": 37794,
+      "name": "Raikou - HGSS19",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS19",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 61.1,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 39
     },
     {
       "card_id": 22350,
@@ -9951,6 +10575,30 @@
       "total_listings": 1
     },
     {
+      "card_id": 31503,
+      "name": "Munchlax (69)",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "69/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 60.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 89
+    },
+    {
+      "card_id": 31511,
+      "name": "Flareon E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "60/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 60.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 94
+    },
+    {
       "card_id": 15534,
       "name": "Yveltal - XY06",
       "set_id": 5500069,
@@ -9997,6 +10645,18 @@
       "market_price_usd": 59.88,
       "market_price_as_of": "2026-10-31",
       "total_listings": 76
+    },
+    {
+      "card_id": 27482,
+      "name": "Electivire FB Lv.X",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "144",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 59.88,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 28
     },
     {
       "card_id": 4645,
@@ -10059,6 +10719,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 31803,
+      "name": "Arceus (AR4)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "AR4",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 59.66,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 51
+    },
+    {
       "card_id": 4194,
       "name": "Meowth - 56/64 (Gold Bordered Promo)",
       "set_id": 5500123,
@@ -10105,6 +10777,18 @@
       "market_price_usd": 59.51,
       "market_price_as_of": "2026-11-04",
       "total_listings": 9
+    },
+    {
+      "card_id": 27439,
+      "name": "Mudkip",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "116",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 59.5,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 126
     },
     {
       "card_id": 15523,
@@ -10165,6 +10849,18 @@
       "market_price_usd": 59.15,
       "market_price_as_of": "2026-10-15",
       "total_listings": 15
+    },
+    {
+      "card_id": 31814,
+      "name": "Tangrowth Lv.X",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "99/99",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 59.13,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 16
     },
     {
       "card_id": 26143,
@@ -10249,6 +10945,18 @@
       "market_price_usd": 58.81,
       "market_price_as_of": "2026-10-26",
       "total_listings": 8
+    },
+    {
+      "card_id": 31542,
+      "name": "Jirachi",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "7/111",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 58.81,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 17
     },
     {
       "card_id": 18499,
@@ -10357,6 +11065,30 @@
       "market_price_usd": 58.43,
       "market_price_as_of": "2026-11-04",
       "total_listings": 13
+    },
+    {
+      "card_id": 37791,
+      "name": "Pikachu - HGSS03",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS03",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 58.43,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 99
+    },
+    {
+      "card_id": 31556,
+      "name": "Raichu GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "31/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 58.39,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 47
     },
     {
       "card_id": 34315,
@@ -10647,6 +11379,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 27507,
+      "name": "Staraptor FB Lv.X",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "147",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 57.24,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 16
+    },
+    {
       "card_id": 36080,
       "name": "Glaceon GX",
       "set_id": 5500083,
@@ -10839,6 +11583,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 27477,
+      "name": "Absol G",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "1",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 56.2,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 54
+    },
+    {
       "card_id": 36725,
       "name": "Suicune V",
       "set_id": 5500218,
@@ -10863,6 +11619,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 31780,
+      "name": "Arceus (AR7)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "AR7",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 55.92,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 21
+    },
+    {
       "card_id": 35693,
       "name": "Lanturn (Prime)",
       "set_id": 5500167,
@@ -10873,6 +11641,18 @@
       "market_price_usd": 55.92,
       "market_price_as_of": "2026-11-05",
       "total_listings": 27
+    },
+    {
+      "card_id": 27457,
+      "name": "Garchomp C",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "60",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 55.83,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 62
     },
     {
       "card_id": 13743,
@@ -11053,6 +11833,18 @@
       "market_price_usd": 55.0,
       "market_price_as_of": "2026-11-03",
       "total_listings": 27
+    },
+    {
+      "card_id": 31799,
+      "name": "Arceus (AR5)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "AR5",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 32
     },
     {
       "card_id": 6729,
@@ -11295,6 +12087,18 @@
       "total_listings": 41
     },
     {
+      "card_id": 37818,
+      "name": "Electivire - 20/102 (Prerelease)",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "20/102",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 54.2,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 18
+    },
+    {
       "card_id": 12898,
       "name": "Blastoise - 14/100 (EX Crystal Guardians)",
       "set_id": 5500101,
@@ -11497,6 +12301,18 @@
       "market_price_usd": 53.24,
       "market_price_as_of": "2026-10-26",
       "total_listings": 141
+    },
+    {
+      "card_id": 37813,
+      "name": "Plusle - HGSS16",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS16",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 53.24,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 18
     },
     {
       "card_id": 23562,
@@ -11895,6 +12711,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 27437,
+      "name": "Pikachu",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "120",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 51.66,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 97
+    },
+    {
       "card_id": 31260,
       "name": "Growlithe",
       "set_id": 5500037,
@@ -11977,6 +12805,18 @@
       "market_price_usd": 51.41,
       "market_price_as_of": "2026-10-22",
       "total_listings": 190
+    },
+    {
+      "card_id": 27510,
+      "name": "Plusle",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "76",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 51.33,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 44
     },
     {
       "card_id": 36301,
@@ -12133,6 +12973,18 @@
       "market_price_usd": 50.99,
       "market_price_as_of": "2026-11-04",
       "total_listings": 5
+    },
+    {
+      "card_id": 37796,
+      "name": "Meganium (Prime) - HGSS08",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS08",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 50.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 17
     },
     {
       "card_id": 19728,
@@ -12447,6 +13299,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 31785,
+      "name": "Arceus (AR2)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "AR2",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 49.78,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 31
+    },
+    {
       "card_id": 13683,
       "name": "Dwebble - 129/086",
       "set_id": 5500093,
@@ -12543,6 +13407,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 31612,
+      "name": "Wash Rotom",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "RT5",
+      "rarity": "Ultra Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 49.42,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 25
+    },
+    {
       "card_id": 4706,
       "name": "Snubbull - 90/149 (Build-A-Bear Workshop Exclusive)",
       "set_id": 5500123,
@@ -12577,6 +13453,30 @@
       "market_price_usd": 49.3,
       "market_price_as_of": "2026-10-10",
       "total_listings": 79
+    },
+    {
+      "card_id": 31604,
+      "name": "Frost Rotom",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "RT2",
+      "rarity": "Ultra Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 49.29,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 16
+    },
+    {
+      "card_id": 27517,
+      "name": "Venusaur",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "13",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 49.18,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 71
     },
     {
       "card_id": 2300437,
@@ -12637,6 +13537,18 @@
       "market_price_usd": 49.0,
       "market_price_as_of": "2026-11-05",
       "total_listings": 52
+    },
+    {
+      "card_id": 31509,
+      "name": "Glaceon",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "41/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 49.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 101
     },
     {
       "card_id": 6659,
@@ -12865,6 +13777,18 @@
       "market_price_usd": 48.29,
       "market_price_as_of": "2026-10-31",
       "total_listings": 79
+    },
+    {
+      "card_id": 31611,
+      "name": "Mow Rotom",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "RT4",
+      "rarity": "Ultra Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 48.29,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 16
     },
     {
       "card_id": 6708,
@@ -13275,6 +14199,18 @@
       "total_listings": 80
     },
     {
+      "card_id": 27443,
+      "name": "Marshtomp",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "67",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 47.21,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 81
+    },
+    {
       "card_id": 14596,
       "name": "Ash's Pikachu - SM114",
       "set_id": 5500076,
@@ -13515,6 +14451,18 @@
       "total_listings": 183
     },
     {
+      "card_id": 31784,
+      "name": "Arceus (AR9)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "AR9",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 46.68,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 41
+    },
+    {
       "card_id": 17840,
       "name": "Gyarados VMAX (Secret)",
       "set_id": 5500048,
@@ -13621,6 +14569,18 @@
       "market_price_usd": 46.11,
       "market_price_as_of": "2026-10-28",
       "total_listings": 187
+    },
+    {
+      "card_id": 27487,
+      "name": "Milotic C",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "35",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 46.03,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 50
     },
     {
       "card_id": 26897,
@@ -14823,6 +15783,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 27469,
+      "name": "Blaziken FB",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "2",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 42.88,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 48
+    },
+    {
       "card_id": 20756,
       "name": "Deerling - 165/162",
       "set_id": 5500066,
@@ -14919,6 +15891,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 31551,
+      "name": "Flareon",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "19/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 42.5,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 45
+    },
+    {
       "card_id": 35652,
       "name": "Vulpix",
       "set_id": 5500167,
@@ -15013,6 +15997,18 @@
       "market_price_usd": 42.32,
       "market_price_as_of": "2026-10-15",
       "total_listings": 10
+    },
+    {
+      "card_id": 37810,
+      "name": "Shuckle - HGSS15",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS15",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 42.28,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 43
     },
     {
       "card_id": 100018021,
@@ -15591,6 +16587,18 @@
       "total_listings": 141
     },
     {
+      "card_id": 37816,
+      "name": "Cleffa - HGSS12",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS12",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 40.82,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 10
+    },
+    {
       "card_id": 30564,
       "name": "Steven (Full Art)",
       "set_id": 5500196,
@@ -15685,6 +16693,18 @@
       "market_price_usd": 40.51,
       "market_price_as_of": "2026-10-30",
       "total_listings": 151
+    },
+    {
+      "card_id": 31506,
+      "name": "Munchlax (70)",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "70/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.49,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 102
     },
     {
       "card_id": 14612,
@@ -15805,6 +16825,30 @@
       "market_price_usd": 40.31,
       "market_price_as_of": "2026-11-05",
       "total_listings": 45
+    },
+    {
+      "card_id": 27456,
+      "name": "Piplup",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "121",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.3,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 76
+    },
+    {
+      "card_id": 31754,
+      "name": "Snorunt",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "75/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.3,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 64
     },
     {
       "card_id": 2119578,
@@ -16287,6 +17331,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 31524,
+      "name": "Jolteon",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "26/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 39.78,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 28
+    },
+    {
       "card_id": 6362,
       "name": "Team Rocket's Giovanni (Regional Championships)",
       "set_id": 5500087,
@@ -16515,6 +17571,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 27518,
+      "name": "Arcanine G",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "15",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 39.23,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 60
+    },
+    {
       "card_id": 27319,
       "name": "Fossil Researcher (110 Full Art)",
       "set_id": 5500027,
@@ -16693,6 +17761,18 @@
       "market_price_usd": 39.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 10
+    },
+    {
+      "card_id": 31851,
+      "name": "Arceus Lv.X (96)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "96/99",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 11
     },
     {
       "card_id": 36692,
@@ -17115,6 +18195,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 31757,
+      "name": "Arceus (AR3)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "AR3",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.16,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 61
+    },
+    {
       "card_id": 17221,
       "name": "Ditto",
       "set_id": 5500030,
@@ -17269,6 +18361,18 @@
       "market_price_usd": 37.9,
       "market_price_as_of": "2026-10-13",
       "total_listings": 271
+    },
+    {
+      "card_id": 31590,
+      "name": "Fan Rotom",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "RT1",
+      "rarity": "Ultra Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.9,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 8
     },
     {
       "card_id": 23684,
@@ -17437,6 +18541,18 @@
       "market_price_usd": 37.47,
       "market_price_as_of": "2026-10-11",
       "total_listings": 99
+    },
+    {
+      "card_id": 31532,
+      "name": "Spheal",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "82/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.33,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 58
     },
     {
       "card_id": 31866,
@@ -17703,6 +18819,18 @@
       "total_listings": 105
     },
     {
+      "card_id": 31513,
+      "name": "Alakazam E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "38/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.65,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 116
+    },
+    {
       "card_id": 36199,
       "name": "Vileplume",
       "set_id": 5500137,
@@ -17737,6 +18865,18 @@
       "market_price_usd": 36.55,
       "market_price_as_of": "2026-10-18",
       "total_listings": 72
+    },
+    {
+      "card_id": 31790,
+      "name": "Zapdos G",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "12/99",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.49,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 49
     },
     {
       "card_id": 20797,
@@ -17883,6 +19023,30 @@
       "total_listings": 157
     },
     {
+      "card_id": 31796,
+      "name": "Arceus (AR8)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "AR8",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.27,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 41
+    },
+    {
+      "card_id": 31520,
+      "name": "Shellos East Sea",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "79/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.26,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 51
+    },
+    {
       "card_id": 4232,
       "name": "Umbreon (Obsidian Flames Stamped)",
       "set_id": 5500123,
@@ -17955,6 +19119,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 31559,
+      "name": "Vaporeon",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "34/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.05,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 27
+    },
+    {
       "card_id": 6639,
       "name": "Marowak - 78/162 (Pokemon League) [1st Place]",
       "set_id": 5500087,
@@ -18001,6 +19177,18 @@
       "market_price_usd": 35.88,
       "market_price_as_of": "2026-10-27",
       "total_listings": 9
+    },
+    {
+      "card_id": 31750,
+      "name": "Arceus (AR6)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "AR6",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.82,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 45
     },
     {
       "card_id": 14046,
@@ -18111,6 +19299,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 37811,
+      "name": "Smoochum - HGSS13",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS13",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 35.64,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 21
+    },
+    {
       "card_id": 14778,
       "name": "Jirachi - SM161",
       "set_id": 5500076,
@@ -18193,6 +19393,18 @@
       "market_price_usd": 35.4,
       "market_price_as_of": "2026-10-24",
       "total_listings": 20
+    },
+    {
+      "card_id": 31576,
+      "name": "Heracross E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "24/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.38,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 28
     },
     {
       "card_id": 15275,
@@ -18361,6 +19573,18 @@
       "market_price_usd": 35.05,
       "market_price_as_of": "2026-11-01",
       "total_listings": 114
+    },
+    {
+      "card_id": 27498,
+      "name": "Togekiss C",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "86",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.03,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 80
     },
     {
       "card_id": 6389,
@@ -19467,6 +20691,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 27455,
+      "name": "Arcanine",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "50",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.81,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 75
+    },
+    {
       "card_id": 31286,
       "name": "Fisherman",
       "set_id": 5500037,
@@ -19513,6 +20749,18 @@
       "market_price_usd": 32.73,
       "market_price_as_of": "2026-10-26",
       "total_listings": 148
+    },
+    {
+      "card_id": 37798,
+      "name": "Lapras - HGSS14",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS14",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 32.72,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 20
     },
     {
       "card_id": 25368,
@@ -20091,6 +21339,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 31595,
+      "name": "Heat Rotom",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "RT3",
+      "rarity": "Ultra Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.66,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 15
+    },
+    {
       "card_id": 34344,
       "name": "Palkia",
       "set_id": 5500102,
@@ -20463,6 +21723,18 @@
       "total_listings": 31
     },
     {
+      "card_id": 31582,
+      "name": "Espeon E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "18/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.14,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 25
+    },
+    {
       "card_id": 18996,
       "name": "Blaziken VMAX (Secret)",
       "set_id": 5500170,
@@ -20509,6 +21781,18 @@
       "market_price_usd": 31.06,
       "market_price_as_of": "2026-10-15",
       "total_listings": 33
+    },
+    {
+      "card_id": 31830,
+      "name": "Professor Oak's Visit",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "90/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 355
     },
     {
       "card_id": 31358,
@@ -20799,6 +22083,18 @@
       "total_listings": 63
     },
     {
+      "card_id": 27445,
+      "name": "Growlithe",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.43,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 80
+    },
+    {
       "card_id": 37463,
       "name": "Zygarde EX - 54a/124",
       "set_id": 5500060,
@@ -20859,6 +22155,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 27444,
+      "name": "Meowth",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "114",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.38,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 74
+    },
+    {
       "card_id": 15944,
       "name": "Gholdengo ex - 252/182",
       "set_id": 5500212,
@@ -20893,6 +22201,18 @@
       "market_price_usd": 30.34,
       "market_price_as_of": "2026-10-12",
       "total_listings": 111
+    },
+    {
+      "card_id": 27489,
+      "name": "Milotic",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "70",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.32,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 70
     },
     {
       "card_id": 31257,
@@ -21207,6 +22527,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 27451,
+      "name": "Metagross",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "7",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.99,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 44
+    },
+    {
       "card_id": 37692,
       "name": "Lightning Energy (2004-2005)",
       "set_id": 5500026,
@@ -21375,6 +22707,18 @@
       "total_listings": 168
     },
     {
+      "card_id": 31505,
+      "name": "Eevee",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "59/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.83,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 125
+    },
+    {
       "card_id": 14663,
       "name": "Espeon GX - SM35",
       "set_id": 5500076,
@@ -21433,6 +22777,18 @@
       "market_price_usd": 29.76,
       "market_price_as_of": "2026-10-14",
       "total_listings": 172
+    },
+    {
+      "card_id": 31548,
+      "name": "Lucario GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "8/111",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.75,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 30
     },
     {
       "card_id": 14174,
@@ -21853,6 +23209,18 @@
       "market_price_usd": 29.02,
       "market_price_as_of": "2026-10-14",
       "total_listings": 19
+    },
+    {
+      "card_id": 27442,
+      "name": "Ivysaur",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "62",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 165
     },
     {
       "card_id": 2295346,
@@ -22719,6 +24087,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 27499,
+      "name": "Minun",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "71",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 27.83,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 43
+    },
+    {
       "card_id": 19891,
       "name": "Gyarados EX",
       "set_id": 5500177,
@@ -23211,6 +24591,18 @@
       "total_listings": 272
     },
     {
+      "card_id": 31508,
+      "name": "Leafeon",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "45/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.19,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 119
+    },
+    {
       "card_id": 31867,
       "name": "Growlithe (10)",
       "set_id": 5500176,
@@ -23535,6 +24927,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 27516,
+      "name": "Gabite",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "59",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.74,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 45
+    },
+    {
       "card_id": 19224,
       "name": "Rotom V (Alternate Full Art)",
       "set_id": 5500024,
@@ -23665,6 +25069,30 @@
       "market_price_usd": 26.63,
       "market_price_as_of": "2026-10-28",
       "total_listings": 15
+    },
+    {
+      "card_id": 27475,
+      "name": "Electivire FB",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "4",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.62,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 59
+    },
+    {
+      "card_id": 31801,
+      "name": "Raichu",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "27/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.61,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 64
     },
     {
       "card_id": 12680,
@@ -23881,6 +25309,18 @@
       "market_price_usd": 26.36,
       "market_price_as_of": "2026-10-15",
       "total_listings": 120
+    },
+    {
+      "card_id": 31587,
+      "name": "Flygon",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "5/111",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.35,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 32
     },
     {
       "card_id": 30109,
@@ -24325,6 +25765,18 @@
       "market_price_usd": 25.75,
       "market_price_as_of": "2026-10-18",
       "total_listings": 31
+    },
+    {
+      "card_id": 27504,
+      "name": "Rhyhorn",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "122",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.75,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 59
     },
     {
       "card_id": 22823,
@@ -24963,6 +26415,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 31792,
+      "name": "Kabutops",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "4/99",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.07,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 39
+    },
+    {
       "card_id": 35671,
       "name": "Larvitar (51)",
       "set_id": 5500167,
@@ -25045,6 +26509,18 @@
       "market_price_usd": 25.0,
       "market_price_as_of": "2026-10-23",
       "total_listings": 1
+    },
+    {
+      "card_id": 31588,
+      "name": "Gallade E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "20/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 50
     },
     {
       "card_id": 35696,
@@ -25395,6 +26871,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 27530,
+      "name": "Articuno (16)",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "16",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.6,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 52
+    },
+    {
       "card_id": 2302212,
       "name": "Mega Dragonite ex - 152/217",
       "set_id": 5500194,
@@ -25477,6 +26965,18 @@
       "market_price_usd": 24.55,
       "market_price_as_of": "2026-11-03",
       "total_listings": 42
+    },
+    {
+      "card_id": 31769,
+      "name": "Haunter (41)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "41/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.52,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 95
     },
     {
       "card_id": 35644,
@@ -25911,6 +27411,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 31512,
+      "name": "Machamp GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "46/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.97,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 91
+    },
+    {
       "card_id": 12762,
       "name": "Typhlosion - 32/123 (Cracked Ice Holo)",
       "set_id": 5500101,
@@ -25969,6 +27481,30 @@
       "market_price_usd": 23.85,
       "market_price_as_of": "2026-10-25",
       "total_listings": 89
+    },
+    {
+      "card_id": 31773,
+      "name": "Pichu",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "25/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.84,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 62
+    },
+    {
+      "card_id": 27542,
+      "name": "Mr. Mime",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "37",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.79,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 44
     },
     {
       "card_id": 2153334,
@@ -26391,6 +27927,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 31749,
+      "name": "Treecko (78)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "78/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.33,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 156
+    },
+    {
       "card_id": 32143,
       "name": "M Venusaur EX",
       "set_id": 5500089,
@@ -26521,6 +28069,18 @@
       "market_price_usd": 23.21,
       "market_price_as_of": "2026-10-26",
       "total_listings": 56
+    },
+    {
+      "card_id": 31777,
+      "name": "Ponyta (46)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "46/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.2,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 113
     },
     {
       "card_id": 30757,
@@ -27075,6 +28635,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 31763,
+      "name": "Gastly (64)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "64/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.65,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 250
+    },
+    {
       "card_id": 5544,
       "name": "Flareon ex - 014/131",
       "set_id": 5500194,
@@ -27205,6 +28777,18 @@
       "market_price_usd": 22.47,
       "market_price_as_of": "2026-10-14",
       "total_listings": 160
+    },
+    {
+      "card_id": 37801,
+      "name": "Porygon2 - HGSS23",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS23",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 22.47,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 26
     },
     {
       "card_id": 6120,
@@ -27843,6 +29427,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 31561,
+      "name": "Luxray GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "9/111",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.76,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 20
+    },
+    {
       "card_id": 37651,
       "name": "Squirtle (Blue Border)",
       "set_id": 5500165,
@@ -27901,6 +29497,18 @@
       "market_price_usd": 21.65,
       "market_price_as_of": "2026-10-26",
       "total_listings": 15
+    },
+    {
+      "card_id": 37799,
+      "name": "Porygon - HGSS22",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS22",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.63,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 26
     },
     {
       "card_id": 26239,
@@ -27985,6 +29593,30 @@
       "market_price_usd": 21.49,
       "market_price_as_of": "2026-10-24",
       "total_listings": 33
+    },
+    {
+      "card_id": 27460,
+      "name": "Spiritomb C",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "84",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.49,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 145
+    },
+    {
+      "card_id": 27478,
+      "name": "Altaria C",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "49",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.49,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 67
     },
     {
       "card_id": 19542,
@@ -28959,6 +30591,18 @@
       "total_listings": 155
     },
     {
+      "card_id": 27488,
+      "name": "Mawile",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "33",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.63,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 54
+    },
+    {
       "card_id": 28522,
       "name": "Charizard EX (12)",
       "set_id": 5500019,
@@ -29235,6 +30879,18 @@
       "total_listings": 72
     },
     {
+      "card_id": 27563,
+      "name": "Sableye G",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "41",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.39,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 33
+    },
+    {
       "card_id": 100018080,
       "name": "Darkrai & Cresselia Legend (Top)",
       "set_id": 5500238,
@@ -29245,6 +30901,18 @@
       "market_price_usd": 20.38,
       "market_price_as_of": "2026-10-09",
       "total_listings": 105
+    },
+    {
+      "card_id": 37807,
+      "name": "Hitmonchan - HGSS24",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS24",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.37,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 19
     },
     {
       "card_id": 1670,
@@ -29305,6 +30973,18 @@
       "market_price_usd": 20.28,
       "market_price_as_of": "2026-10-14",
       "total_listings": 217
+    },
+    {
+      "card_id": 31762,
+      "name": "Burmy Sandy Cloak",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "57/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.27,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 98
     },
     {
       "card_id": 36109,
@@ -29425,6 +31105,18 @@
       "market_price_usd": 20.19,
       "market_price_as_of": "2026-10-25",
       "total_listings": 50
+    },
+    {
+      "card_id": 31747,
+      "name": "Cherubi",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "60/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.19,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 111
     },
     {
       "card_id": 6208,
@@ -29727,6 +31419,18 @@
       "total_listings": 114
     },
     {
+      "card_id": 27526,
+      "name": "Turtwig",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "131",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 64
+    },
+    {
       "card_id": 15397,
       "name": "Hisuian Decidueye VSTAR - 084/189",
       "set_id": 5500069,
@@ -29773,6 +31477,18 @@
       "market_price_usd": 19.99,
       "market_price_as_of": "2026-10-25",
       "total_listings": 102
+    },
+    {
+      "card_id": 27496,
+      "name": "Nincada",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "117",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 54
     },
     {
       "card_id": 34819,
@@ -30133,6 +31849,18 @@
       "market_price_usd": 19.84,
       "market_price_as_of": "2026-10-12",
       "total_listings": 123
+    },
+    {
+      "card_id": 27531,
+      "name": "Butterfree FB",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "17",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.84,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 68
     },
     {
       "card_id": 14724,
@@ -30927,6 +32655,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 27454,
+      "name": "Pachirisu",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "118",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.33,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 135
+    },
+    {
       "card_id": 25092,
       "name": "Solgaleo GX (Secret)",
       "set_id": 5500018,
@@ -31311,6 +33051,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 31752,
+      "name": "Haunter (42)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "42/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.07,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 161
+    },
+    {
       "card_id": 142,
       "name": "Jirachi ex - 2007 (Tom Roos)",
       "set_id": 5500029,
@@ -31431,6 +33183,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 31775,
+      "name": "Froslass",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "2/99",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.98,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 57
+    },
+    {
       "card_id": 31876,
       "name": "Prism Energy",
       "set_id": 5500176,
@@ -31513,6 +33277,18 @@
       "market_price_usd": 18.87,
       "market_price_as_of": "2026-10-30",
       "total_listings": 74
+    },
+    {
+      "card_id": 37806,
+      "name": "Hitmonlee - HGSS25",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS25",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.87,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 29
     },
     {
       "card_id": 1526,
@@ -31609,6 +33385,18 @@
       "market_price_usd": 18.78,
       "market_price_as_of": "2026-10-22",
       "total_listings": 17
+    },
+    {
+      "card_id": 31605,
+      "name": "Charon's Choice",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "RT6",
+      "rarity": "Ultra Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.77,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 14
     },
     {
       "card_id": 16301,
@@ -31959,6 +33747,18 @@
       "total_listings": 81
     },
     {
+      "card_id": 31781,
+      "name": "Sceptile (31)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "31/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.49,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 73
+    },
+    {
       "card_id": 15793,
       "name": "Fletchinder - 199/193",
       "set_id": 5500150,
@@ -32017,6 +33817,18 @@
       "market_price_usd": 18.46,
       "market_price_as_of": "2026-10-31",
       "total_listings": 46
+    },
+    {
+      "card_id": 31816,
+      "name": "Pelipper (24)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "24/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.46,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 82
     },
     {
       "card_id": 14536,
@@ -32089,6 +33901,18 @@
       "market_price_usd": 18.42,
       "market_price_as_of": "2026-10-09",
       "total_listings": 188
+    },
+    {
+      "card_id": 31786,
+      "name": "Salamence",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "8/99",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.4,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 29
     },
     {
       "card_id": 13388,
@@ -32173,6 +33997,30 @@
       "market_price_usd": 18.33,
       "market_price_as_of": "2026-11-04",
       "total_listings": 35
+    },
+    {
+      "card_id": 31516,
+      "name": "Quagsire GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "76/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.33,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 82
+    },
+    {
+      "card_id": 31766,
+      "name": "Ponyta (72)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "72/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.33,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 316
     },
     {
       "card_id": 853,
@@ -32595,6 +34443,18 @@
       "total_listings": 50
     },
     {
+      "card_id": 27548,
+      "name": "Beldum",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "90",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.98,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 271
+    },
+    {
       "card_id": 31261,
       "name": "Cyndaquil",
       "set_id": 5500037,
@@ -32931,6 +34791,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 31770,
+      "name": "Charmeleon",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "35/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.76,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 162
+    },
+    {
       "card_id": 34296,
       "name": "Hitmonlee",
       "set_id": 5500102,
@@ -33207,6 +35079,18 @@
       "total_listings": 39
     },
     {
+      "card_id": 27440,
+      "name": "Whismur",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "132",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.59,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 82
+    },
+    {
       "card_id": 22203,
       "name": "Farfetch'd",
       "set_id": 5500079,
@@ -33325,6 +35209,30 @@
       "market_price_usd": 17.52,
       "market_price_as_of": "2026-10-31",
       "total_listings": 21
+    },
+    {
+      "card_id": 27512,
+      "name": "Chimchar",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "97",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.5,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 258
+    },
+    {
+      "card_id": 27521,
+      "name": "Wailmer",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "87",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.5,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 67
     },
     {
       "card_id": 34788,
@@ -33517,6 +35425,18 @@
       "market_price_usd": 17.4,
       "market_price_as_of": "2026-10-16",
       "total_listings": 150
+    },
+    {
+      "card_id": 27554,
+      "name": "Moltres (36)",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "36",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.39,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 65
     },
     {
       "card_id": 16947,
@@ -33879,6 +35799,18 @@
       "total_listings": 75
     },
     {
+      "card_id": 31528,
+      "name": "Houndoom E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "65/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.14,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 67
+    },
+    {
       "card_id": 37891,
       "name": "Team Aqua Grunt",
       "set_id": 5500187,
@@ -33901,6 +35833,18 @@
       "market_price_usd": 17.13,
       "market_price_as_of": "2026-10-26",
       "total_listings": 42
+    },
+    {
+      "card_id": 31554,
+      "name": "Mismagius GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "10/111",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.13,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 49
     },
     {
       "card_id": 36085,
@@ -34069,6 +36013,18 @@
       "market_price_usd": 17.05,
       "market_price_as_of": "2026-10-31",
       "total_listings": 24
+    },
+    {
+      "card_id": 37814,
+      "name": "Hoothoot - HGSS05",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS05",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.05,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 32
     },
     {
       "card_id": 13410,
@@ -35019,6 +36975,18 @@
       "total_listings": 131
     },
     {
+      "card_id": 31764,
+      "name": "Croagunk",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "61/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.52,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 135
+    },
+    {
       "card_id": 36087,
       "name": "Charmeleon",
       "set_id": 5500083,
@@ -35499,6 +37467,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 31815,
+      "name": "Porygon-Z G",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "26/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.21,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 58
+    },
+    {
       "card_id": 4221,
       "name": "Suicune (Cosmos Holo) (Gamestop Exclusive)",
       "set_id": 5500123,
@@ -35713,6 +37693,18 @@
       "market_price_usd": 16.09,
       "market_price_as_of": "2026-10-11",
       "total_listings": 79
+    },
+    {
+      "card_id": 31776,
+      "name": "Treecko (79)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "79/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.09,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 267
     },
     {
       "card_id": 26975,
@@ -36013,6 +38005,30 @@
       "market_price_usd": 15.91,
       "market_price_as_of": "2026-10-15",
       "total_listings": 40
+    },
+    {
+      "card_id": 31585,
+      "name": "Bastiodon GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "2/111",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.9,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 53
+    },
+    {
+      "card_id": 31759,
+      "name": "Cherrim",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "15/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.9,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 81
     },
     {
       "card_id": 6712,
@@ -36603,6 +38619,18 @@
       "total_listings": 257
     },
     {
+      "card_id": 31774,
+      "name": "Luxio",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "43/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.65,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 256
+    },
+    {
       "card_id": 1121,
       "name": "Lombre - 2005 (Michael Gonzalez)",
       "set_id": 5500029,
@@ -36877,6 +38905,18 @@
       "market_price_usd": 15.5,
       "market_price_as_of": "2026-10-26",
       "total_listings": 16
+    },
+    {
+      "card_id": 31560,
+      "name": "Mr. Mime E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "28/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.5,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 70
     },
     {
       "card_id": 14131,
@@ -37203,6 +39243,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 27497,
+      "name": "Zapdos (48)",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "48",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.32,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 51
+    },
+    {
       "card_id": 26924,
       "name": "Guzzlord GX (Secret)",
       "set_id": 5500043,
@@ -37285,6 +39337,18 @@
       "market_price_usd": 15.26,
       "market_price_as_of": "2026-10-21",
       "total_listings": 100
+    },
+    {
+      "card_id": 27468,
+      "name": "Regigigas FB",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "9",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.26,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 51
     },
     {
       "card_id": 35729,
@@ -37657,6 +39721,42 @@
       "market_price_usd": 15.06,
       "market_price_as_of": "2026-10-17",
       "total_listings": 114
+    },
+    {
+      "card_id": 31565,
+      "name": "Mamoswine GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "27/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.06,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 44
+    },
+    {
+      "card_id": 37804,
+      "name": "Wobbuffet - HGSS04",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS04",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 15.06,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 26
+    },
+    {
+      "card_id": 31529,
+      "name": "Froslass GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "6/111",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.05,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 17
     },
     {
       "card_id": 34312,
@@ -38139,6 +40239,18 @@
       "total_listings": 106
     },
     {
+      "card_id": 27466,
+      "name": "Raichu",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "77",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.91,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 71
+    },
+    {
       "card_id": 38262,
       "name": "Meloetta EX",
       "set_id": 5500098,
@@ -38221,6 +40333,18 @@
       "market_price_usd": 14.85,
       "market_price_as_of": "2026-10-11",
       "total_listings": 214
+    },
+    {
+      "card_id": 31575,
+      "name": "Steelix GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "51/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.83,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 105
     },
     {
       "card_id": 32467,
@@ -38559,6 +40683,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 27535,
+      "name": "Skarmory FB",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "83",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.69,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 86
+    },
+    {
       "card_id": 28968,
       "name": "Dragonite (51)",
       "set_id": 5500095,
@@ -38569,6 +40705,18 @@
       "market_price_usd": 14.69,
       "market_price_as_of": "2026-10-29",
       "total_listings": 160
+    },
+    {
+      "card_id": 31555,
+      "name": "Infernape E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "43/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.69,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 88
     },
     {
       "card_id": 22352,
@@ -38991,6 +41139,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 31504,
+      "name": "Growlithe",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "63/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.46,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 73
+    },
+    {
       "card_id": 37654,
       "name": "Charmander (Blue Border)",
       "set_id": 5500165,
@@ -39255,6 +41415,18 @@
       "total_listings": 144
     },
     {
+      "card_id": 31607,
+      "name": "Nidoking",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "29/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.29,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 68
+    },
+    {
       "card_id": 23843,
       "name": "N's Reshiram - 167/159",
       "set_id": 5500077,
@@ -39445,6 +41617,18 @@
       "market_price_usd": 14.19,
       "market_price_as_of": "2026-10-26",
       "total_listings": 44
+    },
+    {
+      "card_id": 31841,
+      "name": "Bagon",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "52/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.19,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 296
     },
     {
       "card_id": 37689,
@@ -39699,6 +41883,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 31593,
+      "name": "Rampardos GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "11/111",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.08,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 44
+    },
+    {
       "card_id": 6094,
       "name": "Whimsicott V - 064/172",
       "set_id": 5500194,
@@ -39733,6 +41929,18 @@
       "market_price_usd": 14.06,
       "market_price_as_of": "2026-10-14",
       "total_listings": 306
+    },
+    {
+      "card_id": 31782,
+      "name": "Gulpin (40)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "40/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.06,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 55
     },
     {
       "card_id": 37759,
@@ -40347,6 +42555,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 31836,
+      "name": "Toxicroak",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "11/99",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.75,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 49
+    },
+    {
       "card_id": 37487,
       "name": "Aegislash EX - 65a/119",
       "set_id": 5500060,
@@ -40611,6 +42831,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 31848,
+      "name": "Ultimate Zone",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "91/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.59,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 248
+    },
+    {
       "card_id": 15295,
       "name": "Light Toxtricity - SWSH137",
       "set_id": 5500069,
@@ -40779,6 +43011,18 @@
       "total_listings": 188
     },
     {
+      "card_id": 27558,
+      "name": "Crawdaunt G",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "23",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.47,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 67
+    },
+    {
       "card_id": 34786,
       "name": "Nidoking",
       "set_id": 5500078,
@@ -40849,6 +43093,18 @@
       "market_price_usd": 13.45,
       "market_price_as_of": "2026-11-04",
       "total_listings": 156
+    },
+    {
+      "card_id": 27538,
+      "name": "Croagunk",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.44,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 331
     },
     {
       "card_id": 27149,
@@ -40945,6 +43201,18 @@
       "market_price_usd": 13.39,
       "market_price_as_of": "2026-10-31",
       "total_listings": 45
+    },
+    {
+      "card_id": 31832,
+      "name": "Sceptile (30)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "30/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.38,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 69
     },
     {
       "card_id": 13423,
@@ -41079,6 +43347,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 37802,
+      "name": "Noctowl - HGSS06",
+      "set_id": 5500065,
+      "set_name": "HGSS Promos",
+      "number": "HGSS06",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 13.34,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 29
+    },
+    {
       "card_id": 661,
       "name": "Swoop! Teleporter - 2005 (Curran Hill)",
       "set_id": 5500029,
@@ -41089,6 +43369,18 @@
       "market_price_usd": 13.34,
       "market_price_as_of": "2026-10-24",
       "total_listings": 7
+    },
+    {
+      "card_id": 31544,
+      "name": "Nidorino",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "74/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.32,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 176
     },
     {
       "card_id": 2299693,
@@ -41775,6 +44067,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 27441,
+      "name": "Cherubi",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "96",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 50
+    },
+    {
       "card_id": 16504,
       "name": "Mimikyu (96)",
       "set_id": 5500206,
@@ -41797,6 +44101,18 @@
       "market_price_usd": 12.99,
       "market_price_as_of": "2026-11-05",
       "total_listings": 50
+    },
+    {
+      "card_id": 31609,
+      "name": "Yanmega E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "37/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 51
     },
     {
       "card_id": 929,
@@ -41869,6 +44185,30 @@
       "market_price_usd": 12.96,
       "market_price_as_of": "2026-10-27",
       "total_listings": 398
+    },
+    {
+      "card_id": 27447,
+      "name": "Sandshrew",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "124",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.96,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 164
+    },
+    {
+      "card_id": 27471,
+      "name": "Staraptor FB",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "11",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.96,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 69
     },
     {
       "card_id": 12709,
@@ -42603,6 +44943,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 31586,
+      "name": "Walrein",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "36/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.65,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 54
+    },
+    {
       "card_id": 18874,
       "name": "Celebi V (Full Art)",
       "set_id": 5500170,
@@ -42925,6 +45277,18 @@
       "market_price_usd": 12.51,
       "market_price_as_of": "2026-10-23",
       "total_listings": 7
+    },
+    {
+      "card_id": 27527,
+      "name": "Gible",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "106",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.5,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 156
     },
     {
       "card_id": 37767,
@@ -43431,6 +45795,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 27500,
+      "name": "Roserade C",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "40",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.34,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 125
+    },
+    {
       "card_id": 32472,
       "name": "Gible",
       "set_id": 5500207,
@@ -43501,6 +45877,18 @@
       "market_price_usd": 12.31,
       "market_price_as_of": "2026-10-30",
       "total_listings": 40
+    },
+    {
+      "card_id": 31517,
+      "name": "Koffing",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "68/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.29,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 225
     },
     {
       "card_id": 38816,
@@ -44677,6 +47065,18 @@
       "market_price_usd": 11.83,
       "market_price_as_of": "2026-10-23",
       "total_listings": 115
+    },
+    {
+      "card_id": 27562,
+      "name": "Primeape",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "39",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.83,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 70
     },
     {
       "card_id": 27917,
@@ -45879,6 +48279,18 @@
       "total_listings": 175
     },
     {
+      "card_id": 27494,
+      "name": "Chingling",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "98",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.43,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 166
+    },
+    {
       "card_id": 15278,
       "name": "Greninja V-UNION",
       "set_id": 5500069,
@@ -46539,6 +48951,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 31753,
+      "name": "Lopunny",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "21/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.14,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 50
+    },
+    {
       "card_id": 14513,
       "name": "Cofagrigus (Master Ball Pattern)",
       "set_id": 5500153,
@@ -46909,6 +49333,18 @@
       "market_price_usd": 10.99,
       "market_price_as_of": "2026-10-26",
       "total_listings": 71
+    },
+    {
+      "card_id": 27570,
+      "name": "Lickilicky C",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "30",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 50
     },
     {
       "card_id": 32107,
@@ -47367,6 +49803,30 @@
       "total_listings": 53
     },
     {
+      "card_id": 27549,
+      "name": "Magmortar",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "6",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.83,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 55
+    },
+    {
+      "card_id": 31794,
+      "name": "Electrike (62)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "62/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.83,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 326
+    },
+    {
       "card_id": 15360,
       "name": "Porygon-Z GX - SM216 (SM Black Star Promo)",
       "set_id": 5500069,
@@ -47607,6 +50067,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 27525,
+      "name": "VS Seeker",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "140",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.74,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 134
+    },
+    {
       "card_id": 38276,
       "name": "Venusaur",
       "set_id": 5500122,
@@ -47811,6 +50283,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 31812,
+      "name": "Burmy Plant Cloak",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "56/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.65,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 247
+    },
+    {
       "card_id": 14111,
       "name": "Galarian Articuno - SWSH123 (Prerelease)",
       "set_id": 5500149,
@@ -47833,6 +50317,18 @@
       "market_price_usd": 10.64,
       "market_price_as_of": "2026-10-15",
       "total_listings": 66
+    },
+    {
+      "card_id": 27470,
+      "name": "Buizel",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.64,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 306
     },
     {
       "card_id": 15390,
@@ -47905,6 +50401,18 @@
       "market_price_usd": 10.62,
       "market_price_as_of": "2026-10-23",
       "total_listings": 18
+    },
+    {
+      "card_id": 31772,
+      "name": "Rattata",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "73/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.62,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 250
     },
     {
       "card_id": 34320,
@@ -48351,6 +50859,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 27453,
+      "name": "Bidoof",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "91",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.43,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 153
+    },
+    {
       "card_id": 36709,
       "name": "Lunatone",
       "set_id": 5500218,
@@ -48577,6 +51097,18 @@
       "market_price_usd": 10.35,
       "market_price_as_of": "2026-10-09",
       "total_listings": 37
+    },
+    {
+      "card_id": 31808,
+      "name": "Rapidash (28)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "28/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.35,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 55
     },
     {
       "card_id": 38761,
@@ -49009,6 +51541,18 @@
       "market_price_usd": 10.22,
       "market_price_as_of": "2026-11-04",
       "total_listings": 55
+    },
+    {
+      "card_id": 31594,
+      "name": "Floatzel GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "4/111",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.22,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 38
     },
     {
       "card_id": 35220,
@@ -49659,6 +52203,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 27505,
+      "name": "Drifblim FB",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "3",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.0,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 38
+    },
+    {
       "card_id": 31341,
       "name": "Girafarig",
       "set_id": 5500037,
@@ -49681,6 +52237,42 @@
       "market_price_usd": 10.0,
       "market_price_as_of": "2026-11-05",
       "total_listings": 93
+    },
+    {
+      "card_id": 31761,
+      "name": "Gulpin (66)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "66/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 241
+    },
+    {
+      "card_id": 31821,
+      "name": "Tangela (77)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "77/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 342
+    },
+    {
+      "card_id": 31845,
+      "name": "Spiritomb",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "32/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 23
     },
     {
       "card_id": 34754,
@@ -49753,6 +52345,18 @@
       "market_price_usd": 9.99,
       "market_price_as_of": "2026-10-09",
       "total_listings": 493
+    },
+    {
+      "card_id": 27464,
+      "name": "Surskit",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 307
     },
     {
       "card_id": 31275,
@@ -50871,6 +53475,18 @@
       "total_listings": 94
     },
     {
+      "card_id": 31771,
+      "name": "Gastly (36)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "36/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.7,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 107
+    },
+    {
       "card_id": 13653,
       "name": "Simisage - 090/086",
       "set_id": 5500093,
@@ -50893,6 +53509,18 @@
       "market_price_usd": 9.69,
       "market_price_as_of": "2026-10-10",
       "total_listings": 216
+    },
+    {
+      "card_id": 31563,
+      "name": "Gastrodon West Sea",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "22/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.69,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 35
     },
     {
       "card_id": 36697,
@@ -51543,6 +54171,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 27481,
+      "name": "Feebas",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "104",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.5,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 131
+    },
+    {
       "card_id": 28888,
       "name": "Professor's Research (Secret)",
       "set_id": 5500021,
@@ -51603,6 +54243,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 27508,
+      "name": "Yanmega",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "14",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.49,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 82
+    },
+    {
       "card_id": 36991,
       "name": "Clefairy (#19)",
       "set_id": 5500012,
@@ -51661,6 +54313,18 @@
       "market_price_usd": 9.48,
       "market_price_as_of": "2026-10-21",
       "total_listings": 120
+    },
+    {
+      "card_id": 31819,
+      "name": "Aerodactyl",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "13/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.48,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 43
     },
     {
       "card_id": 5899,
@@ -53079,6 +55743,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 27569,
+      "name": "Chatot",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 166
+    },
+    {
       "card_id": 28688,
       "name": "Trubbish (64)",
       "set_id": 5500155,
@@ -53173,6 +55849,30 @@
       "market_price_usd": 8.99,
       "market_price_as_of": "2026-11-05",
       "total_listings": 164
+    },
+    {
+      "card_id": 31530,
+      "name": "Hippopotas",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "64/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 279
+    },
+    {
+      "card_id": 31536,
+      "name": "Shellos West Sea",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "80/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 151
     },
     {
       "card_id": 37274,
@@ -53727,6 +56427,18 @@
       "total_listings": 225
     },
     {
+      "card_id": 31789,
+      "name": "Tangela (76)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "76/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.84,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 273
+    },
+    {
       "card_id": 38153,
       "name": "Acerola's Premonition",
       "set_id": 5500144,
@@ -54013,6 +56725,18 @@
       "market_price_usd": 8.75,
       "market_price_as_of": "2026-11-02",
       "total_listings": 50
+    },
+    {
+      "card_id": 31826,
+      "name": "Luxray",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "5/99",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.74,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 25
     },
     {
       "card_id": 37280,
@@ -54411,6 +57135,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 27580,
+      "name": "Shedinja",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "44",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.66,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 78
+    },
+    {
       "card_id": 13428,
       "name": "Bloodmoon Ursaluna (Master Ball Pattern)",
       "set_id": 5500017,
@@ -54625,6 +57361,18 @@
       "market_price_usd": 8.6,
       "market_price_as_of": "2026-10-19",
       "total_listings": 171
+    },
+    {
+      "card_id": 31550,
+      "name": "Scizor E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "48/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.6,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 77
     },
     {
       "card_id": 18412,
@@ -54987,6 +57735,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 27472,
+      "name": "Lopunny",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "63",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.49,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 73
+    },
+    {
       "card_id": 38176,
       "name": "Friends in Galar",
       "set_id": 5500197,
@@ -55107,6 +57867,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 31573,
+      "name": "Roserade GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "12/111",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.44,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 38
+    },
+    {
       "card_id": 5876,
       "name": "Hisuian Zoroark V - 146/196",
       "set_id": 5500194,
@@ -55141,6 +57913,18 @@
       "market_price_usd": 8.43,
       "market_price_as_of": "2026-11-04",
       "total_listings": 74
+    },
+    {
+      "card_id": 31620,
+      "name": "Vespiquen E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "35/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.43,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 63
     },
     {
       "card_id": 37871,
@@ -55839,6 +58623,18 @@
       "total_listings": 243
     },
     {
+      "card_id": 31518,
+      "name": "Aerodactyl GL",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "55/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.26,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 216
+    },
+    {
       "card_id": 14598,
       "name": "Glaceon GX - SM147",
       "set_id": 5500076,
@@ -56281,6 +59077,18 @@
       "market_price_usd": 8.16,
       "market_price_as_of": "2026-10-26",
       "total_listings": 23
+    },
+    {
+      "card_id": 31768,
+      "name": "Beginning Door",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "82/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.16,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 190
     },
     {
       "card_id": 37897,
@@ -56785,6 +59593,18 @@
       "market_price_usd": 8.0,
       "market_price_as_of": "2026-10-23",
       "total_listings": 15
+    },
+    {
+      "card_id": 27550,
+      "name": "Shinx",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "126",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 106
     },
     {
       "card_id": 31335,
@@ -57409,6 +60229,18 @@
       "market_price_usd": 7.86,
       "market_price_as_of": "2026-10-24",
       "total_listings": 171
+    },
+    {
+      "card_id": 27473,
+      "name": "Cherrim",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "55",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.86,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 47
     },
     {
       "card_id": 13871,
@@ -58335,6 +61167,18 @@
       "total_listings": 293
     },
     {
+      "card_id": 31787,
+      "name": "Graveler",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "37/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.61,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 75
+    },
+    {
       "card_id": 6239,
       "name": "Muscle Band - 121/146 - (Pokemon League)",
       "set_id": 5500087,
@@ -59055,6 +61899,18 @@
       "total_listings": 292
     },
     {
+      "card_id": 31839,
+      "name": "Wingull (81)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "81/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.45,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 287
+    },
+    {
       "card_id": 32758,
       "name": "Zoroark",
       "set_id": 5500204,
@@ -59509,6 +62365,18 @@
       "market_price_usd": 7.36,
       "market_price_as_of": "2026-10-30",
       "total_listings": 196
+    },
+    {
+      "card_id": 31569,
+      "name": "Trapinch",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "84/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.36,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 277
     },
     {
       "card_id": 1414,
@@ -60327,6 +63195,18 @@
       "total_listings": 188
     },
     {
+      "card_id": 31805,
+      "name": "Makuhita",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "68/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.15,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 290
+    },
+    {
       "card_id": 32477,
       "name": "Oshawott",
       "set_id": 5500207,
@@ -60421,6 +63301,18 @@
       "market_price_usd": 7.13,
       "market_price_as_of": "2026-10-15",
       "total_listings": 175
+    },
+    {
+      "card_id": 27578,
+      "name": "Empoleon FB",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "27",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.13,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 42
     },
     {
       "card_id": 30839,
@@ -61023,6 +63915,18 @@
       "total_listings": 66
     },
     {
+      "card_id": 27463,
+      "name": "Buneary",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "94",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.99,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 144
+    },
+    {
       "card_id": 31258,
       "name": "Professor Oak's New Theory",
       "set_id": 5500037,
@@ -61069,6 +63973,18 @@
       "market_price_usd": 6.98,
       "market_price_as_of": "2026-10-25",
       "total_listings": 73
+    },
+    {
+      "card_id": 31602,
+      "name": "Drapion E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "17/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.98,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 53
     },
     {
       "card_id": 4075,
@@ -61249,6 +64165,18 @@
       "market_price_usd": 6.93,
       "market_price_as_of": "2026-10-21",
       "total_listings": 43
+    },
+    {
+      "card_id": 31779,
+      "name": "Kabuto",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "67/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.93,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 212
     },
     {
       "card_id": 31136,
@@ -61683,6 +64611,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 27493,
+      "name": "Rotom",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "82",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.82,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 89
+    },
+    {
       "card_id": 13917,
       "name": "Eevee V - SWSH065",
       "set_id": 5500149,
@@ -61981,6 +64921,18 @@
       "market_price_usd": 6.77,
       "market_price_as_of": "2026-10-14",
       "total_listings": 52
+    },
+    {
+      "card_id": 27480,
+      "name": "Dewgong",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "24",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.77,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 47
     },
     {
       "card_id": 37473,
@@ -62413,6 +65365,18 @@
       "market_price_usd": 6.68,
       "market_price_as_of": "2026-10-26",
       "total_listings": 151
+    },
+    {
+      "card_id": 31827,
+      "name": "Golem",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "19/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.68,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 101
     },
     {
       "card_id": 20030,
@@ -63409,6 +66373,18 @@
       "market_price_usd": 6.49,
       "market_price_as_of": "2026-10-31",
       "total_listings": 22
+    },
+    {
+      "card_id": 31820,
+      "name": "Omastar",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "23/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.49,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 60
     },
     {
       "card_id": 611,
@@ -64503,6 +67479,18 @@
       "total_listings": 143
     },
     {
+      "card_id": 31778,
+      "name": "Shinx",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "74/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.29,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 310
+    },
+    {
       "card_id": 33053,
       "name": "Ultra Ball",
       "set_id": 5500064,
@@ -64549,6 +67537,18 @@
       "market_price_usd": 6.28,
       "market_price_as_of": "2026-10-31",
       "total_listings": 234
+    },
+    {
+      "card_id": 31746,
+      "name": "Omanyte",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "70/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.28,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 157
     },
     {
       "card_id": 32386,
@@ -64971,6 +67971,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 27502,
+      "name": "Raticate G",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "78",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.19,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 202
+    },
+    {
       "card_id": 32355,
       "name": "Timburr",
       "set_id": 5500189,
@@ -65307,6 +68319,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 27540,
+      "name": "Camerupt G",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "19",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.15,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 125
+    },
+    {
       "card_id": 30096,
       "name": "Colress's Tenacity - 087/064",
       "set_id": 5500139,
@@ -65449,6 +68473,18 @@
       "market_price_usd": 6.13,
       "market_price_as_of": "2026-10-26",
       "total_listings": 54
+    },
+    {
+      "card_id": 27452,
+      "name": "Breloom",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "52",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.13,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 89
     },
     {
       "card_id": 31454,
@@ -65679,6 +68715,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 27553,
+      "name": "Spinda",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "46",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.1,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 50
+    },
+    {
       "card_id": 28691,
       "name": "Dowsing Machine",
       "set_id": 5500155,
@@ -65689,6 +68737,18 @@
       "market_price_usd": 6.1,
       "market_price_as_of": "2026-11-01",
       "total_listings": 150
+    },
+    {
+      "card_id": 31616,
+      "name": "Golem E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "23/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.1,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 61
     },
     {
       "card_id": 34309,
@@ -65895,6 +68955,18 @@
       "total_listings": 74
     },
     {
+      "card_id": 31564,
+      "name": "Kecleon",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "67/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.07,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 206
+    },
+    {
       "card_id": 12688,
       "name": "Xerneas - 96/146 (Cracked Ice Holo)",
       "set_id": 5500101,
@@ -66073,6 +69145,18 @@
       "market_price_usd": 6.05,
       "market_price_as_of": "2026-10-29",
       "total_listings": 197
+    },
+    {
+      "card_id": 31596,
+      "name": "Nidoqueen",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "30/111",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.05,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 32
     },
     {
       "card_id": 6583,
@@ -66399,6 +69483,30 @@
       "total_listings": 516
     },
     {
+      "card_id": 27567,
+      "name": "Roselia",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "123",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 200
+    },
+    {
+      "card_id": 31831,
+      "name": "Heatran",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "3/99",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.0,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 39
+    },
+    {
       "card_id": 34728,
       "name": "Lickitung",
       "set_id": 5500078,
@@ -66637,6 +69745,18 @@
       "market_price_usd": 5.97,
       "market_price_as_of": "2026-10-17",
       "total_listings": 120
+    },
+    {
+      "card_id": 27528,
+      "name": "Zubat",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "133",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.97,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 191
     },
     {
       "card_id": 30612,
@@ -67107,6 +70227,18 @@
       "total_listings": 181
     },
     {
+      "card_id": 27546,
+      "name": "Sandslash",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "42",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.88,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 46
+    },
+    {
       "card_id": 4362,
       "name": "Hisuian Zoroark - 076/196 (Lost Origin Stamped)",
       "set_id": 5500123,
@@ -67395,6 +70527,30 @@
       "total_listings": 110
     },
     {
+      "card_id": 27506,
+      "name": "Drifloon",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "103",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.8,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 184
+    },
+    {
+      "card_id": 31791,
+      "name": "Rapidash (47)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "47/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.8,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 208
+    },
+    {
       "card_id": 32734,
       "name": "Prinplup",
       "set_id": 5500204,
@@ -67453,6 +70609,18 @@
       "market_price_usd": 5.8,
       "market_price_as_of": "2026-10-09",
       "total_listings": 419
+    },
+    {
+      "card_id": 27492,
+      "name": "Wailord",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "47",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 5.79,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 33
     },
     {
       "card_id": 31446,
@@ -67645,6 +70813,18 @@
       "market_price_usd": 5.77,
       "market_price_as_of": "2026-10-09",
       "total_listings": 318
+    },
+    {
+      "card_id": 31835,
+      "name": "Mothim",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "6/99",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.77,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 70
     },
     {
       "card_id": 36260,
@@ -68091,6 +71271,18 @@
       "total_listings": 120
     },
     {
+      "card_id": 31797,
+      "name": "Swalot",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "9/99",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.72,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 55
+    },
+    {
       "card_id": 38162,
       "name": "Rockruff",
       "set_id": 5500197,
@@ -68401,6 +71593,18 @@
       "market_price_usd": 5.67,
       "market_price_as_of": "2026-11-01",
       "total_listings": 136
+    },
+    {
+      "card_id": 31577,
+      "name": "Weezing",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "87/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.67,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 228
     },
     {
       "card_id": 38246,
@@ -69039,6 +72243,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 27515,
+      "name": "Cynthia's Guidance",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "136",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.57,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 100
+    },
+    {
       "card_id": 31169,
       "name": "Bisharp (Team Plasma) (73)",
       "set_id": 5500106,
@@ -69555,6 +72771,18 @@
       "total_listings": 135
     },
     {
+      "card_id": 31541,
+      "name": "Gliscor E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "62/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.49,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 212
+    },
+    {
       "card_id": 32173,
       "name": "Ninetales EX",
       "set_id": 5500089,
@@ -69601,6 +72829,18 @@
       "market_price_usd": 5.48,
       "market_price_as_of": "2026-10-18",
       "total_listings": 77
+    },
+    {
+      "card_id": 27495,
+      "name": "Rhyperior",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "10",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.48,
+      "market_price_as_of": "2026-11-05",
+      "total_listings": 64
     },
     {
       "card_id": 31163,
@@ -70479,6 +73719,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 31758,
+      "name": "Department Store Girl",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "85/99",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.36,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 161
+    },
+    {
       "card_id": 38066,
       "name": "Froslass",
       "set_id": 5500133,
@@ -70755,6 +74007,18 @@
       "total_listings": 166
     },
     {
+      "card_id": 27450,
+      "name": "Shroomish",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "127",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 57
+    },
+    {
       "card_id": 27934,
       "name": "Scizor EX",
       "set_id": 5500188,
@@ -70921,6 +74185,18 @@
       "market_price_usd": 5.3,
       "market_price_as_of": "2026-10-23",
       "total_listings": 50
+    },
+    {
+      "card_id": 27449,
+      "name": "Mime Jr.",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "115",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.3,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 118
     },
     {
       "card_id": 32145,
@@ -71619,6 +74895,18 @@
       "total_listings": 101
     },
     {
+      "card_id": 31531,
+      "name": "Rapidash E4",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "47/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.2,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 94
+    },
+    {
       "card_id": 38086,
       "name": "Melony",
       "set_id": 5500061,
@@ -71677,6 +74965,18 @@
       "market_price_usd": 5.19,
       "market_price_as_of": "2026-10-16",
       "total_listings": 204
+    },
+    {
+      "card_id": 31817,
+      "name": "Manectric (22)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "22/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.19,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 186
     },
     {
       "card_id": 19066,
@@ -71857,6 +75157,30 @@
       "market_price_usd": 5.15,
       "market_price_as_of": "2026-11-01",
       "total_listings": 36
+    },
+    {
+      "card_id": 31537,
+      "name": "Nidoran F",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "71/111",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.15,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 138
+    },
+    {
+      "card_id": 31788,
+      "name": "Beedrill G",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "53/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.15,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 241
     },
     {
       "card_id": 31897,
@@ -72147,6 +75471,18 @@
       "total_listings": 177
     },
     {
+      "card_id": 31833,
+      "name": "Bronzong (14)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "14/99",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.12,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 111
+    },
+    {
       "card_id": 32366,
       "name": "Blitzle",
       "set_id": 5500189,
@@ -72339,6 +75675,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 31810,
+      "name": "Electrike (63)",
+      "set_id": 5500096,
+      "set_name": "Arceus",
+      "number": "63/99",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.09,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 321
+    },
+    {
       "card_id": 31891,
       "name": "Riolu",
       "set_id": 5500176,
@@ -72493,6 +75841,18 @@
       "market_price_usd": 5.07,
       "market_price_as_of": "2026-10-14",
       "total_listings": 233
+    },
+    {
+      "card_id": 31568,
+      "name": "Sharpedo",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "49/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.07,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 135
     },
     {
       "card_id": 36133,
@@ -73131,6 +76491,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 27484,
+      "name": "Cyrus's Initiative",
+      "set_id": 5500063,
+      "set_name": "Supreme Victors",
+      "number": "137",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 230
+    },
+    {
       "card_id": 28739,
       "name": "Swadloon",
       "set_id": 5500155,
@@ -73165,6 +76537,18 @@
       "market_price_usd": 5.0,
       "market_price_as_of": "2026-11-05",
       "total_listings": 92
+    },
+    {
+      "card_id": 31514,
+      "name": "Team Galactic's Invention G-109 SP Radar",
+      "set_id": 5500173,
+      "set_name": "Rising Rivals",
+      "number": "96/111",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-11-06",
+      "total_listings": 124
     },
     {
       "card_id": 34326,
