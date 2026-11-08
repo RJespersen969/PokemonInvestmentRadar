@@ -326411,6 +326411,6768 @@
           "market_price_as_of": "2026-11-07"
         }
       ]
+    },
+    "34960:Holofoil": {
+      "card_id": 34960,
+      "name": "Articuno",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 73.36,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34958:Holofoil": {
+      "card_id": 34958,
+      "name": "Moltres",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 48.1,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "35010:Holofoil": {
+      "card_id": 35010,
+      "name": "Porygon-Z LV.X",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 144.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34940:Holofoil": {
+      "card_id": 34940,
+      "name": "Palkia",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 73.72,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34994:Holofoil": {
+      "card_id": 34994,
+      "name": "Phione (12)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.93,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34942:Holofoil": {
+      "card_id": 34942,
+      "name": "Rotom",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 24.1,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34957:Holofoil": {
+      "card_id": 34957,
+      "name": "Zapdos",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 58.4,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "35014:Reverse Holofoil": {
+      "card_id": 35014,
+      "name": "Aerodactyl",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 15.18,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35024:Reverse Holofoil": {
+      "card_id": 35024,
+      "name": "Bronzong",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.49,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34947:Reverse Holofoil": {
+      "card_id": 34947,
+      "name": "Empoleon",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 18.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34938:Reverse Holofoil": {
+      "card_id": 34938,
+      "name": "Espeon",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 125.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34933:Reverse Holofoil": {
+      "card_id": 34933,
+      "name": "Flareon",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 46.31,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34982:Holofoil": {
+      "card_id": 34982,
+      "name": "Cresselia",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 29.65,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34973:Reverse Holofoil": {
+      "card_id": 34973,
+      "name": "Glaceon (20)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 28.31,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35012:Reverse Holofoil": {
+      "card_id": 35012,
+      "name": "Hippowdon",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35002:Reverse Holofoil": {
+      "card_id": 35002,
+      "name": "Infernape",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 46.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34937:Reverse Holofoil": {
+      "card_id": 34937,
+      "name": "Jolteon",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 37.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34959:Reverse Holofoil": {
+      "card_id": 34959,
+      "name": "Leafeon (24)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 26.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34978:Reverse Holofoil": {
+      "card_id": 34978,
+      "name": "Minun",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 15.8,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34988:Reverse Holofoil": {
+      "card_id": 34988,
+      "name": "Omastar",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.3,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35000:Reverse Holofoil": {
+      "card_id": 35000,
+      "name": "Phione (27)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.91,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35006:Normal": {
+      "card_id": 35006,
+      "name": "Plusle",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.92,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34997:Reverse Holofoil": {
+      "card_id": 34997,
+      "name": "Scizor",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 26.49,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34999:Holofoil": {
+      "card_id": 34999,
+      "name": "Darkrai",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 62.96,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34952:Reverse Holofoil": {
+      "card_id": 34952,
+      "name": "Torterra",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.88,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35023:Reverse Holofoil": {
+      "card_id": 35023,
+      "name": "Toxicroak",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34961:Reverse Holofoil": {
+      "card_id": 34961,
+      "name": "Umbreon",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 80.22,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34987:Reverse Holofoil": {
+      "card_id": 34987,
+      "name": "Unown [P]",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.35,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34983:Reverse Holofoil": {
+      "card_id": 34983,
+      "name": "Vaporeon",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 37.49,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34993:Reverse Holofoil": {
+      "card_id": 34993,
+      "name": "Ambipom",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.22,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34981:Reverse Holofoil": {
+      "card_id": 34981,
+      "name": "Fearow",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.35,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34970:Reverse Holofoil": {
+      "card_id": 34970,
+      "name": "Grotle",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 12.74,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34953:Reverse Holofoil": {
+      "card_id": 34953,
+      "name": "Kangaskhan",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.85,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34979:Reverse Holofoil": {
+      "card_id": 34979,
+      "name": "Lickitung",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34986:Holofoil": {
+      "card_id": 34986,
+      "name": "Dialga",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 50.19,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34945:Reverse Holofoil": {
+      "card_id": 34945,
+      "name": "Manectric",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.06,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34991:Reverse Holofoil": {
+      "card_id": 34991,
+      "name": "Monferno",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.49,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34995:Reverse Holofoil": {
+      "card_id": 34995,
+      "name": "Mothim",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.22,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34949:Reverse Holofoil": {
+      "card_id": 34949,
+      "name": "Pachirisu",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 40.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34962:Reverse Holofoil": {
+      "card_id": 34962,
+      "name": "Prinplup",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34955:Reverse Holofoil": {
+      "card_id": 34955,
+      "name": "Raichu",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 42.34,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34967:Reverse Holofoil": {
+      "card_id": 34967,
+      "name": "Scyther",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 31.21,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35018:Reverse Holofoil": {
+      "card_id": 35018,
+      "name": "Staravia",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.93,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34963:Reverse Holofoil": {
+      "card_id": 34963,
+      "name": "Sudowoodo",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34936:Reverse Holofoil": {
+      "card_id": 34936,
+      "name": "Unown [Q]",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 19.12,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34972:Holofoil": {
+      "card_id": 34972,
+      "name": "Glaceon (5)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 294.79,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34930:Reverse Holofoil": {
+      "card_id": 34930,
+      "name": "Aipom (50)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 45.76,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34989:Reverse Holofoil": {
+      "card_id": 34989,
+      "name": "Aipom (51)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.96,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35001:Reverse Holofoil": {
+      "card_id": 35001,
+      "name": "Bronzor",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.43,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34931:Reverse Holofoil": {
+      "card_id": 34931,
+      "name": "Buneary",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35007:Reverse Holofoil": {
+      "card_id": 35007,
+      "name": "Burmy Sandy Cloak",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.68,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34992:Normal": {
+      "card_id": 34992,
+      "name": "Chatot",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.51,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35013:Reverse Holofoil": {
+      "card_id": 35013,
+      "name": "Chimchar (56)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 19.51,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34976:Reverse Holofoil": {
+      "card_id": 34976,
+      "name": "Chimchar (57)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.97,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34950:Reverse Holofoil": {
+      "card_id": 34950,
+      "name": "Chingling",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.88,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34968:Reverse Holofoil": {
+      "card_id": 34968,
+      "name": "Combee",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.14,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34939:Holofoil": {
+      "card_id": 34939,
+      "name": "Kabutops",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 37.34,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34977:Reverse Holofoil": {
+      "card_id": 34977,
+      "name": "Croagunk",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.23,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34946:Reverse Holofoil": {
+      "card_id": 34946,
+      "name": "Drifloon",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.87,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34927:Reverse Holofoil": {
+      "card_id": 34927,
+      "name": "Eevee (62)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 44.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34926:Reverse Holofoil": {
+      "card_id": 34926,
+      "name": "Eevee (63)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 38.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34948:Reverse Holofoil": {
+      "card_id": 34948,
+      "name": "Electrike",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.14,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34956:Reverse Holofoil": {
+      "card_id": 34956,
+      "name": "Glameow",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.69,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35003:Reverse Holofoil": {
+      "card_id": 35003,
+      "name": "Hippopotas",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.42,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34944:Reverse Holofoil": {
+      "card_id": 34944,
+      "name": "Kabuto",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 21.36,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34932:Reverse Holofoil": {
+      "card_id": 34932,
+      "name": "Munchlax",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 49.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34925:Reverse Holofoil": {
+      "card_id": 34925,
+      "name": "Omanyte",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34943:Reverse Holofoil": {
+      "card_id": 34943,
+      "name": "Leafeon (7)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 98.01,
+          "market_price_as_of": "2026-11-06"
+        }
+      ]
+    },
+    "34924:Reverse Holofoil": {
+      "card_id": 34924,
+      "name": "Pikachu",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 61.98,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34928:Reverse Holofoil": {
+      "card_id": 34928,
+      "name": "Piplup (71)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 33.8,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34935:Reverse Holofoil": {
+      "card_id": 34935,
+      "name": "Piplup (72)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34951:Reverse Holofoil": {
+      "card_id": 34951,
+      "name": "Shellos East Sea",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.28,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34966:Reverse Holofoil": {
+      "card_id": 34966,
+      "name": "Spearow",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.24,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35009:Reverse Holofoil": {
+      "card_id": 35009,
+      "name": "Starly",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.86,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34996:Reverse Holofoil": {
+      "card_id": 34996,
+      "name": "Stunky",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.75,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34965:Reverse Holofoil": {
+      "card_id": 34965,
+      "name": "Turtwig (77)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 12.66,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34971:Reverse Holofoil": {
+      "card_id": 34971,
+      "name": "Turtwig (78)",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 12.17,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34941:Reverse Holofoil": {
+      "card_id": 34941,
+      "name": "Dawn Stadium",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 75.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35004:Holofoil": {
+      "card_id": 35004,
+      "name": "Manaphy",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 14.66,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34975:Reverse Holofoil": {
+      "card_id": 34975,
+      "name": "Dusk Ball",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.94,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35019:Reverse Holofoil": {
+      "card_id": 35019,
+      "name": "Energy Restore",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.37,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34980:Reverse Holofoil": {
+      "card_id": 34980,
+      "name": "Fossil Excavator",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 28.51,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34934:Reverse Holofoil": {
+      "card_id": 34934,
+      "name": "Mom's Kindness",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 11.55,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35005:Reverse Holofoil": {
+      "card_id": 35005,
+      "name": "Old Amber",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.41,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35022:Reverse Holofoil": {
+      "card_id": 35022,
+      "name": "Poke Ball",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.64,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34985:Reverse Holofoil": {
+      "card_id": 34985,
+      "name": "Quick Ball",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.3,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34954:Reverse Holofoil": {
+      "card_id": 34954,
+      "name": "Super Scoop Up",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 14.19,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35011:Reverse Holofoil": {
+      "card_id": 35011,
+      "name": "Warp Point",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34969:Reverse Holofoil": {
+      "card_id": 34969,
+      "name": "Dome Fossil",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.61,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34964:Holofoil": {
+      "card_id": 34964,
+      "name": "Mewtwo",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 186.74,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34929:Reverse Holofoil": {
+      "card_id": 34929,
+      "name": "Energy Search",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 13.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34974:Reverse Holofoil": {
+      "card_id": 34974,
+      "name": "Helix Fossil",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.61,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34990:Reverse Holofoil": {
+      "card_id": 34990,
+      "name": "Call Energy",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 16.48,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34998:Reverse Holofoil": {
+      "card_id": 34998,
+      "name": "Darkness Energy",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34984:Reverse Holofoil": {
+      "card_id": 34984,
+      "name": "Health Energy",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.08,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35017:Reverse Holofoil": {
+      "card_id": 35017,
+      "name": "Metal Energy",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.19,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35008:Reverse Holofoil": {
+      "card_id": 35008,
+      "name": "Recover Energy",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.21,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35020:Holofoil": {
+      "card_id": 35020,
+      "name": "Garchomp LV.X",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 343.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35025:Holofoil": {
+      "card_id": 35025,
+      "name": "Glaceon LV.X",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 537.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "35021:Holofoil": {
+      "card_id": 35021,
+      "name": "Leafeon LV.X",
+      "set_id": 5500174,
+      "set_name": "Majestic Dawn",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 200.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34552:Reverse Holofoil": {
+      "card_id": 34552,
+      "name": "Blaziken",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 48.26,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34530:Holofoil": {
+      "card_id": 34530,
+      "name": "Tangrowth",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.72,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34580:Reverse Holofoil": {
+      "card_id": 34580,
+      "name": "Moonlight Stadium",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 43.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34551:Reverse Holofoil": {
+      "card_id": 34551,
+      "name": "Premier Ball",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.1,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34566:Reverse Holofoil": {
+      "card_id": 34566,
+      "name": "Rare Candy",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 18.62,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34519:Holofoil": {
+      "card_id": 34519,
+      "name": "Cresselia LV.X",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 71.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34536:Holofoil": {
+      "card_id": 34536,
+      "name": "Darkrai LV.X",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 264.53,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34602:Holofoil": {
+      "card_id": 34602,
+      "name": "Dialga LV.X",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 199.52,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34594:Holofoil": {
+      "card_id": 34594,
+      "name": "Palkia LV.X",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 236.27,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34514:Reverse Holofoil": {
+      "card_id": 34514,
+      "name": "Togekiss",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 29.31,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34582:Reverse Holofoil": {
+      "card_id": 34582,
+      "name": "Altaria",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 23.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34564:Reverse Holofoil": {
+      "card_id": 34564,
+      "name": "Beedrill",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 12.95,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34584:Reverse Holofoil": {
+      "card_id": 34584,
+      "name": "Butterfree",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 18.2,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34554:Reverse Holofoil": {
+      "card_id": 34554,
+      "name": "Claydol",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.78,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34593:Reverse Holofoil": {
+      "card_id": 34593,
+      "name": "Dialga",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.93,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34560:Reverse Holofoil": {
+      "card_id": 34560,
+      "name": "Exploud",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.69,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34527:Reverse Holofoil": {
+      "card_id": 34527,
+      "name": "Houndoom",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 20.27,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34579:Reverse Holofoil": {
+      "card_id": 34579,
+      "name": "Hypno",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.39,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34529:Reverse Holofoil": {
+      "card_id": 34529,
+      "name": "Cresselia",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 24.43,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34563:Reverse Holofoil": {
+      "card_id": 34563,
+      "name": "Kingler",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34572:Reverse Holofoil": {
+      "card_id": 34572,
+      "name": "Lapras",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 34.14,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34595:Reverse Holofoil": {
+      "card_id": 34595,
+      "name": "Latias",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 23.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34587:Reverse Holofoil": {
+      "card_id": 34587,
+      "name": "Latios",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 18.64,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34576:Reverse Holofoil": {
+      "card_id": 34576,
+      "name": "Mawile",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 23.72,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34585:Reverse Holofoil": {
+      "card_id": 34585,
+      "name": "Milotic",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 32.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34600:Reverse Holofoil": {
+      "card_id": 34600,
+      "name": "Palkia",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 17.59,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34565:Reverse Holofoil": {
+      "card_id": 34565,
+      "name": "Primeape",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.15,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34522:Reverse Holofoil": {
+      "card_id": 34522,
+      "name": "Slowking",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 30.94,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34533:Reverse Holofoil": {
+      "card_id": 34533,
+      "name": "Unown [H]",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 20.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34524:Reverse Holofoil": {
+      "card_id": 34524,
+      "name": "Darkrai (3)",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 75.0,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34588:Reverse Holofoil": {
+      "card_id": 34588,
+      "name": "Wailord",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 20.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34597:Reverse Holofoil": {
+      "card_id": 34597,
+      "name": "Weezing",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.79,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34589:Reverse Holofoil": {
+      "card_id": 34589,
+      "name": "Wigglytuff",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 17.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34516:Reverse Holofoil": {
+      "card_id": 34516,
+      "name": "Arbok",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.8,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34592:Reverse Holofoil": {
+      "card_id": 34592,
+      "name": "Cacturne",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.72,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34541:Reverse Holofoil": {
+      "card_id": 34541,
+      "name": "Combusken",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34547:Reverse Holofoil": {
+      "card_id": 34547,
+      "name": "Delibird",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.65,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34601:Reverse Holofoil": {
+      "card_id": 34601,
+      "name": "Floatzel",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.66,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34599:Reverse Holofoil": {
+      "card_id": 34599,
+      "name": "Gorebyss",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.37,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34567:Reverse Holofoil": {
+      "card_id": 34567,
+      "name": "Granbull",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.08,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34518:Reverse Holofoil": {
+      "card_id": 34518,
+      "name": "Darkrai (4)",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 59.66,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34573:Reverse Holofoil": {
+      "card_id": 34573,
+      "name": "Grovyle",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 11.91,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34596:Reverse Holofoil": {
+      "card_id": 34596,
+      "name": "Hariyama",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.94,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34605:Reverse Holofoil": {
+      "card_id": 34605,
+      "name": "Huntail",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34598:Reverse Holofoil": {
+      "card_id": 34598,
+      "name": "Linoone",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.7,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34591:Reverse Holofoil": {
+      "card_id": 34591,
+      "name": "Loudred",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.37,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34544:Reverse Holofoil": {
+      "card_id": 34544,
+      "name": "Magcargo",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.51,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34515:Reverse Holofoil": {
+      "card_id": 34515,
+      "name": "Marshtomp",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 14.62,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34556:Reverse Holofoil": {
+      "card_id": 34556,
+      "name": "Metapod",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.14,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34571:Reverse Holofoil": {
+      "card_id": 34571,
+      "name": "Pelipper",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.29,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34511:Reverse Holofoil": {
+      "card_id": 34511,
+      "name": "Porygon2",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.02,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34521:Holofoil": {
+      "card_id": 34521,
+      "name": "Pachirisu",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 24.93,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34575:Reverse Holofoil": {
+      "card_id": 34575,
+      "name": "Purugly",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.74,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34590:Reverse Holofoil": {
+      "card_id": 34590,
+      "name": "Relicanth",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34603:Reverse Holofoil": {
+      "card_id": 34603,
+      "name": "Seviper",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34558:Reverse Holofoil": {
+      "card_id": 34558,
+      "name": "Skarmory",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.84,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34517:Reverse Holofoil": {
+      "card_id": 34517,
+      "name": "Slowbro",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 22.01,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34543:Reverse Holofoil": {
+      "card_id": 34543,
+      "name": "Togetic",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.41,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34531:Reverse Holofoil": {
+      "card_id": 34531,
+      "name": "Unown [F]",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.52,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34520:Reverse Holofoil": {
+      "card_id": 34520,
+      "name": "Unown [G]",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 15.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34548:Reverse Holofoil": {
+      "card_id": 34548,
+      "name": "Wailmer",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.49,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34523:Reverse Holofoil": {
+      "card_id": 34523,
+      "name": "Zangoose",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.69,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34542:Reverse Holofoil": {
+      "card_id": 34542,
+      "name": "Porygon-Z",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 17.86,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34546:Reverse Holofoil": {
+      "card_id": 34546,
+      "name": "Baltoy",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.12,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34539:Reverse Holofoil": {
+      "card_id": 34539,
+      "name": "Buizel",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.59,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34508:Reverse Holofoil": {
+      "card_id": 34508,
+      "name": "Cacnea",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.72,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34525:Reverse Holofoil": {
+      "card_id": 34525,
+      "name": "Caterpie",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 20.69,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34578:Reverse Holofoil": {
+      "card_id": 34578,
+      "name": "Clamperl",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34586:Reverse Holofoil": {
+      "card_id": 34586,
+      "name": "Drowzee",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.15,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34526:Reverse Holofoil": {
+      "card_id": 34526,
+      "name": "Ekans",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.49,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34557:Reverse Holofoil": {
+      "card_id": 34557,
+      "name": "Feebas",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.33,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34545:Reverse Holofoil": {
+      "card_id": 34545,
+      "name": "Glameow",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.38,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34503:Reverse Holofoil": {
+      "card_id": 34503,
+      "name": "Houndour",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.92,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34506:Holofoil": {
+      "card_id": 34506,
+      "name": "Rotom",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 42.7,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34504:Reverse Holofoil": {
+      "card_id": 34504,
+      "name": "Igglybuff",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 19.87,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34604:Reverse Holofoil": {
+      "card_id": 34604,
+      "name": "Illumise",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.98,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34507:Reverse Holofoil": {
+      "card_id": 34507,
+      "name": "Jigglypuff",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 39.61,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34570:Reverse Holofoil": {
+      "card_id": 34570,
+      "name": "Kakuna",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.29,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34555:Reverse Holofoil": {
+      "card_id": 34555,
+      "name": "Koffing",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34561:Reverse Holofoil": {
+      "card_id": 34561,
+      "name": "Krabby",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.74,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34559:Reverse Holofoil": {
+      "card_id": 34559,
+      "name": "Lunatone",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.91,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34500:Reverse Holofoil": {
+      "card_id": 34500,
+      "name": "Luvdisc",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.1,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34538:Reverse Holofoil": {
+      "card_id": 34538,
+      "name": "Makuhita",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.53,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34568:Reverse Holofoil": {
+      "card_id": 34568,
+      "name": "Mankey",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 20.09,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34581:Holofoil": {
+      "card_id": 34581,
+      "name": "Sceptile",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 29.8,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34512:Reverse Holofoil": {
+      "card_id": 34512,
+      "name": "Mudkip",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 89.73,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34502:Reverse Holofoil": {
+      "card_id": 34502,
+      "name": "Porygon",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.56,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34501:Reverse Holofoil": {
+      "card_id": 34501,
+      "name": "Slowpoke",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 150.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34535:Reverse Holofoil": {
+      "card_id": 34535,
+      "name": "Slugma",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.73,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34540:Reverse Holofoil": {
+      "card_id": 34540,
+      "name": "Snubbull",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.71,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34553:Reverse Holofoil": {
+      "card_id": 34553,
+      "name": "Solrock",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.24,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34505:Reverse Holofoil": {
+      "card_id": 34505,
+      "name": "Swablu",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.12,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34534:Reverse Holofoil": {
+      "card_id": 34534,
+      "name": "Tangela",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.7,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34509:Reverse Holofoil": {
+      "card_id": 34509,
+      "name": "Togepi",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.05,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34499:Reverse Holofoil": {
+      "card_id": 34499,
+      "name": "Torchic",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 42.1,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34550:Reverse Holofoil": {
+      "card_id": 34550,
+      "name": "Swampert",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 84.24,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "34537:Reverse Holofoil": {
+      "card_id": 34537,
+      "name": "Treecko",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 25.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34532:Reverse Holofoil": {
+      "card_id": 34532,
+      "name": "Unown [L]",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34583:Reverse Holofoil": {
+      "card_id": 34583,
+      "name": "Volbeat",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.26,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34510:Reverse Holofoil": {
+      "card_id": 34510,
+      "name": "Weedle",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.94,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34513:Reverse Holofoil": {
+      "card_id": 34513,
+      "name": "Whismur",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.43,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34562:Reverse Holofoil": {
+      "card_id": 34562,
+      "name": "Wingull",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.68,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34549:Reverse Holofoil": {
+      "card_id": 34549,
+      "name": "Zigzagoon",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.97,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34577:Reverse Holofoil": {
+      "card_id": 34577,
+      "name": "Amulet Coin",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.92,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34528:Reverse Holofoil": {
+      "card_id": 34528,
+      "name": "Felicity's Drawing",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.05,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "34574:Reverse Holofoil": {
+      "card_id": 34574,
+      "name": "Leftovers",
+      "set_id": 5500135,
+      "set_name": "Great Encounters",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30401:Holofoil": {
+      "card_id": 30401,
+      "name": "Ampharos",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 45.36,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30386:Holofoil": {
+      "card_id": 30386,
+      "name": "Ho-Oh",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 44.28,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30345:Reverse Holofoil": {
+      "card_id": 30345,
+      "name": "Psyduck",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 86.14,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30455:Reverse Holofoil": {
+      "card_id": 30455,
+      "name": "Qwilfish",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.3,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30358:Reverse Holofoil": {
+      "card_id": 30358,
+      "name": "Ralts",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 15.01,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30423:Reverse Holofoil": {
+      "card_id": 30423,
+      "name": "Rattata",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.93,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30396:Reverse Holofoil": {
+      "card_id": 30396,
+      "name": "Sentret",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.54,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30388:Reverse Holofoil": {
+      "card_id": 30388,
+      "name": "Shellder",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.49,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30420:Reverse Holofoil": {
+      "card_id": 30420,
+      "name": "Shellos East Sea",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.32,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30445:Reverse Holofoil": {
+      "card_id": 30445,
+      "name": "Shellos West Sea",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.78,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30370:Reverse Holofoil": {
+      "card_id": 30370,
+      "name": "Shroomish",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.52,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30354:Reverse Holofoil": {
+      "card_id": 30354,
+      "name": "Shuckle",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 27.83,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30419:Holofoil": {
+      "card_id": 30419,
+      "name": "Jumpluff",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.59,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30380:Reverse Holofoil": {
+      "card_id": 30380,
+      "name": "Shuppet",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.05,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30364:Reverse Holofoil": {
+      "card_id": 30364,
+      "name": "Spinda",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.02,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30344:Reverse Holofoil": {
+      "card_id": 30344,
+      "name": "Squirtle",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 28.37,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30408:Reverse Holofoil": {
+      "card_id": 30408,
+      "name": "Stantler",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.21,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30416:Reverse Holofoil": {
+      "card_id": 30416,
+      "name": "Sunkern",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.01,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30392:Reverse Holofoil": {
+      "card_id": 30392,
+      "name": "Trapinch",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.98,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30424:Reverse Holofoil": {
+      "card_id": 30424,
+      "name": "Venonat",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.71,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30418:Reverse Holofoil": {
+      "card_id": 30418,
+      "name": "Voltorb",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.2,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30349:Reverse Holofoil": {
+      "card_id": 30349,
+      "name": "Wooper",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 36.9,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30430:Reverse Holofoil": {
+      "card_id": 30430,
+      "name": "Bebe's Search",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.45,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30421:Holofoil": {
+      "card_id": 30421,
+      "name": "Lickilicky",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 19.1,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30378:Reverse Holofoil": {
+      "card_id": 30378,
+      "name": "Night Maintenance",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30462:Reverse Holofoil": {
+      "card_id": 30462,
+      "name": "PlusPower",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30402:Reverse Holofoil": {
+      "card_id": 30402,
+      "name": "Professor Oak's Visit",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.18,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30435:Reverse Holofoil": {
+      "card_id": 30435,
+      "name": "Professor Rowan",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.97,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30468:Reverse Holofoil": {
+      "card_id": 30468,
+      "name": "Rival",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30340:Reverse Holofoil": {
+      "card_id": 30340,
+      "name": "Roseanne's Research",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 20.03,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30384:Reverse Holofoil": {
+      "card_id": 30384,
+      "name": "Team Galactic's Mars",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.29,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30337:Reverse Holofoil": {
+      "card_id": 30337,
+      "name": "Potion",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.75,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30376:Reverse Holofoil": {
+      "card_id": 30376,
+      "name": "Switch",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 11.95,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30466:Reverse Holofoil": {
+      "card_id": 30466,
+      "name": "Darkness Energy",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.58,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30432:Holofoil": {
+      "card_id": 30432,
+      "name": "Ludicolo",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 11.92,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30438:Reverse Holofoil": {
+      "card_id": 30438,
+      "name": "Metal Energy",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.76,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30458:Holofoil": {
+      "card_id": 30458,
+      "name": "Gardevoir LV.X",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 341.78,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30446:Holofoil": {
+      "card_id": 30446,
+      "name": "Honchkrow LV.X",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 65.45,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30366:Holofoil": {
+      "card_id": 30366,
+      "name": "Lugia",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 436.2,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30360:Holofoil": {
+      "card_id": 30360,
+      "name": "Mew",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 262.14,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30351:Holofoil": {
+      "card_id": 30351,
+      "name": "Raikou",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 26.21,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30444:Holofoil": {
+      "card_id": 30444,
+      "name": "Roserade",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.13,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30381:Holofoil": {
+      "card_id": 30381,
+      "name": "Salamence",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 50.48,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30363:Holofoil": {
+      "card_id": 30363,
+      "name": "Suicune",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 61.7,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30409:Reverse Holofoil": {
+      "card_id": 30409,
+      "name": "Blastoise",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 109.99,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30394:Holofoil": {
+      "card_id": 30394,
+      "name": "Venusaur",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 65.88,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30412:Reverse Holofoil": {
+      "card_id": 30412,
+      "name": "Absol",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 57.34,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30350:Reverse Holofoil": {
+      "card_id": 30350,
+      "name": "Arcanine",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 67.53,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30467:Reverse Holofoil": {
+      "card_id": 30467,
+      "name": "Banette",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 11.08,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30451:Reverse Holofoil": {
+      "card_id": 30451,
+      "name": "Dugtrio",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.9,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30431:Reverse Holofoil": {
+      "card_id": 30431,
+      "name": "Electivire",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.14,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30457:Reverse Holofoil": {
+      "card_id": 30457,
+      "name": "Electrode",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.97,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30459:Reverse Holofoil": {
+      "card_id": 30459,
+      "name": "Furret",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 11.77,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30428:Reverse Holofoil": {
+      "card_id": 30428,
+      "name": "Golduck",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30456:Reverse Holofoil": {
+      "card_id": 30456,
+      "name": "Golem",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.82,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30368:Reverse Holofoil": {
+      "card_id": 30368,
+      "name": "Charizard",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 441.24,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30460:Reverse Holofoil": {
+      "card_id": 30460,
+      "name": "Jynx",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.17,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30454:Reverse Holofoil": {
+      "card_id": 30454,
+      "name": "Magmortar",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.16,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30414:Reverse Holofoil": {
+      "card_id": 30414,
+      "name": "Minun",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 19.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30448:Reverse Holofoil": {
+      "card_id": 30448,
+      "name": "Mothim",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.11,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30442:Reverse Holofoil": {
+      "card_id": 30442,
+      "name": "Nidoking",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 31.3,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30449:Reverse Holofoil": {
+      "card_id": 30449,
+      "name": "Pidgeot",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 11.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30383:Reverse Holofoil": {
+      "card_id": 30383,
+      "name": "Plusle",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 12.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30447:Reverse Holofoil": {
+      "card_id": 30447,
+      "name": "Sharpedo",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.32,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30427:Reverse Holofoil": {
+      "card_id": 30427,
+      "name": "Sunflora",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.03,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30400:Reverse Holofoil": {
+      "card_id": 30400,
+      "name": "Unown [S]",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.79,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30356:Holofoil": {
+      "card_id": 30356,
+      "name": "Entei",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 52.67,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30461:Reverse Holofoil": {
+      "card_id": 30461,
+      "name": "Weavile",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.66,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30441:Reverse Holofoil": {
+      "card_id": 30441,
+      "name": "Wormadam Plant Cloak",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.13,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30464:Reverse Holofoil": {
+      "card_id": 30464,
+      "name": "Wormadam Sandy Cloak",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.76,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30417:Reverse Holofoil": {
+      "card_id": 30417,
+      "name": "Wormadam Trash Cloak",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.77,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30436:Reverse Holofoil": {
+      "card_id": 30436,
+      "name": "Xatu",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.27,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30403:Reverse Holofoil": {
+      "card_id": 30403,
+      "name": "Breloom",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.26,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30346:Reverse Holofoil": {
+      "card_id": 30346,
+      "name": "Charmeleon",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 13.88,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30463:Reverse Holofoil": {
+      "card_id": 30463,
+      "name": "Cloyster",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.8,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30395:Reverse Holofoil": {
+      "card_id": 30395,
+      "name": "Donphan",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.67,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30407:Reverse Holofoil": {
+      "card_id": 30407,
+      "name": "Farfetch'd",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.47,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30385:Reverse Holofoil": {
+      "card_id": 30385,
+      "name": "Flygon",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 54.86,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30348:Reverse Holofoil": {
+      "card_id": 30348,
+      "name": "Flaaffy",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.83,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30347:Reverse Holofoil": {
+      "card_id": 30347,
+      "name": "Ivysaur",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.58,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30439:Reverse Holofoil": {
+      "card_id": 30439,
+      "name": "Kecleon",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.55,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30365:Reverse Holofoil": {
+      "card_id": 30365,
+      "name": "Kirlia",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.87,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30465:Reverse Holofoil": {
+      "card_id": 30465,
+      "name": "Lombre",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.67,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30393:Reverse Holofoil": {
+      "card_id": 30393,
+      "name": "Miltank",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.07,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30389:Reverse Holofoil": {
+      "card_id": 30389,
+      "name": "Muk",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.19,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30399:Reverse Holofoil": {
+      "card_id": 30399,
+      "name": "Nidorino",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.85,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30433:Reverse Holofoil": {
+      "card_id": 30433,
+      "name": "Pidgeotto",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.74,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30362:Reverse Holofoil": {
+      "card_id": 30362,
+      "name": "Pinsir",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.95,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30437:Holofoil": {
+      "card_id": 30437,
+      "name": "Gallade",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 15.64,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30352:Reverse Holofoil": {
+      "card_id": 30352,
+      "name": "Quagsire",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 29.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30425:Reverse Holofoil": {
+      "card_id": 30425,
+      "name": "Raticate",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.2,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30452:Reverse Holofoil": {
+      "card_id": 30452,
+      "name": "Roselia",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.62,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30374:Reverse Holofoil": {
+      "card_id": 30374,
+      "name": "Sableye",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 15.24,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30450:Reverse Holofoil": {
+      "card_id": 30450,
+      "name": "Shelgon",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.79,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30355:Reverse Holofoil": {
+      "card_id": 30355,
+      "name": "Skiploom",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.88,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30397:Reverse Holofoil": {
+      "card_id": 30397,
+      "name": "Smeargle",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30371:Reverse Holofoil": {
+      "card_id": 30371,
+      "name": "Smoochum",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.08,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30379:Reverse Holofoil": {
+      "card_id": 30379,
+      "name": "Unown [K]",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 29.14,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30359:Reverse Holofoil": {
+      "card_id": 30359,
+      "name": "Unown [N]",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 13.2,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30398:Reverse Holofoil": {
+      "card_id": 30398,
+      "name": "Gardevoir",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 69.49,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30353:Reverse Holofoil": {
+      "card_id": 30353,
+      "name": "Unown [O]",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.71,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30369:Reverse Holofoil": {
+      "card_id": 30369,
+      "name": "Unown [X]",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.92,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30361:Reverse Holofoil": {
+      "card_id": 30361,
+      "name": "Unown [Z]",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.89,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30390:Reverse Holofoil": {
+      "card_id": 30390,
+      "name": "Venomoth",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.63,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30453:Reverse Holofoil": {
+      "card_id": 30453,
+      "name": "Vibrava",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.67,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30410:Reverse Holofoil": {
+      "card_id": 30410,
+      "name": "Wartortle",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 15.68,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30426:Reverse Holofoil": {
+      "card_id": 30426,
+      "name": "Bagon",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.16,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30339:Reverse Holofoil": {
+      "card_id": 30339,
+      "name": "Bulbasaur",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 62.81,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30429:Reverse Holofoil": {
+      "card_id": 30429,
+      "name": "Burmy Plant Cloak",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.29,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30415:Reverse Holofoil": {
+      "card_id": 30415,
+      "name": "Burmy Sandy Cloak",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.44,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30373:Reverse Holofoil": {
+      "card_id": 30373,
+      "name": "Gastrodon East Sea",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 24.1,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30411:Reverse Holofoil": {
+      "card_id": 30411,
+      "name": "Burmy Trash Cloak",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.17,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30377:Reverse Holofoil": {
+      "card_id": 30377,
+      "name": "Carvanha",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.59,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30338:Reverse Holofoil": {
+      "card_id": 30338,
+      "name": "Charmander",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 94.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30343:Reverse Holofoil": {
+      "card_id": 30343,
+      "name": "Clefairy",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.84,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30367:Reverse Holofoil": {
+      "card_id": 30367,
+      "name": "Corsola",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.12,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30406:Reverse Holofoil": {
+      "card_id": 30406,
+      "name": "Diglett",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.97,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30357:Reverse Holofoil": {
+      "card_id": 30357,
+      "name": "Duskull",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.1,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30434:Reverse Holofoil": {
+      "card_id": 30434,
+      "name": "Electabuzz",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.54,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30440:Reverse Holofoil": {
+      "card_id": 30440,
+      "name": "Grimer",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.46,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30341:Reverse Holofoil": {
+      "card_id": 30341,
+      "name": "Growlithe",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 20.78,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30413:Holofoil": {
+      "card_id": 30413,
+      "name": "Gastrodon West Sea",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 16.54,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "30382:Reverse Holofoil": {
+      "card_id": 30382,
+      "name": "Hoppip",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.19,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30422:Reverse Holofoil": {
+      "card_id": 30422,
+      "name": "Lickitung",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.34,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30404:Reverse Holofoil": {
+      "card_id": 30404,
+      "name": "Lotad",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.1,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30391:Reverse Holofoil": {
+      "card_id": 30391,
+      "name": "Magmar",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.24,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30342:Reverse Holofoil": {
+      "card_id": 30342,
+      "name": "Mareep",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.17,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30405:Reverse Holofoil": {
+      "card_id": 30405,
+      "name": "Murkrow",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.45,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30443:Reverse Holofoil": {
+      "card_id": 30443,
+      "name": "Natu",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.08,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30387:Reverse Holofoil": {
+      "card_id": 30387,
+      "name": "Nidoran M",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.13,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30372:Reverse Holofoil": {
+      "card_id": 30372,
+      "name": "Phanpy",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30375:Reverse Holofoil": {
+      "card_id": 30375,
+      "name": "Pidgey",
+      "set_id": 5500082,
+      "set_name": "Secret Wonders",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 35.77,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38353:Normal": {
+      "card_id": 38353,
+      "name": "Geodude",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38351:Normal": {
+      "card_id": 38351,
+      "name": "Buizel",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.23,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38356:Normal": {
+      "card_id": 38356,
+      "name": "Quick Ball",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38366:Normal": {
+      "card_id": 38366,
+      "name": "Energy Search (Manaphy)",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38363:Normal": {
+      "card_id": 38363,
+      "name": "Potion (Manaphy)",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38360:Normal": {
+      "card_id": 38360,
+      "name": "Water Energy",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.48,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38352:Normal": {
+      "card_id": 38352,
+      "name": "Graveler",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.93,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38361:Normal": {
+      "card_id": 38361,
+      "name": "Floatzel",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38346:Holofoil": {
+      "card_id": 38346,
+      "name": "Lucario",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 12.5,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38364:Normal": {
+      "card_id": 38364,
+      "name": "Goldeen",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38358:Normal": {
+      "card_id": 38358,
+      "name": "Machoke",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.87,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38345:Holofoil": {
+      "card_id": 38345,
+      "name": "Manaphy",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.46,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38365:Normal": {
+      "card_id": 38365,
+      "name": "Machop",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38347:Normal": {
+      "card_id": 38347,
+      "name": "Piplup",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.38,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38359:Normal": {
+      "card_id": 38359,
+      "name": "Prinplup",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.74,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38350:Normal": {
+      "card_id": 38350,
+      "name": "Riolu",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.81,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38354:Normal": {
+      "card_id": 38354,
+      "name": "Starly",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38362:Normal": {
+      "card_id": 38362,
+      "name": "Seaking",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38355:Normal": {
+      "card_id": 38355,
+      "name": "Energy Search (Lucario)",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.46,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38349:Normal": {
+      "card_id": 38349,
+      "name": "Totodile",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.63,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38367:Normal": {
+      "card_id": 38367,
+      "name": "Dusk Ball",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.27,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "38357:Normal": {
+      "card_id": 38357,
+      "name": "Potion (Lucario)",
+      "set_id": 5500132,
+      "set_name": "DP Trainer Kit: Manaphy & Lucario",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31095:Holofoil": {
+      "card_id": 31095,
+      "name": "Aggron",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 19.45,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31048:Reverse Holofoil": {
+      "card_id": 31048,
+      "name": "Honchkrow",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.96,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31050:Reverse Holofoil": {
+      "card_id": 31050,
+      "name": "Snorunt",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31107:Reverse Holofoil": {
+      "card_id": 31107,
+      "name": "Snover",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31001:Reverse Holofoil": {
+      "card_id": 31001,
+      "name": "Spheal",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.08,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31046:Reverse Holofoil": {
+      "card_id": 31046,
+      "name": "Spinarak",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.81,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31064:Reverse Holofoil": {
+      "card_id": 31064,
+      "name": "Surskit",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.33,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31002:Reverse Holofoil": {
+      "card_id": 31002,
+      "name": "Teddiursa",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 37.62,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31011:Reverse Holofoil": {
+      "card_id": 31011,
+      "name": "Totodile",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 20.59,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31013:Reverse Holofoil": {
+      "card_id": 31013,
+      "name": "Vulpix",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.55,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31049:Reverse Holofoil": {
+      "card_id": 31049,
+      "name": "Zubat",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.17,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31071:Reverse Holofoil": {
+      "card_id": 31071,
+      "name": "Bebe's Search",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31086:Holofoil": {
+      "card_id": 31086,
+      "name": "Lumineon",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.79,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31122:Reverse Holofoil": {
+      "card_id": 31122,
+      "name": "Dusk Ball",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.48,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31006:Reverse Holofoil": {
+      "card_id": 31006,
+      "name": "Fossil Excavator",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.17,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31060:Reverse Holofoil": {
+      "card_id": 31060,
+      "name": "Lake Boundary",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.64,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31091:Reverse Holofoil": {
+      "card_id": 31091,
+      "name": "Night Maintenance",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.2,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31104:Reverse Holofoil": {
+      "card_id": 31104,
+      "name": "Quick Ball",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.78,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31052:Reverse Holofoil": {
+      "card_id": 31052,
+      "name": "Team Galactic's Wager",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.76,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31098:Reverse Holofoil": {
+      "card_id": 31098,
+      "name": "Armor Fossil",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.28,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31039:Reverse Holofoil": {
+      "card_id": 31039,
+      "name": "Skull Fossil",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.57,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31101:Reverse Holofoil": {
+      "card_id": 31101,
+      "name": "Multi Energy",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.41,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31121:Reverse Holofoil": {
+      "card_id": 31121,
+      "name": "Darkness Energy",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.14,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31079:Holofoil": {
+      "card_id": 31079,
+      "name": "Magmortar",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.11,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31116:Reverse Holofoil": {
+      "card_id": 31116,
+      "name": "Metal Energy",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.42,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31106:Holofoil": {
+      "card_id": 31106,
+      "name": "Electivire LV.X",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 88.66,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31058:Holofoil": {
+      "card_id": 31058,
+      "name": "Lucario LV.X",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 216.04,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31090:Holofoil": {
+      "card_id": 31090,
+      "name": "Magmortar Lv.X",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 81.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31103:Holofoil": {
+      "card_id": 31103,
+      "name": "Time-Space Distortion",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 100.06,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31066:Reverse Holofoil": {
+      "card_id": 31066,
+      "name": "Meganium",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 24.66,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31021:Holofoil": {
+      "card_id": 31021,
+      "name": "Mesprit",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 29.78,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31028:Reverse Holofoil": {
+      "card_id": 31028,
+      "name": "Raichu",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 35.43,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31082:Holofoil": {
+      "card_id": 31082,
+      "name": "Typhlosion",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 46.68,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31012:Holofoil": {
+      "card_id": 31012,
+      "name": "Tyranitar",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 70.09,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31045:Holofoil": {
+      "card_id": 31045,
+      "name": "Uxie",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 29.49,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31118:Reverse Holofoil": {
+      "card_id": 31118,
+      "name": "Abomasnow",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.74,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31025:Holofoil": {
+      "card_id": 31025,
+      "name": "Alakazam",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 83.72,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31111:Reverse Holofoil": {
+      "card_id": 31111,
+      "name": "Ariados",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.72,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31087:Reverse Holofoil": {
+      "card_id": 31087,
+      "name": "Bastiodon",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.8,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31115:Reverse Holofoil": {
+      "card_id": 31115,
+      "name": "Chimecho",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.69,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31065:Reverse Holofoil": {
+      "card_id": 31065,
+      "name": "Crobat",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 13.6,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31080:Reverse Holofoil": {
+      "card_id": 31080,
+      "name": "Exeggutor",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.13,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31119:Reverse Holofoil": {
+      "card_id": 31119,
+      "name": "Glalie",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.31,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31019:Reverse Holofoil": {
+      "card_id": 31019,
+      "name": "Gyarados",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 47.04,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31069:Reverse Holofoil": {
+      "card_id": 31069,
+      "name": "Kricketune",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.4,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31114:Reverse Holofoil": {
+      "card_id": 31114,
+      "name": "Manectric",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.07,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31102:Holofoil": {
+      "card_id": 31102,
+      "name": "Ambipom",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.87,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31077:Reverse Holofoil": {
+      "card_id": 31077,
+      "name": "Mr. Mime",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.28,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31084:Reverse Holofoil": {
+      "card_id": 31084,
+      "name": "Nidoqueen",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.8,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31113:Reverse Holofoil": {
+      "card_id": 31113,
+      "name": "Ninetales",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 43.38,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31059:Reverse Holofoil": {
+      "card_id": 31059,
+      "name": "Rampardos",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.66,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31108:Reverse Holofoil": {
+      "card_id": 31108,
+      "name": "Slaking",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.74,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31007:Reverse Holofoil": {
+      "card_id": 31007,
+      "name": "Sudowoodo",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.57,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31110:Reverse Holofoil": {
+      "card_id": 31110,
+      "name": "Toxicroak",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.18,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31043:Reverse Holofoil": {
+      "card_id": 31043,
+      "name": "Unown [I]",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.38,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31094:Reverse Holofoil": {
+      "card_id": 31094,
+      "name": "Ursaring",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.29,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31097:Reverse Holofoil": {
+      "card_id": 31097,
+      "name": "Walrein",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.83,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31018:Holofoil": {
+      "card_id": 31018,
+      "name": "Azelf",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 19.53,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31112:Reverse Holofoil": {
+      "card_id": 31112,
+      "name": "Whiscash",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.38,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31041:Reverse Holofoil": {
+      "card_id": 31041,
+      "name": "Bayleef",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31061:Reverse Holofoil": {
+      "card_id": 31061,
+      "name": "Chingling",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 13.27,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31053:Reverse Holofoil": {
+      "card_id": 31053,
+      "name": "Cranidos",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.53,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31026:Reverse Holofoil": {
+      "card_id": 31026,
+      "name": "Croconaw",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.8,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31051:Reverse Holofoil": {
+      "card_id": 31051,
+      "name": "Dewgong",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.17,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31120:Reverse Holofoil": {
+      "card_id": 31120,
+      "name": "Dodrio",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.38,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31054:Reverse Holofoil": {
+      "card_id": 31054,
+      "name": "Dunsparce",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.74,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31099:Reverse Holofoil": {
+      "card_id": 31099,
+      "name": "Gabite",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.25,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31047:Reverse Holofoil": {
+      "card_id": 31047,
+      "name": "Girafarig",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.87,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31027:Holofoil": {
+      "card_id": 31027,
+      "name": "Blissey",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 14.53,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31088:Reverse Holofoil": {
+      "card_id": 31088,
+      "name": "Golbat",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.48,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31073:Reverse Holofoil": {
+      "card_id": 31073,
+      "name": "Graveler",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.89,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31005:Reverse Holofoil": {
+      "card_id": 31005,
+      "name": "Happiny",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 29.15,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31093:Reverse Holofoil": {
+      "card_id": 31093,
+      "name": "Lairon",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.75,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31092:Reverse Holofoil": {
+      "card_id": 31092,
+      "name": "Magmar",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.51,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31062:Reverse Holofoil": {
+      "card_id": 31062,
+      "name": "Masquerain",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.42,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31038:Reverse Holofoil": {
+      "card_id": 31038,
+      "name": "Nidorina",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.83,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31100:Reverse Holofoil": {
+      "card_id": 31100,
+      "name": "Octillery",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.23,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31105:Reverse Holofoil": {
+      "card_id": 31105,
+      "name": "Parasect",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.28,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31072:Reverse Holofoil": {
+      "card_id": 31072,
+      "name": "Pupitar",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.47,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31067:Holofoil": {
+      "card_id": 31067,
+      "name": "Bronzong",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 4.97,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31015:Reverse Holofoil": {
+      "card_id": 31015,
+      "name": "Quilava",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 18.02,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31017:Reverse Holofoil": {
+      "card_id": 31017,
+      "name": "Sandslash",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.05,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31042:Reverse Holofoil": {
+      "card_id": 31042,
+      "name": "Sealeo",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.46,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31040:Reverse Holofoil": {
+      "card_id": 31040,
+      "name": "Shieldon",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.89,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31075:Reverse Holofoil": {
+      "card_id": 31075,
+      "name": "Tropius",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.78,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31031:Reverse Holofoil": {
+      "card_id": 31031,
+      "name": "Unown [E]",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.05,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31029:Reverse Holofoil": {
+      "card_id": 31029,
+      "name": "Unown [M]",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.19,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31016:Reverse Holofoil": {
+      "card_id": 31016,
+      "name": "Unown [T]",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.01,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31096:Reverse Holofoil": {
+      "card_id": 31096,
+      "name": "Vigoroth",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.61,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31008:Reverse Holofoil": {
+      "card_id": 31008,
+      "name": "Abra",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 17.89,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31030:Holofoil": {
+      "card_id": 31030,
+      "name": "Celebi",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 53.68,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31033:Reverse Holofoil": {
+      "card_id": 31033,
+      "name": "Aipom",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.77,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31034:Normal": {
+      "card_id": 31034,
+      "name": "Aron",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.64,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31089:Reverse Holofoil": {
+      "card_id": 31089,
+      "name": "Barboach",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.42,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31032:Reverse Holofoil": {
+      "card_id": 31032,
+      "name": "Bidoof",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.5,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31078:Reverse Holofoil": {
+      "card_id": 31078,
+      "name": "Bronzor",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.96,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31085:Reverse Holofoil": {
+      "card_id": 31085,
+      "name": "Buizel",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.88,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31004:Reverse Holofoil": {
+      "card_id": 31004,
+      "name": "Chansey",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.1,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31010:Reverse Holofoil": {
+      "card_id": 31010,
+      "name": "Chikorita",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.99,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31076:Reverse Holofoil": {
+      "card_id": 31076,
+      "name": "Croagunk",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.57,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31022:Reverse Holofoil": {
+      "card_id": 31022,
+      "name": "Cyndaquil",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 12.56,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31020:Holofoil": {
+      "card_id": 31020,
+      "name": "Feraligatr",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 39.16,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31057:Reverse Holofoil": {
+      "card_id": 31057,
+      "name": "Doduo",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 0.95,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31109:Reverse Holofoil": {
+      "card_id": 31109,
+      "name": "Electrike",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.8,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31055:Reverse Holofoil": {
+      "card_id": 31055,
+      "name": "Exeggcute",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.79,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31083:Reverse Holofoil": {
+      "card_id": 31083,
+      "name": "Finneon",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31036:Reverse Holofoil": {
+      "card_id": 31036,
+      "name": "Geodude",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 5.51,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31070:Reverse Holofoil": {
+      "card_id": 31070,
+      "name": "Gible",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 10.07,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31024:Reverse Holofoil": {
+      "card_id": 31024,
+      "name": "Kricketot",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 3.49,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31081:Reverse Holofoil": {
+      "card_id": 31081,
+      "name": "Larvitar",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.88,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31037:Reverse Holofoil": {
+      "card_id": 31037,
+      "name": "Magby",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 6.84,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31009:Reverse Holofoil": {
+      "card_id": 31009,
+      "name": "Magikarp",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 33.74,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31056:Holofoil": {
+      "card_id": 31056,
+      "name": "Garchomp",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 46.83,
+          "market_price_as_of": "2026-11-07"
+        }
+      ]
+    },
+    "31063:Reverse Holofoil": {
+      "card_id": 31063,
+      "name": "Murkrow",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 7.31,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31074:Reverse Holofoil": {
+      "card_id": 31074,
+      "name": "Nidoran F",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.8,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31044:Reverse Holofoil": {
+      "card_id": 31044,
+      "name": "Paras",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.12,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "30999:Reverse Holofoil": {
+      "card_id": 30999,
+      "name": "Pichu",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 125.0,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31003:Reverse Holofoil": {
+      "card_id": 31003,
+      "name": "Pikachu",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 63.54,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31068:Reverse Holofoil": {
+      "card_id": 31068,
+      "name": "Remoraid",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 2.42,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31023:Reverse Holofoil": {
+      "card_id": 31023,
+      "name": "Sandshrew",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 8.04,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31117:Reverse Holofoil": {
+      "card_id": 31117,
+      "name": "Seel",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31014:Reverse Holofoil": {
+      "card_id": 31014,
+      "name": "Shinx",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 29.34,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
+    },
+    "31000:Reverse Holofoil": {
+      "card_id": 31000,
+      "name": "Slakoth",
+      "set_id": 5500046,
+      "set_name": "Mysterious Treasures",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-08",
+          "market_price_usd": 9.49,
+          "market_price_as_of": "2026-11-08"
+        }
+      ]
     }
   }
 }
