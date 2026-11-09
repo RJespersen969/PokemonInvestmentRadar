@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-08T14:25:09.459372+00:00",
+  "generated_at": "2026-11-09T17:43:35.661805+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 164,
+  "next_set_index": 169,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 9,
-  "total_candidates": 6923,
-  "cards_with_price_history": 23798,
+  "api_calls": 7,
+  "total_candidates": 7133,
+  "cards_with_price_history": 24092,
   "candidates": [
     {
       "card_id": 20118,
@@ -735,6 +735,18 @@
       "total_listings": 109
     },
     {
+      "card_id": 36905,
+      "name": "Darkrai LV.X - DP19",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP19",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 177.04,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 25
+    },
+    {
       "card_id": 22378,
       "name": "Pikachu & Zekrom GX (Full Art)",
       "set_id": 5500079,
@@ -1011,6 +1023,30 @@
       "total_listings": 94
     },
     {
+      "card_id": 33937,
+      "name": "Flygon ex",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "94/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 168.94,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 23
+    },
+    {
+      "card_id": 30247,
+      "name": "Infernape LV.X",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "121/130",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 167.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 29
+    },
+    {
       "card_id": 34792,
       "name": "Darkrai & Cresselia Legend (Bottom)",
       "set_id": 5500078,
@@ -1057,6 +1093,18 @@
       "market_price_usd": 166.66,
       "market_price_as_of": "2026-10-28",
       "total_listings": 2
+    },
+    {
+      "card_id": 33883,
+      "name": "Ninetales",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "19/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 166.64,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 65
     },
     {
       "card_id": 31962,
@@ -2019,6 +2067,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 36902,
+      "name": "Lucario LV.X - DP12",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP12",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 143.74,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 31
+    },
+    {
       "card_id": 37501,
       "name": "N (Supporter) - 105a/124",
       "set_id": 5500060,
@@ -2451,6 +2511,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 33943,
+      "name": "Metagross ex",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "95/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 137.34,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 5
+    },
+    {
       "card_id": 16731,
       "name": "Charizard & Braixen GX (Secret)",
       "set_id": 5500206,
@@ -2607,6 +2679,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 36916,
+      "name": "Garchomp C LV.X - DP46",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP46",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 133.35,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 36
+    },
+    {
       "card_id": 23699,
       "name": "M Mewtwo EX (159 Full Art)",
       "set_id": 5500195,
@@ -2713,6 +2797,18 @@
       "market_price_usd": 130.2,
       "market_price_as_of": "2026-11-04",
       "total_listings": 33
+    },
+    {
+      "card_id": 30285,
+      "name": "Torterra LV.X",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "122/130",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 130.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 38
     },
     {
       "card_id": 38755,
@@ -2833,6 +2929,18 @@
       "market_price_usd": 128.99,
       "market_price_as_of": "2026-11-05",
       "total_listings": 27
+    },
+    {
+      "card_id": 33867,
+      "name": "Pichu",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "21/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 128.82,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 71
     },
     {
       "card_id": 7203,
@@ -3867,6 +3975,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 36907,
+      "name": "Empoleon LV.X - DP11",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP11",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 115.49,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 53
+    },
+    {
       "card_id": 4479,
       "name": "Eevee - 133/165 (Pokemon Together)",
       "set_id": 5500123,
@@ -3889,6 +4009,18 @@
       "market_price_usd": 115.35,
       "market_price_as_of": "2026-11-05",
       "total_listings": 14
+    },
+    {
+      "card_id": 36917,
+      "name": "Arceus LV.X - DP53",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP53",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 115.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 36
     },
     {
       "card_id": 29196,
@@ -3937,6 +4069,18 @@
       "market_price_usd": 114.6,
       "market_price_as_of": "2026-10-21",
       "total_listings": 52
+    },
+    {
+      "card_id": 30203,
+      "name": "Bonsly",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "71/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 114.42,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 203
     },
     {
       "card_id": 38128,
@@ -4009,6 +4153,18 @@
       "market_price_usd": 113.52,
       "market_price_as_of": "2026-10-18",
       "total_listings": 30
+    },
+    {
+      "card_id": 33865,
+      "name": "Duskull",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "50/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 113.45,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 390
     },
     {
       "card_id": 5942,
@@ -4239,6 +4395,18 @@
       "total_listings": 55
     },
     {
+      "card_id": 36897,
+      "name": "Infernape LV.X - DP10",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP10",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 109.16,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 43
+    },
+    {
       "card_id": 17872,
       "name": "Rayquaza VMAX (Secret)",
       "set_id": 5500048,
@@ -4249,6 +4417,18 @@
       "market_price_usd": 109.07,
       "market_price_as_of": "2026-10-18",
       "total_listings": 63
+    },
+    {
+      "card_id": 36954,
+      "name": "Lucario - 53/127 (Prerelease)",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "53/127",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 109.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 7
     },
     {
       "card_id": 18188,
@@ -6459,6 +6639,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 36899,
+      "name": "Torterra LV.X - DP09",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP09",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 90.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 50
+    },
+    {
       "card_id": 37705,
       "name": "Professor Rowan (2007)",
       "set_id": 5500026,
@@ -6481,6 +6673,18 @@
       "market_price_usd": 90.0,
       "market_price_as_of": "2026-10-24",
       "total_listings": 11
+    },
+    {
+      "card_id": 30317,
+      "name": "Empoleon LV.X",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "120/130",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 89.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 22
     },
     {
       "card_id": 38712,
@@ -6565,6 +6769,18 @@
       "market_price_usd": 89.39,
       "market_price_as_of": "2026-10-31",
       "total_listings": 6
+    },
+    {
+      "card_id": 33928,
+      "name": "Skarmory ex",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "98/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 89.34,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 20
     },
     {
       "card_id": 21895,
@@ -6915,6 +7131,18 @@
       "total_listings": 112
     },
     {
+      "card_id": 36920,
+      "name": "Heatran LV.X - DP31",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP31",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 85.98,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 37
+    },
+    {
       "card_id": 28296,
       "name": "Victory Cup - BW30 (Battle Road Autumn 2012) [2nd Place]",
       "set_id": 5500091,
@@ -7083,6 +7311,18 @@
       "total_listings": 30
     },
     {
+      "card_id": 33853,
+      "name": "Charmeleon",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "28/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 84.34,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 183
+    },
+    {
       "card_id": 34550,
       "name": "Swampert",
       "set_id": 5500135,
@@ -7213,6 +7453,18 @@
       "market_price_usd": 83.32,
       "market_price_as_of": "2026-10-24",
       "total_listings": 29
+    },
+    {
+      "card_id": 33944,
+      "name": "Claydol ex",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "93/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 83.06,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 26
     },
     {
       "card_id": 14820,
@@ -7441,6 +7693,18 @@
       "market_price_usd": 81.29,
       "market_price_as_of": "2026-10-29",
       "total_listings": 25
+    },
+    {
+      "card_id": 30213,
+      "name": "Infernape",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "5/130",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 81.24,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 143
     },
     {
       "card_id": 13025,
@@ -8043,6 +8307,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 36945,
+      "name": "Shinx - DP15",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP15",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 77.49,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 0
+    },
+    {
       "card_id": 18315,
       "name": "Kingdra ex - 131",
       "set_id": 5500070,
@@ -8101,6 +8377,42 @@
       "market_price_usd": 77.2,
       "market_price_as_of": "2026-10-27",
       "total_listings": 7
+    },
+    {
+      "card_id": 36898,
+      "name": "Arceus - DP50",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP50",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 77.18,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 42
+    },
+    {
+      "card_id": 36908,
+      "name": "Palkia LV.X - DP18",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP18",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 76.9,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 23
+    },
+    {
+      "card_id": 33904,
+      "name": "Raichu",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "12/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 76.87,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 52
     },
     {
       "card_id": 6264,
@@ -8691,6 +9003,18 @@
       "total_listings": 103
     },
     {
+      "card_id": 33929,
+      "name": "Shiftry ex",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "97/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 73.15,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 20
+    },
+    {
       "card_id": 14461,
       "name": "Keldeo ex - 167/086",
       "set_id": 5500153,
@@ -8893,6 +9217,18 @@
       "market_price_usd": 72.08,
       "market_price_as_of": "2026-10-21",
       "total_listings": 94
+    },
+    {
+      "card_id": 36929,
+      "name": "Darkrai - DP24",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP24",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 72.04,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 33
     },
     {
       "card_id": 37210,
@@ -9387,6 +9723,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 33938,
+      "name": "Walrein ex",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "99/108",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 69.26,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 17
+    },
+    {
       "card_id": 14589,
       "name": "Lucario & Melmetal GX - SM192",
       "set_id": 5500076,
@@ -9543,6 +9891,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 33909,
+      "name": "Gardevoir",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "9/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 68.2,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 54
+    },
+    {
       "card_id": 37490,
       "name": "Oshawott - 27/114 (Cosmos Holo)",
       "set_id": 5500060,
@@ -9637,6 +9997,18 @@
       "market_price_usd": 67.78,
       "market_price_as_of": "2026-10-13",
       "total_listings": 258
+    },
+    {
+      "card_id": 36946,
+      "name": "Toxicroak G - DP41",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP41",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 67.74,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 25
     },
     {
       "card_id": 2155085,
@@ -10369,6 +10741,18 @@
       "market_price_usd": 64.68,
       "market_price_as_of": "2026-10-15",
       "total_listings": 7
+    },
+    {
+      "card_id": 30244,
+      "name": "Lucario",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "6/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 64.66,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 109
     },
     {
       "card_id": 19344,
@@ -11139,6 +11523,18 @@
       "total_listings": 103
     },
     {
+      "card_id": 33841,
+      "name": "Charmander",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "48/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 61.2,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 217
+    },
+    {
       "card_id": 24306,
       "name": "Jirachi Prism Star",
       "set_id": 5500088,
@@ -11185,6 +11581,18 @@
       "market_price_usd": 60.91,
       "market_price_as_of": "2026-10-21",
       "total_listings": 27
+    },
+    {
+      "card_id": 36901,
+      "name": "Regigigas LV.X - DP30",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP30",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 60.91,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 50
     },
     {
       "card_id": 28253,
@@ -11857,6 +12265,18 @@
       "market_price_usd": 58.53,
       "market_price_as_of": "2026-10-24",
       "total_listings": 45
+    },
+    {
+      "card_id": 33905,
+      "name": "Aggron",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "1/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 58.53,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 52
     },
     {
       "card_id": 769,
@@ -12915,6 +13335,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 30256,
+      "name": "Snorlax",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "37/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 54.55,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 67
+    },
+    {
       "card_id": 28274,
       "name": "Ampharos - BW67",
       "set_id": 5500091,
@@ -12925,6 +13357,18 @@
       "market_price_usd": 54.45,
       "market_price_as_of": "2026-11-04",
       "total_listings": 25
+    },
+    {
+      "card_id": 36918,
+      "name": "Dialga LV.X - DP37",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP37",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 54.44,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 28
     },
     {
       "card_id": 17816,
@@ -13575,6 +14019,18 @@
       "total_listings": 152
     },
     {
+      "card_id": 36906,
+      "name": "Shaymin LV.X - DP39",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP39",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 51.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 29
+    },
+    {
       "card_id": 27966,
       "name": "M Gyarados EX",
       "set_id": 5500188,
@@ -14091,6 +14547,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 36912,
+      "name": "Rhyperior LV.X - DP29",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP29",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 50.25,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 25
+    },
+    {
       "card_id": 34986,
       "name": "Dialga",
       "set_id": 5500174,
@@ -14425,6 +14893,18 @@
       "market_price_usd": 49.42,
       "market_price_as_of": "2026-11-06",
       "total_listings": 25
+    },
+    {
+      "card_id": 36923,
+      "name": "Piplup - DP03",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP03",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 49.34,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 44
     },
     {
       "card_id": 4706,
@@ -15027,6 +15507,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 36942,
+      "name": "Porygon2 - 49/106 (Prerelease)",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "49/106",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 47.84,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 6
+    },
+    {
       "card_id": 1557,
       "name": "Oddish - 2004 (Chris Fulop)",
       "set_id": 5500029,
@@ -15193,6 +15685,18 @@
       "market_price_usd": 47.4,
       "market_price_as_of": "2026-11-04",
       "total_listings": 43
+    },
+    {
+      "card_id": 33886,
+      "name": "Sharpedo",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "38/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 47.4,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 103
     },
     {
       "card_id": 35782,
@@ -15675,6 +16179,18 @@
       "total_listings": 39
     },
     {
+      "card_id": 33844,
+      "name": "Torchic",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "67/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 46.2,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 250
+    },
+    {
       "card_id": 17022,
       "name": "Rowlet & Alolan Exeggutor GX (Secret)",
       "set_id": 5500211,
@@ -15841,6 +16357,18 @@
       "market_price_usd": 45.76,
       "market_price_as_of": "2026-11-08",
       "total_listings": 126
+    },
+    {
+      "card_id": 33854,
+      "name": "Vulpix",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "69/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 45.74,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 138
     },
     {
       "card_id": 38103,
@@ -16167,6 +16695,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 36928,
+      "name": "Darkrai - DP52",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP52",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 45.29,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 29
+    },
+    {
       "card_id": 37275,
       "name": "Gyarados (#30 Holo)",
       "set_id": 5500022,
@@ -16431,6 +16971,18 @@
       "total_listings": 81
     },
     {
+      "card_id": 36944,
+      "name": "Gabite - 48/124 (Prerelease)",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "48/124",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 44.92,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 15
+    },
+    {
       "card_id": 32430,
       "name": "Virizion (Full Art)",
       "set_id": 5500189,
@@ -16489,6 +17041,18 @@
       "market_price_usd": 44.8,
       "market_price_as_of": "2026-10-12",
       "total_listings": 125
+    },
+    {
+      "card_id": 30211,
+      "name": "Dialga",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "1/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.8,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 88
     },
     {
       "card_id": 35787,
@@ -16837,6 +17401,18 @@
       "market_price_usd": 43.64,
       "market_price_as_of": "2026-10-10",
       "total_listings": 251
+    },
+    {
+      "card_id": 33911,
+      "name": "Mightyena",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "18/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 43.63,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 85
     },
     {
       "card_id": 19995,
@@ -19647,6 +20223,18 @@
       "total_listings": 61
     },
     {
+      "card_id": 30232,
+      "name": "Torterra",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "17/130",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 38.13,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 157
+    },
+    {
       "card_id": 17221,
       "name": "Ditto",
       "set_id": 5500030,
@@ -19777,6 +20365,18 @@
       "market_price_usd": 37.97,
       "market_price_as_of": "2026-10-26",
       "total_listings": 23
+    },
+    {
+      "card_id": 30238,
+      "name": "Prinplup",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "58/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.97,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 374
     },
     {
       "card_id": 16512,
@@ -20007,6 +20607,30 @@
       "total_listings": 99
     },
     {
+      "card_id": 30227,
+      "name": "Haunter",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "50/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.46,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 139
+    },
+    {
+      "card_id": 30288,
+      "name": "Munchlax",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "33/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.46,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 66
+    },
+    {
       "card_id": 34939,
       "name": "Kabutops",
       "set_id": 5500174,
@@ -20029,6 +20653,18 @@
       "market_price_usd": 37.33,
       "market_price_as_of": "2026-11-06",
       "total_listings": 58
+    },
+    {
+      "card_id": 33878,
+      "name": "Sableye",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "22/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.29,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 153
     },
     {
       "card_id": 31866,
@@ -20137,6 +20773,18 @@
       "market_price_usd": 37.0,
       "market_price_as_of": "2026-11-02",
       "total_listings": 56
+    },
+    {
+      "card_id": 33885,
+      "name": "Machamp",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "11/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.0,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 54
     },
     {
       "card_id": 34937,
@@ -20703,6 +21351,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 36939,
+      "name": "Raichu - DP21",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP21",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 35.83,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 36
+    },
+    {
       "card_id": 31750,
       "name": "Arceus (AR6)",
       "set_id": 5500096,
@@ -20799,6 +21459,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 30301,
+      "name": "Palkia",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "11/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.72,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 69
+    },
+    {
       "card_id": 5093,
       "name": "Beldum - 029/101 (Gym Challenge)",
       "set_id": 5500123,
@@ -20821,6 +21493,18 @@
       "market_price_usd": 35.69,
       "market_price_as_of": "2026-10-17",
       "total_listings": 69
+    },
+    {
+      "card_id": 36950,
+      "name": "Kirlia - 53/132 (Prerelease)",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "53/132",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 35.69,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 5
     },
     {
       "card_id": 19437,
@@ -20989,6 +21673,18 @@
       "market_price_usd": 35.36,
       "market_price_as_of": "2026-10-28",
       "total_listings": 5
+    },
+    {
+      "card_id": 36936,
+      "name": "Shieldon - DP08",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP08",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 35.35,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 44
     },
     {
       "card_id": 4276,
@@ -21649,6 +22345,18 @@
       "market_price_usd": 34.31,
       "market_price_as_of": "2026-10-13",
       "total_listings": 229
+    },
+    {
+      "card_id": 36934,
+      "name": "Dialga - DP49",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP49",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 34.31,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 41
     },
     {
       "card_id": 15659,
@@ -22371,6 +23079,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 33875,
+      "name": "Altaria",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "2/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.85,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 56
+    },
+    {
       "card_id": 6533,
       "name": "Deino - 97/113 (Pokemon League) [2nd Place]",
       "set_id": 5500087,
@@ -22623,6 +23343,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 33923,
+      "name": "Wobbuffet",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "24/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.46,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 86
+    },
+    {
       "card_id": 38770,
       "name": "Pikachu - 5/12",
       "set_id": 5500145,
@@ -22729,6 +23461,18 @@
       "market_price_usd": 32.23,
       "market_price_as_of": "2026-10-26",
       "total_listings": 3
+    },
+    {
+      "card_id": 33856,
+      "name": "Spheal",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "65/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.23,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 157
     },
     {
       "card_id": 24455,
@@ -23065,6 +23809,18 @@
       "market_price_usd": 31.66,
       "market_price_as_of": "2026-10-11",
       "total_listings": 90
+    },
+    {
+      "card_id": 30209,
+      "name": "Marill",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "88/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.66,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 159
     },
     {
       "card_id": 31595,
@@ -23667,6 +24423,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 36913,
+      "name": "Turtwig - DP01",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP01",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 30.72,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 49
+    },
+    {
       "card_id": 20869,
       "name": "Iron Leaves ex - 203/162",
       "set_id": 5500066,
@@ -23689,6 +24457,18 @@
       "market_price_usd": 30.68,
       "market_price_as_of": "2026-10-15",
       "total_listings": 6
+    },
+    {
+      "card_id": 33848,
+      "name": "Trapinch",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "68/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.66,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 115
     },
     {
       "card_id": 6688,
@@ -24267,6 +25047,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 33870,
+      "name": "Shuppet",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "61/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 236
+    },
+    {
       "card_id": 36963,
       "name": "Jigglypuff (#25)",
       "set_id": 5500012,
@@ -24445,6 +25237,18 @@
       "market_price_usd": 29.97,
       "market_price_as_of": "2026-10-23",
       "total_listings": 13
+    },
+    {
+      "card_id": 33922,
+      "name": "Kabutops",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "10/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.96,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 52
     },
     {
       "card_id": 15470,
@@ -24663,6 +25467,18 @@
       "total_listings": 30
     },
     {
+      "card_id": 36924,
+      "name": "Dusknoir - DP33",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP33",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.74,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 44
+    },
+    {
       "card_id": 14174,
       "name": "Archeops - SWSH272 (Prerelease) [STAFF]",
       "set_id": 5500149,
@@ -24709,6 +25525,18 @@
       "market_price_usd": 29.65,
       "market_price_as_of": "2026-11-07",
       "total_listings": 32
+    },
+    {
+      "card_id": 36914,
+      "name": "Dialga - DP26",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP26",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 29.64,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 55
     },
     {
       "card_id": 32709,
@@ -24781,6 +25609,18 @@
       "market_price_usd": 29.51,
       "market_price_as_of": "2026-11-02",
       "total_listings": 108
+    },
+    {
+      "card_id": 30205,
+      "name": "Empoleon",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "4/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.5,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 137
     },
     {
       "card_id": 31045,
@@ -25503,6 +26343,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 33850,
+      "name": "Slakoth",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "63/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.5,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 132
+    },
+    {
       "card_id": 6600,
       "name": "Guzma - 115/147 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -26125,6 +26977,18 @@
       "market_price_usd": 27.82,
       "market_price_as_of": "2026-10-31",
       "total_listings": 77
+    },
+    {
+      "card_id": 30228,
+      "name": "Luxray",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "7/130",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.78,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 55
     },
     {
       "card_id": 31245,
@@ -26835,6 +27699,18 @@
       "total_listings": 62
     },
     {
+      "card_id": 33884,
+      "name": "Mawile",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "17/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.87,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 70
+    },
+    {
       "card_id": 34399,
       "name": "Budew",
       "set_id": 5500035,
@@ -26965,6 +27841,18 @@
       "market_price_usd": 26.74,
       "market_price_as_of": "2026-11-06",
       "total_listings": 45
+    },
+    {
+      "card_id": 36910,
+      "name": "Chimchar - DP02",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP02",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 26.74,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 49
     },
     {
       "card_id": 19224,
@@ -27171,6 +28059,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 30286,
+      "name": "Mismagius",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "10/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.56,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 99
+    },
+    {
       "card_id": 36033,
       "name": "Charmander",
       "set_id": 5500083,
@@ -27205,6 +28105,30 @@
       "market_price_usd": 26.53,
       "market_price_as_of": "2026-10-28",
       "total_listings": 58
+    },
+    {
+      "card_id": 33843,
+      "name": "Skitty",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "62/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.51,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 143
+    },
+    {
+      "card_id": 33855,
+      "name": "Aron",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "42/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.51,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 95
     },
     {
       "card_id": 4653,
@@ -27567,6 +28491,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 33910,
+      "name": "Delcatty",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "8/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.12,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 47
+    },
+    {
       "card_id": 12740,
       "name": "Dark Raichu - 7/110 (WotC Legendary Collection)",
       "set_id": 5500101,
@@ -27637,6 +28573,18 @@
       "market_price_usd": 26.04,
       "market_price_as_of": "2026-11-05",
       "total_listings": 61
+    },
+    {
+      "card_id": 36933,
+      "name": "Palkia - DP27",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP27",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 26.03,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 53
     },
     {
       "card_id": 19823,
@@ -27745,6 +28693,18 @@
       "market_price_usd": 25.9,
       "market_price_as_of": "2026-11-06",
       "total_listings": 50
+    },
+    {
+      "card_id": 33842,
+      "name": "Ralts",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "59/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.88,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 239
     },
     {
       "card_id": 13665,
@@ -27903,6 +28863,18 @@
       "total_listings": 24
     },
     {
+      "card_id": 33872,
+      "name": "Lairon",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "32/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.71,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 64
+    },
+    {
       "card_id": 14716,
       "name": "Zekrom GX - SM138",
       "set_id": 5500076,
@@ -27975,6 +28947,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 33902,
+      "name": "Magnemite",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "54/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.64,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 256
+    },
+    {
       "card_id": 18481,
       "name": "Ledian - 133 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -27985,6 +28969,18 @@
       "market_price_usd": 25.63,
       "market_price_as_of": "2026-10-14",
       "total_listings": 14
+    },
+    {
+      "card_id": 30202,
+      "name": "Piplup",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "93/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.63,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 324
     },
     {
       "card_id": 20005,
@@ -28045,6 +29041,18 @@
       "market_price_usd": 25.57,
       "market_price_as_of": "2026-10-24",
       "total_listings": 49
+    },
+    {
+      "card_id": 33859,
+      "name": "Kabuto",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "51/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.56,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 154
     },
     {
       "card_id": 31279,
@@ -28587,6 +29595,18 @@
       "total_listings": 169
     },
     {
+      "card_id": 33874,
+      "name": "Zangoose",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "25/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.02,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 197
+    },
+    {
       "card_id": 13646,
       "name": "Minccino - 152/086",
       "set_id": 5500093,
@@ -28717,6 +29737,18 @@
       "market_price_usd": 24.99,
       "market_price_as_of": "2026-10-24",
       "total_listings": 4
+    },
+    {
+      "card_id": 33849,
+      "name": "Kirlia",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "31/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 115
     },
     {
       "card_id": 4945,
@@ -29067,6 +30099,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 33891,
+      "name": "Metang",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "35/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.62,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 48
+    },
+    {
       "card_id": 27530,
       "name": "Articuno (16)",
       "set_id": 5500063,
@@ -29245,6 +30289,18 @@
       "market_price_usd": 24.44,
       "market_price_as_of": "2026-10-12",
       "total_listings": 162
+    },
+    {
+      "card_id": 36904,
+      "name": "Pachirisu - DP04",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP04",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 24.44,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 43
     },
     {
       "card_id": 24658,
@@ -29449,6 +30505,18 @@
       "market_price_usd": 24.21,
       "market_price_as_of": "2026-11-07",
       "total_listings": 51
+    },
+    {
+      "card_id": 33868,
+      "name": "Combusken",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "29/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.18,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 204
     },
     {
       "card_id": 25364,
@@ -30015,6 +31083,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 33936,
+      "name": "Nuzleaf",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "36/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.51,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 164
+    },
+    {
       "card_id": 13851,
       "name": "Klingklang (Master Ball Pattern)",
       "set_id": 5500093,
@@ -30313,6 +31393,18 @@
       "market_price_usd": 23.32,
       "market_price_as_of": "2026-10-24",
       "total_listings": 8
+    },
+    {
+      "card_id": 30222,
+      "name": "Turtwig",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "103/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.32,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 385
     },
     {
       "card_id": 25676,
@@ -31611,6 +32703,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 33864,
+      "name": "Machoke",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "33/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 268
+    },
+    {
       "card_id": 6425,
       "name": "Oshawott - 27/114 (League Promo)",
       "set_id": 5500087,
@@ -31753,6 +32857,18 @@
       "market_price_usd": 21.89,
       "market_price_as_of": "2026-11-05",
       "total_listings": 23
+    },
+    {
+      "card_id": 33914,
+      "name": "Lanturn",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "15/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.89,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 122
     },
     {
       "card_id": 20046,
@@ -31909,6 +33025,18 @@
       "market_price_usd": 21.7,
       "market_price_as_of": "2026-10-14",
       "total_listings": 181
+    },
+    {
+      "card_id": 36922,
+      "name": "Magmortar - DP20",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP20",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.7,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 55
     },
     {
       "card_id": 30172,
@@ -32113,6 +33241,18 @@
       "market_price_usd": 21.44,
       "market_price_as_of": "2026-10-21",
       "total_listings": 26
+    },
+    {
+      "card_id": 36947,
+      "name": "Chatot - DP14",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP14",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 21.44,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 37
     },
     {
       "card_id": 4430,
@@ -32449,6 +33589,18 @@
       "market_price_usd": 21.11,
       "market_price_as_of": "2026-10-10",
       "total_listings": 194
+    },
+    {
+      "card_id": 33941,
+      "name": "Slaking",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "13/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.1,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 43
     },
     {
       "card_id": 37482,
@@ -33075,6 +34227,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 33906,
+      "name": "Sealeo",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "37/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.66,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 149
+    },
+    {
       "card_id": 6144,
       "name": "Radiant Tsareena - 016/195",
       "set_id": 5500194,
@@ -33411,6 +34575,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 30277,
+      "name": "Heracross",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "28/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.44,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 229
+    },
+    {
       "card_id": 30523,
       "name": "Energy Retrieval",
       "set_id": 5500196,
@@ -33457,6 +34633,18 @@
       "market_price_usd": 20.43,
       "market_price_as_of": "2026-10-29",
       "total_listings": 72
+    },
+    {
+      "card_id": 36943,
+      "name": "Regigigas - DP40",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP40",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 20.43,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 24
     },
     {
       "card_id": 27563,
@@ -33649,6 +34837,18 @@
       "market_price_usd": 20.25,
       "market_price_as_of": "2026-10-10",
       "total_listings": 222
+    },
+    {
+      "card_id": 33851,
+      "name": "Wynaut",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "70/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.24,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 156
     },
     {
       "card_id": 15487,
@@ -33915,6 +35115,18 @@
       "total_listings": 266
     },
     {
+      "card_id": 33927,
+      "name": "Shelgon",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "39/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.07,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 115
+    },
+    {
       "card_id": 38326,
       "name": "Latios",
       "set_id": 5500080,
@@ -33925,6 +35137,18 @@
       "market_price_usd": 20.06,
       "market_price_as_of": "2026-11-02",
       "total_listings": 36
+    },
+    {
+      "card_id": 30229,
+      "name": "Hoothoot",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "85/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.05,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 585
     },
     {
       "card_id": 31262,
@@ -33997,6 +35221,18 @@
       "market_price_usd": 20.03,
       "market_price_as_of": "2026-10-12",
       "total_listings": 11
+    },
+    {
+      "card_id": 30258,
+      "name": "Staraptor",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "16/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.02,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 86
     },
     {
       "card_id": 1183,
@@ -34443,6 +35679,18 @@
       "total_listings": 114
     },
     {
+      "card_id": 33898,
+      "name": "Cradily",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "7/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.93,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 57
+    },
+    {
       "card_id": 617,
       "name": "Swampert ex - 2004 (Reed Weichler)",
       "set_id": 5500029,
@@ -34525,6 +35773,18 @@
       "market_price_usd": 19.89,
       "market_price_as_of": "2026-11-06",
       "total_listings": 63
+    },
+    {
+      "card_id": 36931,
+      "name": "Cranidos - DP07",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP07",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.89,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 48
     },
     {
       "card_id": 13823,
@@ -35199,6 +36459,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 30269,
+      "name": "Switch",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "119/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.5,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 219
+    },
+    {
       "card_id": 14505,
       "name": "Herdier (Master Ball Pattern)",
       "set_id": 5500153,
@@ -35257,6 +36529,18 @@
       "market_price_usd": 19.47,
       "market_price_as_of": "2026-11-01",
       "total_listings": 119
+    },
+    {
+      "card_id": 33876,
+      "name": "Banette",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "4/108",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.46,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 63
     },
     {
       "card_id": 5948,
@@ -35391,6 +36675,18 @@
       "total_listings": 51
     },
     {
+      "card_id": 33897,
+      "name": "Omastar",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "20/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.38,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 88
+    },
+    {
       "card_id": 21130,
       "name": "Cinderace VMAX (Secret)",
       "set_id": 5500094,
@@ -35487,6 +36783,18 @@
       "total_listings": 135
     },
     {
+      "card_id": 33895,
+      "name": "Vigoroth",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "41/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.33,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 126
+    },
+    {
       "card_id": 25092,
       "name": "Solgaleo GX (Secret)",
       "set_id": 5500018,
@@ -35581,6 +36889,18 @@
       "market_price_usd": 19.27,
       "market_price_as_of": "2026-11-03",
       "total_listings": 190
+    },
+    {
+      "card_id": 33861,
+      "name": "Swablu",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "66/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.27,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 228
     },
     {
       "card_id": 1535,
@@ -35919,6 +37239,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 36940,
+      "name": "Drifblim - DP34",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP34",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 19.07,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 15
+    },
+    {
       "card_id": 142,
       "name": "Jirachi ex - 2007 (Tom Roos)",
       "set_id": 5500029,
@@ -36049,6 +37381,18 @@
       "market_price_usd": 18.98,
       "market_price_as_of": "2026-11-05",
       "total_listings": 57
+    },
+    {
+      "card_id": 33913,
+      "name": "Cacturne",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "27/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.97,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 135
     },
     {
       "card_id": 31876,
@@ -36243,6 +37587,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 36937,
+      "name": "Carnivine G - DP42",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP42",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.78,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 41
+    },
+    {
       "card_id": 31605,
       "name": "Charon's Choice",
       "set_id": 5500173,
@@ -36387,6 +37743,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 30321,
+      "name": "Lightning Energy",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "126/130",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 18.65,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 15
+    },
+    {
       "card_id": 34587,
       "name": "Latios",
       "set_id": 5500135,
@@ -36409,6 +37777,18 @@
       "market_price_usd": 18.63,
       "market_price_as_of": "2026-10-09",
       "total_listings": 403
+    },
+    {
+      "card_id": 36919,
+      "name": "Cresselia - DP51",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP51",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.63,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 29
     },
     {
       "card_id": 26315,
@@ -36493,6 +37873,18 @@
       "market_price_usd": 18.56,
       "market_price_as_of": "2026-10-09",
       "total_listings": 87
+    },
+    {
+      "card_id": 36896,
+      "name": "Mime Jr. - DP22",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP22",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.55,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 11
     },
     {
       "card_id": 6369,
@@ -36987,6 +38379,30 @@
       "total_listings": 120
     },
     {
+      "card_id": 33926,
+      "name": "Baltoy",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "44/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.29,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 367
+    },
+    {
+      "card_id": 33921,
+      "name": "Chinchou",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "49/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.27,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 254
+    },
+    {
       "card_id": 38051,
       "name": "Charmander",
       "set_id": 5500133,
@@ -37335,6 +38751,18 @@
       "total_listings": 30
     },
     {
+      "card_id": 36938,
+      "name": "Buizel - DP13",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP13",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 18.03,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 12
+    },
+    {
       "card_id": 38386,
       "name": "Prinplup - 58/130 [Diamond & Pearl]",
       "set_id": 5500151,
@@ -37383,6 +38811,18 @@
       "total_listings": 121
     },
     {
+      "card_id": 33866,
+      "name": "Machop",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "53/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 409
+    },
+    {
       "card_id": 34947,
       "name": "Empoleon",
       "set_id": 5500174,
@@ -37417,6 +38857,18 @@
       "market_price_usd": 18.0,
       "market_price_as_of": "2026-10-23",
       "total_listings": 3
+    },
+    {
+      "card_id": 30278,
+      "name": "Rhyperior",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "12/130",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.99,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 93
     },
     {
       "card_id": 35674,
@@ -37621,6 +39073,18 @@
       "market_price_usd": 17.9,
       "market_price_as_of": "2026-10-18",
       "total_listings": 114
+    },
+    {
+      "card_id": 33919,
+      "name": "Meditite",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "55/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.9,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 453
     },
     {
       "card_id": 31008,
@@ -37837,6 +39301,18 @@
       "market_price_usd": 17.76,
       "market_price_as_of": "2026-11-06",
       "total_listings": 162
+    },
+    {
+      "card_id": 36927,
+      "name": "Glameow - DP23",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP23",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 17.76,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 27
     },
     {
       "card_id": 34296,
@@ -38089,6 +39565,18 @@
       "market_price_usd": 17.6,
       "market_price_as_of": "2026-10-11",
       "total_listings": 117
+    },
+    {
+      "card_id": 33901,
+      "name": "Beldum",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "45/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.6,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 257
     },
     {
       "card_id": 1605,
@@ -38487,6 +39975,18 @@
       "total_listings": 55
     },
     {
+      "card_id": 33907,
+      "name": "Seviper",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "23/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.4,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 111
+    },
+    {
       "card_id": 38099,
       "name": "Galarian Moltres V",
       "set_id": 5500061,
@@ -38533,6 +40033,18 @@
       "market_price_usd": 17.38,
       "market_price_as_of": "2026-10-11",
       "total_listings": 128
+    },
+    {
+      "card_id": 30215,
+      "name": "Manaphy",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "9/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.38,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 77
     },
     {
       "card_id": 15332,
@@ -38749,6 +40261,18 @@
       "market_price_usd": 17.26,
       "market_price_as_of": "2026-11-07",
       "total_listings": 79
+    },
+    {
+      "card_id": 30208,
+      "name": "Azurill",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "69/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.26,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 138
     },
     {
       "card_id": 6654,
@@ -39315,6 +40839,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 33896,
+      "name": "Anorith",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "26/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 126
+    },
+    {
       "card_id": 29011,
       "name": "Wally (107 Full Art)",
       "set_id": 5500095,
@@ -39663,6 +41199,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 33930,
+      "name": "Cacnea",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "46/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.75,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 290
+    },
+    {
       "card_id": 38777,
       "name": "Litten - 3/12",
       "set_id": 5500145,
@@ -39733,6 +41281,18 @@
       "market_price_usd": 16.72,
       "market_price_as_of": "2026-11-02",
       "total_listings": 45
+    },
+    {
+      "card_id": 33890,
+      "name": "Lileep",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "52/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.72,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 182
     },
     {
       "card_id": 12982,
@@ -39829,6 +41389,18 @@
       "market_price_usd": 16.68,
       "market_price_as_of": "2026-10-14",
       "total_listings": 231
+    },
+    {
+      "card_id": 33920,
+      "name": "Vibrava",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "40/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.67,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 131
     },
     {
       "card_id": 34342,
@@ -40287,6 +41859,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 33889,
+      "name": "Medicham",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "34/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.44,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 128
+    },
+    {
       "card_id": 6252,
       "name": "Psychic Energy (WotC 2002 League Promo)",
       "set_id": 5500087,
@@ -40429,6 +42013,18 @@
       "market_price_usd": 16.35,
       "market_price_as_of": "2026-10-24",
       "total_listings": 39
+    },
+    {
+      "card_id": 30241,
+      "name": "Electivire",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "3/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.35,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 102
     },
     {
       "card_id": 19013,
@@ -40621,6 +42217,18 @@
       "market_price_usd": 16.22,
       "market_price_as_of": "2026-10-09",
       "total_listings": 413
+    },
+    {
+      "card_id": 33873,
+      "name": "Magneton",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "16/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.22,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 117
     },
     {
       "card_id": 14322,
@@ -41967,6 +43575,18 @@
       "total_listings": 100
     },
     {
+      "card_id": 33894,
+      "name": "Dusclops",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "14/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.6,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 128
+    },
+    {
       "card_id": 4552,
       "name": "Politoed - 18/111 (Cosmos Holo)",
       "set_id": 5500123,
@@ -42025,6 +43645,18 @@
       "market_price_usd": 15.57,
       "market_price_as_of": "2026-10-18",
       "total_listings": 229
+    },
+    {
+      "card_id": 33880,
+      "name": "Armaldo",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "3/108",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.56,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 22
     },
     {
       "card_id": 38053,
@@ -42423,6 +44055,18 @@
       "total_listings": 111
     },
     {
+      "card_id": 33924,
+      "name": "Glalie",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "30/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.38,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 169
+    },
+    {
       "card_id": 28474,
       "name": "Regice",
       "set_id": 5500113,
@@ -42541,6 +44185,18 @@
       "market_price_usd": 15.3,
       "market_price_as_of": "2026-10-26",
       "total_listings": 17
+    },
+    {
+      "card_id": 33863,
+      "name": "Bagon",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "43/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.3,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 375
     },
     {
       "card_id": 21394,
@@ -43227,6 +44883,30 @@
       "total_listings": 56
     },
     {
+      "card_id": 30262,
+      "name": "Rapidash",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "59/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 299
+    },
+    {
+      "card_id": 30307,
+      "name": "Wobbuffet",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "41/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 114
+    },
+    {
       "card_id": 31346,
       "name": "Azumarill",
       "set_id": 5500037,
@@ -43503,6 +45183,18 @@
       "total_listings": 69
     },
     {
+      "card_id": 30252,
+      "name": "Magnezone",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "8/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.96,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 97
+    },
+    {
       "card_id": 100018052,
       "name": "Fuecoco ex - 147/128",
       "set_id": 5500219,
@@ -43717,6 +45409,18 @@
       "market_price_usd": 14.85,
       "market_price_as_of": "2026-10-11",
       "total_listings": 214
+    },
+    {
+      "card_id": 33888,
+      "name": "Scott",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "81/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.85,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 240
     },
     {
       "card_id": 31575,
@@ -44163,6 +45867,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 30261,
+      "name": "Riolu",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "61/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.66,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 167
+    },
+    {
       "card_id": 35004,
       "name": "Manaphy",
       "set_id": 5500174,
@@ -44605,6 +46321,18 @@
       "market_price_usd": 14.46,
       "market_price_as_of": "2026-10-12",
       "total_listings": 14
+    },
+    {
+      "card_id": 30327,
+      "name": "Steelix",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "38/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.45,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 120
     },
     {
       "card_id": 24670,
@@ -45135,6 +46863,30 @@
       "total_listings": 282
     },
     {
+      "card_id": 30230,
+      "name": "Gastly",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "82/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.18,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 190
+    },
+    {
+      "card_id": 30279,
+      "name": "Dusknoir",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "2/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.18,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 94
+    },
+    {
       "card_id": 31328,
       "name": "Cleffa",
       "set_id": 5500037,
@@ -45399,6 +47151,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 33869,
+      "name": "Steven's Advice",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "83/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.07,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 93
+    },
+    {
       "card_id": 18239,
       "name": "Charizard ex - 056",
       "set_id": 5500070,
@@ -45625,6 +47389,18 @@
       "market_price_usd": 14.0,
       "market_price_as_of": "2026-10-23",
       "total_listings": 8
+    },
+    {
+      "card_id": 30302,
+      "name": "Roserade",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "13/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.99,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 124
     },
     {
       "card_id": 28294,
@@ -46479,6 +48255,18 @@
       "total_listings": 680
     },
     {
+      "card_id": 36949,
+      "name": "Mothim - 42/100 (Prerelease)",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "42/100",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 13.5,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 12
+    },
+    {
       "card_id": 696,
       "name": "Xerneas - 2014 (Michikazu Tsuda)",
       "set_id": 5500029,
@@ -46681,6 +48469,18 @@
       "market_price_usd": 13.42,
       "market_price_as_of": "2026-10-13",
       "total_listings": 412
+    },
+    {
+      "card_id": 30246,
+      "name": "Machamp",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "31/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.42,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 67
     },
     {
       "card_id": 14100,
@@ -49131,6 +50931,18 @@
       "total_listings": 329
     },
     {
+      "card_id": 33900,
+      "name": "Warp Energy",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "91/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.45,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 62
+    },
+    {
       "card_id": 6541,
       "name": "Combusken - 13/111 (State Championships)",
       "set_id": 5500087,
@@ -50739,6 +52551,18 @@
       "total_listings": 130
     },
     {
+      "card_id": 36932,
+      "name": "Probopass G - DP43",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP43",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 11.94,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 38
+    },
+    {
       "card_id": 20675,
       "name": "Neo Upper Energy",
       "set_id": 5500066,
@@ -51879,6 +53703,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 30234,
+      "name": "Super Scoop Up",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "115/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.54,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 221
+    },
+    {
       "card_id": 19786,
       "name": "Faba (Full Art)",
       "set_id": 5500141,
@@ -52755,6 +54591,18 @@
       "total_listings": 187
     },
     {
+      "card_id": 33862,
+      "name": "Snorunt",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "64/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.22,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 265
+    },
+    {
       "card_id": 4264,
       "name": "Arceus V - 122/172 (Metal Card)",
       "set_id": 5500123,
@@ -53389,6 +55237,18 @@
       "market_price_usd": 10.97,
       "market_price_as_of": "2026-10-14",
       "total_listings": 113
+    },
+    {
+      "card_id": 30266,
+      "name": "Lopunny",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "30/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.97,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 137
     },
     {
       "card_id": 38821,
@@ -54891,6 +56751,18 @@
       "total_listings": 669
     },
     {
+      "card_id": 30254,
+      "name": "Ponyta",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "94/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.5,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 405
+    },
+    {
       "card_id": 31032,
       "name": "Bidoof",
       "set_id": 5500046,
@@ -55129,6 +57001,18 @@
       "market_price_usd": 10.4,
       "market_price_as_of": "2026-10-15",
       "total_listings": 68
+    },
+    {
+      "card_id": 30322,
+      "name": "Purugly",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "36/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.4,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 99
     },
     {
       "card_id": 20949,
@@ -55753,6 +57637,18 @@
       "market_price_usd": 10.22,
       "market_price_as_of": "2026-11-04",
       "total_listings": 55
+    },
+    {
+      "card_id": 30284,
+      "name": "Budew",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "43/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.22,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 355
     },
     {
       "card_id": 31594,
@@ -56475,6 +58371,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 30295,
+      "name": "Weavile",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "40/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 129
+    },
+    {
       "card_id": 31341,
       "name": "Girafarig",
       "set_id": 5500037,
@@ -57063,6 +58971,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 30314,
+      "name": "Carnivine",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "21/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.9,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 175
+    },
+    {
       "card_id": 38072,
       "name": "Kingdra",
       "set_id": 5500061,
@@ -57205,6 +59125,18 @@
       "market_price_usd": 9.86,
       "market_price_as_of": "2026-10-31",
       "total_listings": 93
+    },
+    {
+      "card_id": 30204,
+      "name": "Clefairy",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "77/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.86,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 138
     },
     {
       "card_id": 34744,
@@ -57541,6 +59473,18 @@
       "market_price_usd": 9.78,
       "market_price_as_of": "2026-10-30",
       "total_listings": 370
+    },
+    {
+      "card_id": 36909,
+      "name": "Porygon-Z - DP35",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP35",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.77,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 26
     },
     {
       "card_id": 19671,
@@ -58093,6 +60037,18 @@
       "market_price_usd": 9.6,
       "market_price_as_of": "2026-10-31",
       "total_listings": 46
+    },
+    {
+      "card_id": 30245,
+      "name": "Unown [D]",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "68/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.6,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 158
     },
     {
       "card_id": 37278,
@@ -58935,6 +60891,18 @@
       "total_listings": 86
     },
     {
+      "card_id": 33903,
+      "name": "Cyclone Energy",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "90/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.41,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 83
+    },
+    {
       "card_id": 12804,
       "name": "Lucario V - 027/073 (Non-Holo)",
       "set_id": 5500101,
@@ -59427,6 +61395,18 @@
       "total_listings": 60
     },
     {
+      "card_id": 33932,
+      "name": "Great Ball",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "77/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.27,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 138
+    },
+    {
       "card_id": 37838,
       "name": "Psyduck - 007",
       "set_id": 5500111,
@@ -59581,6 +61561,18 @@
       "market_price_usd": 9.22,
       "market_price_as_of": "2026-10-21",
       "total_listings": 57
+    },
+    {
+      "card_id": 33877,
+      "name": "Psychic Energy",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "107/108",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.2,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 85
     },
     {
       "card_id": 30389,
@@ -59955,6 +61947,30 @@
       "total_listings": 57
     },
     {
+      "card_id": 36930,
+      "name": "Buneary - DP06",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP06",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 9.1,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 31
+    },
+    {
+      "card_id": 30272,
+      "name": "Azumarill",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "18/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.09,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 89
+    },
+    {
       "card_id": 37497,
       "name": "Garbodor - 51a/145 (Cosmos Holo)",
       "set_id": 5500060,
@@ -60135,6 +62151,18 @@
       "total_listings": 128
     },
     {
+      "card_id": 30325,
+      "name": "Psychic Energy",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "127/130",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 9.03,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 13
+    },
+    {
       "card_id": 34511,
       "name": "Porygon2",
       "set_id": 5500135,
@@ -60279,6 +62307,18 @@
       "total_listings": 138
     },
     {
+      "card_id": 30216,
+      "name": "Elekid",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "48/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 274
+    },
+    {
       "card_id": 30650,
       "name": "Zekrom",
       "set_id": 5500115,
@@ -60385,6 +62425,18 @@
       "market_price_usd": 8.99,
       "market_price_as_of": "2026-11-07",
       "total_listings": 36
+    },
+    {
+      "card_id": 30210,
+      "name": "Cleffa",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "78/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 142
     },
     {
       "card_id": 31271,
@@ -61275,6 +63327,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 30292,
+      "name": "Skuntank",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "15/130",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.78,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 104
+    },
+    {
       "card_id": 31429,
       "name": "Appletun",
       "set_id": 5500042,
@@ -61441,6 +63505,18 @@
       "market_price_usd": 8.75,
       "market_price_as_of": "2026-10-23",
       "total_listings": 2
+    },
+    {
+      "card_id": 33887,
+      "name": "Sidney's Stadium",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "82/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.75,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 310
     },
     {
       "card_id": 34412,
@@ -62451,6 +64527,18 @@
       "total_listings": 230
     },
     {
+      "card_id": 36926,
+      "name": "Magnezone - DP44",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP44",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 8.51,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 34
+    },
+    {
       "card_id": 15504,
       "name": "Latias (Vstar Universe Japanese Exclusive)",
       "set_id": 5500069,
@@ -63375,6 +65463,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 30299,
+      "name": "Shiftry",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "14/130",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.3,
+      "market_price_as_of": "2026-11-08",
+      "total_listings": 92
+    },
+    {
       "card_id": 37867,
       "name": "Team Aqua's Muk",
       "set_id": 5500187,
@@ -63673,6 +65773,18 @@
       "market_price_usd": 8.24,
       "market_price_as_of": "2026-10-09",
       "total_listings": 470
+    },
+    {
+      "card_id": 30214,
+      "name": "Mantyke",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "55/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.23,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 254
     },
     {
       "card_id": 100018064,
@@ -64371,6 +66483,18 @@
       "total_listings": 75
     },
     {
+      "card_id": 33934,
+      "name": "Seedot",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "60/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.06,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 272
+    },
+    {
       "card_id": 37893,
       "name": "Team Magma's Lairon",
       "set_id": 5500187,
@@ -64611,6 +66735,18 @@
       "total_listings": 106
     },
     {
+      "card_id": 30221,
+      "name": "Darkness Energy",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "129/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 83
+    },
+    {
       "card_id": 31335,
       "name": "Quilava",
       "set_id": 5500037,
@@ -64753,6 +66889,18 @@
       "market_price_usd": 7.99,
       "market_price_as_of": "2026-11-07",
       "total_listings": 124
+    },
+    {
+      "card_id": 30217,
+      "name": "Mime Jr.",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "90/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 256
     },
     {
       "card_id": 31010,
@@ -65163,6 +67311,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 33847,
+      "name": "Omanyte",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "56/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.9,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 155
+    },
+    {
       "card_id": 35727,
       "name": "Metang",
       "set_id": 5500167,
@@ -65511,6 +67671,18 @@
       "total_listings": 91
     },
     {
+      "card_id": 36921,
+      "name": "Gliscor - DP36",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP36",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 7.82,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 40
+    },
+    {
       "card_id": 95,
       "name": "Eevee - 2007 (Tom Roos)",
       "set_id": 5500029,
@@ -65631,6 +67803,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 33845,
+      "name": "Energy Switch",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "75/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.79,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 133
+    },
+    {
       "card_id": 12895,
       "name": "Camerupt - 4/107 (EX Deoxys)",
       "set_id": 5500101,
@@ -65677,6 +67861,18 @@
       "market_price_usd": 7.78,
       "market_price_as_of": "2026-10-29",
       "total_listings": 93
+    },
+    {
+      "card_id": 30220,
+      "name": "Unown [C]",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "67/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.78,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 126
     },
     {
       "card_id": 31075,
@@ -66097,6 +68293,18 @@
       "market_price_usd": 7.66,
       "market_price_as_of": "2026-11-05",
       "total_listings": 82
+    },
+    {
+      "card_id": 33940,
+      "name": "Battle Frontier",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "71/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.66,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 111
     },
     {
       "card_id": 6019,
@@ -67539,6 +69747,18 @@
       "total_listings": 83
     },
     {
+      "card_id": 30312,
+      "name": "Pachirisu",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "35/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.38,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 97
+    },
+    {
       "card_id": 4440,
       "name": "Crobat - 33/119 (Cosmos Holo)",
       "set_id": 5500123,
@@ -67705,6 +69925,18 @@
       "market_price_usd": 7.33,
       "market_price_as_of": "2026-10-24",
       "total_listings": 56
+    },
+    {
+      "card_id": 30293,
+      "name": "Buneary",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "73/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.33,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 344
     },
     {
       "card_id": 864,
@@ -68041,6 +70273,18 @@
       "market_price_usd": 7.24,
       "market_price_as_of": "2026-11-02",
       "total_listings": 123
+    },
+    {
+      "card_id": 33879,
+      "name": "Grass Energy",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "103/108",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.24,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 66
     },
     {
       "card_id": 14066,
@@ -68571,6 +70815,18 @@
       "total_listings": 87
     },
     {
+      "card_id": 33892,
+      "name": "Fire Energy",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "104/108",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.14,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 79
+    },
+    {
       "card_id": 38763,
       "name": "Tepig - 3/12",
       "set_id": 5500097,
@@ -68749,6 +71005,18 @@
       "market_price_usd": 7.1,
       "market_price_as_of": "2026-10-28",
       "total_listings": 30
+    },
+    {
+      "card_id": 30237,
+      "name": "Wynaut",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "42/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.1,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 57
     },
     {
       "card_id": 31276,
@@ -69217,6 +71485,18 @@
       "market_price_usd": 7.0,
       "market_price_as_of": "2026-11-07",
       "total_listings": 62
+    },
+    {
+      "card_id": 30248,
+      "name": "Duskull",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "80/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 254
     },
     {
       "card_id": 4046,
@@ -70623,6 +72903,18 @@
       "total_listings": 172
     },
     {
+      "card_id": 30282,
+      "name": "Rhydon",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "60/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.74,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 226
+    },
+    {
       "card_id": 6458,
       "name": "Malamar - 51/131 (League Challenge) [2nd Place]",
       "set_id": 5500087,
@@ -70971,6 +73263,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 30316,
+      "name": "Energy Switch",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "107/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.68,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 290
+    },
+    {
       "card_id": 31827,
       "name": "Golem",
       "set_id": 5500096,
@@ -71017,6 +73321,18 @@
       "market_price_usd": 6.67,
       "market_price_as_of": "2026-11-07",
       "total_listings": 132
+    },
+    {
+      "card_id": 30239,
+      "name": "Hippopotas",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "51/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.67,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 528
     },
     {
       "card_id": 4076,
@@ -72181,6 +74497,18 @@
       "market_price_usd": 6.47,
       "market_price_as_of": "2026-11-02",
       "total_listings": 111
+    },
+    {
+      "card_id": 30263,
+      "name": "Chimchar",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "76/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.47,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 507
     },
     {
       "card_id": 32550,
@@ -73623,6 +75951,18 @@
       "total_listings": 199
     },
     {
+      "card_id": 33933,
+      "name": "Water Energy",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "105/108",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.22,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 77
+    },
+    {
       "card_id": 19250,
       "name": "Magnezone VSTAR (Secret)",
       "set_id": 5500024,
@@ -74607,6 +76947,18 @@
       "total_listings": 115
     },
     {
+      "card_id": 30243,
+      "name": "Electabuzz",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "81/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.09,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 259
+    },
+    {
       "card_id": 30643,
       "name": "Krookodile",
       "set_id": 5500115,
@@ -75207,6 +77559,18 @@
       "total_listings": 99
     },
     {
+      "card_id": 33882,
+      "name": "Multi Energy",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "89/108",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.01,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 103
+    },
+    {
       "card_id": 35677,
       "name": "Magmar",
       "set_id": 5500167,
@@ -75301,6 +77665,18 @@
       "market_price_usd": 6.0,
       "market_price_as_of": "2026-11-06",
       "total_listings": 200
+    },
+    {
+      "card_id": 30331,
+      "name": "Grass Energy",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "123/130",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 148
     },
     {
       "card_id": 31831,
@@ -75951,6 +78327,18 @@
       "total_listings": 356
     },
     {
+      "card_id": 33915,
+      "name": "Root Fossil",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "86/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.91,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 259
+    },
+    {
       "card_id": 38762,
       "name": "Maractus - 2/12",
       "set_id": 5500097,
@@ -76033,6 +78421,18 @@
       "market_price_usd": 5.89,
       "market_price_as_of": "2026-11-01",
       "total_listings": 105
+    },
+    {
+      "card_id": 30255,
+      "name": "Clefable",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "22/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.89,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 70
     },
     {
       "card_id": 34779,
@@ -76215,6 +78615,18 @@
       "total_listings": 98
     },
     {
+      "card_id": 33942,
+      "name": "Lightning Energy",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "106/108",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.86,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 89
+    },
+    {
       "card_id": 4150,
       "name": "Dragonite - 119/181 (Cosmos Holo)",
       "set_id": 5500123,
@@ -76273,6 +78685,18 @@
       "market_price_usd": 5.83,
       "market_price_as_of": "2026-10-09",
       "total_listings": 116
+    },
+    {
+      "card_id": 30218,
+      "name": "Cherrim",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "45/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.83,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 187
     },
     {
       "card_id": 32528,
@@ -77979,6 +80403,18 @@
       "total_listings": 140
     },
     {
+      "card_id": 30306,
+      "name": "Luxio",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "52/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.61,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 231
+    },
+    {
       "card_id": 30488,
       "name": "Flareon",
       "set_id": 5500196,
@@ -78613,6 +81049,18 @@
       "market_price_usd": 5.54,
       "market_price_as_of": "2026-11-02",
       "total_listings": 196
+    },
+    {
+      "card_id": 33917,
+      "name": "Phoebe's Stadium",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "79/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.54,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 284
     },
     {
       "card_id": 4549,
@@ -79429,6 +81877,18 @@
       "market_price_usd": 5.42,
       "market_price_as_of": "2026-10-23",
       "total_listings": 206
+    },
+    {
+      "card_id": 36941,
+      "name": "Magnezone - DP32",
+      "set_id": 5500116,
+      "set_name": "Diamond and Pearl Promos",
+      "number": "DP32",
+      "rarity": "Promo",
+      "printing": "Holofoil",
+      "market_price_usd": 5.42,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 49
     },
     {
       "card_id": 38253,
@@ -80775,6 +83235,18 @@
       "total_listings": 480
     },
     {
+      "card_id": 30303,
+      "name": "Night Pokemon Center",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "108/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.26,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 413
+    },
+    {
       "card_id": 34413,
       "name": "Drifloon",
       "set_id": 5500035,
@@ -80821,6 +83293,18 @@
       "market_price_usd": 5.25,
       "market_price_as_of": "2026-10-25",
       "total_listings": 49
+    },
+    {
+      "card_id": 30305,
+      "name": "Bibarel",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "20/130",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.25,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 147
     },
     {
       "card_id": 37880,
@@ -82551,6 +85035,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 33916,
+      "name": "Glacia's Stadium",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "76/108",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.03,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 144
+    },
+    {
       "card_id": 38147,
       "name": "Single Strike Urshifu V",
       "set_id": 5500144,
@@ -82923,6 +85419,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 30324,
+      "name": "Poke Ball",
+      "set_id": 5500034,
+      "set_name": "Diamond and Pearl",
+      "number": "110/130",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 587
+    },
+    {
       "card_id": 31315,
       "name": "Hoothoot",
       "set_id": 5500037,
@@ -82957,6 +85465,18 @@
       "market_price_usd": 5.0,
       "market_price_as_of": "2026-11-06",
       "total_listings": 124
+    },
+    {
+      "card_id": 33846,
+      "name": "Poochyena",
+      "set_id": 5500229,
+      "set_name": "EX Power Keepers",
+      "number": "58/108",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 281
     },
     {
       "card_id": 34326,
