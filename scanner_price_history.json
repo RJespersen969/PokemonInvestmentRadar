@@ -337289,6 +337289,4318 @@
           "market_price_as_of": "2026-11-09"
         }
       ]
+    },
+    "34868:Reverse Holofoil": {
+      "card_id": 34868,
+      "name": "Ampharos (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 191.53,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34874:Reverse Holofoil": {
+      "card_id": 34874,
+      "name": "Snorlax (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 999.97,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "247307:Holofoil": {
+      "card_id": 247307,
+      "name": "Mew Star (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 3500.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34891:Reverse Holofoil": {
+      "card_id": 34891,
+      "name": "Togetic (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 74.49,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34839:Reverse Holofoil": {
+      "card_id": 34839,
+      "name": "Typhlosion (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 94.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34858:Reverse Holofoil": {
+      "card_id": 34858,
+      "name": "Arbok (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 52.22,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34856:Reverse Holofoil": {
+      "card_id": 34856,
+      "name": "Cloyster (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 32.53,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34869:Reverse Holofoil": {
+      "card_id": 34869,
+      "name": "Dewgong (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 35.93,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34890:Reverse Holofoil": {
+      "card_id": 34890,
+      "name": "Gligar (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 36.07,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34875:Reverse Holofoil": {
+      "card_id": 34875,
+      "name": "Jynx (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 26.52,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34872:Reverse Holofoil": {
+      "card_id": 34872,
+      "name": "Ledian (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 25.01,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34876:Reverse Holofoil": {
+      "card_id": 34876,
+      "name": "Lickitung (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 53.05,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34847:Reverse Holofoil": {
+      "card_id": 34847,
+      "name": "Feraligatr (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 292.04,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34884:Reverse Holofoil": {
+      "card_id": 34884,
+      "name": "Quagsire (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 71.23,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34829:Reverse Holofoil": {
+      "card_id": 34829,
+      "name": "Seadra - 022/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 36.38,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34894:Reverse Holofoil": {
+      "card_id": 34894,
+      "name": "Tropius (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 27.37,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34862:Reverse Holofoil": {
+      "card_id": 34862,
+      "name": "Vibrava - 024/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 39.82,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34886:Reverse Holofoil": {
+      "card_id": 34886,
+      "name": "Xatu (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 23.69,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34882:Reverse Holofoil": {
+      "card_id": 34882,
+      "name": "Bayleef (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 33.73,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34833:Reverse Holofoil": {
+      "card_id": 34833,
+      "name": "Croconaw (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 64.6,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34863:Reverse Holofoil": {
+      "card_id": 34863,
+      "name": "Dragonair (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 84.54,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34881:Reverse Holofoil": {
+      "card_id": 34881,
+      "name": "Electabuzz (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 40.81,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34895:Reverse Holofoil": {
+      "card_id": 34895,
+      "name": "Heracross (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 110.5,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34854:Reverse Holofoil": {
+      "card_id": 34854,
+      "name": "Flaaffy (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 30.13,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34828:Reverse Holofoil": {
+      "card_id": 34828,
+      "name": "Horsea - 031/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 43.24,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34889:Reverse Holofoil": {
+      "card_id": 34889,
+      "name": "Kirlia",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 22.21,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34849:Reverse Holofoil": {
+      "card_id": 34849,
+      "name": "Kirlia (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 35.22,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34873:Reverse Holofoil": {
+      "card_id": 34873,
+      "name": "Nidorina (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 59.75,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34864:Reverse Holofoil": {
+      "card_id": 34864,
+      "name": "Nidorino (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 33.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34835:Reverse Holofoil": {
+      "card_id": 34835,
+      "name": "Quilava (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 99.64,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34859:Reverse Holofoil": {
+      "card_id": 34859,
+      "name": "Seadra - 037/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 22.33,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34877:Reverse Holofoil": {
+      "card_id": 34877,
+      "name": "Shelgon (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 24.5,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34853:Reverse Holofoil": {
+      "card_id": 34853,
+      "name": "Smeargle (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 42.74,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34901:Reverse Holofoil": {
+      "card_id": 34901,
+      "name": "Meganium (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 97.33,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34883:Reverse Holofoil": {
+      "card_id": 34883,
+      "name": "Swellow (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 33.49,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34867:Reverse Holofoil": {
+      "card_id": 34867,
+      "name": "Togepi (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 81.98,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34880:Reverse Holofoil": {
+      "card_id": 34880,
+      "name": "Vibrava - 042/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 55.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34848:Reverse Holofoil": {
+      "card_id": 34848,
+      "name": "Bagon (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 24.32,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34841:Reverse Holofoil": {
+      "card_id": 34841,
+      "name": "Chikorita (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 41.4,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34822:Reverse Holofoil": {
+      "card_id": 34822,
+      "name": "Cyndaquil (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 44.52,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34820:Reverse Holofoil": {
+      "card_id": 34820,
+      "name": "Ekans (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 32.1,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34840:Reverse Holofoil": {
+      "card_id": 34840,
+      "name": "Elekid (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 22.25,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34850:Reverse Holofoil": {
+      "card_id": 34850,
+      "name": "Feebas (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 35.56,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34896:Reverse Holofoil": {
+      "card_id": 34896,
+      "name": "Milotic (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 173.53,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34842:Reverse Holofoil": {
+      "card_id": 34842,
+      "name": "Horsea - 050/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 21.28,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34855:Reverse Holofoil": {
+      "card_id": 34855,
+      "name": "Larvitar",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 32.57,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34825:Reverse Holofoil": {
+      "card_id": 34825,
+      "name": "Larvitar (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 50.22,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34844:Reverse Holofoil": {
+      "card_id": 34844,
+      "name": "Ledyba (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 18.88,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34830:Reverse Holofoil": {
+      "card_id": 34830,
+      "name": "Mareep (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 33.61,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34846:Reverse Holofoil": {
+      "card_id": 34846,
+      "name": "Natu (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 26.21,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34843:Reverse Holofoil": {
+      "card_id": 34843,
+      "name": "Nidoran F (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 14.59,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34845:Reverse Holofoil": {
+      "card_id": 34845,
+      "name": "Nidoran M (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 27.13,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34871:Reverse Holofoil": {
+      "card_id": 34871,
+      "name": "Pupitar",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 17.31,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34837:Reverse Holofoil": {
+      "card_id": 34837,
+      "name": "Pupitar (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 28.34,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34878:Holofoil": {
+      "card_id": 34878,
+      "name": "Nidoking (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 71.24,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34865:Reverse Holofoil": {
+      "card_id": 34865,
+      "name": "Ralts",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 33.01,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34823:Reverse Holofoil": {
+      "card_id": 34823,
+      "name": "Ralts (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 35.94,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34851:Reverse Holofoil": {
+      "card_id": 34851,
+      "name": "Seel (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 19.69,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34821:Reverse Holofoil": {
+      "card_id": 34821,
+      "name": "Shellder (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 14.64,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34838:Reverse Holofoil": {
+      "card_id": 34838,
+      "name": "Smoochum (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 18.17,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34852:Reverse Holofoil": {
+      "card_id": 34852,
+      "name": "Swablu (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 15.72,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34834:Reverse Holofoil": {
+      "card_id": 34834,
+      "name": "Taillow (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 14.17,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34826:Reverse Holofoil": {
+      "card_id": 34826,
+      "name": "Totodile (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 92.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34824:Reverse Holofoil": {
+      "card_id": 34824,
+      "name": "Trapinch - 068/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 22.53,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34836:Reverse Holofoil": {
+      "card_id": 34836,
+      "name": "Trapinch - 069/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 24.5,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34879:Reverse Holofoil": {
+      "card_id": 34879,
+      "name": "Nidoqueen (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 77.02,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34827:Reverse Holofoil": {
+      "card_id": 34827,
+      "name": "Vulpix (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 36.9,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34832:Reverse Holofoil": {
+      "card_id": 34832,
+      "name": "Wooper (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 127.61,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34885:Reverse Holofoil": {
+      "card_id": 34885,
+      "name": "Buffer Piece",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 8.44,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34912:Reverse Holofoil": {
+      "card_id": 34912,
+      "name": "Copycat",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 19.23,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34902:Reverse Holofoil": {
+      "card_id": 34902,
+      "name": "Holon Legacy",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.11,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34899:Reverse Holofoil": {
+      "card_id": 34899,
+      "name": "Holon Mentor",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 28.71,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34893:Reverse Holofoil": {
+      "card_id": 34893,
+      "name": "Island Hermit",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 13.26,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34898:Reverse Holofoil": {
+      "card_id": 34898,
+      "name": "Mr. Stone's Project",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 16.64,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34892:Reverse Holofoil": {
+      "card_id": 34892,
+      "name": "Old Rod",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 4.55,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34861:Reverse Holofoil": {
+      "card_id": 34861,
+      "name": "Professor Elm's Training Method",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 55.05,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34903:Reverse Holofoil": {
+      "card_id": 34903,
+      "name": "Ninetales (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 361.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34887:Reverse Holofoil": {
+      "card_id": 34887,
+      "name": "Professor Oak's Research",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 6.69,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34900:Reverse Holofoil": {
+      "card_id": 34900,
+      "name": "Strength Charm",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 2.69,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34857:Reverse Holofoil": {
+      "card_id": 34857,
+      "name": "TV Reporter",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 9.56,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34905:Reverse Holofoil": {
+      "card_id": 34905,
+      "name": "Switch",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.1,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34888:Reverse Holofoil": {
+      "card_id": 34888,
+      "name": "Holon Energy FF",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 4.67,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34904:Reverse Holofoil": {
+      "card_id": 34904,
+      "name": "Holon Energy GL",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 6.36,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34913:Reverse Holofoil": {
+      "card_id": 34913,
+      "name": "Holon Energy WP",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.35,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34906:Reverse Holofoil": {
+      "card_id": 34906,
+      "name": "Boost Energy",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.44,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34897:Reverse Holofoil": {
+      "card_id": 34897,
+      "name": "Delta Rainbow Energy",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 23.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34870:Reverse Holofoil": {
+      "card_id": 34870,
+      "name": "Scramble Energy",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 8.18,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34866:Reverse Holofoil": {
+      "card_id": 34866,
+      "name": "Pinsir (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 49.17,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "34916:Holofoil": {
+      "card_id": 34916,
+      "name": "Altaria ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 106.28,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34909:Holofoil": {
+      "card_id": 34909,
+      "name": "Dragonite ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 471.92,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34911:Holofoil": {
+      "card_id": 34911,
+      "name": "Flygon ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 128.53,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34917:Holofoil": {
+      "card_id": 34917,
+      "name": "Gardevoir ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 180.97,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34918:Holofoil": {
+      "card_id": 34918,
+      "name": "Kingdra ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 280.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34908:Holofoil": {
+      "card_id": 34908,
+      "name": "Latias ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 160.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34915:Holofoil": {
+      "card_id": 34915,
+      "name": "Latios ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 425.45,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34907:Holofoil": {
+      "card_id": 34907,
+      "name": "Rayquaza ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 349.4,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34914:Holofoil": {
+      "card_id": 34914,
+      "name": "Salamence ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 728.3,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "34910:Holofoil": {
+      "card_id": 34910,
+      "name": "Tyranitar ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 259.98,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35295:Reverse Holofoil": {
+      "card_id": 35295,
+      "name": "Banette",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 34.96,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35275:Reverse Holofoil": {
+      "card_id": 35275,
+      "name": "Sableye",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 150.84,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35334:Holofoil": {
+      "card_id": 35334,
+      "name": "Celebi Star",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 1116.68,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35276:Reverse Holofoil": {
+      "card_id": 35276,
+      "name": "Swalot",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 23.3,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35300:Reverse Holofoil": {
+      "card_id": 35300,
+      "name": "Tauros",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 37.03,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35288:Reverse Holofoil": {
+      "card_id": 35288,
+      "name": "Wigglytuff",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 38.96,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35269:Reverse Holofoil": {
+      "card_id": 35269,
+      "name": "Blastoise",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 300.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35308:Reverse Holofoil": {
+      "card_id": 35308,
+      "name": "Cacturne (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 32.63,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35324:Reverse Holofoil": {
+      "card_id": 35324,
+      "name": "Combusken - 016/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 35.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35282:Reverse Holofoil": {
+      "card_id": 35282,
+      "name": "Dusclops",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 21.2,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35272:Reverse Holofoil": {
+      "card_id": 35272,
+      "name": "Fearow (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 30.07,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35278:Reverse Holofoil": {
+      "card_id": 35278,
+      "name": "Grovyle (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 68.47,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35298:Reverse Holofoil": {
+      "card_id": 35298,
+      "name": "Blastoise (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 315.91,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35314:Reverse Holofoil": {
+      "card_id": 35314,
+      "name": "Grumpig",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 16.79,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35307:Reverse Holofoil": {
+      "card_id": 35307,
+      "name": "Igglybuff",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 39.28,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35258:Reverse Holofoil": {
+      "card_id": 35258,
+      "name": "Kingler (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 64.09,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35293:Reverse Holofoil": {
+      "card_id": 35293,
+      "name": "Loudred",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 21.14,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35301:Reverse Holofoil": {
+      "card_id": 35301,
+      "name": "Marshtomp - 024/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 32.55,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35320:Reverse Holofoil": {
+      "card_id": 35320,
+      "name": "Medicham",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 13.14,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35261:Reverse Holofoil": {
+      "card_id": 35261,
+      "name": "Pelipper (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 33.88,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35296:Reverse Holofoil": {
+      "card_id": 35296,
+      "name": "Swampert",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 79.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35291:Reverse Holofoil": {
+      "card_id": 35291,
+      "name": "Venusaur",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 113.5,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35297:Reverse Holofoil": {
+      "card_id": 35297,
+      "name": "Charmeleon",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 96.97,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35310:Reverse Holofoil": {
+      "card_id": 35310,
+      "name": "Camerupt",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 24.5,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35248:Reverse Holofoil": {
+      "card_id": 35248,
+      "name": "Charmeleon (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 80.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35294:Reverse Holofoil": {
+      "card_id": 35294,
+      "name": "Combusken - 031/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 40.33,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35279:Reverse Holofoil": {
+      "card_id": 35279,
+      "name": "Grovyle",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 28.79,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35283:Reverse Holofoil": {
+      "card_id": 35283,
+      "name": "Gulpin",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 20.5,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35263:Reverse Holofoil": {
+      "card_id": 35263,
+      "name": "Ivysaur - 034/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 150.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35274:Reverse Holofoil": {
+      "card_id": 35274,
+      "name": "Ivysaur - 035/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 60.91,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35292:Reverse Holofoil": {
+      "card_id": 35292,
+      "name": "Lairon",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 32.74,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35280:Reverse Holofoil": {
+      "card_id": 35280,
+      "name": "Lombre",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 19.37,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35264:Reverse Holofoil": {
+      "card_id": 35264,
+      "name": "Marshtomp - 038/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 38.06,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35284:Reverse Holofoil": {
+      "card_id": 35284,
+      "name": "Nuzleaf",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 22.11,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35305:Reverse Holofoil": {
+      "card_id": 35305,
+      "name": "Charizard (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 1199.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35281:Reverse Holofoil": {
+      "card_id": 35281,
+      "name": "Shuppet",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 26.53,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35309:Reverse Holofoil": {
+      "card_id": 35309,
+      "name": "Skitty",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 20.5,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35306:Reverse Holofoil": {
+      "card_id": 35306,
+      "name": "Wartortle - 042/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 79.33,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35268:Reverse Holofoil": {
+      "card_id": 35268,
+      "name": "Wartortle - 043/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 89.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35249:Reverse Holofoil": {
+      "card_id": 35249,
+      "name": "Aron",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 16.51,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35235:Reverse Holofoil": {
+      "card_id": 35235,
+      "name": "Bulbasaur - 045/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 154.48,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35250:Reverse Holofoil": {
+      "card_id": 35250,
+      "name": "Bulbasaur - 046/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 65.81,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35262:Reverse Holofoil": {
+      "card_id": 35262,
+      "name": "Cacnea",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 16.36,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35245:Reverse Holofoil": {
+      "card_id": 35245,
+      "name": "Charmander",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 73.29,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35237:Reverse Holofoil": {
+      "card_id": 35237,
+      "name": "Charmander (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 202.18,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35311:Reverse Holofoil": {
+      "card_id": 35311,
+      "name": "Dugtrio",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 44.53,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35243:Reverse Holofoil": {
+      "card_id": 35243,
+      "name": "Diglett",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 45.15,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35252:Reverse Holofoil": {
+      "card_id": 35252,
+      "name": "Duskull",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 40.04,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35257:Reverse Holofoil": {
+      "card_id": 35257,
+      "name": "Electrike",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 14.81,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35239:Reverse Holofoil": {
+      "card_id": 35239,
+      "name": "Jigglypuff",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 43.29,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35251:Reverse Holofoil": {
+      "card_id": 35251,
+      "name": "Krabby",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 28.21,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35267:Reverse Holofoil": {
+      "card_id": 35267,
+      "name": "Lotad",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 21.65,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35321:Reverse Holofoil": {
+      "card_id": 35321,
+      "name": "Lotad - 055/100 (EX Crystal Guardians Reverse Holofoil)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 22.59,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35255:Reverse Holofoil": {
+      "card_id": 35255,
+      "name": "Meditite",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 14.28,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35238:Reverse Holofoil": {
+      "card_id": 35238,
+      "name": "Mudkip - 057/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 107.7,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35242:Reverse Holofoil": {
+      "card_id": 35242,
+      "name": "Mudkip - 058/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 99.74,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35271:Reverse Holofoil": {
+      "card_id": 35271,
+      "name": "Numel",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 16.56,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35287:Reverse Holofoil": {
+      "card_id": 35287,
+      "name": "Ludicolo (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 80.29,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35273:Reverse Holofoil": {
+      "card_id": 35273,
+      "name": "Seedot",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 13.23,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35260:Reverse Holofoil": {
+      "card_id": 35260,
+      "name": "Spearow",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 11.86,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35265:Reverse Holofoil": {
+      "card_id": 35265,
+      "name": "Spoink",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 20.63,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35240:Reverse Holofoil": {
+      "card_id": 35240,
+      "name": "Squirtle - 063/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 113.78,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35241:Reverse Holofoil": {
+      "card_id": 35241,
+      "name": "Squirtle - 064/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 129.21,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35247:Reverse Holofoil": {
+      "card_id": 35247,
+      "name": "Torchic - 065/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 68.04,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35259:Reverse Holofoil": {
+      "card_id": 35259,
+      "name": "Torchic - 066/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 81.66,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35236:Reverse Holofoil": {
+      "card_id": 35236,
+      "name": "Treecko",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 62.86,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35246:Reverse Holofoil": {
+      "card_id": 35246,
+      "name": "Treecko (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 52.58,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35244:Reverse Holofoil": {
+      "card_id": 35244,
+      "name": "Whismur",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 11.37,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35277:Reverse Holofoil": {
+      "card_id": 35277,
+      "name": "Luvdisc",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 23.56,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35266:Reverse Holofoil": {
+      "card_id": 35266,
+      "name": "Wingull",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 16.32,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35317:Reverse Holofoil": {
+      "card_id": 35317,
+      "name": "Bill's Maintenance",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 11.31,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35302:Reverse Holofoil": {
+      "card_id": 35302,
+      "name": "Castaway",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 15.11,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35313:Reverse Holofoil": {
+      "card_id": 35313,
+      "name": "Celio's Network",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.75,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35234:Reverse Holofoil": {
+      "card_id": 35234,
+      "name": "Cessation Crystal",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 13.25,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35286:Reverse Holofoil": {
+      "card_id": 35286,
+      "name": "Crystal Beach",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 7.48,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35316:Reverse Holofoil": {
+      "card_id": 35316,
+      "name": "Crystal Shard",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 4.34,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35315:Reverse Holofoil": {
+      "card_id": 35315,
+      "name": "Double Full Heal",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 3.04,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35285:Reverse Holofoil": {
+      "card_id": 35285,
+      "name": "Dual Ball",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.41,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35323:Reverse Holofoil": {
+      "card_id": 35323,
+      "name": "Holon Circle",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 3.78,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35289:Reverse Holofoil": {
+      "card_id": 35289,
+      "name": "Manectric",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 27.02,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35303:Reverse Holofoil": {
+      "card_id": 35303,
+      "name": "Memory Berry",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 2.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35319:Reverse Holofoil": {
+      "card_id": 35319,
+      "name": "Mysterious Shard",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 3.93,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35312:Reverse Holofoil": {
+      "card_id": 35312,
+      "name": "Poke Ball",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 7.71,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35299:Reverse Holofoil": {
+      "card_id": 35299,
+      "name": "Pokenav",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 2.51,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35270:Reverse Holofoil": {
+      "card_id": 35270,
+      "name": "Warp Point",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 11.77,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35256:Reverse Holofoil": {
+      "card_id": 35256,
+      "name": "Windstorm",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 17.73,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35290:Reverse Holofoil": {
+      "card_id": 35290,
+      "name": "Energy Search",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.67,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35253:Reverse Holofoil": {
+      "card_id": 35253,
+      "name": "Potion",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 6.1,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35254:Reverse Holofoil": {
+      "card_id": 35254,
+      "name": "Double Rainbow Energy",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 10.98,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35325:Holofoil": {
+      "card_id": 35325,
+      "name": "Aggron ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 73.62,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35304:Reverse Holofoil": {
+      "card_id": 35304,
+      "name": "Mawile",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 38.58,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "35318:Holofoil": {
+      "card_id": 35318,
+      "name": "Blaziken ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 187.5,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35331:Holofoil": {
+      "card_id": 35331,
+      "name": "Delcatty ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 121.25,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35333:Holofoil": {
+      "card_id": 35333,
+      "name": "Exploud ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 76.56,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35328:Holofoil": {
+      "card_id": 35328,
+      "name": "Groudon ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 175.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35330:Holofoil": {
+      "card_id": 35330,
+      "name": "Jirachi ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 256.66,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35322:Holofoil": {
+      "card_id": 35322,
+      "name": "Kyogre ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 349.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35332:Holofoil": {
+      "card_id": 35332,
+      "name": "Sceptile ex (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 253.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35329:Holofoil": {
+      "card_id": 35329,
+      "name": "Shiftry ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 56.19,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35327:Holofoil": {
+      "card_id": 35327,
+      "name": "Swampert ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 255.33,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "35326:Holofoil": {
+      "card_id": 35326,
+      "name": "Alakazam Star",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 1359.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33232:Reverse Holofoil": {
+      "card_id": 33232,
+      "name": "Armaldo (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 88.2,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33235:Reverse Holofoil": {
+      "card_id": 33235,
+      "name": "Kingdra (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 399.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33272:Holofoil": {
+      "card_id": 33272,
+      "name": "Mew ex",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 650.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33271:Holofoil": {
+      "card_id": 33271,
+      "name": "Mightyena ex",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 104.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33278:Holofoil": {
+      "card_id": 33278,
+      "name": "Gyarados Star (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 1300.35,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33274:Holofoil": {
+      "card_id": 33274,
+      "name": "Mewtwo Star",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 9200.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33187:Holofoil": {
+      "card_id": 33187,
+      "name": "Grass Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 11.76,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33191:Holofoil": {
+      "card_id": 33191,
+      "name": "Fire Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 10.77,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33186:Holofoil": {
+      "card_id": 33186,
+      "name": "Water Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 9.89,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33218:Holofoil": {
+      "card_id": 33218,
+      "name": "Lightning Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 8.37,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33220:Holofoil": {
+      "card_id": 33220,
+      "name": "Psychic Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 12.67,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33263:Reverse Holofoil": {
+      "card_id": 33263,
+      "name": "Latias - 011/110 (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 154.26,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33270:Holofoil": {
+      "card_id": 33270,
+      "name": "Mew",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 499.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33208:Reverse Holofoil": {
+      "card_id": 33208,
+      "name": "Latios - 012/110 (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 300.0,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33256:Reverse Holofoil": {
+      "card_id": 33256,
+      "name": "Omastar (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 49.84,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33209:Reverse Holofoil": {
+      "card_id": 33209,
+      "name": "Pidgeot (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 114.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33245:Reverse Holofoil": {
+      "card_id": 33245,
+      "name": "Raichu (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 467.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33260:Reverse Holofoil": {
+      "card_id": 33260,
+      "name": "Rayquaza - 016/110 (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 961.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33239:Reverse Holofoil": {
+      "card_id": 33239,
+      "name": "Vileplume (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 82.23,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33199:Reverse Holofoil": {
+      "card_id": 33199,
+      "name": "Absol",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 75.47,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33194:Reverse Holofoil": {
+      "card_id": 33194,
+      "name": "Bellossom (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 30.38,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33222:Reverse Holofoil": {
+      "card_id": 33222,
+      "name": "Cradily (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 31.74,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33203:Reverse Holofoil": {
+      "card_id": 33203,
+      "name": "Blaziken",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 189.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33236:Reverse Holofoil": {
+      "card_id": 33236,
+      "name": "Latias (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 86.67,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33258:Reverse Holofoil": {
+      "card_id": 33258,
+      "name": "Latios (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 499.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33219:Reverse Holofoil": {
+      "card_id": 33219,
+      "name": "Mawile",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 59.24,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33202:Reverse Holofoil": {
+      "card_id": 33202,
+      "name": "Mewtwo (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 269.97,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33234:Reverse Holofoil": {
+      "card_id": 33234,
+      "name": "Nosepass",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 27.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33213:Reverse Holofoil": {
+      "card_id": 33213,
+      "name": "Rayquaza - 026/110 (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 395.08,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33248:Reverse Holofoil": {
+      "card_id": 33248,
+      "name": "Regice",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 61.49,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33242:Reverse Holofoil": {
+      "card_id": 33242,
+      "name": "Regirock",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 33.65,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33223:Reverse Holofoil": {
+      "card_id": 33223,
+      "name": "Registeel",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 37.97,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33259:Reverse Holofoil": {
+      "card_id": 33259,
+      "name": "Deoxys (Delta Species - Attack Forme)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 1498.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33250:Reverse Holofoil": {
+      "card_id": 33250,
+      "name": "Relicanth",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 38.74,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33265:Reverse Holofoil": {
+      "card_id": 33265,
+      "name": "Sableye",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 89.72,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33268:Reverse Holofoil": {
+      "card_id": 33268,
+      "name": "Seviper",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 23.33,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33227:Reverse Holofoil": {
+      "card_id": 33227,
+      "name": "Torkoal",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 25.62,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33251:Reverse Holofoil": {
+      "card_id": 33251,
+      "name": "Zangoose",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 38.33,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33189:Reverse Holofoil": {
+      "card_id": 33189,
+      "name": "Aerodactyl (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 78.15,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33262:Reverse Holofoil": {
+      "card_id": 33262,
+      "name": "Camerupt",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 13.84,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33198:Reverse Holofoil": {
+      "card_id": 33198,
+      "name": "Chimecho (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 24.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33210:Reverse Holofoil": {
+      "card_id": 33210,
+      "name": "Claydol",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 21.88,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33241:Reverse Holofoil": {
+      "card_id": 33241,
+      "name": "Combusken",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 35.42,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33231:Reverse Holofoil": {
+      "card_id": 33231,
+      "name": "Deoxys (Delta Species - Defense Forme)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 240.0,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33225:Reverse Holofoil": {
+      "card_id": 33225,
+      "name": "Donphan",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 30.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33211:Reverse Holofoil": {
+      "card_id": 33211,
+      "name": "Exeggutor (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 46.04,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33217:Reverse Holofoil": {
+      "card_id": 33217,
+      "name": "Gloom (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 33.47,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33212:Reverse Holofoil": {
+      "card_id": 33212,
+      "name": "Golduck (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 54.49,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33243:Reverse Holofoil": {
+      "card_id": 33243,
+      "name": "Holon's Castform",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 22.09,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33264:Reverse Holofoil": {
+      "card_id": 33264,
+      "name": "Lairon",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 24.24,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33224:Reverse Holofoil": {
+      "card_id": 33224,
+      "name": "Manectric",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 28.32,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33257:Reverse Holofoil": {
+      "card_id": 33257,
+      "name": "Masquerain",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 29.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33207:Reverse Holofoil": {
+      "card_id": 33207,
+      "name": "Persian (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 69.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33201:Reverse Holofoil": {
+      "card_id": 33201,
+      "name": "Pidgeotto (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 47.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33244:Reverse Holofoil": {
+      "card_id": 33244,
+      "name": "Deoxys (Delta Species - Normal Forme)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 550.0,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33193:Reverse Holofoil": {
+      "card_id": 33193,
+      "name": "Primeape (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 65.9,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33184:Reverse Holofoil": {
+      "card_id": 33184,
+      "name": "Raichu",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 71.21,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33197:Reverse Holofoil": {
+      "card_id": 33197,
+      "name": "Seadra (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 57.48,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33237:Reverse Holofoil": {
+      "card_id": 33237,
+      "name": "Sharpedo (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 62.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33252:Reverse Holofoil": {
+      "card_id": 33252,
+      "name": "Vibrava (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 60.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33253:Reverse Holofoil": {
+      "card_id": 33253,
+      "name": "Whiscash",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 25.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33269:Reverse Holofoil": {
+      "card_id": 33269,
+      "name": "Wobbuffet",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 23.84,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33182:Reverse Holofoil": {
+      "card_id": 33182,
+      "name": "Anorith (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 13.25,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33192:Reverse Holofoil": {
+      "card_id": 33192,
+      "name": "Aron",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 17.64,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33196:Reverse Holofoil": {
+      "card_id": 33196,
+      "name": "Baltoy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 11.84,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33215:Reverse Holofoil": {
+      "card_id": 33215,
+      "name": "Deoxys (Delta Species - Speed Forme)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 229.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33190:Reverse Holofoil": {
+      "card_id": 33190,
+      "name": "Barboach",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 18.12,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33174:Reverse Holofoil": {
+      "card_id": 33174,
+      "name": "Carvanha (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 27.04,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33204:Reverse Holofoil": {
+      "card_id": 33204,
+      "name": "Corphish - 062/110",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 18.72,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33247:Reverse Holofoil": {
+      "card_id": 33247,
+      "name": "Corphish - 063/110",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 32.63,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33206:Reverse Holofoil": {
+      "card_id": 33206,
+      "name": "Electrike",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 15.68,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33183:Reverse Holofoil": {
+      "card_id": 33183,
+      "name": "Exeggcute (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 50.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33172:Reverse Holofoil": {
+      "card_id": 33172,
+      "name": "Horsea (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 44.24,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33177:Reverse Holofoil": {
+      "card_id": 33177,
+      "name": "Kabuto (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 78.16,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33178:Reverse Holofoil": {
+      "card_id": 33178,
+      "name": "Lileep (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 30.84,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33175:Reverse Holofoil": {
+      "card_id": 33175,
+      "name": "Magikarp (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 202.08,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33267:Reverse Holofoil": {
+      "card_id": 33267,
+      "name": "Flygon (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 167.5,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33176:Reverse Holofoil": {
+      "card_id": 33176,
+      "name": "Mankey (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 41.16,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33180:Reverse Holofoil": {
+      "card_id": 33180,
+      "name": "Meowth (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 93.74,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33188:Reverse Holofoil": {
+      "card_id": 33188,
+      "name": "Numel",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 33.01,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33173:Reverse Holofoil": {
+      "card_id": 33173,
+      "name": "Oddish (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 50.16,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33166:Reverse Holofoil": {
+      "card_id": 33166,
+      "name": "Omanyte (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 30.2,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33170:Reverse Holofoil": {
+      "card_id": 33170,
+      "name": "Phanpy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 27.43,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33169:Reverse Holofoil": {
+      "card_id": 33169,
+      "name": "Pichu (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 48.5,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33179:Reverse Holofoil": {
+      "card_id": 33179,
+      "name": "Pidgey (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 65.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33168:Reverse Holofoil": {
+      "card_id": 33168,
+      "name": "Pikachu",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 315.82,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33171:Reverse Holofoil": {
+      "card_id": 33171,
+      "name": "Pikachu (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 128.83,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33254:Reverse Holofoil": {
+      "card_id": 33254,
+      "name": "Gyarados (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 368.78,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33228:Reverse Holofoil": {
+      "card_id": 33228,
+      "name": "Poochyena",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 19.92,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33165:Reverse Holofoil": {
+      "card_id": 33165,
+      "name": "Psyduck (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 316.99,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33195:Reverse Holofoil": {
+      "card_id": 33195,
+      "name": "Surskit",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 22.65,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33167:Reverse Holofoil": {
+      "card_id": 33167,
+      "name": "Torchic",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 141.96,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33185:Reverse Holofoil": {
+      "card_id": 33185,
+      "name": "Trapinch (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 29.07,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33181:Reverse Holofoil": {
+      "card_id": 33181,
+      "name": "Holon Adventurer",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 8.2,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33214:Reverse Holofoil": {
+      "card_id": 33214,
+      "name": "Holon Fossil",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 6.21,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33230:Reverse Holofoil": {
+      "card_id": 33230,
+      "name": "Holon Lake",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 8.35,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33249:Reverse Holofoil": {
+      "card_id": 33249,
+      "name": "Mr. Stone's Project",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 23.12,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33238:Reverse Holofoil": {
+      "card_id": 33238,
+      "name": "Professor Cozmo's Discovery",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 7.03,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33246:Reverse Holofoil": {
+      "card_id": 33246,
+      "name": "Kabutops (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 151.87,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "33205:Reverse Holofoil": {
+      "card_id": 33205,
+      "name": "Rare Candy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 70.0,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33233:Reverse Holofoil": {
+      "card_id": 33233,
+      "name": "Claw Fossil",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.87,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33240:Reverse Holofoil": {
+      "card_id": 33240,
+      "name": "Mysterious Fossil",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.53,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33226:Reverse Holofoil": {
+      "card_id": 33226,
+      "name": "Root Fossil",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 4.54,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33266:Reverse Holofoil": {
+      "card_id": 33266,
+      "name": "Darkness Energy (Special)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 6.79,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33229:Reverse Holofoil": {
+      "card_id": 33229,
+      "name": "Metal Energy (Special)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 7.72,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33255:Reverse Holofoil": {
+      "card_id": 33255,
+      "name": "Multi Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 5.14,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33200:Reverse Holofoil": {
+      "card_id": 33200,
+      "name": "Dark Metal Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 18.87,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33221:Reverse Holofoil": {
+      "card_id": 33221,
+      "name": "Delta Rainbow Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 13.66,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
+    },
+    "33261:Holofoil": {
+      "card_id": 33261,
+      "name": "Crawdaunt ex",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-10",
+          "market_price_usd": 58.08,
+          "market_price_as_of": "2026-11-10"
+        }
+      ]
     }
   }
 }

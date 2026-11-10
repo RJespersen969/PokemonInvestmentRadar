@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-09T17:43:35.661805+00:00",
+  "generated_at": "2026-11-10T15:42:41.705843+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 169,
+  "next_set_index": 174,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 7,
-  "total_candidates": 7133,
-  "cards_with_price_history": 24092,
+  "api_calls": 8,
+  "total_candidates": 7392,
+  "cards_with_price_history": 24400,
   "candidates": [
     {
       "card_id": 20118,
@@ -279,6 +279,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 34868,
+      "name": "Ampharos (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "1/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 191.53,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 59
+    },
+    {
       "card_id": 6032,
       "name": "Espeon VMAX - 065/203",
       "set_id": 5500194,
@@ -325,6 +337,18 @@
       "market_price_usd": 190.03,
       "market_price_as_of": "2026-10-27",
       "total_listings": 11
+    },
+    {
+      "card_id": 33203,
+      "name": "Blaziken",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "20/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 189.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 73
     },
     {
       "card_id": 28273,
@@ -397,6 +421,18 @@
       "market_price_usd": 187.84,
       "market_price_as_of": "2026-11-07",
       "total_listings": 18
+    },
+    {
+      "card_id": 35318,
+      "name": "Blaziken ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "90/100",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 187.5,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 12
     },
     {
       "card_id": 34964,
@@ -589,6 +625,18 @@
       "market_price_usd": 181.05,
       "market_price_as_of": "2026-10-10",
       "total_listings": 78
+    },
+    {
+      "card_id": 34917,
+      "name": "Gardevoir ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "93/101",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 180.97,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 13
     },
     {
       "card_id": 36119,
@@ -795,6 +843,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 35328,
+      "name": "Groudon ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "93/100",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 175.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 5
+    },
+    {
       "card_id": 38443,
       "name": "Pikachu (English)",
       "set_id": 5500075,
@@ -901,6 +961,18 @@
       "market_price_usd": 173.64,
       "market_price_as_of": "2026-11-04",
       "total_listings": 29
+    },
+    {
+      "card_id": 34896,
+      "name": "Milotic (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "5/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 173.53,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 77
     },
     {
       "card_id": 31180,
@@ -1069,6 +1141,18 @@
       "market_price_usd": 167.66,
       "market_price_as_of": "2026-11-03",
       "total_listings": 31
+    },
+    {
+      "card_id": 33267,
+      "name": "Flygon (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "7/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 167.5,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 48
     },
     {
       "card_id": 35712,
@@ -1383,6 +1467,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 34908,
+      "name": "Latias ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "95/101",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 160.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 7
+    },
+    {
       "card_id": 37817,
       "name": "Blastoise - 13/95 (Prerelease)",
       "set_id": 5500065,
@@ -1551,6 +1647,30 @@
       "total_listings": 4
     },
     {
+      "card_id": 35235,
+      "name": "Bulbasaur - 045/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "45/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 154.48,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 199
+    },
+    {
+      "card_id": 33263,
+      "name": "Latias - 011/110 (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "11/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 154.26,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 42
+    },
+    {
       "card_id": 19501,
       "name": "Red's Challenge (Full Art)",
       "set_id": 5500191,
@@ -1609,6 +1729,18 @@
       "market_price_usd": 152.07,
       "market_price_as_of": "2026-10-31",
       "total_listings": 32
+    },
+    {
+      "card_id": 33246,
+      "name": "Kabutops (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "9/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 151.87,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 45
     },
     {
       "card_id": 26707,
@@ -1671,6 +1803,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 35275,
+      "name": "Sableye",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "10/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 150.84,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 51
+    },
+    {
       "card_id": 38055,
       "name": "Pikachu (Full Art)",
       "set_id": 5500133,
@@ -1717,6 +1861,18 @@
       "market_price_usd": 150.0,
       "market_price_as_of": "2026-11-08",
       "total_listings": 103
+    },
+    {
+      "card_id": 35263,
+      "name": "Ivysaur - 034/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "34/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 150.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 153
     },
     {
       "card_id": 5046,
@@ -2161,6 +2317,18 @@
       "market_price_usd": 142.02,
       "market_price_as_of": "2026-10-18",
       "total_listings": 29
+    },
+    {
+      "card_id": 33167,
+      "name": "Torchic",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "83/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 141.96,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 209
     },
     {
       "card_id": 16817,
@@ -2895,6 +3063,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 35241,
+      "name": "Squirtle - 064/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "64/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 129.21,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 125
+    },
+    {
       "card_id": 27073,
       "name": "Cresselia EX (143 Full Art)",
       "set_id": 5500140,
@@ -2929,6 +3109,18 @@
       "market_price_usd": 128.99,
       "market_price_as_of": "2026-11-05",
       "total_listings": 27
+    },
+    {
+      "card_id": 33171,
+      "name": "Pikachu (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "79/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 128.83,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 90
     },
     {
       "card_id": 33867,
@@ -2967,6 +3159,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 34911,
+      "name": "Flygon ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "92/101",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 128.53,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 21
+    },
+    {
       "card_id": 4728,
       "name": "Rayquaza C - 8/147 (Cracked Ice)",
       "set_id": 5500123,
@@ -3001,6 +3205,18 @@
       "market_price_usd": 127.86,
       "market_price_as_of": "2026-10-21",
       "total_listings": 28
+    },
+    {
+      "card_id": 34832,
+      "name": "Wooper (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "71/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 127.61,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 105
     },
     {
       "card_id": 28465,
@@ -3481,6 +3697,18 @@
       "market_price_usd": 121.55,
       "market_price_as_of": "2026-10-14",
       "total_listings": 102
+    },
+    {
+      "card_id": 35331,
+      "name": "Delcatty ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "91/100",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 121.25,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 24
     },
     {
       "card_id": 33138,
@@ -4047,6 +4275,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 33209,
+      "name": "Pidgeot (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "14/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 114.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 49
+    },
+    {
       "card_id": 5223,
       "name": "Umbreon - 130/197 (EBGames Exclusive)",
       "set_id": 5500123,
@@ -4143,6 +4383,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 35240,
+      "name": "Squirtle - 063/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "63/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 113.78,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 200
+    },
+    {
       "card_id": 18932,
       "name": "Galarian Slowking V (Alternate Full Art)",
       "set_id": 5500170,
@@ -4153,6 +4405,18 @@
       "market_price_usd": 113.52,
       "market_price_as_of": "2026-10-18",
       "total_listings": 30
+    },
+    {
+      "card_id": 35291,
+      "name": "Venusaur",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "28/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 113.5,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 84
     },
     {
       "card_id": 33865,
@@ -4273,6 +4537,18 @@
       "market_price_usd": 110.82,
       "market_price_as_of": "2026-11-02",
       "total_listings": 22
+    },
+    {
+      "card_id": 34895,
+      "name": "Heracross (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "3/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 110.5,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 55
     },
     {
       "card_id": 15466,
@@ -4539,6 +4815,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 35238,
+      "name": "Mudkip - 057/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "57/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 107.7,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 117
+    },
+    {
       "card_id": 28299,
       "name": "Pidove - BW15",
       "set_id": 5500091,
@@ -4621,6 +4909,18 @@
       "market_price_usd": 106.36,
       "market_price_as_of": "2026-10-23",
       "total_listings": 29
+    },
+    {
+      "card_id": 34916,
+      "name": "Altaria ex (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "90/101",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 106.28,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 7
     },
     {
       "card_id": 19814,
@@ -4717,6 +5017,18 @@
       "market_price_usd": 105.09,
       "market_price_as_of": "2026-10-21",
       "total_listings": 6
+    },
+    {
+      "card_id": 33271,
+      "name": "Mightyena ex",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "101/110",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 104.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 15
     },
     {
       "card_id": 14170,
@@ -5475,6 +5787,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 35242,
+      "name": "Mudkip - 058/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "58/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 99.74,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 112
+    },
+    {
       "card_id": 25428,
       "name": "Yveltal EX (144 Full Art)",
       "set_id": 5500120,
@@ -5485,6 +5809,18 @@
       "market_price_usd": 99.73,
       "market_price_as_of": "2026-10-31",
       "total_listings": 46
+    },
+    {
+      "card_id": 34835,
+      "name": "Quilava (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "36/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 99.64,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 136
     },
     {
       "card_id": 31239,
@@ -5715,6 +6051,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 34901,
+      "name": "Meganium (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "4/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 97.33,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 59
+    },
+    {
       "card_id": 6670,
       "name": "Boss's Orders - 132/172 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -5773,6 +6121,18 @@
       "market_price_usd": 97.0,
       "market_price_as_of": "2026-10-26",
       "total_listings": 5
+    },
+    {
+      "card_id": 35297,
+      "name": "Charmeleon",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "29/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 96.97,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 102
     },
     {
       "card_id": 38154,
@@ -5991,6 +6351,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 34839,
+      "name": "Typhlosion (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "12/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 94.99,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 82
+    },
+    {
       "card_id": 38447,
       "name": "Pikachu (German)",
       "set_id": 5500075,
@@ -6159,6 +6531,18 @@
       "total_listings": 49
     },
     {
+      "card_id": 33180,
+      "name": "Meowth (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "71/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 93.74,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 94
+    },
+    {
       "card_id": 19896,
       "name": "Palkia (Full Art Promo)",
       "set_id": 5500177,
@@ -6277,6 +6661,18 @@
       "market_price_usd": 93.0,
       "market_price_as_of": "2026-11-02",
       "total_listings": 23
+    },
+    {
+      "card_id": 34826,
+      "name": "Totodile (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "67/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 92.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 248
     },
     {
       "card_id": 19548,
@@ -6687,6 +7083,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 35268,
+      "name": "Wartortle - 043/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "43/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 89.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 116
+    },
+    {
       "card_id": 38712,
       "name": "Skuntank",
       "set_id": 5500142,
@@ -6745,6 +7153,18 @@
       "market_price_usd": 89.73,
       "market_price_as_of": "2026-11-08",
       "total_listings": 72
+    },
+    {
+      "card_id": 33265,
+      "name": "Sableye",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "31/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 89.72,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 45
     },
     {
       "card_id": 2320530,
@@ -6939,6 +7359,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 33232,
+      "name": "Armaldo (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "1/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 88.2,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 65
+    },
+    {
       "card_id": 4443,
       "name": "Deoxys (Normal Forme) - 16/107 (Movie Promo)",
       "set_id": 5500123,
@@ -7033,6 +7465,18 @@
       "market_price_usd": 86.74,
       "market_price_as_of": "2026-10-27",
       "total_listings": 3
+    },
+    {
+      "card_id": 33236,
+      "name": "Latias (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "21/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 86.67,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 54
     },
     {
       "card_id": 2298505,
@@ -7297,6 +7741,18 @@
       "market_price_usd": 84.78,
       "market_price_as_of": "2026-10-21",
       "total_listings": 72
+    },
+    {
+      "card_id": 34863,
+      "name": "Dragonair (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "28/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 84.54,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 82
     },
     {
       "card_id": 31295,
@@ -7599,6 +8055,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 33239,
+      "name": "Vileplume (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "17/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 82.23,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 54
+    },
+    {
       "card_id": 36740,
       "name": "Darkrai VSTAR",
       "set_id": 5500218,
@@ -7635,6 +8103,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 34867,
+      "name": "Togepi (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "41/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 81.98,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 68
+    },
+    {
       "card_id": 28288,
       "name": "Metagross - BW75 (Team Plasma) (Prerelease)",
       "set_id": 5500091,
@@ -7669,6 +8149,18 @@
       "market_price_usd": 81.76,
       "market_price_as_of": "2026-10-23",
       "total_listings": 10
+    },
+    {
+      "card_id": 35259,
+      "name": "Torchic - 066/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "66/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 81.66,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 105
     },
     {
       "card_id": 14195,
@@ -7863,6 +8355,18 @@
       "total_listings": 191
     },
     {
+      "card_id": 35287,
+      "name": "Ludicolo (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "6/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 80.29,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 55
+    },
+    {
       "card_id": 28326,
       "name": "Arcanine - 12/99 (Prerelease)",
       "set_id": 5500091,
@@ -7947,6 +8451,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 35248,
+      "name": "Charmeleon (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "30/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 80.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 136
+    },
+    {
       "card_id": 5048,
       "name": "Scizor - 141/197 (Pokemon Gym Promo)",
       "set_id": 5500123,
@@ -8019,6 +8535,18 @@
       "total_listings": 94
     },
     {
+      "card_id": 35296,
+      "name": "Swampert",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "27/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 79.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 77
+    },
+    {
       "card_id": 35645,
       "name": "Squirtle",
       "set_id": 5500167,
@@ -8089,6 +8617,18 @@
       "market_price_usd": 79.46,
       "market_price_as_of": "2026-10-21",
       "total_listings": 108
+    },
+    {
+      "card_id": 35306,
+      "name": "Wartortle - 042/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "42/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 79.33,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 85
     },
     {
       "card_id": 27989,
@@ -8187,6 +8727,18 @@
       "total_listings": 33
     },
     {
+      "card_id": 33177,
+      "name": "Kabuto (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "67/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 78.16,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 127
+    },
+    {
       "card_id": 28277,
       "name": "Jigglypuff - BW65",
       "set_id": 5500091,
@@ -8197,6 +8749,18 @@
       "market_price_usd": 78.15,
       "market_price_as_of": "2026-11-04",
       "total_listings": 9
+    },
+    {
+      "card_id": 33189,
+      "name": "Aerodactyl (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "35/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 78.15,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 62
     },
     {
       "card_id": 19887,
@@ -8391,6 +8955,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 34879,
+      "name": "Nidoqueen (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "7/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 77.02,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 50
+    },
+    {
       "card_id": 36908,
       "name": "Palkia LV.X - DP18",
       "set_id": 5500116,
@@ -8485,6 +9061,18 @@
       "market_price_usd": 76.64,
       "market_price_as_of": "2026-11-04",
       "total_listings": 41
+    },
+    {
+      "card_id": 35333,
+      "name": "Exploud ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "92/100",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 76.56,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 15
     },
     {
       "card_id": 18180,
@@ -8605,6 +9193,18 @@
       "market_price_usd": 75.56,
       "market_price_as_of": "2026-10-18",
       "total_listings": 68
+    },
+    {
+      "card_id": 33199,
+      "name": "Absol",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "18/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 75.47,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 55
     },
     {
       "card_id": 5269,
@@ -8775,6 +9375,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 34891,
+      "name": "Togetic (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "11/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 74.49,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 57
+    },
+    {
       "card_id": 6341,
       "name": "Grass Energy - 88/95 (Play! Pokemon)",
       "set_id": 5500087,
@@ -8943,6 +9555,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 35325,
+      "name": "Aggron ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "89/100",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 73.62,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 3
+    },
+    {
       "card_id": 4447,
       "name": "Play! Pokemon Prize Pack Series One",
       "set_id": 5500194,
@@ -8977,6 +9601,18 @@
       "market_price_usd": 73.36,
       "market_price_as_of": "2026-11-07",
       "total_listings": 49
+    },
+    {
+      "card_id": 35245,
+      "name": "Charmander",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "48/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 73.29,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 154
     },
     {
       "card_id": 4967,
@@ -9351,6 +9987,30 @@
       "total_listings": 146
     },
     {
+      "card_id": 34878,
+      "name": "Nidoking (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "6/101",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 71.24,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 62
+    },
+    {
+      "card_id": 34884,
+      "name": "Quagsire (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "21/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 71.23,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 43
+    },
+    {
       "card_id": 38396,
       "name": "Bidoof - 73/123",
       "set_id": 5500210,
@@ -9361,6 +10021,18 @@
       "market_price_usd": 71.22,
       "market_price_as_of": "2026-11-07",
       "total_listings": 0
+    },
+    {
+      "card_id": 33184,
+      "name": "Raichu",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "51/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 71.21,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 59
     },
     {
       "card_id": 6558,
@@ -9579,6 +10251,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 33205,
+      "name": "Rare Candy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "90/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 70.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 112
+    },
+    {
       "card_id": 37686,
       "name": "League Staff",
       "set_id": 5500026,
@@ -9613,6 +10297,18 @@
       "market_price_usd": 69.99,
       "market_price_as_of": "2026-09-15",
       "total_listings": 2
+    },
+    {
+      "card_id": 33207,
+      "name": "Persian (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "48/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 69.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 71
     },
     {
       "card_id": 14814,
@@ -9867,6 +10563,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 35278,
+      "name": "Grovyle (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "19/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 68.47,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 70
+    },
+    {
       "card_id": 5868,
       "name": "Glaceon V - 040/203",
       "set_id": 5500194,
@@ -9937,6 +10645,18 @@
       "market_price_usd": 68.08,
       "market_price_as_of": "2026-11-03",
       "total_listings": 14
+    },
+    {
+      "card_id": 35247,
+      "name": "Torchic - 065/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "65/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 68.04,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 105
     },
     {
       "card_id": 28238,
@@ -10383,6 +11103,18 @@
       "total_listings": 83
     },
     {
+      "card_id": 33193,
+      "name": "Primeape (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "50/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 65.9,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 96
+    },
+    {
       "card_id": 31802,
       "name": "Arceus (AR1)",
       "set_id": 5500096,
@@ -10405,6 +11137,18 @@
       "market_price_usd": 65.88,
       "market_price_as_of": "2026-11-07",
       "total_listings": 72
+    },
+    {
+      "card_id": 35250,
+      "name": "Bulbasaur - 046/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "46/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 65.81,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 145
     },
     {
       "card_id": 16710,
@@ -10635,6 +11379,18 @@
       "total_listings": 163
     },
     {
+      "card_id": 33179,
+      "name": "Pidgey (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "77/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 65.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 120
+    },
+    {
       "card_id": 15437,
       "name": "Snorlax V - 141/202",
       "set_id": 5500069,
@@ -10767,6 +11523,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 34833,
+      "name": "Croconaw (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "27/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 64.6,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 117
+    },
+    {
       "card_id": 26391,
       "name": "M Blastoise EX (Full Art)",
       "set_id": 5500147,
@@ -10849,6 +11617,18 @@
       "market_price_usd": 64.14,
       "market_price_as_of": "2026-10-21",
       "total_listings": 127
+    },
+    {
+      "card_id": 35258,
+      "name": "Kingler (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "22/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 64.09,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 72
     },
     {
       "card_id": 2163499,
@@ -11115,6 +11895,18 @@
       "total_listings": 105
     },
     {
+      "card_id": 33237,
+      "name": "Sharpedo (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "53/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 62.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 71
+    },
+    {
       "card_id": 34999,
       "name": "Darkrai",
       "set_id": 5500174,
@@ -11125,6 +11917,18 @@
       "market_price_usd": 62.96,
       "market_price_as_of": "2026-11-07",
       "total_listings": 37
+    },
+    {
+      "card_id": 35236,
+      "name": "Treecko",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "67/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 62.86,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 133
     },
     {
       "card_id": 2158854,
@@ -11463,6 +12267,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 33248,
+      "name": "Regice",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "27/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 61.49,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 71
+    },
+    {
       "card_id": 20091,
       "name": "Volcanion - XY145 (Prerelease) [Staff]",
       "set_id": 5500177,
@@ -11581,6 +12397,18 @@
       "market_price_usd": 60.91,
       "market_price_as_of": "2026-10-21",
       "total_listings": 27
+    },
+    {
+      "card_id": 35274,
+      "name": "Ivysaur - 035/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "35/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 60.91,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 89
     },
     {
       "card_id": 36901,
@@ -11835,6 +12663,18 @@
       "total_listings": 94
     },
     {
+      "card_id": 33252,
+      "name": "Vibrava (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "54/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 60.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 87
+    },
+    {
       "card_id": 15534,
       "name": "Yveltal - XY06",
       "set_id": 5500069,
@@ -11917,6 +12757,18 @@
       "market_price_usd": 59.76,
       "market_price_as_of": "2026-10-31",
       "total_listings": 43
+    },
+    {
+      "card_id": 34873,
+      "name": "Nidorina (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "34/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 59.75,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 63
     },
     {
       "card_id": 19347,
@@ -12073,6 +12925,18 @@
       "market_price_usd": 59.25,
       "market_price_as_of": "2026-10-26",
       "total_listings": 7
+    },
+    {
+      "card_id": 33219,
+      "name": "Mawile",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "23/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 59.24,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 49
     },
     {
       "card_id": 5204,
@@ -12411,6 +13275,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 33261,
+      "name": "Crawdaunt ex",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "99/110",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 58.08,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 27
+    },
+    {
       "card_id": 6526,
       "name": "Diantha - 105/131 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -12613,6 +13489,18 @@
       "market_price_usd": 57.5,
       "market_price_as_of": "2026-10-27",
       "total_listings": 2
+    },
+    {
+      "card_id": 33197,
+      "name": "Seadra (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "52/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 57.48,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 78
     },
     {
       "card_id": 24837,
@@ -12891,6 +13779,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 35329,
+      "name": "Shiftry ex",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "97/100",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 56.19,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 30
+    },
+    {
       "card_id": 36725,
       "name": "Suicune V",
       "set_id": 5500218,
@@ -12913,6 +13813,18 @@
       "market_price_usd": 56.17,
       "market_price_as_of": "2026-10-25",
       "total_listings": 16
+    },
+    {
+      "card_id": 34880,
+      "name": "Vibrava - 042/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "42/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 55.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 92
     },
     {
       "card_id": 31780,
@@ -13105,6 +14017,18 @@
       "market_price_usd": 55.16,
       "market_price_as_of": "2026-10-26",
       "total_listings": 55
+    },
+    {
+      "card_id": 34861,
+      "name": "Professor Elm's Training Method",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "79/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 55.05,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 147
     },
     {
       "card_id": 15412,
@@ -13345,6 +14269,18 @@
       "market_price_usd": 54.55,
       "market_price_as_of": "2026-11-09",
       "total_listings": 67
+    },
+    {
+      "card_id": 33212,
+      "name": "Golduck (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "43/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 54.49,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 60
     },
     {
       "card_id": 28274,
@@ -13731,6 +14667,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 34876,
+      "name": "Lickitung (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "19/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 53.05,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 62
+    },
+    {
       "card_id": 4961,
       "name": "Mischievous Pichu - 214/S-P",
       "set_id": 5500123,
@@ -13813,6 +14761,18 @@
       "market_price_usd": 52.64,
       "market_price_as_of": "2026-10-15",
       "total_listings": 15
+    },
+    {
+      "card_id": 35246,
+      "name": "Treecko (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "68/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 52.58,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 154
     },
     {
       "card_id": 37484,
@@ -13957,6 +14917,18 @@
       "market_price_usd": 52.25,
       "market_price_as_of": "2026-10-21",
       "total_listings": 4
+    },
+    {
+      "card_id": 34858,
+      "name": "Arbok (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "13/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 52.22,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 67
     },
     {
       "card_id": 29038,
@@ -14559,6 +15531,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 34825,
+      "name": "Larvitar (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "52/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 50.22,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 254
+    },
+    {
       "card_id": 34986,
       "name": "Dialga",
       "set_id": 5500174,
@@ -14569,6 +15553,18 @@
       "market_price_usd": 50.19,
       "market_price_as_of": "2026-11-07",
       "total_listings": 43
+    },
+    {
+      "card_id": 33173,
+      "name": "Oddish (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "73/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 50.16,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 99
     },
     {
       "card_id": 25674,
@@ -14617,6 +15613,18 @@
       "market_price_usd": 50.0,
       "market_price_as_of": "2026-10-01",
       "total_listings": 0
+    },
+    {
+      "card_id": 33183,
+      "name": "Exeggcute (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "65/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 50.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 206
     },
     {
       "card_id": 34771,
@@ -14761,6 +15769,18 @@
       "market_price_usd": 49.94,
       "market_price_as_of": "2026-10-27",
       "total_listings": 5
+    },
+    {
+      "card_id": 33256,
+      "name": "Omastar (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "13/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 49.84,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 45
     },
     {
       "card_id": 31785,
@@ -14965,6 +15985,18 @@
       "market_price_usd": 49.18,
       "market_price_as_of": "2026-11-05",
       "total_listings": 71
+    },
+    {
+      "card_id": 34866,
+      "name": "Pinsir (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "9/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 49.17,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 73
     },
     {
       "card_id": 2300437,
@@ -15267,6 +16299,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 33169,
+      "name": "Pichu (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "76/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 48.5,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 121
+    },
+    {
       "card_id": 14119,
       "name": "Pikachu - SWSH153 (Holiday Calendar)",
       "set_id": 5500149,
@@ -15457,6 +16501,18 @@
       "market_price_usd": 47.99,
       "market_price_as_of": "2026-10-28",
       "total_listings": 74
+    },
+    {
+      "card_id": 33201,
+      "name": "Pidgeotto (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "49/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 47.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 56
     },
     {
       "card_id": 4669,
@@ -16227,6 +17283,18 @@
       "total_listings": 187
     },
     {
+      "card_id": 33211,
+      "name": "Exeggutor (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "41/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 46.04,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 77
+    },
+    {
       "card_id": 27487,
       "name": "Milotic C",
       "set_id": 5500063,
@@ -16779,6 +17847,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 35243,
+      "name": "Diglett",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "50/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 45.15,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 154
+    },
+    {
       "card_id": 19618,
       "name": "Ditto Prism Star",
       "set_id": 5500141,
@@ -17103,6 +18183,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 35311,
+      "name": "Dugtrio",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "5/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 44.53,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 25
+    },
+    {
       "card_id": 6707,
       "name": "Oran Berry - 85/109 [Winner]",
       "set_id": 5500087,
@@ -17113,6 +18205,18 @@
       "market_price_usd": 44.53,
       "market_price_as_of": "2026-10-27",
       "total_listings": 5
+    },
+    {
+      "card_id": 34822,
+      "name": "Cyndaquil (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "45/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 44.52,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 230
     },
     {
       "card_id": 36189,
@@ -17197,6 +18301,18 @@
       "market_price_usd": 44.24,
       "market_price_as_of": "2026-10-22",
       "total_listings": 36
+    },
+    {
+      "card_id": 33172,
+      "name": "Horsea (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "66/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 44.24,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 130
     },
     {
       "card_id": 6076,
@@ -17499,6 +18615,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 35239,
+      "name": "Jigglypuff",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "53/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 43.29,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 161
+    },
+    {
       "card_id": 5906,
       "name": "Leafeon V - 007/203",
       "set_id": 5500194,
@@ -17509,6 +18637,18 @@
       "market_price_usd": 43.25,
       "market_price_as_of": "2026-10-15",
       "total_listings": 13
+    },
+    {
+      "card_id": 34828,
+      "name": "Horsea - 031/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "31/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 43.24,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 131
     },
     {
       "card_id": 38805,
@@ -17665,6 +18805,18 @@
       "market_price_usd": 42.74,
       "market_price_as_of": "2026-11-04",
       "total_listings": 36
+    },
+    {
+      "card_id": 34853,
+      "name": "Smeargle (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "39/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 42.74,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 49
     },
     {
       "card_id": 13673,
@@ -18231,6 +19383,18 @@
       "total_listings": 123
     },
     {
+      "card_id": 34841,
+      "name": "Chikorita (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "44/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 41.4,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 116
+    },
+    {
       "card_id": 12810,
       "name": "Venusaur - 28/100 (EX Crystal Guardians)",
       "set_id": 5500101,
@@ -18325,6 +19489,18 @@
       "market_price_usd": 41.17,
       "market_price_as_of": "2026-10-14",
       "total_listings": 152
+    },
+    {
+      "card_id": 33176,
+      "name": "Mankey (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "70/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 41.16,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 182
     },
     {
       "card_id": 26213,
@@ -18493,6 +19669,18 @@
       "market_price_usd": 40.82,
       "market_price_as_of": "2026-11-06",
       "total_listings": 10
+    },
+    {
+      "card_id": 34881,
+      "name": "Electabuzz (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "29/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.81,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 123
     },
     {
       "card_id": 30564,
@@ -18699,6 +19887,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 35294,
+      "name": "Combusken - 031/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "31/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.33,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 79
+    },
+    {
       "card_id": 17207,
       "name": "Charmander - 109/091",
       "set_id": 5500030,
@@ -18901,6 +20101,18 @@
       "market_price_usd": 40.05,
       "market_price_as_of": "2026-10-30",
       "total_listings": 104
+    },
+    {
+      "card_id": 35252,
+      "name": "Duskull",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "51/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.04,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 253
     },
     {
       "card_id": 4295,
@@ -19203,6 +20415,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 34862,
+      "name": "Vibrava - 024/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "24/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 39.82,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 87
+    },
+    {
       "card_id": 19758,
       "name": "Alolan Ninetales GX (Full Art)",
       "set_id": 5500141,
@@ -19477,6 +20701,18 @@
       "market_price_usd": 39.28,
       "market_price_as_of": "2026-10-09",
       "total_listings": 90
+    },
+    {
+      "card_id": 35307,
+      "name": "Igglybuff",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "21/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 39.28,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 64
     },
     {
       "card_id": 16691,
@@ -19791,6 +21027,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 35288,
+      "name": "Wigglytuff",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "13/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 38.96,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 62
+    },
+    {
       "card_id": 33133,
       "name": "Dialga EX (Team Plasma)",
       "set_id": 5500064,
@@ -19911,6 +21159,18 @@
       "total_listings": 229
     },
     {
+      "card_id": 33250,
+      "name": "Relicanth",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "30/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 38.74,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 57
+    },
+    {
       "card_id": 24668,
       "name": "Machamp GX (Secret)",
       "set_id": 5500119,
@@ -20017,6 +21277,18 @@
       "market_price_usd": 38.63,
       "market_price_as_of": "2026-11-02",
       "total_listings": 137
+    },
+    {
+      "card_id": 35304,
+      "name": "Mawile",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "9/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 38.58,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 82
     },
     {
       "card_id": 52,
@@ -20137,6 +21409,18 @@
       "market_price_usd": 38.37,
       "market_price_as_of": "2026-10-23",
       "total_listings": 25
+    },
+    {
+      "card_id": 33251,
+      "name": "Zangoose",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "34/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 38.33,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 92
     },
     {
       "card_id": 36124,
@@ -20295,6 +21579,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 35264,
+      "name": "Marshtomp - 038/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "38/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 38.06,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 116
+    },
+    {
       "card_id": 37855,
       "name": "Charcadet - 022 (Pokemon Center Exclusive)",
       "set_id": 5500111,
@@ -20377,6 +21673,18 @@
       "market_price_usd": 37.97,
       "market_price_as_of": "2026-11-09",
       "total_listings": 374
+    },
+    {
+      "card_id": 33223,
+      "name": "Registeel",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "29/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.97,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 66
     },
     {
       "card_id": 16512,
@@ -20763,6 +22071,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 35300,
+      "name": "Tauros",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "12/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.03,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 62
+    },
+    {
       "card_id": 32722,
       "name": "Espeon",
       "set_id": 5500204,
@@ -20881,6 +22201,18 @@
       "market_price_usd": 36.9,
       "market_price_as_of": "2026-11-08",
       "total_listings": 89
+    },
+    {
+      "card_id": 34827,
+      "name": "Vulpix (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "70/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.9,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 127
     },
     {
       "card_id": 4783,
@@ -21147,6 +22479,18 @@
       "total_listings": 74
     },
     {
+      "card_id": 34829,
+      "name": "Seadra - 022/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "22/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.38,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 85
+    },
+    {
       "card_id": 23646,
       "name": "Raichu BREAK",
       "set_id": 5500195,
@@ -21279,6 +22623,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 34890,
+      "name": "Gligar (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "16/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.07,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 68
+    },
+    {
       "card_id": 19650,
       "name": "Lugia GX",
       "set_id": 5500141,
@@ -21301,6 +22657,42 @@
       "market_price_usd": 36.05,
       "market_price_as_of": "2026-11-06",
       "total_listings": 27
+    },
+    {
+      "card_id": 35324,
+      "name": "Combusken - 016/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "16/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 68
+    },
+    {
+      "card_id": 34823,
+      "name": "Ralts (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "61/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.94,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 187
+    },
+    {
+      "card_id": 34869,
+      "name": "Dewgong (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "15/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.93,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 49
     },
     {
       "card_id": 6639,
@@ -21591,6 +22983,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 34850,
+      "name": "Feebas (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "49/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.56,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 119
+    },
+    {
       "card_id": 27197,
       "name": "Volcanion EX (Secret)",
       "set_id": 5500004,
@@ -21637,6 +23041,18 @@
       "market_price_usd": 35.43,
       "market_price_as_of": "2026-11-07",
       "total_listings": 50
+    },
+    {
+      "card_id": 33241,
+      "name": "Combusken",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "39/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.42,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 128
     },
     {
       "card_id": 24882,
@@ -21807,6 +23223,18 @@
       "total_listings": 169
     },
     {
+      "card_id": 34849,
+      "name": "Kirlia (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "33/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.22,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 93
+    },
+    {
       "card_id": 32708,
       "name": "Bulbasaur",
       "set_id": 5500204,
@@ -21937,6 +23365,18 @@
       "market_price_usd": 34.99,
       "market_price_as_of": "2026-11-07",
       "total_listings": 25
+    },
+    {
+      "card_id": 35295,
+      "name": "Banette",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "1/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 34.96,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 54
     },
     {
       "card_id": 15492,
@@ -22551,6 +23991,18 @@
       "total_listings": 122
     },
     {
+      "card_id": 35261,
+      "name": "Pelipper (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "26/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.88,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 72
+    },
+    {
       "card_id": 12706,
       "name": "Umbreon - 10/90",
       "set_id": 5500101,
@@ -22683,6 +24135,18 @@
       "total_listings": 24
     },
     {
+      "card_id": 34882,
+      "name": "Bayleef (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "26/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.73,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 104
+    },
+    {
       "card_id": 6740,
       "name": "Marowak - 78/162 (Pokemon League) [4th Place]",
       "set_id": 5500087,
@@ -22705,6 +24169,18 @@
       "market_price_usd": 33.67,
       "market_price_as_of": "2026-10-26",
       "total_listings": 1
+    },
+    {
+      "card_id": 33242,
+      "name": "Regirock",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "28/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.65,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 48
     },
     {
       "card_id": 13719,
@@ -22741,6 +24217,18 @@
       "market_price_usd": 33.63,
       "market_price_as_of": "2026-10-25",
       "total_listings": 34
+    },
+    {
+      "card_id": 34830,
+      "name": "Mareep (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "54/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.61,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 72
     },
     {
       "card_id": 32495,
@@ -22789,6 +24277,30 @@
       "market_price_usd": 33.51,
       "market_price_as_of": "2026-11-05",
       "total_listings": 206
+    },
+    {
+      "card_id": 34883,
+      "name": "Swellow (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "40/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.49,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 68
+    },
+    {
+      "card_id": 33217,
+      "name": "Gloom (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "42/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.47,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 96
     },
     {
       "card_id": 28983,
@@ -23007,6 +24519,42 @@
       "total_listings": 45
     },
     {
+      "card_id": 33188,
+      "name": "Numel",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "72/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.01,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 281
+    },
+    {
+      "card_id": 34865,
+      "name": "Ralts",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "60/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.01,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 136
+    },
+    {
+      "card_id": 34864,
+      "name": "Nidorino (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "35/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 85
+    },
+    {
       "card_id": 17458,
       "name": "Snorlax V (Full Art)",
       "set_id": 5500025,
@@ -23163,6 +24711,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 35292,
+      "name": "Lairon",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "36/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.74,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 183
+    },
+    {
       "card_id": 14558,
       "name": "Snorlax GX - SM05",
       "set_id": 5500076,
@@ -23221,6 +24781,30 @@
       "market_price_usd": 32.66,
       "market_price_as_of": "2026-11-06",
       "total_listings": 39
+    },
+    {
+      "card_id": 33247,
+      "name": "Corphish - 063/110",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "63/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.63,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 282
+    },
+    {
+      "card_id": 35308,
+      "name": "Cacturne (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "15/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.63,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 92
     },
     {
       "card_id": 38178,
@@ -23283,6 +24867,18 @@
       "total_listings": 120
     },
     {
+      "card_id": 34855,
+      "name": "Larvitar",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "51/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.57,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 164
+    },
+    {
       "card_id": 20424,
       "name": "Ninetales -199/197",
       "set_id": 5500138,
@@ -23295,6 +24891,18 @@
       "total_listings": 283
     },
     {
+      "card_id": 35301,
+      "name": "Marshtomp - 024/100",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "24/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.55,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 91
+    },
+    {
       "card_id": 26713,
       "name": "Alakazam EX (Full Art)",
       "set_id": 5500169,
@@ -23305,6 +24913,18 @@
       "market_price_usd": 32.54,
       "market_price_as_of": "2026-10-27",
       "total_listings": 72
+    },
+    {
+      "card_id": 34856,
+      "name": "Cloyster (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "14/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.53,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 112
     },
     {
       "card_id": 13617,
@@ -23497,6 +25117,18 @@
       "market_price_usd": 32.1,
       "market_price_as_of": "2026-10-17",
       "total_listings": 139
+    },
+    {
+      "card_id": 34820,
+      "name": "Ekans (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "47/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.1,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 146
     },
     {
       "card_id": 15445,
@@ -23737,6 +25369,18 @@
       "market_price_usd": 31.75,
       "market_price_as_of": "2026-10-14",
       "total_listings": 149
+    },
+    {
+      "card_id": 33222,
+      "name": "Cradily (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "2/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.74,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 55
     },
     {
       "card_id": 5981,
@@ -24387,6 +26031,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 33178,
+      "name": "Lileep (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "68/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.84,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 192
+    },
+    {
       "card_id": 5562,
       "name": "Eevee ex - 075/131",
       "set_id": 5500194,
@@ -24735,6 +26391,18 @@
       "total_listings": 74
     },
     {
+      "card_id": 33194,
+      "name": "Bellossom (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "19/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.38,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 46
+    },
+    {
       "card_id": 15944,
       "name": "Gholdengo ex - 252/182",
       "set_id": 5500212,
@@ -24891,6 +26559,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 33166,
+      "name": "Omanyte (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "74/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.2,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 134
+    },
+    {
       "card_id": 35690,
       "name": "Ninetales",
       "set_id": 5500167,
@@ -24975,6 +26655,18 @@
       "total_listings": 51
     },
     {
+      "card_id": 34854,
+      "name": "Flaaffy (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "30/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.13,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 60
+    },
+    {
       "card_id": 25002,
       "name": "Ultra Ball (Secret)",
       "set_id": 5500018,
@@ -25011,6 +26703,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 35272,
+      "name": "Fearow (Delta Species)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "18/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.07,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 86
+    },
+    {
       "card_id": 33103,
       "name": "Jirachi EX",
       "set_id": 5500064,
@@ -25045,6 +26749,18 @@
       "market_price_usd": 30.0,
       "market_price_as_of": "2026-11-07",
       "total_listings": 77
+    },
+    {
+      "card_id": 33225,
+      "name": "Donphan",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "40/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 108
     },
     {
       "card_id": 33870,
@@ -25947,6 +27663,18 @@
       "total_listings": 131
     },
     {
+      "card_id": 33185,
+      "name": "Trapinch (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "84/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.07,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 144
+    },
+    {
       "card_id": 14383,
       "name": "Joltik - 116/086",
       "set_id": 5500153,
@@ -26005,6 +27733,18 @@
       "market_price_usd": 29.0,
       "market_price_as_of": "2026-11-06",
       "total_listings": 165
+    },
+    {
+      "card_id": 33257,
+      "name": "Masquerain",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "47/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 123
     },
     {
       "card_id": 2295346,
@@ -26115,6 +27855,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 35279,
+      "name": "Grovyle",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "32/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.79,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 141
+    },
+    {
       "card_id": 17663,
       "name": "Umbreon VMAX",
       "set_id": 5500048,
@@ -26185,6 +27937,18 @@
       "market_price_usd": 28.72,
       "market_price_as_of": "2026-11-01",
       "total_listings": 37
+    },
+    {
+      "card_id": 34899,
+      "name": "Holon Mentor",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "75/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.71,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 85
     },
     {
       "card_id": 16488,
@@ -26451,6 +28215,18 @@
       "total_listings": 156
     },
     {
+      "card_id": 34837,
+      "name": "Pupitar (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "59/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.34,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 289
+    },
+    {
       "card_id": 38248,
       "name": "Growlithe",
       "set_id": 5500098,
@@ -26497,6 +28273,18 @@
       "market_price_usd": 28.33,
       "market_price_as_of": "2026-10-15",
       "total_listings": 13
+    },
+    {
+      "card_id": 33224,
+      "name": "Manectric",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "46/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.32,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 83
     },
     {
       "card_id": 6578,
@@ -26617,6 +28405,18 @@
       "market_price_usd": 28.21,
       "market_price_as_of": "2026-10-20",
       "total_listings": 111
+    },
+    {
+      "card_id": 35251,
+      "name": "Krabby",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "54/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.21,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 132
     },
     {
       "card_id": 724,
@@ -27255,6 +29055,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 33170,
+      "name": "Phanpy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "75/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.43,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 154
+    },
+    {
       "card_id": 28016,
       "name": "Scizor EX (Full Art)",
       "set_id": 5500188,
@@ -27277,6 +29089,18 @@
       "market_price_usd": 27.38,
       "market_price_as_of": "2026-10-14",
       "total_listings": 177
+    },
+    {
+      "card_id": 34894,
+      "name": "Tropius (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "23/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.37,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 81
     },
     {
       "card_id": 5522,
@@ -27519,6 +29343,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 34845,
+      "name": "Nidoran M (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "57/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.13,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 112
+    },
+    {
       "card_id": 14566,
       "name": "Charizard GX - SM195",
       "set_id": 5500076,
@@ -27615,6 +29451,30 @@
       "total_listings": 15
     },
     {
+      "card_id": 33174,
+      "name": "Carvanha (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "61/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.04,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 193
+    },
+    {
+      "card_id": 35289,
+      "name": "Manectric",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "8/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.02,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 73
+    },
+    {
       "card_id": 2155095,
       "name": "Delphox - 074 [Staff]",
       "set_id": 5500111,
@@ -27625,6 +29485,18 @@
       "market_price_usd": 27.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 17
+    },
+    {
+      "card_id": 33234,
+      "name": "Nosepass",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "25/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 105
     },
     {
       "card_id": 34773,
@@ -28107,6 +29979,30 @@
       "total_listings": 58
     },
     {
+      "card_id": 35281,
+      "name": "Shuppet",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "40/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.53,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 74
+    },
+    {
+      "card_id": 34875,
+      "name": "Jynx (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "17/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.52,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 72
+    },
+    {
       "card_id": 33843,
       "name": "Skitty",
       "set_id": 5500229,
@@ -28405,6 +30301,18 @@
       "market_price_usd": 26.21,
       "market_price_as_of": "2026-11-07",
       "total_listings": 62
+    },
+    {
+      "card_id": 34846,
+      "name": "Natu (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "55/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.21,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 177
     },
     {
       "card_id": 5903,
@@ -28993,6 +30901,18 @@
       "market_price_usd": 25.62,
       "market_price_as_of": "2026-10-31",
       "total_listings": 42
+    },
+    {
+      "card_id": 33227,
+      "name": "Torkoal",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "33/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.62,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 63
     },
     {
       "card_id": 27658,
@@ -29607,6 +31527,18 @@
       "total_listings": 197
     },
     {
+      "card_id": 34872,
+      "name": "Ledian (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "18/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.01,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 65
+    },
+    {
       "card_id": 13646,
       "name": "Minccino - 152/086",
       "set_id": 5500093,
@@ -29689,6 +31621,18 @@
       "market_price_usd": 25.0,
       "market_price_as_of": "2026-11-06",
       "total_listings": 50
+    },
+    {
+      "card_id": 33253,
+      "name": "Whiscash",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "55/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 174
     },
     {
       "card_id": 34490,
@@ -30219,6 +32163,42 @@
       "total_listings": 95
     },
     {
+      "card_id": 34836,
+      "name": "Trapinch - 069/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "69/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.5,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 103
+    },
+    {
+      "card_id": 34877,
+      "name": "Shelgon (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "38/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.5,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 123
+    },
+    {
+      "card_id": 35310,
+      "name": "Camerupt",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "3/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.5,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 76
+    },
+    {
       "card_id": 35644,
       "name": "Mankey",
       "set_id": 5500167,
@@ -30423,6 +32403,18 @@
       "total_listings": 85
     },
     {
+      "card_id": 34848,
+      "name": "Bagon (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "43/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.32,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 167
+    },
+    {
       "card_id": 34760,
       "name": "Magby",
       "set_id": 5500078,
@@ -30457,6 +32449,18 @@
       "market_price_usd": 24.27,
       "market_price_as_of": "2026-10-28",
       "total_listings": 17
+    },
+    {
+      "card_id": 33264,
+      "name": "Lairon",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "45/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.24,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 125
     },
     {
       "card_id": 6494,
@@ -30723,6 +32727,18 @@
       "total_listings": 114
     },
     {
+      "card_id": 33198,
+      "name": "Chimecho (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "37/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.0,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 65
+    },
+    {
       "card_id": 6647,
       "name": "Solrock - 64/146 (Pokemon League) [1st Place]",
       "set_id": 5500087,
@@ -30757,6 +32773,18 @@
       "market_price_usd": 23.99,
       "market_price_as_of": "2026-11-07",
       "total_listings": 52
+    },
+    {
+      "card_id": 34897,
+      "name": "Delta Rainbow Energy",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "88/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 166
     },
     {
       "card_id": 31512,
@@ -30841,6 +32869,18 @@
       "market_price_usd": 23.84,
       "market_price_as_of": "2026-11-06",
       "total_listings": 62
+    },
+    {
+      "card_id": 33269,
+      "name": "Wobbuffet",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "56/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.84,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 104
     },
     {
       "card_id": 27542,
@@ -30937,6 +32977,18 @@
       "market_price_usd": 23.7,
       "market_price_as_of": "2026-11-04",
       "total_listings": 2
+    },
+    {
+      "card_id": 34886,
+      "name": "Xatu (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "25/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.69,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 57
     },
     {
       "card_id": 6087,
@@ -31057,6 +33109,18 @@
       "market_price_usd": 23.59,
       "market_price_as_of": "2026-10-22",
       "total_listings": 55
+    },
+    {
+      "card_id": 35277,
+      "name": "Luvdisc",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "7/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.56,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 57
     },
     {
       "card_id": 18637,
@@ -31371,6 +33435,18 @@
       "total_listings": 143
     },
     {
+      "card_id": 33268,
+      "name": "Seviper",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "32/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.33,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 83
+    },
+    {
       "card_id": 34288,
       "name": "Pidgey",
       "set_id": 5500102,
@@ -31405,6 +33481,18 @@
       "market_price_usd": 23.32,
       "market_price_as_of": "2026-11-09",
       "total_listings": 385
+    },
+    {
+      "card_id": 35276,
+      "name": "Swalot",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "11/100",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.3,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 68
     },
     {
       "card_id": 25676,
@@ -31633,6 +33721,18 @@
       "market_price_usd": 23.12,
       "market_price_as_of": "2026-11-04",
       "total_listings": 21
+    },
+    {
+      "card_id": 33249,
+      "name": "Mr. Stone's Project",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "88/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.12,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 94
     },
     {
       "card_id": 19874,
@@ -32103,6 +34203,18 @@
       "total_listings": 250
     },
     {
+      "card_id": 33195,
+      "name": "Surskit",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "82/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.65,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 282
+    },
+    {
       "card_id": 5544,
       "name": "Flareon ex - 014/131",
       "set_id": 5500194,
@@ -32163,6 +34275,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 35321,
+      "name": "Lotad - 055/100 (EX Crystal Guardians Reverse Holofoil)",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "55/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.59,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 14
+    },
+    {
       "card_id": 14665,
       "name": "Primarina GX - SM39",
       "set_id": 5500076,
@@ -32197,6 +34321,18 @@
       "market_price_usd": 22.54,
       "market_price_as_of": "2026-10-12",
       "total_listings": 31
+    },
+    {
+      "card_id": 34824,
+      "name": "Trapinch - 068/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "68/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.53,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 307
     },
     {
       "card_id": 2023,
@@ -32367,6 +34503,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 34859,
+      "name": "Seadra - 037/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "37/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.33,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 87
+    },
+    {
       "card_id": 5271,
       "name": "Dialga (Japanese 11th Movie Commemoration Set)",
       "set_id": 5500123,
@@ -32475,6 +34623,18 @@
       "total_listings": 50
     },
     {
+      "card_id": 34840,
+      "name": "Elekid (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "48/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.25,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 237
+    },
+    {
       "card_id": 16069,
       "name": "Magby - 186/182",
       "set_id": 5500212,
@@ -32497,6 +34657,18 @@
       "market_price_usd": 22.22,
       "market_price_as_of": "2026-10-15",
       "total_listings": 11
+    },
+    {
+      "card_id": 34889,
+      "name": "Kirlia",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "32/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.21,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 72
     },
     {
       "card_id": 29156,
@@ -32595,6 +34767,18 @@
       "total_listings": 159
     },
     {
+      "card_id": 35284,
+      "name": "Nuzleaf",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "39/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.11,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 67
+    },
+    {
       "card_id": 28372,
       "name": "Oddish (112)",
       "set_id": 5500113,
@@ -32617,6 +34801,18 @@
       "market_price_usd": 22.09,
       "market_price_as_of": "2026-10-29",
       "total_listings": 58
+    },
+    {
+      "card_id": 33243,
+      "name": "Holon's Castform",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "44/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.09,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 99
     },
     {
       "card_id": 37491,
@@ -32871,6 +35067,18 @@
       "total_listings": 122
     },
     {
+      "card_id": 33210,
+      "name": "Claydol",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "38/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.88,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 184
+    },
+    {
       "card_id": 20046,
       "name": "Gym Badge (Lt. Surge)",
       "set_id": 5500177,
@@ -33061,6 +35269,18 @@
       "market_price_usd": 21.65,
       "market_price_as_of": "2026-10-26",
       "total_listings": 15
+    },
+    {
+      "card_id": 35267,
+      "name": "Lotad",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "55/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.65,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 225
     },
     {
       "card_id": 37799,
@@ -33387,6 +35607,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 34842,
+      "name": "Horsea - 050/101 (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "50/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.28,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 141
+    },
+    {
       "card_id": 4752,
       "name": "Primarina - 41/149 (Water Web Holo)",
       "set_id": 5500123,
@@ -33457,6 +35689,18 @@
       "market_price_usd": 21.24,
       "market_price_as_of": "2026-11-02",
       "total_listings": 36
+    },
+    {
+      "card_id": 35282,
+      "name": "Dusclops",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "17/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.2,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 95
     },
     {
       "card_id": 36727,
@@ -33553,6 +35797,18 @@
       "market_price_usd": 21.15,
       "market_price_as_of": "2026-10-31",
       "total_listings": 38
+    },
+    {
+      "card_id": 35293,
+      "name": "Loudred",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "23/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.14,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 154
     },
     {
       "card_id": 37470,
@@ -34323,6 +36579,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 35265,
+      "name": "Spoink",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "62/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.63,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 226
+    },
+    {
       "card_id": 28522,
       "name": "Charizard EX (12)",
       "set_id": 5500019,
@@ -34501,6 +36769,30 @@
       "market_price_usd": 20.51,
       "market_price_as_of": "2026-10-15",
       "total_listings": 27
+    },
+    {
+      "card_id": 35283,
+      "name": "Gulpin",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "33/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.5,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 121
+    },
+    {
+      "card_id": 35309,
+      "name": "Skitty",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "41/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.5,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 64
     },
     {
       "card_id": 70,
@@ -35715,6 +38007,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 33228,
+      "name": "Poochyena",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "80/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.92,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 224
+    },
+    {
       "card_id": 36058,
       "name": "Decidueye GX",
       "set_id": 5500083,
@@ -36205,6 +38509,18 @@
       "market_price_usd": 19.69,
       "market_price_as_of": "2026-11-01",
       "total_listings": 58
+    },
+    {
+      "card_id": 34851,
+      "name": "Seel (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "62/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.69,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 149
     },
     {
       "card_id": 37636,
@@ -36711,6 +39027,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 35280,
+      "name": "Lombre",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "37/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.37,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 156
+    },
+    {
       "card_id": 37458,
       "name": "Darkrai GX - 88a/147",
       "set_id": 5500060,
@@ -36973,6 +39301,18 @@
       "market_price_usd": 19.23,
       "market_price_as_of": "2026-11-05",
       "total_listings": 211
+    },
+    {
+      "card_id": 34912,
+      "name": "Copycat",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "73/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.23,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 85
     },
     {
       "card_id": 2155076,
@@ -37455,6 +39795,18 @@
       "total_listings": 397
     },
     {
+      "card_id": 34844,
+      "name": "Ledyba (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "53/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.88,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 164
+    },
+    {
       "card_id": 13443,
       "name": "Dudunsparce (Master Ball Pattern)",
       "set_id": 5500017,
@@ -37477,6 +39829,18 @@
       "market_price_usd": 18.87,
       "market_price_as_of": "2026-10-30",
       "total_listings": 74
+    },
+    {
+      "card_id": 33200,
+      "name": "Dark Metal Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "97/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.87,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 92
     },
     {
       "card_id": 37806,
@@ -37657,6 +40021,18 @@
       "market_price_usd": 18.74,
       "market_price_as_of": "2026-11-07",
       "total_listings": 91
+    },
+    {
+      "card_id": 33204,
+      "name": "Corphish - 062/110",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "62/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.72,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 345
     },
     {
       "card_id": 34345,
@@ -38583,6 +40959,18 @@
       "total_listings": 43
     },
     {
+      "card_id": 34838,
+      "name": "Smoochum (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "64/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.17,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 139
+    },
+    {
       "card_id": 32796,
       "name": "Tornadus EX",
       "set_id": 5500204,
@@ -38653,6 +41041,18 @@
       "market_price_usd": 18.13,
       "market_price_as_of": "2026-10-22",
       "total_listings": 70
+    },
+    {
+      "card_id": 33190,
+      "name": "Barboach",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "60/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.12,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 375
     },
     {
       "card_id": 37668,
@@ -39327,6 +41727,18 @@
       "total_listings": 219
     },
     {
+      "card_id": 35256,
+      "name": "Windstorm",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "85/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.73,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 76
+    },
+    {
       "card_id": 20751,
       "name": "Snom - 168/162",
       "set_id": 5500066,
@@ -39481,6 +41893,18 @@
       "market_price_usd": 17.64,
       "market_price_as_of": "2026-10-14",
       "total_listings": 320
+    },
+    {
+      "card_id": 33192,
+      "name": "Aron",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "58/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.64,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 272
     },
     {
       "card_id": 14738,
@@ -40177,6 +42601,18 @@
       "market_price_usd": 17.31,
       "market_price_as_of": "2026-10-31",
       "total_listings": 83
+    },
+    {
+      "card_id": 34871,
+      "name": "Pupitar",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "58/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.31,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 252
     },
     {
       "card_id": 843,
@@ -41115,6 +43551,18 @@
       "total_listings": 176
     },
     {
+      "card_id": 35314,
+      "name": "Grumpig",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "20/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.79,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 83
+    },
+    {
       "card_id": 14637,
       "name": "Latias - SM87",
       "set_id": 5500076,
@@ -41499,6 +43947,18 @@
       "total_listings": 211
     },
     {
+      "card_id": 34898,
+      "name": "Mr. Stone's Project",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "77/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.64,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 89
+    },
+    {
       "card_id": 35730,
       "name": "Torterra",
       "set_id": 5500167,
@@ -41631,6 +44091,18 @@
       "total_listings": 180
     },
     {
+      "card_id": 35271,
+      "name": "Numel",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "59/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.56,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 223
+    },
+    {
       "card_id": 2155078,
       "name": "Barbaracle - 065 [Staff]",
       "set_id": 5500111,
@@ -41737,6 +44209,18 @@
       "market_price_usd": 16.51,
       "market_price_as_of": "2026-10-25",
       "total_listings": 25
+    },
+    {
+      "card_id": 35249,
+      "name": "Aron",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "44/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.51,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 368
     },
     {
       "card_id": 2302127,
@@ -41991,6 +44475,18 @@
       "total_listings": 224
     },
     {
+      "card_id": 35262,
+      "name": "Cacnea",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "47/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.36,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 144
+    },
+    {
       "card_id": 13664,
       "name": "Servine - 088/086",
       "set_id": 5500093,
@@ -42085,6 +44581,18 @@
       "market_price_usd": 16.32,
       "market_price_as_of": "2026-11-01",
       "total_listings": 124
+    },
+    {
+      "card_id": 35266,
+      "name": "Wingull",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "70/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.32,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 428
     },
     {
       "card_id": 24857,
@@ -43311,6 +45819,18 @@
       "total_listings": 178
     },
     {
+      "card_id": 34852,
+      "name": "Swablu (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "65/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.72,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 162
+    },
+    {
       "card_id": 6530,
       "name": "Cherish Ball - 191a/236 (League Cup) [Staff]",
       "set_id": 5500087,
@@ -43405,6 +45925,18 @@
       "market_price_usd": 15.68,
       "market_price_as_of": "2026-11-08",
       "total_listings": 111
+    },
+    {
+      "card_id": 33206,
+      "name": "Electrike",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "64/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.68,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 301
     },
     {
       "card_id": 6439,
@@ -44619,6 +47151,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 35302,
+      "name": "Castaway",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "72/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.11,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 95
+    },
+    {
       "card_id": 36205,
       "name": "Weavile",
       "set_id": 5500137,
@@ -45459,6 +48003,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 35257,
+      "name": "Electrike",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "52/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.81,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 328
+    },
+    {
       "card_id": 12699,
       "name": "Blastoise - 16/101 (BW Plasma Blast)",
       "set_id": 5500101,
@@ -45927,6 +48483,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 34821,
+      "name": "Shellder (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "63/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.64,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 266
+    },
+    {
       "card_id": 22729,
       "name": "Metagross GX (Full Art)",
       "set_id": 5500036,
@@ -46045,6 +48613,18 @@
       "market_price_usd": 14.59,
       "market_price_as_of": "2026-10-24",
       "total_listings": 6
+    },
+    {
+      "card_id": 34843,
+      "name": "Nidoran F (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "56/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.59,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 142
     },
     {
       "card_id": 4401,
@@ -46611,6 +49191,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 35255,
+      "name": "Meditite",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "56/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.28,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 370
+    },
+    {
       "card_id": 23843,
       "name": "N's Reshiram - 167/159",
       "set_id": 5500077,
@@ -46897,6 +49489,18 @@
       "market_price_usd": 14.17,
       "market_price_as_of": "2026-11-05",
       "total_listings": 31
+    },
+    {
+      "card_id": 34834,
+      "name": "Taillow (Delta Species)",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "66/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.17,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 218
     },
     {
       "card_id": 13810,
@@ -47667,6 +50271,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 33262,
+      "name": "Camerupt",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "36/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.84,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 120
+    },
+    {
       "card_id": 35558,
       "name": "Mewtwo GX",
       "set_id": 5500058,
@@ -48001,6 +50617,18 @@
       "market_price_usd": 13.66,
       "market_price_as_of": "2026-10-21",
       "total_listings": 63
+    },
+    {
+      "card_id": 33221,
+      "name": "Delta Rainbow Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "98/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.66,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 102
     },
     {
       "card_id": 38809,
@@ -48867,6 +51495,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 34893,
+      "name": "Island Hermit",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "76/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.26,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 86
+    },
+    {
       "card_id": 17548,
       "name": "Zamazenta V (Secret)",
       "set_id": 5500025,
@@ -48889,6 +51529,30 @@
       "market_price_usd": 13.25,
       "market_price_as_of": "2026-10-31",
       "total_listings": 198
+    },
+    {
+      "card_id": 33182,
+      "name": "Anorith (Delta Species)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "57/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.25,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 142
+    },
+    {
+      "card_id": 35234,
+      "name": "Cessation Crystal",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "74/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.25,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 87
     },
     {
       "card_id": 21096,
@@ -48961,6 +51625,18 @@
       "market_price_usd": 13.23,
       "market_price_as_of": "2026-10-18",
       "total_listings": 111
+    },
+    {
+      "card_id": 35273,
+      "name": "Seedot",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "60/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.23,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 362
     },
     {
       "card_id": 36071,
@@ -49093,6 +51769,18 @@
       "market_price_usd": 13.14,
       "market_price_as_of": "2026-10-26",
       "total_listings": 40
+    },
+    {
+      "card_id": 35320,
+      "name": "Medicham",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "25/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.14,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 147
     },
     {
       "card_id": 14273,
@@ -50293,6 +52981,18 @@
       "market_price_usd": 12.67,
       "market_price_as_of": "2026-10-18",
       "total_listings": 59
+    },
+    {
+      "card_id": 33220,
+      "name": "Psychic Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "109/110",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.67,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 71
     },
     {
       "card_id": 38122,
@@ -52695,6 +55395,18 @@
       "total_listings": 193
     },
     {
+      "card_id": 35260,
+      "name": "Spearow",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "61/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.86,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 479
+    },
+    {
       "card_id": 29510,
       "name": "Pikachu ex (Pikachu 60)",
       "set_id": 5500109,
@@ -52765,6 +55477,18 @@
       "market_price_usd": 11.84,
       "market_price_as_of": "2026-10-14",
       "total_listings": 108
+    },
+    {
+      "card_id": 33196,
+      "name": "Baltoy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "59/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.84,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 411
     },
     {
       "card_id": 19607,
@@ -52995,6 +55719,18 @@
       "total_listings": 64
     },
     {
+      "card_id": 35270,
+      "name": "Warp Point",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "84/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.77,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 112
+    },
+    {
       "card_id": 19665,
       "name": "Blacephalon GX",
       "set_id": 5500141,
@@ -53005,6 +55741,18 @@
       "market_price_usd": 11.76,
       "market_price_as_of": "2026-10-23",
       "total_listings": 77
+    },
+    {
+      "card_id": 33187,
+      "name": "Grass Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "105/110",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.76,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 79
     },
     {
       "card_id": 16941,
@@ -54171,6 +56919,18 @@
       "total_listings": 147
     },
     {
+      "card_id": 35244,
+      "name": "Whismur",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "69/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.37,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 391
+    },
+    {
       "card_id": 36059,
       "name": "Banette GX",
       "set_id": 5500083,
@@ -54373,6 +57133,18 @@
       "market_price_usd": 11.31,
       "market_price_as_of": "2026-10-17",
       "total_listings": 158
+    },
+    {
+      "card_id": 35317,
+      "name": "Bill's Maintenance",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "71/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.31,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 286
     },
     {
       "card_id": 32416,
@@ -55215,6 +57987,18 @@
       "total_listings": 134
     },
     {
+      "card_id": 35254,
+      "name": "Double Rainbow Energy",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "88/100",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.98,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 103
+    },
+    {
       "card_id": 14136,
       "name": "Eevee - SWSH042",
       "set_id": 5500149,
@@ -55909,6 +58693,18 @@
       "market_price_usd": 10.77,
       "market_price_as_of": "2026-10-12",
       "total_listings": 183
+    },
+    {
+      "card_id": 33191,
+      "name": "Fire Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "106/110",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.77,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 105
     },
     {
       "card_id": 38092,
@@ -59007,6 +61803,18 @@
       "total_listings": 169
     },
     {
+      "card_id": 33186,
+      "name": "Water Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "107/110",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.89,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 78
+    },
+    {
       "card_id": 35760,
       "name": "Charizard GX",
       "set_id": 5500125,
@@ -60277,6 +63085,18 @@
       "market_price_usd": 9.56,
       "market_price_as_of": "2026-11-03",
       "total_listings": 47
+    },
+    {
+      "card_id": 34857,
+      "name": "TV Reporter",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "82/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.56,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 200
     },
     {
       "card_id": 14221,
@@ -64815,6 +67635,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 34885,
+      "name": "Buffer Piece",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "72/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.44,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 459
+    },
+    {
       "card_id": 5876,
       "name": "Hisuian Zoroark V - 146/196",
       "set_id": 5500194,
@@ -65139,6 +67971,18 @@
       "total_listings": 135
     },
     {
+      "card_id": 33218,
+      "name": "Lightning Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "108/110",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.37,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 92
+    },
+    {
       "card_id": 36277,
       "name": "Altaria GX (Full Art)",
       "set_id": 5500049,
@@ -65233,6 +68077,18 @@
       "market_price_usd": 8.35,
       "market_price_as_of": "2026-10-16",
       "total_listings": 236
+    },
+    {
+      "card_id": 33230,
+      "name": "Holon Lake",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "87/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.35,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 233
     },
     {
       "card_id": 34987,
@@ -65955,6 +68811,18 @@
       "total_listings": 70
     },
     {
+      "card_id": 33181,
+      "name": "Holon Adventurer",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "85/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.2,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 155
+    },
+    {
       "card_id": 38817,
       "name": "Chansey - 10/12",
       "set_id": 5500193,
@@ -66001,6 +68869,18 @@
       "market_price_usd": 8.18,
       "market_price_as_of": "2026-10-22",
       "total_listings": 305
+    },
+    {
+      "card_id": 34870,
+      "name": "Scramble Energy",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "89/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.18,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 64
     },
     {
       "card_id": 69,
@@ -68103,6 +70983,18 @@
       "total_listings": 222
     },
     {
+      "card_id": 33229,
+      "name": "Metal Energy (Special)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "95/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.72,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 152
+    },
+    {
       "card_id": 34540,
       "name": "Snubbull",
       "set_id": 5500135,
@@ -68113,6 +71005,18 @@
       "market_price_usd": 7.71,
       "market_price_as_of": "2026-11-08",
       "total_listings": 105
+    },
+    {
+      "card_id": 35312,
+      "name": "Poke Ball",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "82/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.71,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 183
     },
     {
       "card_id": 36230,
@@ -69205,6 +72109,18 @@
       "market_price_usd": 7.48,
       "market_price_as_of": "2026-11-08",
       "total_listings": 298
+    },
+    {
+      "card_id": 35286,
+      "name": "Crystal Beach",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "75/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.48,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 93
     },
     {
       "card_id": 50,
@@ -71271,6 +74187,18 @@
       "total_listings": 2
     },
     {
+      "card_id": 33238,
+      "name": "Professor Cozmo's Discovery",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "89/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.03,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 206
+    },
+    {
       "card_id": 35664,
       "name": "Seadra",
       "set_id": 5500167,
@@ -72603,6 +75531,18 @@
       "total_listings": 192
     },
     {
+      "card_id": 33266,
+      "name": "Darkness Energy (Special)",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "94/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.79,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 81
+    },
+    {
       "card_id": 34405,
       "name": "Switch",
       "set_id": 5500035,
@@ -73153,6 +76093,18 @@
       "market_price_usd": 6.69,
       "market_price_as_of": "2026-10-12",
       "total_listings": 195
+    },
+    {
+      "card_id": 34887,
+      "name": "Professor Oak's Research",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "80/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.69,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 70
     },
     {
       "card_id": 13656,
@@ -75099,6 +78051,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 34904,
+      "name": "Holon Energy GL",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "85/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.36,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 112
+    },
+    {
       "card_id": 36969,
       "name": "Swirlix (#18)",
       "set_id": 5500012,
@@ -75973,6 +78937,18 @@
       "market_price_usd": 6.21,
       "market_price_as_of": "2026-10-16",
       "total_listings": 118
+    },
+    {
+      "card_id": 33214,
+      "name": "Holon Fossil",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "86/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.21,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 128
     },
     {
       "card_id": 17654,
@@ -76909,6 +79885,18 @@
       "market_price_usd": 6.1,
       "market_price_as_of": "2026-11-04",
       "total_listings": 217
+    },
+    {
+      "card_id": 35253,
+      "name": "Potion",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "87/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.1,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 724
     },
     {
       "card_id": 37149,
@@ -78567,6 +81555,18 @@
       "total_listings": 100
     },
     {
+      "card_id": 33233,
+      "name": "Claw Fossil",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "91/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.87,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 246
+    },
+    {
       "card_id": 16225,
       "name": "Rare Candy - 256/198",
       "set_id": 5500032,
@@ -79323,6 +82323,18 @@
       "total_listings": 172
     },
     {
+      "card_id": 35313,
+      "name": "Celio's Network",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "73/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.75,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 222
+    },
+    {
       "card_id": 4089,
       "name": "Jolteon ex - 030/131 (Prismatic Evolutions Stamp)",
       "set_id": 5500123,
@@ -80053,6 +83065,18 @@
       "market_price_usd": 5.67,
       "market_price_as_of": "2026-11-06",
       "total_listings": 228
+    },
+    {
+      "card_id": 35290,
+      "name": "Energy Search",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "86/100",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.67,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 719
     },
     {
       "card_id": 38246,
@@ -81075,6 +84099,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 33240,
+      "name": "Mysterious Fossil",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "92/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.53,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 312
+    },
+    {
       "card_id": 34473,
       "name": "Mamoswine",
       "set_id": 5500035,
@@ -81735,6 +84771,18 @@
       "total_listings": 74
     },
     {
+      "card_id": 34906,
+      "name": "Boost Energy",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "87/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.44,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 115
+    },
+    {
       "card_id": 36027,
       "name": "Rockruff",
       "set_id": 5500083,
@@ -81961,6 +85009,18 @@
       "market_price_usd": 5.41,
       "market_price_as_of": "2026-11-07",
       "total_listings": 167
+    },
+    {
+      "card_id": 35285,
+      "name": "Dual Ball",
+      "set_id": 5500227,
+      "set_name": "EX Crystal Guardians",
+      "number": "78/100",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.41,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 182
     },
     {
       "card_id": 36694,
@@ -82489,6 +85549,18 @@
       "market_price_usd": 5.35,
       "market_price_as_of": "2026-10-31",
       "total_listings": 70
+    },
+    {
+      "card_id": 34913,
+      "name": "Holon Energy WP",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "86/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.35,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 113
     },
     {
       "card_id": 35692,
@@ -84099,6 +87171,18 @@
       "total_listings": 288
     },
     {
+      "card_id": 33255,
+      "name": "Multi Energy",
+      "set_id": 5500220,
+      "set_name": "EX Holon Phantoms",
+      "number": "96/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.14,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 80
+    },
+    {
       "card_id": 34763,
       "name": "Electrode",
       "set_id": 5500078,
@@ -84411,6 +87495,18 @@
       "total_listings": 98
     },
     {
+      "card_id": 34902,
+      "name": "Holon Legacy",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "74/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.11,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 132
+    },
+    {
       "card_id": 37090,
       "name": "Alolan Vulpix (29)",
       "set_id": 5500074,
@@ -84469,6 +87565,18 @@
       "market_price_usd": 5.1,
       "market_price_as_of": "2026-11-08",
       "total_listings": 92
+    },
+    {
+      "card_id": 34905,
+      "name": "Switch",
+      "set_id": 5500221,
+      "set_name": "EX Dragon Frontiers",
+      "number": "83/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.1,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 209
     },
     {
       "card_id": 6763,
