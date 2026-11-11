@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-10T15:42:41.705843+00:00",
+  "generated_at": "2026-11-11T15:30:19.162175+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 174,
+  "next_set_index": 179,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 8,
-  "total_candidates": 7392,
-  "cards_with_price_history": 24400,
+  "api_calls": 6,
+  "total_candidates": 7561,
+  "cards_with_price_history": 24602,
   "candidates": [
     {
       "card_id": 20118,
@@ -63,6 +63,30 @@
       "total_listings": 8
     },
     {
+      "card_id": 32609,
+      "name": "Ditto - 61/113 (Charmander)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "061/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 199.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 65
+    },
+    {
+      "card_id": 32666,
+      "name": "Vaporeon (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "18/113",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 199.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 20
+    },
+    {
       "card_id": 36179,
       "name": "Umbreon",
       "set_id": 5500137,
@@ -109,6 +133,18 @@
       "market_price_usd": 199.99,
       "market_price_as_of": "2026-10-27",
       "total_listings": 6
+    },
+    {
+      "card_id": 35997,
+      "name": "Aerodactyl",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "1/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 199.98,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 41
     },
     {
       "card_id": 14605,
@@ -241,6 +277,18 @@
       "market_price_usd": 193.85,
       "market_price_as_of": "2026-10-28",
       "total_listings": 110
+    },
+    {
+      "card_id": 36016,
+      "name": "Banette ex",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "85/92",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 193.65,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 12
     },
     {
       "card_id": 15524,
@@ -531,6 +579,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 32661,
+      "name": "Flareon (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "5/113",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 184.28,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 19
+    },
+    {
       "card_id": 18183,
       "name": "Latias ex - 239/191",
       "set_id": 5500180,
@@ -601,6 +661,18 @@
       "market_price_usd": 181.66,
       "market_price_as_of": "2026-10-23",
       "total_listings": 8
+    },
+    {
+      "card_id": 32594,
+      "name": "Eevee - 068/113",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "68/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 181.65,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 67
     },
     {
       "card_id": 25688,
@@ -721,6 +793,18 @@
       "market_price_usd": 179.03,
       "market_price_as_of": "2026-10-09",
       "total_listings": 93
+    },
+    {
+      "card_id": 32682,
+      "name": "Latias (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "8/113",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 178.55,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 19
     },
     {
       "card_id": 34757,
@@ -937,6 +1021,18 @@
       "market_price_usd": 174.95,
       "market_price_as_of": "2026-10-23",
       "total_listings": 26
+    },
+    {
+      "card_id": 32652,
+      "name": "Metagross (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "11/113",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 174.45,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 36
     },
     {
       "card_id": 6706,
@@ -1371,6 +1467,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 35935,
+      "name": "Omanyte",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "60/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 161.49,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 168
+    },
+    {
       "card_id": 18454,
       "name": "Pikachu - 027 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -1393,6 +1501,18 @@
       "market_price_usd": 161.13,
       "market_price_as_of": "2026-10-11",
       "total_listings": 82
+    },
+    {
+      "card_id": 36021,
+      "name": "Flygon ex",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "87/92",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 161.0,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 13
     },
     {
       "card_id": 4312,
@@ -1573,6 +1693,18 @@
       "market_price_usd": 156.87,
       "market_price_as_of": "2026-10-23",
       "total_listings": 36
+    },
+    {
+      "card_id": 35933,
+      "name": "Growlithe",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "55/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 156.73,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 111
     },
     {
       "card_id": 35589,
@@ -2475,6 +2607,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 32614,
+      "name": "Ditto - 038/113 (Mr. Mime)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "38/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 140.04,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 36
+    },
+    {
       "card_id": 27485,
       "name": "Lucario C",
       "set_id": 5500063,
@@ -2640,6 +2784,18 @@
       "printing": "Holofoil",
       "market_price_usd": 138.11,
       "market_price_as_of": "2026-10-21",
+      "total_listings": 11
+    },
+    {
+      "card_id": 36010,
+      "name": "Armaldo ex",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "84/92",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 137.98,
+      "market_price_as_of": "2026-11-11",
       "total_listings": 11
     },
     {
@@ -3771,6 +3927,30 @@
       "total_listings": 14
     },
     {
+      "card_id": 35983,
+      "name": "Absol",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "15/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 120.0,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 50
+    },
+    {
+      "card_id": 36018,
+      "name": "Dustox ex",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "86/92",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 120.0,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 14
+    },
+    {
       "card_id": 38451,
       "name": "Pikachu (Italian)",
       "set_id": 5500075,
@@ -4021,6 +4201,18 @@
       "market_price_usd": 117.5,
       "market_price_as_of": "2026-11-05",
       "total_listings": 10
+    },
+    {
+      "card_id": 32585,
+      "name": "Ditto (Geodude)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "62/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 117.33,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 82
     },
     {
       "card_id": 30560,
@@ -4299,6 +4491,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 32612,
+      "name": "Cubone",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "60/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 114.7,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 73
+    },
+    {
       "card_id": 36074,
       "name": "Greninja GX",
       "set_id": 5500083,
@@ -4443,6 +4647,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 35966,
+      "name": "Lapras",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "8/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 113.34,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 42
+    },
+    {
       "card_id": 38093,
       "name": "Starmie V",
       "set_id": 5500061,
@@ -4465,6 +4681,18 @@
       "market_price_usd": 112.85,
       "market_price_as_of": "2026-10-15",
       "total_listings": 1
+    },
+    {
+      "card_id": 32674,
+      "name": "Starmie - 015/113 (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "15/113",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 112.75,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 23
     },
     {
       "card_id": 31756,
@@ -5043,6 +5271,18 @@
       "total_listings": 30
     },
     {
+      "card_id": 32691,
+      "name": "Azumarill",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "114/113",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 104.95,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 11
+    },
+    {
       "card_id": 19829,
       "name": "Suicune GX (Secret)",
       "set_id": 5500141,
@@ -5125,6 +5365,18 @@
       "market_price_usd": 104.37,
       "market_price_as_of": "2026-10-27",
       "total_listings": 5
+    },
+    {
+      "card_id": 32664,
+      "name": "Slowking",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "28/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 103.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 44
     },
     {
       "card_id": 6000,
@@ -5665,6 +5917,18 @@
       "market_price_usd": 99.99,
       "market_price_as_of": "2026-11-04",
       "total_listings": 11
+    },
+    {
+      "card_id": 35982,
+      "name": "Machamp",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "9/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 99.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 54
     },
     {
       "card_id": 37698,
@@ -6891,6 +7155,42 @@
       "total_listings": 76
     },
     {
+      "card_id": 35941,
+      "name": "Gastly",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "52/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 91.36,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 149
+    },
+    {
+      "card_id": 36004,
+      "name": "Magmar",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "21/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 91.27,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 57
+    },
+    {
+      "card_id": 36020,
+      "name": "Walrein ex",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "89/92",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 91.17,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 10
+    },
+    {
       "card_id": 28768,
       "name": "Colress (Team Plasma) (135 Full Art)",
       "set_id": 5500155,
@@ -7141,6 +7441,18 @@
       "market_price_usd": 89.86,
       "market_price_as_of": "2026-10-23",
       "total_listings": 8
+    },
+    {
+      "card_id": 32593,
+      "name": "Drowzee",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "67/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 89.73,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 62
     },
     {
       "card_id": 34512,
@@ -7417,6 +7729,18 @@
       "market_price_usd": 87.84,
       "market_price_as_of": "2026-10-28",
       "total_listings": 126
+    },
+    {
+      "card_id": 32610,
+      "name": "Sandshrew",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "82/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 87.71,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 70
     },
     {
       "card_id": 37793,
@@ -8079,6 +8403,18 @@
       "total_listings": 172
     },
     {
+      "card_id": 35995,
+      "name": "Wailord",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "14/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 82.1,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 32
+    },
+    {
       "card_id": 14938,
       "name": "Celebi V (Alternate Full Art)",
       "set_id": 5500208,
@@ -8113,6 +8449,18 @@
       "market_price_usd": 81.98,
       "market_price_as_of": "2026-11-10",
       "total_listings": 68
+    },
+    {
+      "card_id": 32669,
+      "name": "Beedrill (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "1/113",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 81.96,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 40
     },
     {
       "card_id": 28288,
@@ -8209,6 +8557,30 @@
       "market_price_usd": 81.18,
       "market_price_as_of": "2026-10-26",
       "total_listings": 23
+    },
+    {
+      "card_id": 35991,
+      "name": "Victreebel",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "13/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 81.12,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 34
+    },
+    {
+      "card_id": 32599,
+      "name": "Meowth",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "77/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 81.08,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 86
     },
     {
       "card_id": 35695,
@@ -8643,6 +9015,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 32651,
+      "name": "Azumarill (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "19/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 79.24,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 55
+    },
+    {
       "card_id": 34384,
       "name": "Psychic Energy",
       "set_id": 5500102,
@@ -8857,6 +9241,18 @@
       "market_price_usd": 77.5,
       "market_price_as_of": "2026-11-05",
       "total_listings": 23
+    },
+    {
+      "card_id": 32588,
+      "name": "Slowpoke",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "83/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 77.5,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 83
     },
     {
       "card_id": 6766,
@@ -9157,6 +9553,18 @@
       "market_price_usd": 76.0,
       "market_price_as_of": "2026-10-26",
       "total_listings": 5
+    },
+    {
+      "card_id": 36003,
+      "name": "Kabutops",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "7/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 75.99,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 47
     },
     {
       "card_id": 28225,
@@ -9639,6 +10047,30 @@
       "total_listings": 103
     },
     {
+      "card_id": 32632,
+      "name": "Mightyena (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "24/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 73.21,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 43
+    },
+    {
+      "card_id": 32648,
+      "name": "Pupitar (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "51/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 73.15,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 80
+    },
+    {
       "card_id": 33929,
       "name": "Shiftry ex",
       "set_id": 5500229,
@@ -9745,6 +10177,18 @@
       "market_price_usd": 72.87,
       "market_price_as_of": "2026-10-27",
       "total_listings": 0
+    },
+    {
+      "card_id": 32603,
+      "name": "Eevee - 069/113",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "69/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 72.79,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 70
     },
     {
       "card_id": 19972,
@@ -10095,6 +10539,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 32630,
+      "name": "Dragonair - 42/113 (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "042/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 70.98,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 61
+    },
+    {
       "card_id": 15727,
       "name": "Tyranitar - 222/193",
       "set_id": 5500150,
@@ -10407,6 +10863,18 @@
       "total_listings": 44
     },
     {
+      "card_id": 36007,
+      "name": "Wobbuffet",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "28/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 69.31,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 59
+    },
+    {
       "card_id": 19979,
       "name": "M Swampert EX",
       "set_id": 5500177,
@@ -10525,6 +10993,18 @@
       "market_price_usd": 68.69,
       "market_price_as_of": "2026-10-31",
       "total_listings": 13
+    },
+    {
+      "card_id": 32619,
+      "name": "Crobat (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "2/113",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 68.68,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 64
     },
     {
       "card_id": 7205,
@@ -11283,6 +11763,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 35979,
+      "name": "Aggron",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "2/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 65.28,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 29
+    },
+    {
       "card_id": 18463,
       "name": "Infernape - 116 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -11305,6 +11797,18 @@
       "market_price_usd": 65.21,
       "market_price_as_of": "2026-10-26",
       "total_listings": 26
+    },
+    {
+      "card_id": 32658,
+      "name": "Holon Transceiver",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "98/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 65.12,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 59
     },
     {
       "card_id": 4536,
@@ -11679,6 +12183,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 35990,
+      "name": "Graveler",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "34/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 63.96,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 84
+    },
+    {
       "card_id": 6591,
       "name": "Shelgon - 7/20 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -11919,6 +12435,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 32587,
+      "name": "Larvitar (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "73/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 62.91,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 137
+    },
+    {
       "card_id": 35236,
       "name": "Treecko",
       "set_id": 5500227,
@@ -12085,6 +12613,18 @@
       "market_price_usd": 62.13,
       "market_price_as_of": "2026-10-09",
       "total_listings": 89
+    },
+    {
+      "card_id": 35949,
+      "name": "Fieldworker",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "73/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 62.02,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 105
     },
     {
       "card_id": 34924,
@@ -12687,6 +13227,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 32623,
+      "name": "Metang (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "49/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 59.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 63
+    },
+    {
       "card_id": 35680,
       "name": "Blastoise",
       "set_id": 5500167,
@@ -13251,6 +13803,18 @@
       "total_listings": 122
     },
     {
+      "card_id": 35961,
+      "name": "Golem",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "6/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 58.32,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 76
+    },
+    {
       "card_id": 18494,
       "name": "Chi-Yu - 057 (Prerelease) [Staff]",
       "set_id": 5500070,
@@ -13273,6 +13837,18 @@
       "market_price_usd": 58.28,
       "market_price_as_of": "2026-10-24",
       "total_listings": 26
+    },
+    {
+      "card_id": 35942,
+      "name": "Wailmer",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "69/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 58.16,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 110
     },
     {
       "card_id": 33261,
@@ -13503,6 +14079,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 32663,
+      "name": "Starmie - 030/113 (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "30/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 57.47,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 43
+    },
+    {
       "card_id": 24837,
       "name": "Mars (Full Art)",
       "set_id": 5500013,
@@ -13561,6 +14149,18 @@
       "market_price_usd": 57.24,
       "market_price_as_of": "2026-11-06",
       "total_listings": 16
+    },
+    {
+      "card_id": 32656,
+      "name": "Azurill",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "20/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 57.22,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 49
     },
     {
       "card_id": 36080,
@@ -13813,6 +14413,18 @@
       "market_price_usd": 56.17,
       "market_price_as_of": "2026-10-25",
       "total_listings": 16
+    },
+    {
+      "card_id": 32596,
+      "name": "Dragonair - 41/113 (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "041/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 55.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 82
     },
     {
       "card_id": 34880,
@@ -14079,6 +14691,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 32611,
+      "name": "Rapidash",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "52/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 54.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 111
+    },
+    {
       "card_id": 6729,
       "name": "Pumpkaboo - 56/146 (Pokemon League) [1st Place]",
       "set_id": 5500087,
@@ -14187,6 +14811,18 @@
       "total_listings": 110
     },
     {
+      "card_id": 35959,
+      "name": "Kabuto",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "36/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 54.7,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 80
+    },
+    {
       "card_id": 34339,
       "name": "Groudon",
       "set_id": 5500102,
@@ -14245,6 +14881,18 @@
       "market_price_usd": 54.63,
       "market_price_as_of": "2026-10-16",
       "total_listings": 167
+    },
+    {
+      "card_id": 32638,
+      "name": "Marowak (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "10/113",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.58,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 22
     },
     {
       "card_id": 25076,
@@ -14545,6 +15193,18 @@
       "market_price_usd": 53.49,
       "market_price_as_of": "2026-10-25",
       "total_listings": 209
+    },
+    {
+      "card_id": 36006,
+      "name": "Muk",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "11/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 53.48,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 64
     },
     {
       "card_id": 29100,
@@ -15747,6 +16407,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 36001,
+      "name": "Electrode",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "32/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 49.98,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 108
+    },
+    {
       "card_id": 15446,
       "name": "M Salamence EX - XY171",
       "set_id": 5500069,
@@ -16273,6 +16945,18 @@
       "market_price_usd": 48.63,
       "market_price_as_of": "2026-11-04",
       "total_listings": 29
+    },
+    {
+      "card_id": 35971,
+      "name": "Magneton",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "22/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 48.63,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 75
     },
     {
       "card_id": 32809,
@@ -16875,6 +17559,18 @@
       "total_listings": 170
     },
     {
+      "card_id": 35963,
+      "name": "Tangela",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "44/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 47.12,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 60
+    },
+    {
       "card_id": 20097,
       "name": "Chesnaught - XY68 (Prerelease [Staff]",
       "set_id": 5500177,
@@ -17259,6 +17955,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 32649,
+      "name": "Skarmory",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "55/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 46.18,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 85
+    },
+    {
       "card_id": 7186,
       "name": "Marnie's Grimmsnarl ex",
       "set_id": 5500112,
@@ -17557,6 +18265,18 @@
       "market_price_usd": 45.64,
       "market_price_as_of": "2026-10-22",
       "total_listings": 26
+    },
+    {
+      "card_id": 35954,
+      "name": "Spinda",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "26/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 45.64,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 44
     },
     {
       "card_id": 7216,
@@ -18159,6 +18879,18 @@
       "total_listings": 71
     },
     {
+      "card_id": 36014,
+      "name": "Delcatty",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "4/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 44.62,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 45
+    },
+    {
       "card_id": 14743,
       "name": "Detective Pikachu - SM170",
       "set_id": 5500076,
@@ -18217,6 +18949,18 @@
       "market_price_usd": 44.52,
       "market_price_as_of": "2026-11-10",
       "total_listings": 230
+    },
+    {
+      "card_id": 32617,
+      "name": "Bagon - 058/113 (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "58/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 44.49,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 82
     },
     {
       "card_id": 36189,
@@ -18289,6 +19033,18 @@
       "market_price_usd": 44.28,
       "market_price_as_of": "2026-11-07",
       "total_listings": 67
+    },
+    {
+      "card_id": 35970,
+      "name": "Girafarig",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "16/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 44.25,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 60
     },
     {
       "card_id": 22370,
@@ -18421,6 +19177,18 @@
       "market_price_usd": 44.0,
       "market_price_as_of": "2026-11-04",
       "total_listings": 96
+    },
+    {
+      "card_id": 35989,
+      "name": "Pinsir",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "24/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 44.0,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 128
     },
     {
       "card_id": 24295,
@@ -18565,6 +19333,18 @@
       "market_price_usd": 43.59,
       "market_price_as_of": "2026-10-09",
       "total_listings": 155
+    },
+    {
+      "card_id": 32668,
+      "name": "Sandslash (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "27/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 43.52,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 33
     },
     {
       "card_id": 37845,
@@ -18783,6 +19563,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 32659,
+      "name": "Persian",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "50/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 42.86,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 63
+    },
+    {
       "card_id": 20756,
       "name": "Deerling - 165/162",
       "set_id": 5500066,
@@ -18951,6 +19743,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 32624,
+      "name": "Porygon2",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "25/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 42.45,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 83
+    },
+    {
       "card_id": 24461,
       "name": "Rainbow Energy (Secret)",
       "set_id": 5500088,
@@ -19021,6 +19825,18 @@
       "market_price_usd": 42.32,
       "market_price_as_of": "2026-10-15",
       "total_listings": 10
+    },
+    {
+      "card_id": 35943,
+      "name": "Grimer",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "54/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 42.28,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 108
     },
     {
       "card_id": 37810,
@@ -19357,6 +20173,18 @@
       "market_price_usd": 41.5,
       "market_price_as_of": "2026-11-04",
       "total_listings": 32
+    },
+    {
+      "card_id": 35946,
+      "name": "Spheal",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "65/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 41.47,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 173
     },
     {
       "card_id": 26718,
@@ -20283,6 +21111,42 @@
       "total_listings": 70
     },
     {
+      "card_id": 35975,
+      "name": "Furret",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "33/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 39.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 44
+    },
+    {
+      "card_id": 35980,
+      "name": "Omastar",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "23/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 39.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 46
+    },
+    {
+      "card_id": 35992,
+      "name": "Lanturn",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "19/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 39.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 67
+    },
+    {
       "card_id": 36161,
       "name": "Makuhita",
       "set_id": 5500137,
@@ -20677,6 +21541,18 @@
       "market_price_usd": 39.33,
       "market_price_as_of": "2026-10-26",
       "total_listings": 38
+    },
+    {
+      "card_id": 35944,
+      "name": "Machop",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "57/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 39.31,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 260
     },
     {
       "card_id": 38812,
@@ -21111,6 +21987,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 35968,
+      "name": "Tentacruel",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "45/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 38.8,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 124
+    },
+    {
       "card_id": 12667,
       "name": "Gyarados 21/98",
       "set_id": 5500101,
@@ -21433,6 +22321,18 @@
       "market_price_usd": 38.33,
       "market_price_as_of": "2026-11-05",
       "total_listings": 119
+    },
+    {
+      "card_id": 32604,
+      "name": "Marill",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "76/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 38.32,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 105
     },
     {
       "card_id": 38107,
@@ -21807,6 +22707,18 @@
       "total_listings": 138
     },
     {
+      "card_id": 35962,
+      "name": "Roselia",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "42/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.64,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 78
+    },
+    {
       "card_id": 5089,
       "name": "Koraidon - 119/162 (EB Games Promo)",
       "set_id": 5500123,
@@ -21937,6 +22849,18 @@
       "market_price_usd": 37.46,
       "market_price_as_of": "2026-11-09",
       "total_listings": 66
+    },
+    {
+      "card_id": 32621,
+      "name": "Kirlia",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "47/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.35,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 50
     },
     {
       "card_id": 34939,
@@ -22129,6 +23053,18 @@
       "market_price_usd": 37.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 16
+    },
+    {
+      "card_id": 32679,
+      "name": "Snow-cloud Castform",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "29/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 53
     },
     {
       "card_id": 6448,
@@ -22431,6 +23367,18 @@
       "total_listings": 134
     },
     {
+      "card_id": 35996,
+      "name": "Rainbow Energy",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "81/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.43,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 78
+    },
+    {
       "card_id": 14143,
       "name": "Dragonite (Silver Tempest Stamped)",
       "set_id": 5500149,
@@ -22453,6 +23401,18 @@
       "market_price_usd": 36.4,
       "market_price_as_of": "2026-10-25",
       "total_listings": 64
+    },
+    {
+      "card_id": 35932,
+      "name": "Wynaut",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "71/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.4,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 112
     },
     {
       "card_id": 28209,
@@ -22575,6 +23535,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 35981,
+      "name": "Sealeo",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "43/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.17,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 152
+    },
+    {
       "card_id": 26215,
       "name": "Lucario GX (Full Art)",
       "set_id": 5500192,
@@ -22621,6 +23593,18 @@
       "market_price_usd": 36.09,
       "market_price_as_of": "2026-11-04",
       "total_listings": 25
+    },
+    {
+      "card_id": 35994,
+      "name": "Dunsparce",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "31/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.08,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 88
     },
     {
       "card_id": 34890,
@@ -23055,6 +24039,18 @@
       "total_listings": 128
     },
     {
+      "card_id": 35957,
+      "name": "Sentret",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "62/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.41,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 85
+    },
+    {
       "card_id": 24882,
       "name": "Xurkitree GX (Secret Rare)",
       "set_id": 5500013,
@@ -23115,6 +24111,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 32597,
+      "name": "Ralts",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "81/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.34,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 103
+    },
+    {
       "card_id": 35188,
       "name": "Venusaur",
       "set_id": 5500053,
@@ -23149,6 +24157,18 @@
       "market_price_usd": 35.32,
       "market_price_as_of": "2026-10-27",
       "total_listings": 16
+    },
+    {
+      "card_id": 36002,
+      "name": "Machoke",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "39/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.31,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 105
     },
     {
       "card_id": 6442,
@@ -23379,6 +24399,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 35934,
+      "name": "Magby",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "58/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 34.95,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 76
+    },
+    {
       "card_id": 15492,
       "name": "Primal Groudon EX - 86/160",
       "set_id": 5500069,
@@ -23485,6 +24517,18 @@
       "market_price_usd": 34.74,
       "market_price_as_of": "2026-11-01",
       "total_listings": 23
+    },
+    {
+      "card_id": 35999,
+      "name": "Torkoal",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "27/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 34.72,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 62
     },
     {
       "card_id": 31153,
@@ -23847,6 +24891,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 32681,
+      "name": "Hypno",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "23/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 34.19,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 44
+    },
+    {
       "card_id": 32719,
       "name": "Jolteon",
       "set_id": 5500204,
@@ -23917,6 +24973,18 @@
       "market_price_usd": 34.02,
       "market_price_as_of": "2026-10-23",
       "total_listings": 31
+    },
+    {
+      "card_id": 32613,
+      "name": "Holon's Magnemite",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "70/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 34.0,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 106
     },
     {
       "card_id": 2301326,
@@ -24447,6 +25515,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 35950,
+      "name": "Kecleon",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "37/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.15,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 27
+    },
+    {
       "card_id": 19931,
       "name": "Mewtwo - XY100",
       "set_id": 5500177,
@@ -24951,6 +26031,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 32676,
+      "name": "Castform",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "34/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.49,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 55
+    },
+    {
       "card_id": 25630,
       "name": "Swampert (Alpha)",
       "set_id": 5500118,
@@ -24961,6 +26053,18 @@
       "market_price_usd": 32.47,
       "market_price_as_of": "2026-10-29",
       "total_listings": 107
+    },
+    {
+      "card_id": 35973,
+      "name": "Vibrava",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "46/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.47,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 128
     },
     {
       "card_id": 33923,
@@ -25129,6 +26233,18 @@
       "market_price_usd": 32.1,
       "market_price_as_of": "2026-11-10",
       "total_listings": 146
+    },
+    {
+      "card_id": 32590,
+      "name": "Porygon",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "80/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.03,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 207
     },
     {
       "card_id": 15445,
@@ -25371,6 +26487,18 @@
       "total_listings": 149
     },
     {
+      "card_id": 32657,
+      "name": "Volbeat",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "56/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.74,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 91
+    },
+    {
       "card_id": 33222,
       "name": "Cradily (Delta Species)",
       "set_id": 5500220,
@@ -25429,6 +26557,18 @@
       "market_price_usd": 31.7,
       "market_price_as_of": "2026-11-03",
       "total_listings": 102
+    },
+    {
+      "card_id": 32622,
+      "name": "Kakuna",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "46/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.69,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 46
     },
     {
       "card_id": 36154,
@@ -25623,6 +26763,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 32653,
+      "name": "Staryu - 085/113",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "85/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.5,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 144
+    },
+    {
       "card_id": 34337,
       "name": "Slowking",
       "set_id": 5500102,
@@ -25635,6 +26787,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 35976,
+      "name": "Tentacool",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "66/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.49,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 338
+    },
+    {
       "card_id": 6565,
       "name": "Shelmet 11/101 (Championship Series) [Staff]",
       "set_id": 5500087,
@@ -25645,6 +26809,18 @@
       "market_price_usd": 31.49,
       "market_price_as_of": "2026-10-27",
       "total_listings": 10
+    },
+    {
+      "card_id": 32625,
+      "name": "Weezing",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "33/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.48,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 64
     },
     {
       "card_id": 37859,
@@ -26283,6 +27459,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 32586,
+      "name": "Koffing",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "72/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.5,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 152
+    },
+    {
       "card_id": 24660,
       "name": "Marshadow GX (Secret)",
       "set_id": 5500119,
@@ -26305,6 +27493,18 @@
       "market_price_usd": 30.46,
       "market_price_as_of": "2026-10-30",
       "total_listings": 63
+    },
+    {
+      "card_id": 32640,
+      "name": "Sunny Castform",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "31/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.45,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 55
     },
     {
       "card_id": 27445,
@@ -26749,6 +27949,18 @@
       "market_price_usd": 30.0,
       "market_price_as_of": "2026-11-07",
       "total_listings": 77
+    },
+    {
+      "card_id": 32615,
+      "name": "Golbat",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "43/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.0,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 106
     },
     {
       "card_id": 33225,
@@ -27483,6 +28695,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 35937,
+      "name": "Skitty",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "64/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.29,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 122
+    },
+    {
       "card_id": 27598,
       "name": "Gengar Spirit Link",
       "set_id": 5500067,
@@ -27663,6 +28887,18 @@
       "total_listings": 131
     },
     {
+      "card_id": 32608,
+      "name": "Weedle",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "87/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.08,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 161
+    },
+    {
       "card_id": 33185,
       "name": "Trapinch (Delta Species)",
       "set_id": 5500220,
@@ -27673,6 +28909,18 @@
       "market_price_usd": 29.07,
       "market_price_as_of": "2026-11-10",
       "total_listings": 144
+    },
+    {
+      "card_id": 35967,
+      "name": "Lunatone",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "20/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.07,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 69
     },
     {
       "card_id": 14383,
@@ -27843,6 +29091,18 @@
       "total_listings": 114
     },
     {
+      "card_id": 35998,
+      "name": "Solrock",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "25/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.86,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 111
+    },
+    {
       "card_id": 4383,
       "name": "Alolan Vulpix - 21/145 (Toys R Us Promo)",
       "set_id": 5500123,
@@ -27853,6 +29113,18 @@
       "market_price_usd": 28.83,
       "market_price_as_of": "2026-10-23",
       "total_listings": 34
+    },
+    {
+      "card_id": 32644,
+      "name": "Holon's Electrode",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "21/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.79,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 102
     },
     {
       "card_id": 35279,
@@ -28827,6 +30099,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 32618,
+      "name": "Poochyena",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "79/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.71,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 77
+    },
+    {
       "card_id": 22207,
       "name": "Shaymin Prism Star",
       "set_id": 5500079,
@@ -29307,6 +30591,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 32607,
+      "name": "Ponyta",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "78/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.19,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 221
+    },
+    {
       "card_id": 31867,
       "name": "Growlithe (10)",
       "set_id": 5500176,
@@ -29353,6 +30649,18 @@
       "market_price_usd": 27.13,
       "market_price_as_of": "2026-11-10",
       "total_listings": 112
+    },
+    {
+      "card_id": 35978,
+      "name": "Gorebyss",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "17/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.11,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 98
     },
     {
       "card_id": 14566,
@@ -30027,6 +31335,18 @@
       "total_listings": 95
     },
     {
+      "card_id": 32598,
+      "name": "Taillow",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "86/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.5,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 184
+    },
+    {
       "card_id": 4653,
       "name": "Marnie - 340/S-P",
       "set_id": 5500123,
@@ -30241,6 +31561,18 @@
       "market_price_usd": 26.3,
       "market_price_as_of": "2026-10-10",
       "total_listings": 303
+    },
+    {
+      "card_id": 35940,
+      "name": "Shuppet",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "63/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.29,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 251
     },
     {
       "card_id": 14409,
@@ -30639,6 +31971,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 35988,
+      "name": "Cascoon",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "30/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.85,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 51
+    },
+    {
       "card_id": 12795,
       "name": "Mew - 53/108 (XY Evolutions)",
       "set_id": 5500101,
@@ -30757,6 +32101,18 @@
       "market_price_usd": 25.75,
       "market_price_as_of": "2026-11-06",
       "total_listings": 59
+    },
+    {
+      "card_id": 35953,
+      "name": "Geodude",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "53/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.75,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 249
     },
     {
       "card_id": 22823,
@@ -30975,6 +32331,18 @@
       "total_listings": 154
     },
     {
+      "card_id": 35985,
+      "name": "Huntail",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "18/92",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.56,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 123
+    },
+    {
       "card_id": 31279,
       "name": "Energy Switch",
       "set_id": 5500037,
@@ -31047,6 +32415,18 @@
       "total_listings": 33
     },
     {
+      "card_id": 32645,
+      "name": "Rain Castform",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "26/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.51,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 32
+    },
+    {
       "card_id": 35665,
       "name": "Poliwhirl",
       "set_id": 5500167,
@@ -31081,6 +32461,18 @@
       "market_price_usd": 25.5,
       "market_price_as_of": "2026-11-04",
       "total_listings": 17
+    },
+    {
+      "card_id": 35939,
+      "name": "Seedot",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "61/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.48,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 83
     },
     {
       "card_id": 6696,
@@ -31189,6 +32581,18 @@
       "market_price_usd": 25.37,
       "market_price_as_of": "2026-10-31",
       "total_listings": 75
+    },
+    {
+      "card_id": 35951,
+      "name": "Voltorb",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "68/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.36,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 227
     },
     {
       "card_id": 31277,
@@ -31395,6 +32799,30 @@
       "total_listings": 118
     },
     {
+      "card_id": 32636,
+      "name": "Magneton",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "48/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.15,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 77
+    },
+    {
+      "card_id": 36000,
+      "name": "Cradily",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "3/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.15,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 35
+    },
+    {
       "card_id": 34784,
       "name": "Aggron",
       "set_id": 5500078,
@@ -31489,6 +32917,18 @@
       "market_price_usd": 25.07,
       "market_price_as_of": "2026-11-05",
       "total_listings": 236
+    },
+    {
+      "card_id": 32592,
+      "name": "Zubat",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "88/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.05,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 128
     },
     {
       "card_id": 14335,
@@ -32403,6 +33843,30 @@
       "total_listings": 85
     },
     {
+      "card_id": 35948,
+      "name": "Aron",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "48/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.35,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 209
+    },
+    {
+      "card_id": 36011,
+      "name": "Shiftry",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "12/92",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.33,
+      "market_price_as_of": "2026-11-10",
+      "total_listings": 51
+    },
+    {
       "card_id": 34848,
       "name": "Bagon (Delta Species)",
       "set_id": 5500221,
@@ -32943,6 +34407,18 @@
       "total_listings": 219
     },
     {
+      "card_id": 32643,
+      "name": "Swellow",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "32/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.74,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 101
+    },
+    {
       "card_id": 34576,
       "name": "Mawile",
       "set_id": 5500135,
@@ -33231,6 +34707,18 @@
       "total_listings": 157
     },
     {
+      "card_id": 35993,
+      "name": "Misdreavus",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "40/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.44,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 58
+    },
+    {
       "card_id": 5049,
       "name": "Flapple - 022/192 (EB Games Exclusive)",
       "set_id": 5500123,
@@ -33301,6 +34789,18 @@
       "market_price_usd": 23.41,
       "market_price_as_of": "2026-11-01",
       "total_listings": 27
+    },
+    {
+      "card_id": 32628,
+      "name": "Holon's Magneton",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "22/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.4,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 60
     },
     {
       "card_id": 28316,
@@ -33891,6 +35391,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 35958,
+      "name": "Trapinch",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "67/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.99,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 114
+    },
+    {
       "card_id": 14632,
       "name": "Pikachu - SM234",
       "set_id": 5500076,
@@ -33985,6 +35497,18 @@
       "market_price_usd": 22.91,
       "market_price_as_of": "2026-10-23",
       "total_listings": 151
+    },
+    {
+      "card_id": 35952,
+      "name": "Bellsprout",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "49/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.9,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 274
     },
     {
       "card_id": 37702,
@@ -34093,6 +35617,18 @@
       "market_price_usd": 22.75,
       "market_price_as_of": "2026-11-02",
       "total_listings": 52
+    },
+    {
+      "card_id": 36008,
+      "name": "Nuzleaf",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "41/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.75,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 148
     },
     {
       "card_id": 13454,
@@ -35103,6 +36639,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 35972,
+      "name": "Weepinbell",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "47/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.81,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 154
+    },
+    {
       "card_id": 27907,
       "name": "Clefairy",
       "set_id": 5500188,
@@ -35187,6 +36735,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 32606,
+      "name": "Makuhita",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "75/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.75,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 87
+    },
+    {
       "card_id": 34426,
       "name": "Scizor",
       "set_id": 5500035,
@@ -35233,6 +36793,18 @@
       "market_price_usd": 21.7,
       "market_price_as_of": "2026-10-14",
       "total_listings": 181
+    },
+    {
+      "card_id": 35947,
+      "name": "Magnemite",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "59/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.7,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 236
     },
     {
       "card_id": 36922,
@@ -35487,6 +37059,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 32650,
+      "name": "Staryu - 084/113",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "84/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.39,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 105
+    },
+    {
       "card_id": 37467,
       "name": "Zoroark GX - 77a/73",
       "set_id": 5500060,
@@ -35497,6 +37081,18 @@
       "market_price_usd": 21.37,
       "market_price_as_of": "2026-10-25",
       "total_listings": 36
+    },
+    {
+      "card_id": 32655,
+      "name": "Magnemite",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "74/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.36,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 224
     },
     {
       "card_id": 34944,
@@ -35691,6 +37287,18 @@
       "total_listings": 36
     },
     {
+      "card_id": 32584,
+      "name": "Bagon - 057/113 (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "57/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.2,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 221
+    },
+    {
       "card_id": 35282,
       "name": "Dusclops",
       "set_id": 5500227,
@@ -35845,6 +37453,18 @@
       "market_price_usd": 21.11,
       "market_price_as_of": "2026-10-10",
       "total_listings": 194
+    },
+    {
+      "card_id": 32601,
+      "name": "Holon's Voltorb",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "71/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.11,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 212
     },
     {
       "card_id": 33941,
@@ -36279,6 +37899,18 @@
       "total_listings": 195
     },
     {
+      "card_id": 35938,
+      "name": "Chinchou",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "50/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.8,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 133
+    },
+    {
       "card_id": 6753,
       "name": "Bodybuilding Dumbbells - 113/147 (League Cup) [Staff]",
       "set_id": 5500087,
@@ -36685,6 +38317,18 @@
       "market_price_usd": 20.57,
       "market_price_as_of": "2026-10-24",
       "total_listings": 4
+    },
+    {
+      "card_id": 35936,
+      "name": "Clamperl",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "51/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.57,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 155
     },
     {
       "card_id": 26247,
@@ -37525,6 +39169,18 @@
       "market_price_usd": 20.02,
       "market_price_as_of": "2026-11-08",
       "total_listings": 86
+    },
+    {
+      "card_id": 35956,
+      "name": "Lileep",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "56/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.01,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 239
     },
     {
       "card_id": 1183,
@@ -40107,6 +41763,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 36005,
+      "name": "Lairon",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "38/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.66,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 115
+    },
+    {
       "card_id": 6237,
       "name": "Arcanine G - 15/147 (League Promo)",
       "set_id": 5500087,
@@ -40717,6 +42385,18 @@
       "market_price_usd": 18.33,
       "market_price_as_of": "2026-11-06",
       "total_listings": 316
+    },
+    {
+      "card_id": 32633,
+      "name": "Hariyama",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "44/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.33,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 123
     },
     {
       "card_id": 853,
@@ -42579,6 +44259,18 @@
       "total_listings": 64
     },
     {
+      "card_id": 32634,
+      "name": "Holon Mentor",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "93/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.33,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 45
+    },
+    {
       "card_id": 34138,
       "name": "Gardevoir VMAX (Secret)",
       "set_id": 5500028,
@@ -42915,6 +44607,18 @@
       "total_listings": 49
     },
     {
+      "card_id": 32602,
+      "name": "Beldum (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "59/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.13,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 103
+    },
+    {
       "card_id": 36085,
       "name": "Guzzlord GX",
       "set_id": 5500083,
@@ -43153,6 +44857,18 @@
       "market_price_usd": 17.01,
       "market_price_as_of": "2026-10-23",
       "total_listings": 7
+    },
+    {
+      "card_id": 32631,
+      "name": "Shelgon - 053/113 (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "53/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.01,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 101
     },
     {
       "card_id": 14718,
@@ -43717,6 +45433,18 @@
       "market_price_usd": 16.73,
       "market_price_as_of": "2026-10-18",
       "total_listings": 80
+    },
+    {
+      "card_id": 35969,
+      "name": "Cursed Stone",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "72/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.73,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 58
     },
     {
       "card_id": 30820,
@@ -45963,6 +47691,18 @@
       "total_listings": 349
     },
     {
+      "card_id": 35960,
+      "name": "Wurmple",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "70/92",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.67,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 160
+    },
+    {
       "card_id": 18738,
       "name": "Team Rocket's Ariana - 237/182",
       "set_id": 5500009,
@@ -47151,6 +48891,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 36012,
+      "name": "Strange Cave",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "77/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.12,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 146
+    },
+    {
       "card_id": 35302,
       "name": "Castaway",
       "set_id": 5500227,
@@ -47979,6 +49731,18 @@
       "total_listings": 105
     },
     {
+      "card_id": 32654,
+      "name": "Shelgon - 054/113 (Delta Species)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "54/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.83,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 73
+    },
+    {
       "card_id": 32467,
       "name": "Sewaddle (9)",
       "set_id": 5500207,
@@ -48433,6 +50197,18 @@
       "market_price_usd": 14.66,
       "market_price_as_of": "2026-11-09",
       "total_listings": 167
+    },
+    {
+      "card_id": 32626,
+      "name": "Holon Researcher",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "95/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.66,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 163
     },
     {
       "card_id": 35004,
@@ -49033,6 +50809,18 @@
       "market_price_usd": 14.38,
       "market_price_as_of": "2026-11-03",
       "total_listings": 14
+    },
+    {
+      "card_id": 35984,
+      "name": "Anorith",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "29/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.38,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 143
     },
     {
       "card_id": 100018063,
@@ -52623,6 +54411,18 @@
       "total_listings": 125
     },
     {
+      "card_id": 32637,
+      "name": "Master Ball",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "99/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.83,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 228
+    },
+    {
       "card_id": 800,
       "name": "Gardevoir - 2004 (Kevin Nguyen)",
       "set_id": 5500029,
@@ -55311,6 +57111,18 @@
       "total_listings": 151
     },
     {
+      "card_id": 32685,
+      "name": "Holon Scientist",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "97/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.91,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 62
+    },
+    {
       "card_id": 34573,
       "name": "Grovyle",
       "set_id": 5500135,
@@ -56607,6 +58419,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 32686,
+      "name": "Holon Energy GL",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "105/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.5,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 60
+    },
+    {
       "card_id": 16480,
       "name": "Vaporeon",
       "set_id": 5500206,
@@ -57531,6 +59355,18 @@
       "total_listings": 55
     },
     {
+      "card_id": 32671,
+      "name": "Metal Energy (Special)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "107/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.15,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 182
+    },
+    {
       "card_id": 31753,
       "name": "Lopunny",
       "set_id": 5500096,
@@ -57673,6 +59509,18 @@
       "market_price_usd": 11.1,
       "market_price_as_of": "2026-10-12",
       "total_listings": 90
+    },
+    {
+      "card_id": 32665,
+      "name": "Darkness Energy (Special)",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "103/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.1,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 48
     },
     {
       "card_id": 20889,
@@ -59809,6 +61657,18 @@
       "market_price_usd": 10.4,
       "market_price_as_of": "2026-11-09",
       "total_listings": 99
+    },
+    {
+      "card_id": 32673,
+      "name": "Great Ball",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "90/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.4,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 166
     },
     {
       "card_id": 20949,
@@ -62067,6 +63927,18 @@
       "total_listings": 98
     },
     {
+      "card_id": 32683,
+      "name": "Holon Research Tower",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "94/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.83,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 71
+    },
+    {
       "card_id": 18270,
       "name": "Pikachu - 190",
       "set_id": 5500070,
@@ -62149,6 +64021,18 @@
       "market_price_usd": 9.81,
       "market_price_as_of": "2026-11-05",
       "total_listings": 76
+    },
+    {
+      "card_id": 32675,
+      "name": "Holon Energy FF",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "104/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.81,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 53
     },
     {
       "card_id": 34293,
@@ -63615,6 +65499,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 32595,
+      "name": "Holon Lass",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "92/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.43,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 106
+    },
+    {
       "card_id": 14011,
       "name": "Eevee - SWSH175",
       "set_id": 5500149,
@@ -64213,6 +66109,18 @@
       "market_price_usd": 9.27,
       "market_price_as_of": "2026-10-25",
       "total_listings": 60
+    },
+    {
+      "card_id": 32688,
+      "name": "Holon Energy WP",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "106/113",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.27,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 90
     },
     {
       "card_id": 33932,
@@ -66795,6 +68703,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 32629,
+      "name": "Switch",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "102/113",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.66,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 324
+    },
+    {
       "card_id": 13428,
       "name": "Bloodmoon Ursaluna (Master Ball Pattern)",
       "set_id": 5500017,
@@ -67117,6 +69037,18 @@
       "market_price_usd": 8.56,
       "market_price_as_of": "2026-10-31",
       "total_listings": 118
+    },
+    {
+      "card_id": 35977,
+      "name": "Giant Stump",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "75/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.56,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 68
     },
     {
       "card_id": 38096,
@@ -67731,6 +69663,18 @@
       "total_listings": 245
     },
     {
+      "card_id": 32635,
+      "name": "Super Scoop Up",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "100/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.42,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 72
+    },
+    {
       "card_id": 36106,
       "name": "Aether Paradise Conservation Area",
       "set_id": 5500083,
@@ -68041,6 +69985,18 @@
       "market_price_usd": 8.36,
       "market_price_as_of": "2026-10-31",
       "total_listings": 50
+    },
+    {
+      "card_id": 32680,
+      "name": "Holon Ruins",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "96/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.36,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 83
     },
     {
       "card_id": 35177,
@@ -71835,6 +73791,18 @@
       "total_listings": 149
     },
     {
+      "card_id": 36015,
+      "name": "Full Flame",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "74/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.52,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 118
+    },
+    {
       "card_id": 37087,
       "name": "Alolan Ninetales (30)",
       "set_id": 5500074,
@@ -73743,6 +75711,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 35964,
+      "name": "React Energy",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "82/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.14,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 189
+    },
+    {
       "card_id": 38763,
       "name": "Tepig - 3/12",
       "set_id": 5500097,
@@ -74677,6 +76657,18 @@
       "market_price_usd": 6.97,
       "market_price_as_of": "2026-10-28",
       "total_listings": 204
+    },
+    {
+      "card_id": 32667,
+      "name": "Illumise",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "45/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.97,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 78
     },
     {
       "card_id": 36210,
@@ -77881,6 +79873,18 @@
       "market_price_usd": 6.39,
       "market_price_as_of": "2026-10-28",
       "total_listings": 21
+    },
+    {
+      "card_id": 32677,
+      "name": "Holon Farmer",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "91/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.39,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 75
     },
     {
       "card_id": 5700,
@@ -82249,6 +84253,18 @@
       "market_price_usd": 5.76,
       "market_price_as_of": "2026-10-27",
       "total_listings": 96
+    },
+    {
+      "card_id": 35974,
+      "name": "Power Tree",
+      "set_id": 5500223,
+      "set_name": "EX Legend Maker",
+      "number": "76/92",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.76,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 172
     },
     {
       "card_id": 37283,
@@ -86833,6 +88849,18 @@
       "market_price_usd": 5.19,
       "market_price_as_of": "2026-11-06",
       "total_listings": 186
+    },
+    {
+      "card_id": 32660,
+      "name": "Dual Ball",
+      "set_id": 5500234,
+      "set_name": "EX Delta Species",
+      "number": "89/113",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.19,
+      "market_price_as_of": "2026-11-11",
+      "total_listings": 162
     },
     {
       "card_id": 19066,
