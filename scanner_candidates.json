@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-13T15:35:01.932941+00:00",
+  "generated_at": "2026-11-14T14:23:54.215164+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 189,
+  "next_set_index": 194,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
   "api_calls": 7,
-  "total_candidates": 8056,
-  "cards_with_price_history": 25230,
+  "total_candidates": 8229,
+  "cards_with_price_history": 25432,
   "candidates": [
     {
       "card_id": 20118,
@@ -253,6 +253,18 @@
       "market_price_usd": 199.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 1
+    },
+    {
+      "card_id": 35464,
+      "name": "Pikachu",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "43/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 198.84,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 25
     },
     {
       "card_id": 14834,
@@ -553,6 +565,18 @@
       "market_price_usd": 189.8,
       "market_price_as_of": "2026-10-14",
       "total_listings": 124
+    },
+    {
+      "card_id": 34702,
+      "name": "Wigglytuff ex",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "101/101",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 188.88,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 10
     },
     {
       "card_id": 38067,
@@ -1117,6 +1141,18 @@
       "market_price_usd": 176.18,
       "market_price_as_of": "2026-10-23",
       "total_listings": 20
+    },
+    {
+      "card_id": 35533,
+      "name": "Absol",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "96/95",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 175.9,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 4
     },
     {
       "card_id": 33356,
@@ -2295,6 +2331,18 @@
       "total_listings": 51
     },
     {
+      "card_id": 35519,
+      "name": "Team Magma's Groudon",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "9/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 150.82,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 20
+    },
+    {
       "card_id": 38055,
       "name": "Pikachu (Full Art)",
       "set_id": 5500133,
@@ -2437,6 +2485,18 @@
       "market_price_usd": 149.99,
       "market_price_as_of": "2026-11-13",
       "total_listings": 155
+    },
+    {
+      "card_id": 34705,
+      "name": "Vileplume ex",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "100/101",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 149.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 10
     },
     {
       "card_id": 37820,
@@ -4191,6 +4251,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 34615,
+      "name": "Minun",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "67/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 125.28,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 71
+    },
+    {
       "card_id": 20006,
       "name": "Mew - XY192",
       "set_id": 5500177,
@@ -4285,6 +4357,18 @@
       "market_price_usd": 125.0,
       "market_price_as_of": "2026-10-27",
       "total_listings": 0
+    },
+    {
+      "card_id": 35510,
+      "name": "Cubone",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "40/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 124.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 44
     },
     {
       "card_id": 35697,
@@ -4935,6 +5019,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 34621,
+      "name": "Jirachi",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "8/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 118.2,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 55
+    },
+    {
       "card_id": 30569,
       "name": "M Sceptile EX (85 Full Art)",
       "set_id": 5500196,
@@ -5247,6 +5343,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 34694,
+      "name": "Milotic",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "12/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 115.48,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 49
+    },
+    {
       "card_id": 4479,
       "name": "Eevee - 133/165 (Pokemon Together)",
       "set_id": 5500123,
@@ -5353,6 +5461,18 @@
       "market_price_usd": 114.98,
       "market_price_as_of": "2026-10-23",
       "total_listings": 10
+    },
+    {
+      "card_id": 34710,
+      "name": "Groudon",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "102/101",
+      "rarity": "Secret Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 114.93,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 11
     },
     {
       "card_id": 32612,
@@ -5869,6 +5989,18 @@
       "market_price_usd": 108.75,
       "market_price_as_of": "2026-10-31",
       "total_listings": 10
+    },
+    {
+      "card_id": 34633,
+      "name": "Togepi",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "78/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 108.44,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 63
     },
     {
       "card_id": 32068,
@@ -6831,6 +6963,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 34645,
+      "name": "Ninetales",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "22/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 100.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 31
+    },
+    {
       "card_id": 38441,
       "name": "Pikachu (Polish)",
       "set_id": 5500075,
@@ -7465,6 +7609,18 @@
       "market_price_usd": 96.78,
       "market_price_as_of": "2026-11-13",
       "total_listings": 47
+    },
+    {
+      "card_id": 34682,
+      "name": "Metagross",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "11/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 96.77,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 43
     },
     {
       "card_id": 38154,
@@ -8113,6 +8269,18 @@
       "market_price_usd": 92.44,
       "market_price_as_of": "2026-10-13",
       "total_listings": 302
+    },
+    {
+      "card_id": 34671,
+      "name": "Machamp",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "9/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 92.19,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 41
     },
     {
       "card_id": 15464,
@@ -8895,6 +9063,18 @@
       "total_listings": 187
     },
     {
+      "card_id": 34609,
+      "name": "Jigglypuff",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "63/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 87.9,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 75
+    },
+    {
       "card_id": 4647,
       "name": "Larvitar (Delta Species Stamp)",
       "set_id": 5500123,
@@ -9481,6 +9661,18 @@
       "market_price_usd": 83.72,
       "market_price_as_of": "2026-11-07",
       "total_listings": 61
+    },
+    {
+      "card_id": 35471,
+      "name": "Slowpoke",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "45/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 83.66,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 37
     },
     {
       "card_id": 17858,
@@ -11295,6 +11487,30 @@
       "total_listings": 34
     },
     {
+      "card_id": 34610,
+      "name": "Cyndaquil",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "59/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 74.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 118
+    },
+    {
+      "card_id": 35532,
+      "name": "Cradily ex",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "90/95",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 74.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 2
+    },
+    {
       "card_id": 38446,
       "name": "Pikachu (Korean)",
       "set_id": 5500075,
@@ -12315,6 +12531,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 34643,
+      "name": "Feebas",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "61/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 70.47,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 58
+    },
+    {
       "card_id": 25304,
       "name": "Dachsbun ex - 169/142",
       "set_id": 5500045,
@@ -12795,6 +13023,18 @@
       "total_listings": 64
     },
     {
+      "card_id": 34692,
+      "name": "Igglybuff",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "37/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 68.66,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 50
+    },
+    {
       "card_id": 7205,
       "name": "Mega Meganium ex - 272/217",
       "set_id": 5500112,
@@ -13071,6 +13311,18 @@
       "total_listings": 115
     },
     {
+      "card_id": 35487,
+      "name": "Team Magma's Houndour - 63/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "63/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 67.5,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 63
+    },
+    {
       "card_id": 36134,
       "name": "Burned Tower",
       "set_id": 5500137,
@@ -13105,6 +13357,18 @@
       "market_price_usd": 67.44,
       "market_price_as_of": "2026-11-12",
       "total_listings": 172
+    },
+    {
+      "card_id": 35528,
+      "name": "Team Aqua's Sharpedo - 5/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "5/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 67.36,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 25
     },
     {
       "card_id": 37583,
@@ -15147,6 +15411,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 34665,
+      "name": "Spinda",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "48/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 60.44,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 49
+    },
+    {
       "card_id": 34753,
       "name": "Electrode (Prime)",
       "set_id": 5500078,
@@ -15229,6 +15505,18 @@
       "market_price_usd": 60.16,
       "market_price_as_of": "2026-10-26",
       "total_listings": 9
+    },
+    {
+      "card_id": 35490,
+      "name": "Team Magma's Zangoose",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "23/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 60.16,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 64
     },
     {
       "card_id": 27102,
@@ -15397,6 +15685,18 @@
       "market_price_usd": 59.88,
       "market_price_as_of": "2026-10-23",
       "total_listings": 20
+    },
+    {
+      "card_id": 34618,
+      "name": "Vulpix",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "81/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 59.83,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 82
     },
     {
       "card_id": 20024,
@@ -15853,6 +16153,18 @@
       "market_price_usd": 58.53,
       "market_price_as_of": "2026-11-08",
       "total_listings": 52
+    },
+    {
+      "card_id": 34625,
+      "name": "Bellossom",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "16/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 58.51,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 57
     },
     {
       "card_id": 769,
@@ -16563,6 +16875,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 34616,
+      "name": "Totodile",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "79/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 56.58,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 139
+    },
+    {
       "card_id": 32001,
       "name": "Charmeleon",
       "set_id": 5500230,
@@ -16861,6 +17185,18 @@
       "market_price_usd": 55.55,
       "market_price_as_of": "2026-10-23",
       "total_listings": 29
+    },
+    {
+      "card_id": 34691,
+      "name": "Heracross",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "7/101",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 55.55,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 28
     },
     {
       "card_id": 5021,
@@ -18195,6 +18531,18 @@
       "total_listings": 55
     },
     {
+      "card_id": 34685,
+      "name": "Exploud",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "6/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 51.91,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 12
+    },
+    {
       "card_id": 35679,
       "name": "Ursaring (Prime)",
       "set_id": 5500167,
@@ -18301,6 +18649,18 @@
       "market_price_usd": 51.66,
       "market_price_as_of": "2026-11-05",
       "total_listings": 109
+    },
+    {
+      "card_id": 35444,
+      "name": "Team Magma's Houndoom - 34/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "34/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 51.66,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 62
     },
     {
       "card_id": 33545,
@@ -18771,6 +19131,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 35511,
+      "name": "Team Magma's Torkoal",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "12/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 50.28,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 28
+    },
+    {
       "card_id": 6574,
       "name": "Gladion - 95/111 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -18915,6 +19287,18 @@
       "total_listings": 206
     },
     {
+      "card_id": 34675,
+      "name": "Chikorita",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "55/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 50.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 70
+    },
+    {
       "card_id": 34771,
       "name": "Bronzong",
       "set_id": 5500078,
@@ -19021,6 +19405,18 @@
       "market_price_usd": 49.99,
       "market_price_as_of": "2026-11-08",
       "total_listings": 90
+    },
+    {
+      "card_id": 35504,
+      "name": "Team Aqua's Corphish - 51/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "51/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 49.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 102
     },
     {
       "card_id": 36121,
@@ -19561,6 +19957,18 @@
       "market_price_usd": 48.99,
       "market_price_as_of": "2026-11-12",
       "total_listings": 91
+    },
+    {
+      "card_id": 35501,
+      "name": "Team Aqua's Sharpedo - 18/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "18/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 48.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 22
     },
     {
       "card_id": 34008,
@@ -21291,6 +21699,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 34623,
+      "name": "Starmie",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "49/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 45.47,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 131
+    },
+    {
       "card_id": 34746,
       "name": "Yanmega (Prime)",
       "set_id": 5500078,
@@ -21325,6 +21745,18 @@
       "market_price_usd": 45.45,
       "market_price_as_of": "2026-11-07",
       "total_listings": 65
+    },
+    {
+      "card_id": 35513,
+      "name": "Team Aqua's Manectric - 4/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "4/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.44,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 42
     },
     {
       "card_id": 33304,
@@ -21663,6 +22095,18 @@
       "total_listings": 83
     },
     {
+      "card_id": 35525,
+      "name": "Team Magma's Claydol - 8/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "8/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 45.02,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 32
+    },
+    {
       "card_id": 7217,
       "name": "Fezandipiti ex - 288/217",
       "set_id": 5500112,
@@ -21697,6 +22141,18 @@
       "market_price_usd": 45.0,
       "market_price_as_of": "2026-11-12",
       "total_listings": 23
+    },
+    {
+      "card_id": 35483,
+      "name": "Team Magma's Poochyena - 66/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "66/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 45.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 77
     },
     {
       "card_id": 4654,
@@ -21927,6 +22383,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 34663,
+      "name": "Banette",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "1/101",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.74,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 18
+    },
+    {
       "card_id": 35787,
       "name": "Moltres & Zapdos & Articuno GX (Full Art)",
       "set_id": 5500125,
@@ -22033,6 +22501,18 @@
       "market_price_usd": 44.52,
       "market_price_as_of": "2026-11-10",
       "total_listings": 230
+    },
+    {
+      "card_id": 34684,
+      "name": "Walrein",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "15/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 44.5,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 44
     },
     {
       "card_id": 32617,
@@ -22479,6 +22959,18 @@
       "total_listings": 155
     },
     {
+      "card_id": 35491,
+      "name": "Team Magma's Rhydon - 11/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "11/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 43.58,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 33
+    },
+    {
       "card_id": 32668,
       "name": "Sandslash (Delta Species)",
       "set_id": 5500234,
@@ -22825,6 +23317,18 @@
       "market_price_usd": 42.73,
       "market_price_as_of": "2026-10-09",
       "total_listings": 67
+    },
+    {
+      "card_id": 35514,
+      "name": "Team Magma's Houndour - 35/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "35/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 42.73,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 30
     },
     {
       "card_id": 26242,
@@ -23319,6 +23823,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 34711,
+      "name": "Electrode",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "5/101",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.77,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 47
+    },
+    {
       "card_id": 14736,
       "name": "Raikou - SM150 (Prerelease)",
       "set_id": 5500076,
@@ -23461,6 +23977,18 @@
       "market_price_usd": 41.55,
       "market_price_as_of": "2026-11-12",
       "total_listings": 42
+    },
+    {
+      "card_id": 34637,
+      "name": "Rain Castform",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "23/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 41.54,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 48
     },
     {
       "card_id": 38798,
@@ -23811,6 +24339,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 35445,
+      "name": "Team Magma's Aggron",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "7/95",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.98,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 86
+    },
+    {
       "card_id": 7235,
       "name": "Mega Emboar ex - 273/217",
       "set_id": 5500112,
@@ -23821,6 +24361,18 @@
       "market_price_usd": 40.95,
       "market_price_as_of": "2026-10-09",
       "total_listings": 171
+    },
+    {
+      "card_id": 34607,
+      "name": "Oddish",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "68/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.86,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 115
     },
     {
       "card_id": 22235,
@@ -24037,6 +24589,18 @@
       "market_price_usd": 40.44,
       "market_price_as_of": "2026-10-14",
       "total_listings": 6
+    },
+    {
+      "card_id": 35477,
+      "name": "Team Aqua's Spheal - 57/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "57/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.43,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 52
     },
     {
       "card_id": 13,
@@ -24423,6 +24987,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 35498,
+      "name": "Team Aqua's Crawdaunt - 2/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "2/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 40.0,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 35
+    },
+    {
       "card_id": 4927,
       "name": "Icy Sky's Shaymin (Japanese 11th Movie Commemoration Set)",
       "set_id": 5500123,
@@ -24601,6 +25177,18 @@
       "market_price_usd": 39.98,
       "market_price_as_of": "2026-11-13",
       "total_listings": 31
+    },
+    {
+      "card_id": 34641,
+      "name": "Corsola",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "32/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 39.95,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 49
     },
     {
       "card_id": 6628,
@@ -26751,6 +27339,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 34689,
+      "name": "Lanturn",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "38/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 64
+    },
+    {
       "card_id": 34937,
       "name": "Jolteon",
       "set_id": 5500174,
@@ -26895,6 +27495,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 34612,
+      "name": "Gloom",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "35/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.87,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 79
+    },
+    {
       "card_id": 36081,
       "name": "Ho-Oh GX",
       "set_id": 5500083,
@@ -26953,6 +27565,18 @@
       "market_price_usd": 36.81,
       "market_price_as_of": "2026-11-11",
       "total_listings": 47
+    },
+    {
+      "card_id": 34628,
+      "name": "Spheal",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "74/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 36.8,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 98
     },
     {
       "card_id": 23686,
@@ -27891,6 +28515,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 35442,
+      "name": "Team Aqua's Carvanha - 48/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "48/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.45,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 265
+    },
+    {
       "card_id": 18181,
       "name": "Hydreigon ex - 240/191",
       "set_id": 5500180,
@@ -28153,6 +28789,18 @@
       "market_price_usd": 35.19,
       "market_price_as_of": "2026-11-02",
       "total_listings": 106
+    },
+    {
+      "card_id": 35448,
+      "name": "Jigglypuff",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "41/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 35.18,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 64
     },
     {
       "card_id": 33547,
@@ -28803,6 +29451,18 @@
       "total_listings": 30
     },
     {
+      "card_id": 34617,
+      "name": "Staryu",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "75/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 34.32,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 300
+    },
+    {
       "card_id": 20442,
       "name": "Charizard ex - 228/197",
       "set_id": 5500138,
@@ -28959,6 +29619,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 34670,
+      "name": "Sunny Castform",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "26/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 34.04,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 49
+    },
+    {
       "card_id": 15037,
       "name": "Mew V (Full Art)",
       "set_id": 5500208,
@@ -29017,6 +29689,18 @@
       "market_price_usd": 33.99,
       "market_price_as_of": "2026-10-23",
       "total_listings": 1
+    },
+    {
+      "card_id": 34649,
+      "name": "Snow-cloud Castform",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "25/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 35
     },
     {
       "card_id": 6138,
@@ -29547,6 +30231,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 34638,
+      "name": "Gulpin",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "62/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.25,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 59
+    },
+    {
       "card_id": 4472,
       "name": "Eevee - 63/98 (Build-A-Bear Workshop Exclusive)",
       "set_id": 5500123,
@@ -29557,6 +30253,18 @@
       "market_price_usd": 33.25,
       "market_price_as_of": "2026-10-23",
       "total_listings": 48
+    },
+    {
+      "card_id": 35523,
+      "name": "Team Aqua's Cacturne",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "1/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 33.23,
+      "market_price_as_of": "2026-11-09",
+      "total_listings": 26
     },
     {
       "card_id": 27287,
@@ -29821,6 +30529,18 @@
       "market_price_usd": 32.88,
       "market_price_as_of": "2026-11-12",
       "total_listings": 71
+    },
+    {
+      "card_id": 35506,
+      "name": "Magma Energy",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "87/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.87,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 46
     },
     {
       "card_id": 33875,
@@ -30171,6 +30891,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 35494,
+      "name": "Team Magma's Rhydon - 22/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "22/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.52,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 30
+    },
+    {
       "card_id": 33526,
       "name": "Ludicolo - 019/107",
       "set_id": 5500233,
@@ -30325,6 +31057,18 @@
       "market_price_usd": 32.35,
       "market_price_as_of": "2026-10-26",
       "total_listings": 21
+    },
+    {
+      "card_id": 34642,
+      "name": "Swalot",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "50/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 32.29,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 49
     },
     {
       "card_id": 2119579,
@@ -30661,6 +31405,18 @@
       "market_price_usd": 31.78,
       "market_price_as_of": "2026-10-27",
       "total_listings": 6
+    },
+    {
+      "card_id": 34636,
+      "name": "Tropius",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "27/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 31.77,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 78
     },
     {
       "card_id": 1279,
@@ -31575,6 +32331,18 @@
       "total_listings": 115
     },
     {
+      "card_id": 35476,
+      "name": "Team Aqua's Corphish - 50/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "50/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.66,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 63
+    },
+    {
       "card_id": 6688,
       "name": "Tropius - 5/101 (National Championships)",
       "set_id": 5500087,
@@ -31933,6 +32701,18 @@
       "market_price_usd": 30.32,
       "market_price_as_of": "2026-11-06",
       "total_listings": 70
+    },
+    {
+      "card_id": 35480,
+      "name": "Team Magma's Mightyena - 37/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "37/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.32,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 35
     },
     {
       "card_id": 31257,
@@ -32305,6 +33085,30 @@
       "market_price_usd": 30.0,
       "market_price_as_of": "2026-11-12",
       "total_listings": 54
+    },
+    {
+      "card_id": 35450,
+      "name": "Meowth",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "42/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 37
+    },
+    {
+      "card_id": 35475,
+      "name": "Raichu",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "13/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 30.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 30
     },
     {
       "card_id": 36963,
@@ -33051,6 +33855,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 34622,
+      "name": "Whismur",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "82/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.39,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 117
+    },
+    {
       "card_id": 18061,
       "name": "Latios - 203/191",
       "set_id": 5500180,
@@ -33121,6 +33937,18 @@
       "market_price_usd": 29.29,
       "market_price_as_of": "2026-11-11",
       "total_listings": 122
+    },
+    {
+      "card_id": 35530,
+      "name": "Double Rainbow Energy",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "88/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.25,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 52
     },
     {
       "card_id": 27598,
@@ -33361,6 +34189,18 @@
       "market_price_usd": 29.08,
       "market_price_as_of": "2026-11-12",
       "total_listings": 32
+    },
+    {
+      "card_id": 34693,
+      "name": "Medicham - 10/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "10/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 29.08,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 44
     },
     {
       "card_id": 33185,
@@ -33915,6 +34755,18 @@
       "total_listings": 211
     },
     {
+      "card_id": 35441,
+      "name": "Team Magma's Houndour - 62/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "62/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.49,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 181
+    },
+    {
       "card_id": 130,
       "name": "Jirachi - 2005 (Curran Hill)",
       "set_id": 5500029,
@@ -34225,6 +35077,18 @@
       "market_price_usd": 28.2,
       "market_price_as_of": "2026-10-13",
       "total_listings": 255
+    },
+    {
+      "card_id": 34639,
+      "name": "Chinchou - 56/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "56/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.18,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 140
     },
     {
       "card_id": 20061,
@@ -34621,6 +35485,18 @@
       "market_price_usd": 27.74,
       "market_price_as_of": "2026-11-12",
       "total_listings": 153
+    },
+    {
+      "card_id": 34677,
+      "name": "Crobat",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "3/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.74,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 41
     },
     {
       "card_id": 16768,
@@ -35055,6 +35931,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 34644,
+      "name": "Castform",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "30/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.32,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 57
+    },
+    {
       "card_id": 17188,
       "name": "Tandemaus - 209/091",
       "set_id": 5500030,
@@ -35379,6 +36267,18 @@
       "total_listings": 94
     },
     {
+      "card_id": 34672,
+      "name": "Rhyhorn",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "70/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.06,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 163
+    },
+    {
       "card_id": 36216,
       "name": "Charmander",
       "set_id": 5500049,
@@ -35461,6 +36361,18 @@
       "market_price_usd": 27.0,
       "market_price_as_of": "2026-11-04",
       "total_listings": 59
+    },
+    {
+      "card_id": 35512,
+      "name": "Team Magma's Rhyhorn - 38/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "38/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 27.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 44
     },
     {
       "card_id": 4519,
@@ -35557,6 +36469,18 @@
       "market_price_usd": 26.87,
       "market_price_as_of": "2026-11-09",
       "total_listings": 70
+    },
+    {
+      "card_id": 34655,
+      "name": "Machoke",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "41/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.87,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 72
     },
     {
       "card_id": 34399,
@@ -35785,6 +36709,18 @@
       "market_price_usd": 26.67,
       "market_price_as_of": "2026-10-29",
       "total_listings": 122
+    },
+    {
+      "card_id": 35451,
+      "name": "Team Aqua's Sealeo - 31/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "31/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.67,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 148
     },
     {
       "card_id": 19819,
@@ -36159,6 +37095,18 @@
       "total_listings": 64
     },
     {
+      "card_id": 34635,
+      "name": "Relicanth",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "24/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.39,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 58
+    },
+    {
       "card_id": 5061,
       "name": "Shieldon (Japanese 11th Movie Commemoration Set)",
       "set_id": 5500123,
@@ -36205,6 +37153,18 @@
       "market_price_usd": 26.34,
       "market_price_as_of": "2026-10-11",
       "total_listings": 121
+    },
+    {
+      "card_id": 34656,
+      "name": "Chimecho",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "17/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.34,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 52
     },
     {
       "card_id": 22369,
@@ -36471,6 +37431,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 35467,
+      "name": "Team Magma's Rhyhorn - 67/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "67/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 26.07,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 98
+    },
+    {
       "card_id": 6492,
       "name": "Delibird - 38/149 (Pokemon League) [4th Place]",
       "set_id": 5500087,
@@ -36709,6 +37681,18 @@
       "market_price_usd": 25.8,
       "market_price_as_of": "2026-10-15",
       "total_listings": 130
+    },
+    {
+      "card_id": 34629,
+      "name": "Voltorb",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "80/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.8,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 144
     },
     {
       "card_id": 23003,
@@ -37047,6 +38031,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 35473,
+      "name": "Aqua Energy",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "86/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.55,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 43
+    },
+    {
       "card_id": 12713,
       "name": "Feraligatr - 20/123 (Cracked Ice Holo)",
       "set_id": 5500101,
@@ -37297,6 +38293,18 @@
       "market_price_usd": 25.36,
       "market_price_as_of": "2026-11-11",
       "total_listings": 227
+    },
+    {
+      "card_id": 34695,
+      "name": "Claydol - 2/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "2/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.35,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 56
     },
     {
       "card_id": 31277,
@@ -37659,6 +38667,18 @@
       "total_listings": 236
     },
     {
+      "card_id": 35449,
+      "name": "Team Aqua's Lanturn",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "28/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.06,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 167
+    },
+    {
       "card_id": 32025,
       "name": "Shellder",
       "set_id": 5500230,
@@ -37851,6 +38871,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 35489,
+      "name": "Team Aqua's Carvanha - 25/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "25/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 25.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 44
+    },
+    {
       "card_id": 35696,
       "name": "Primeape",
       "set_id": 5500167,
@@ -37969,6 +39001,18 @@
       "market_price_usd": 24.93,
       "market_price_as_of": "2026-11-07",
       "total_listings": 55
+    },
+    {
+      "card_id": 34650,
+      "name": "Gorebyss",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "18/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.92,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 68
     },
     {
       "card_id": 37830,
@@ -38293,6 +39337,18 @@
       "market_price_usd": 24.58,
       "market_price_as_of": "2026-11-02",
       "total_listings": 39
+    },
+    {
+      "card_id": 34664,
+      "name": "Rhydon",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "46/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.58,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 56
     },
     {
       "card_id": 12630,
@@ -38991,6 +40047,18 @@
       "total_listings": 114
     },
     {
+      "card_id": 34688,
+      "name": "Pinsir",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "13/101",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.01,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 42
+    },
+    {
       "card_id": 33198,
       "name": "Chimecho (Delta Species)",
       "set_id": 5500220,
@@ -39001,6 +40069,18 @@
       "market_price_usd": 24.0,
       "market_price_as_of": "2026-11-10",
       "total_listings": 65
+    },
+    {
+      "card_id": 35465,
+      "name": "Team Aqua's Spheal - 56/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "56/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 24.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 214
     },
     {
       "card_id": 6647,
@@ -39711,6 +40791,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 34630,
+      "name": "Shuppet",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "72/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 23.35,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 113
+    },
+    {
       "card_id": 31749,
       "name": "Treecko (78)",
       "set_id": 5500096,
@@ -39925,6 +41017,18 @@
       "market_price_usd": 23.17,
       "market_price_as_of": "2026-11-02",
       "total_listings": 49
+    },
+    {
+      "card_id": 34697,
+      "name": "Shiftry",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "14/101",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.17,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 67
     },
     {
       "card_id": 36102,
@@ -40335,6 +41439,18 @@
       "total_listings": 274
     },
     {
+      "card_id": 35440,
+      "name": "Team Magma's Aron - 58/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "58/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.89,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 243
+    },
+    {
       "card_id": 37702,
       "name": "Professor Juniper - 98/108 (2013)",
       "set_id": 5500026,
@@ -40491,6 +41607,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 34634,
+      "name": "Snorunt",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "73/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.72,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 139
+    },
+    {
       "card_id": 37461,
       "name": "Sylveon GX - 92a/145",
       "set_id": 5500060,
@@ -40549,6 +41677,18 @@
       "market_price_usd": 22.69,
       "market_price_as_of": "2026-10-27",
       "total_listings": 13
+    },
+    {
+      "card_id": 35505,
+      "name": "Team Magma's Camerupt",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "19/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.68,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 45
     },
     {
       "card_id": 30141,
@@ -40981,6 +42121,18 @@
       "market_price_usd": 22.28,
       "market_price_as_of": "2026-10-26",
       "total_listings": 25
+    },
+    {
+      "card_id": 34687,
+      "name": "Meditite - 66/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "66/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 22.28,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 144
     },
     {
       "card_id": 13756,
@@ -41437,6 +42589,30 @@
       "market_price_usd": 21.92,
       "market_price_as_of": "2026-10-09",
       "total_listings": 78
+    },
+    {
+      "card_id": 34613,
+      "name": "Clamperl",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "58/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.92,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 261
+    },
+    {
+      "card_id": 34701,
+      "name": "Tentacruel",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "51/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.91,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 120
     },
     {
       "card_id": 6733,
@@ -41943,6 +43119,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 35526,
+      "name": "Team Aqua's Mightyena - 15/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "15/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.48,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 34
+    },
+    {
       "card_id": 24847,
       "name": "Pheromosa GX (Full Art)",
       "set_id": 5500013,
@@ -42229,6 +43417,18 @@
       "market_price_usd": 21.24,
       "market_price_as_of": "2026-11-02",
       "total_listings": 36
+    },
+    {
+      "card_id": 35516,
+      "name": "Team Magma's Lairon - 20/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "20/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 21.21,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 38
     },
     {
       "card_id": 32584,
@@ -43275,6 +44475,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 34632,
+      "name": "Tentacool",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "77/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.6,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 330
+    },
+    {
       "card_id": 5789,
       "name": "Mewtwo ex - 058/182",
       "set_id": 5500194,
@@ -43911,6 +45123,18 @@
       "total_listings": 127
     },
     {
+      "card_id": 34668,
+      "name": "Zubat",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "83/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.21,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 112
+    },
+    {
       "card_id": 4566,
       "name": "Corviknight - 156/189 (Darkness Ablaze Stamped)",
       "set_id": 5500123,
@@ -44041,6 +45265,18 @@
       "market_price_usd": 20.16,
       "market_price_as_of": "2026-10-18",
       "total_listings": 188
+    },
+    {
+      "card_id": 35500,
+      "name": "Team Magma's Baltoy - 61/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "61/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 20.15,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 118
     },
     {
       "card_id": 37507,
@@ -44847,6 +46083,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 34678,
+      "name": "Sealeo",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "47/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.9,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 59
+    },
+    {
       "card_id": 34443,
       "name": "Empoleon",
       "set_id": 5500035,
@@ -44857,6 +46105,18 @@
       "market_price_usd": 19.89,
       "market_price_as_of": "2026-11-06",
       "total_listings": 63
+    },
+    {
+      "card_id": 34667,
+      "name": "Loudred",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "39/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.89,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 95
     },
     {
       "card_id": 36931,
@@ -45087,6 +46347,18 @@
       "total_listings": 92
     },
     {
+      "card_id": 35509,
+      "name": "Team Aqua's Sealeo - 16/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "16/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.75,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 46
+    },
+    {
       "card_id": 36198,
       "name": "Forretress (13)",
       "set_id": 5500137,
@@ -45241,6 +46513,18 @@
       "market_price_usd": 19.7,
       "market_price_as_of": "2026-10-31",
       "total_listings": 16
+    },
+    {
+      "card_id": 35488,
+      "name": "Team Aqua's Manectric - 29/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "29/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.7,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 58
     },
     {
       "card_id": 12904,
@@ -45903,6 +47187,18 @@
       "total_listings": 126
     },
     {
+      "card_id": 35447,
+      "name": "Team Aqua's Poochyena - 54/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "54/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.33,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 197
+    },
+    {
       "card_id": 25092,
       "name": "Solgaleo GX (Secret)",
       "set_id": 5500018,
@@ -46105,6 +47401,18 @@
       "market_price_usd": 19.23,
       "market_price_as_of": "2026-11-10",
       "total_listings": 85
+    },
+    {
+      "card_id": 35455,
+      "name": "Warp Point",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "85/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 19.23,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 67
     },
     {
       "card_id": 2155076,
@@ -47019,6 +48327,18 @@
       "total_listings": 403
     },
     {
+      "card_id": 35462,
+      "name": "Team Aqua's Walrein",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "6/95",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.63,
+      "market_price_as_of": "2026-11-13",
+      "total_listings": 36
+    },
+    {
       "card_id": 36919,
       "name": "Cresselia - DP51",
       "set_id": 5500116,
@@ -47113,6 +48433,18 @@
       "market_price_usd": 18.56,
       "market_price_as_of": "2026-10-09",
       "total_listings": 87
+    },
+    {
+      "card_id": 35499,
+      "name": "Team Aqua's Corphish - 26/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "26/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.56,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 38
     },
     {
       "card_id": 36896,
@@ -47331,6 +48663,18 @@
       "total_listings": 73
     },
     {
+      "card_id": 35474,
+      "name": "Team Aqua's Electrike - 52/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "52/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.49,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 104
+    },
+    {
       "card_id": 15793,
       "name": "Fletchinder - 199/193",
       "set_id": 5500150,
@@ -47439,6 +48783,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 34631,
+      "name": "Meditite - 65/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "65/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.43,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 382
+    },
+    {
       "card_id": 19990,
       "name": "Darkrai - XY22",
       "set_id": 5500177,
@@ -47497,6 +48853,18 @@
       "market_price_usd": 18.39,
       "market_price_as_of": "2026-10-10",
       "total_listings": 161
+    },
+    {
+      "card_id": 34660,
+      "name": "Metang - 21/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "21/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.38,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 81
     },
     {
       "card_id": 19970,
@@ -47617,6 +48985,18 @@
       "market_price_usd": 18.33,
       "market_price_as_of": "2026-11-11",
       "total_listings": 123
+    },
+    {
+      "card_id": 34624,
+      "name": "Luvdisc",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "40/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.33,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 44
     },
     {
       "card_id": 853,
@@ -48111,6 +49491,18 @@
       "total_listings": 112
     },
     {
+      "card_id": 35457,
+      "name": "Team Magma Ball",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "80/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 18.02,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 134
+    },
+    {
       "card_id": 13662,
       "name": "Cubchoo - 109/086",
       "set_id": 5500093,
@@ -48325,6 +49717,18 @@
       "market_price_usd": 17.94,
       "market_price_as_of": "2026-10-13",
       "total_listings": 333
+    },
+    {
+      "card_id": 34652,
+      "name": "Machop",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "64/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.94,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 115
     },
     {
       "card_id": 6222,
@@ -48613,6 +50017,18 @@
       "market_price_usd": 17.77,
       "market_price_as_of": "2026-10-28",
       "total_listings": 13
+    },
+    {
+      "card_id": 34648,
+      "name": "Beldum - 54/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "54/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.77,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 395
     },
     {
       "card_id": 31770,
@@ -49155,6 +50571,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 34640,
+      "name": "Metang - 43/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "43/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.5,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 172
+    },
+    {
       "card_id": 34788,
       "name": "Kricketune",
       "set_id": 5500078,
@@ -49333,6 +50761,18 @@
       "market_price_usd": 17.41,
       "market_price_as_of": "2026-10-14",
       "total_listings": 211
+    },
+    {
+      "card_id": 35453,
+      "name": "Team Magma's Aron - 59/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "59/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 17.41,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 84
     },
     {
       "card_id": 14162,
@@ -51159,6 +52599,18 @@
       "total_listings": 333
     },
     {
+      "card_id": 34614,
+      "name": "Seedot",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "71/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 16.53,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 340
+    },
+    {
       "card_id": 37708,
       "name": "Fire Energy (2024)",
       "set_id": 5500026,
@@ -52525,6 +53977,18 @@
       "market_price_usd": 15.83,
       "market_price_as_of": "2026-11-06",
       "total_listings": 52
+    },
+    {
+      "card_id": 35508,
+      "name": "Team Aqua's Carvanha - 47/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "47/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 15.83,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 95
     },
     {
       "card_id": 14662,
@@ -55095,6 +56559,18 @@
       "total_listings": 73
     },
     {
+      "card_id": 35469,
+      "name": "Team Aqua's Mightyena - 30/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "30/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.82,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 142
+    },
+    {
       "card_id": 32467,
       "name": "Sewaddle (9)",
       "set_id": 5500207,
@@ -56079,6 +57555,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 35502,
+      "name": "Team Aqua's Seviper",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "17/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.42,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 44
+    },
+    {
       "card_id": 16701,
       "name": "Flygon GX (Full Art)",
       "set_id": 5500206,
@@ -56233,6 +57721,18 @@
       "market_price_usd": 14.36,
       "market_price_as_of": "2026-10-22",
       "total_listings": 207
+    },
+    {
+      "card_id": 34626,
+      "name": "Surskit",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "76/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.36,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 264
     },
     {
       "card_id": 1939,
@@ -56655,6 +58155,18 @@
       "total_listings": 94
     },
     {
+      "card_id": 35497,
+      "name": "Team Aqua's Electrike - 53/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "53/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.18,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 95
+    },
+    {
       "card_id": 31328,
       "name": "Cleffa",
       "set_id": 5500037,
@@ -56665,6 +58177,18 @@
       "market_price_usd": 14.17,
       "market_price_as_of": "2026-11-05",
       "total_listings": 31
+    },
+    {
+      "card_id": 34608,
+      "name": "Steven's Advice",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "92/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.17,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 144
     },
     {
       "card_id": 34834,
@@ -56907,6 +58431,18 @@
       "total_listings": 44
     },
     {
+      "card_id": 35484,
+      "name": "Team Magma's Mightyena - 21/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "21/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.08,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 32
+    },
+    {
       "card_id": 6094,
       "name": "Whimsicott V - 064/172",
       "set_id": 5500194,
@@ -56965,6 +58501,18 @@
       "market_price_usd": 14.06,
       "market_price_as_of": "2026-11-06",
       "total_listings": 55
+    },
+    {
+      "card_id": 34690,
+      "name": "Claydol - 31/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "31/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 14.06,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 88
     },
     {
       "card_id": 37759,
@@ -57445,6 +58993,30 @@
       "market_price_usd": 13.87,
       "market_price_as_of": "2026-11-03",
       "total_listings": 14
+    },
+    {
+      "card_id": 34657,
+      "name": "Beldum - 28/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "28/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.85,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 73
+    },
+    {
+      "card_id": 35496,
+      "name": "Team Aqua's Cacnea - 24/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "24/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.85,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 36
     },
     {
       "card_id": 14509,
@@ -58971,6 +60543,18 @@
       "total_listings": 82
     },
     {
+      "card_id": 35492,
+      "name": "Team Aqua's Poochyena - 55/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "55/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.16,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 78
+    },
+    {
       "card_id": 37896,
       "name": "Team Aqua Admin",
       "set_id": 5500187,
@@ -59017,6 +60601,18 @@
       "market_price_usd": 13.14,
       "market_price_as_of": "2026-11-10",
       "total_listings": 147
+    },
+    {
+      "card_id": 35458,
+      "name": "Team Magma Conspirator",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "82/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 13.14,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 144
     },
     {
       "card_id": 33569,
@@ -59715,6 +61311,18 @@
       "total_listings": 514
     },
     {
+      "card_id": 34627,
+      "name": "Ancient Tomb",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "87/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.91,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 58
+    },
+    {
       "card_id": 35219,
       "name": "Scyther",
       "set_id": 5500053,
@@ -59977,6 +61585,18 @@
       "market_price_usd": 12.8,
       "market_price_as_of": "2026-11-02",
       "total_listings": 63
+    },
+    {
+      "card_id": 34651,
+      "name": "Metang - 44/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "44/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.8,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 58
     },
     {
       "card_id": 38115,
@@ -60459,6 +62079,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 34673,
+      "name": "Masquerain",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "20/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.62,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 63
+    },
+    {
       "card_id": 21948,
       "name": "Pikachu VMAX",
       "set_id": 5500178,
@@ -60543,6 +62175,18 @@
       "total_listings": 71
     },
     {
+      "card_id": 34661,
+      "name": "Huntail",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "19/101",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.58,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 127
+    },
+    {
       "card_id": 511,
       "name": "Hawlucha - 2024 (Evan Pavelski)",
       "set_id": 5500029,
@@ -60625,6 +62269,30 @@
       "market_price_usd": 12.56,
       "market_price_as_of": "2026-10-15",
       "total_listings": 7
+    },
+    {
+      "card_id": 35452,
+      "name": "Team Aqua Hideout",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "78/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.55,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 68
+    },
+    {
+      "card_id": 35503,
+      "name": "Team Aqua's Electrike - 27/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "27/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.54,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 51
     },
     {
       "card_id": 16920,
@@ -61213,6 +62881,18 @@
       "market_price_usd": 12.37,
       "market_price_as_of": "2026-10-30",
       "total_listings": 308
+    },
+    {
+      "card_id": 34653,
+      "name": "Golbat",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "36/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 12.37,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 63
     },
     {
       "card_id": 34796,
@@ -63111,6 +64791,18 @@
       "total_listings": 64
     },
     {
+      "card_id": 34620,
+      "name": "Doduo",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "60/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.77,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 336
+    },
+    {
       "card_id": 35270,
       "name": "Warp Point",
       "set_id": 5500227,
@@ -63231,6 +64923,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 34659,
+      "name": "Glalie",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "34/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.72,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 78
+    },
+    {
       "card_id": 6927,
       "name": "Erika's Tangela - 218/217",
       "set_id": 5500112,
@@ -63325,6 +65029,18 @@
       "market_price_usd": 11.7,
       "market_price_as_of": "2026-11-01",
       "total_listings": 48
+    },
+    {
+      "card_id": 35482,
+      "name": "Team Magma's Poochyena - 65/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "65/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.7,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 77
     },
     {
       "card_id": 37638,
@@ -64479,6 +66195,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 35443,
+      "name": "Team Magma's Baltoy - 60/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "60/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.34,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 317
+    },
+    {
       "card_id": 770,
       "name": "Lucario GL - 2010 (Yuta Komatsuda)",
       "set_id": 5500029,
@@ -64887,6 +66615,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 34680,
+      "name": "Medicham - 42/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "42/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.19,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 148
+    },
+    {
       "card_id": 34816,
       "name": "Spiritomb",
       "set_id": 5500078,
@@ -64947,6 +66687,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 35472,
+      "name": "Team Magma's Lairon - 36/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "36/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.17,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 148
+    },
+    {
       "card_id": 29152,
       "name": "Shaymin (38)",
       "set_id": 5500008,
@@ -65005,6 +66757,18 @@
       "market_price_usd": 11.13,
       "market_price_as_of": "2026-11-04",
       "total_listings": 109
+    },
+    {
+      "card_id": 34669,
+      "name": "Chinchou - 57/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "57/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.13,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 150
     },
     {
       "card_id": 35543,
@@ -65367,6 +67131,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 35466,
+      "name": "Team Magma Hideout",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "83/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 11.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 119
+    },
+    {
       "card_id": 6611,
       "name": "Solrock - 64/146 (Pokemon League) [4th Place]",
       "set_id": 5500087,
@@ -65499,6 +67275,18 @@
       "total_listings": 137
     },
     {
+      "card_id": 34681,
+      "name": "Beldum - 29/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "29/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.97,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 53
+    },
+    {
       "card_id": 38821,
       "name": "Swirlix - 9/12",
       "set_id": 5500200,
@@ -65581,6 +67369,18 @@
       "market_price_usd": 10.93,
       "market_price_as_of": "2026-10-26",
       "total_listings": 96
+    },
+    {
+      "card_id": 34662,
+      "name": "Dodrio",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "33/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.93,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 168
     },
     {
       "card_id": 818,
@@ -66339,6 +68139,30 @@
       "total_listings": 40
     },
     {
+      "card_id": 34654,
+      "name": "Nuzleaf",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "45/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.71,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 88
+    },
+    {
+      "card_id": 35481,
+      "name": "Team Magma's Numel",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "64/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.71,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 65
+    },
+    {
       "card_id": 22044,
       "name": "Nessa (Secret)",
       "set_id": 5500178,
@@ -67057,6 +68881,18 @@
       "market_price_usd": 10.5,
       "market_price_as_of": "2026-11-07",
       "total_listings": 218
+    },
+    {
+      "card_id": 35485,
+      "name": "Maxie",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "73/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.5,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 41
     },
     {
       "card_id": 928,
@@ -68785,6 +70621,18 @@
       "market_price_usd": 10.0,
       "market_price_as_of": "2026-11-08",
       "total_listings": 96
+    },
+    {
+      "card_id": 35446,
+      "name": "Team Magma's Rhyhorn - 68/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "68/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 268
     },
     {
       "card_id": 6279,
@@ -70959,6 +72807,18 @@
       "total_listings": 130
     },
     {
+      "card_id": 34658,
+      "name": "Baltoy - 52/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "52/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.49,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 204
+    },
+    {
       "card_id": 34991,
       "name": "Monferno",
       "set_id": 5500174,
@@ -71497,6 +73357,18 @@
       "market_price_usd": 9.35,
       "market_price_as_of": "2026-11-12",
       "total_listings": 35
+    },
+    {
+      "card_id": 34676,
+      "name": "Desert Ruins",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "88/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.35,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 70
     },
     {
       "card_id": 24985,
@@ -72051,6 +73923,18 @@
       "total_listings": 72
     },
     {
+      "card_id": 35470,
+      "name": "Dual Ball",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "72/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.19,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 62
+    },
+    {
       "card_id": 15398,
       "name": "Buzzwole GX - SM69 (SM Black Star Promos)",
       "set_id": 5500069,
@@ -72541,6 +74425,18 @@
       "market_price_usd": 9.07,
       "market_price_as_of": "2026-11-03",
       "total_listings": 44
+    },
+    {
+      "card_id": 35495,
+      "name": "Team Aqua's Crawdaunt - 14/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "14/95",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 9.07,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 49
     },
     {
       "card_id": 38255,
@@ -77415,6 +79311,18 @@
       "total_listings": 107
     },
     {
+      "card_id": 35507,
+      "name": "Team Magma Technical Machine 01",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "84/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 8.0,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 53
+    },
+    {
       "card_id": 35698,
       "name": "Fearow",
       "set_id": 5500167,
@@ -77569,6 +79477,18 @@
       "market_price_usd": 7.99,
       "market_price_as_of": "2026-11-08",
       "total_listings": 113
+    },
+    {
+      "card_id": 35468,
+      "name": "Team Aqua Ball",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "75/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 141
     },
     {
       "card_id": 36983,
@@ -78553,6 +80473,18 @@
       "market_price_usd": 7.77,
       "market_price_as_of": "2026-10-14",
       "total_listings": 217
+    },
+    {
+      "card_id": 35479,
+      "name": "Team Magma's Baltoy - 32/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "32/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.77,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 65
     },
     {
       "card_id": 38803,
@@ -79897,6 +81829,18 @@
       "market_price_usd": 7.48,
       "market_price_as_of": "2026-11-10",
       "total_listings": 93
+    },
+    {
+      "card_id": 35517,
+      "name": "Team Aqua Belt",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "76/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 7.48,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 69
     },
     {
       "card_id": 50,
@@ -82359,6 +84303,30 @@
       "total_listings": 244
     },
     {
+      "card_id": 34686,
+      "name": "Baltoy - 53/101",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "53/101",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 165
+    },
+    {
+      "card_id": 35524,
+      "name": "Archie",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "71/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.99,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 44
+    },
+    {
       "card_id": 1777,
       "name": "Computer Search - 2013 (Jason Klaczynski)",
       "set_id": 5500029,
@@ -83437,6 +85405,18 @@
       "market_price_usd": 6.78,
       "market_price_as_of": "2026-10-25",
       "total_listings": 105
+    },
+    {
+      "card_id": 35456,
+      "name": "Team Magma Schemer",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "70/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.78,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 223
     },
     {
       "card_id": 36149,
@@ -85011,6 +86991,18 @@
       "total_listings": 121
     },
     {
+      "card_id": 35454,
+      "name": "Team Aqua Schemer",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "69/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.52,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 236
+    },
+    {
       "card_id": 15691,
       "name": "Chien-Pao ex - 274/193",
       "set_id": 5500150,
@@ -85921,6 +87913,18 @@
       "market_price_usd": 6.36,
       "market_price_as_of": "2026-11-10",
       "total_listings": 112
+    },
+    {
+      "card_id": 35522,
+      "name": "Strength Charm",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "74/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.36,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 68
     },
     {
       "card_id": 36969,
@@ -87517,6 +89521,18 @@
       "market_price_usd": 6.12,
       "market_price_as_of": "2026-11-02",
       "total_listings": 103
+    },
+    {
+      "card_id": 35518,
+      "name": "Team Aqua Technical Machine 01",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "79/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 6.12,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 76
     },
     {
       "card_id": 35579,
@@ -89703,6 +91719,18 @@
       "total_listings": 169
     },
     {
+      "card_id": 35460,
+      "name": "Team Aqua Conspirator",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "77/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.81,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 161
+    },
+    {
       "card_id": 37869,
       "name": "Team Aqua's Walrein",
       "set_id": 5500187,
@@ -91597,6 +93625,18 @@
       "market_price_usd": 5.58,
       "market_price_as_of": "2026-11-01",
       "total_listings": 158
+    },
+    {
+      "card_id": 35493,
+      "name": "Team Magma's Claydol - 33/95",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "33/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.58,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 189
     },
     {
       "card_id": 12879,
@@ -93843,6 +95883,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 35461,
+      "name": "Team Aqua's Chinchou",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "49/95",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.31,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 274
+    },
+    {
       "card_id": 4098,
       "name": "Latias ex (Surging Sparks)",
       "set_id": 5500123,
@@ -94873,6 +96925,30 @@
       "market_price_usd": 5.17,
       "market_price_as_of": "2026-11-08",
       "total_listings": 261
+    },
+    {
+      "card_id": 34666,
+      "name": "Ancient Technical Machine [Rock]",
+      "set_id": 5500231,
+      "set_name": "EX Hidden Legends",
+      "number": "85/101",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.17,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 75
+    },
+    {
+      "card_id": 35486,
+      "name": "Team Magma Belt",
+      "set_id": 5500225,
+      "set_name": "EX Team Magma vs Team Aqua",
+      "number": "81/95",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.17,
+      "market_price_as_of": "2026-11-14",
+      "total_listings": 69
     },
     {
       "card_id": 5835,
