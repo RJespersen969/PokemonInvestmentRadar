@@ -356049,6 +356049,2792 @@
           "market_price_as_of": "2026-11-14"
         }
       ]
+    },
+    "35415:Holofoil": {
+      "card_id": 35415,
+      "name": "Absol",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 169.99,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35425:Holofoil": {
+      "card_id": 35425,
+      "name": "Salamence - 10/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 449.99,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35426:Holofoil": {
+      "card_id": 35426,
+      "name": "Charizard",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 1499.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35393:Holofoil": {
+      "card_id": 35393,
+      "name": "Shedinja",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 71.14,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35407:Holofoil": {
+      "card_id": 35407,
+      "name": "Torkoal",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 91.94,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35378:Reverse Holofoil": {
+      "card_id": 35378,
+      "name": "Crawdaunt - 13/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 10.46,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35364:Reverse Holofoil": {
+      "card_id": 35364,
+      "name": "Dragonair - 14/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 63.75,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35346:Reverse Holofoil": {
+      "card_id": 35346,
+      "name": "Flygon - 15/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 30.63,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35370:Reverse Holofoil": {
+      "card_id": 35370,
+      "name": "Girafarig",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 8.45,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35361:Reverse Holofoil": {
+      "card_id": 35361,
+      "name": "Magneton - 17/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 39.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35385:Reverse Holofoil": {
+      "card_id": 35385,
+      "name": "Ninjask - 18/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 19.82,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35343:Reverse Holofoil": {
+      "card_id": 35343,
+      "name": "Salamence - 19/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 36.95,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35414:Holofoil": {
+      "card_id": 35414,
+      "name": "Altaria",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 70.42,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35403:Reverse Holofoil": {
+      "card_id": 35403,
+      "name": "Shelgon - 20/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 14.49,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35365:Reverse Holofoil": {
+      "card_id": 35365,
+      "name": "Skarmory",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 51.02,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35394:Reverse Holofoil": {
+      "card_id": 35394,
+      "name": "Vibrava - 22/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 19.16,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35412:Reverse Holofoil": {
+      "card_id": 35412,
+      "name": "Bagon - 23/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 21.66,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35363:Reverse Holofoil": {
+      "card_id": 35363,
+      "name": "Camerupt",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.81,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35401:Reverse Holofoil": {
+      "card_id": 35401,
+      "name": "Combusken",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 10.77,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35409:Reverse Holofoil": {
+      "card_id": 35409,
+      "name": "Flaaffy",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 20.69,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35417:Reverse Holofoil": {
+      "card_id": 35417,
+      "name": "Forretress",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 20.0,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35392:Reverse Holofoil": {
+      "card_id": 35392,
+      "name": "Graveler - 29/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 12.2,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35342:Reverse Holofoil": {
+      "card_id": 35342,
+      "name": "Crawdaunt - 3/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 12.73,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35424:Reverse Holofoil": {
+      "card_id": 35424,
+      "name": "Graveler - 30/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 13.93,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35400:Reverse Holofoil": {
+      "card_id": 35400,
+      "name": "Grovyle",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 28.13,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35357:Reverse Holofoil": {
+      "card_id": 35357,
+      "name": "Gyarados",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 140.0,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35391:Reverse Holofoil": {
+      "card_id": 35391,
+      "name": "Horsea - 33/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 15.23,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35371:Reverse Holofoil": {
+      "card_id": 35371,
+      "name": "Houndoom",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 87.07,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35383:Reverse Holofoil": {
+      "card_id": 35383,
+      "name": "Magneton - 35/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 28.53,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35405:Reverse Holofoil": {
+      "card_id": 35405,
+      "name": "Marshtomp",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 62.04,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35398:Reverse Holofoil": {
+      "card_id": 35398,
+      "name": "Meditite",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35395:Reverse Holofoil": {
+      "card_id": 35395,
+      "name": "Ninjask - 38/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.52,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35376:Reverse Holofoil": {
+      "card_id": 35376,
+      "name": "Seadra - 39/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 22.86,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35423:Holofoil": {
+      "card_id": 35423,
+      "name": "Flygon - 4/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 73.23,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35348:Reverse Holofoil": {
+      "card_id": 35348,
+      "name": "Seadra - 40/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 13.4,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35350:Reverse Holofoil": {
+      "card_id": 35350,
+      "name": "Shelgon - 41/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 43.41,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35399:Reverse Holofoil": {
+      "card_id": 35399,
+      "name": "Shelgon - 42/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.64,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35386:Reverse Holofoil": {
+      "card_id": 35386,
+      "name": "Shuppet",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 79.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35402:Reverse Holofoil": {
+      "card_id": 35402,
+      "name": "Snorunt",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 28.12,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35427:Reverse Holofoil": {
+      "card_id": 35427,
+      "name": "Swellow",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 16.62,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35413:Reverse Holofoil": {
+      "card_id": 35413,
+      "name": "Vibrava - 46/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 24.6,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35373:Reverse Holofoil": {
+      "card_id": 35373,
+      "name": "Vibrava - 47/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 12.32,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35379:Reverse Holofoil": {
+      "card_id": 35379,
+      "name": "Whiscash",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 21.82,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35359:Reverse Holofoil": {
+      "card_id": 35359,
+      "name": "Bagon - 49/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 14.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35429:Holofoil": {
+      "card_id": 35429,
+      "name": "Golem",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 55.66,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35384:Reverse Holofoil": {
+      "card_id": 35384,
+      "name": "Bagon - 50/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 17.6,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35358:Reverse Holofoil": {
+      "card_id": 35358,
+      "name": "Barboach",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 10.65,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35347:Reverse Holofoil": {
+      "card_id": 35347,
+      "name": "Corphish - 52/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 14.26,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35420:Reverse Holofoil": {
+      "card_id": 35420,
+      "name": "Corphish - 53/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.49,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35349:Reverse Holofoil": {
+      "card_id": 35349,
+      "name": "Corphish - 54/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 46.76,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35345:Reverse Holofoil": {
+      "card_id": 35345,
+      "name": "Geodude - 55/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.42,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35382:Reverse Holofoil": {
+      "card_id": 35382,
+      "name": "Geodude - 56/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 8.0,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35339:Reverse Holofoil": {
+      "card_id": 35339,
+      "name": "Grimer",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 45.17,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35337:Reverse Holofoil": {
+      "card_id": 35337,
+      "name": "Horsea - 58/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 30.33,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35372:Reverse Holofoil": {
+      "card_id": 35372,
+      "name": "Houndour",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 19.27,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35431:Holofoil": {
+      "card_id": 35431,
+      "name": "Grumpig",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 18.34,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35354:Reverse Holofoil": {
+      "card_id": 35354,
+      "name": "Magikarp",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 74.26,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35344:Reverse Holofoil": {
+      "card_id": 35344,
+      "name": "Magnemite - 61/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 40.0,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35367:Reverse Holofoil": {
+      "card_id": 35367,
+      "name": "Magnemite - 62/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 13.22,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35396:Reverse Holofoil": {
+      "card_id": 35396,
+      "name": "Magnemite - 63/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 19.78,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35353:Reverse Holofoil": {
+      "card_id": 35353,
+      "name": "Mareep",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 24.33,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35360:Reverse Holofoil": {
+      "card_id": 35360,
+      "name": "Mudkip",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 75.0,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35355:Reverse Holofoil": {
+      "card_id": 35355,
+      "name": "Nincada - 66/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 4.75,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35380:Reverse Holofoil": {
+      "card_id": 35380,
+      "name": "Nincada - 67/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 6.68,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35419:Reverse Holofoil": {
+      "card_id": 35419,
+      "name": "Nincada - 68/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.34,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35340:Reverse Holofoil": {
+      "card_id": 35340,
+      "name": "Numel - 69/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 13.09,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35410:Holofoil": {
+      "card_id": 35410,
+      "name": "Minun",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 99.05,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35390:Reverse Holofoil": {
+      "card_id": 35390,
+      "name": "Numel",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 32.49,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35369:Reverse Holofoil": {
+      "card_id": 35369,
+      "name": "Pineco",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 6.32,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35341:Reverse Holofoil": {
+      "card_id": 35341,
+      "name": "Slugma",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 15.06,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35351:Reverse Holofoil": {
+      "card_id": 35351,
+      "name": "Spoink - 73/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 11.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35375:Reverse Holofoil": {
+      "card_id": 35375,
+      "name": "Spoink - 74/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 12.18,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35366:Reverse Holofoil": {
+      "card_id": 35366,
+      "name": "Swablu",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 16.3,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35362:Reverse Holofoil": {
+      "card_id": 35362,
+      "name": "Taillow",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 12.97,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35387:Reverse Holofoil": {
+      "card_id": 35387,
+      "name": "Torchic",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 52.64,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35338:Reverse Holofoil": {
+      "card_id": 35338,
+      "name": "Trapinch - 78/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 33.13,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35389:Reverse Holofoil": {
+      "card_id": 35389,
+      "name": "Trapinch - 79/97",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 11.83,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35404:Holofoil": {
+      "card_id": 35404,
+      "name": "Plusle",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 101.92,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35421:Reverse Holofoil": {
+      "card_id": 35421,
+      "name": "Treecko",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 42.12,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35374:Reverse Holofoil": {
+      "card_id": 35374,
+      "name": "Wurmple",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 7.11,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35397:Reverse Holofoil": {
+      "card_id": 35397,
+      "name": "Balloon Berry",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 3.49,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35430:Reverse Holofoil": {
+      "card_id": 35430,
+      "name": "Buffer Piece",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 3.23,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35368:Reverse Holofoil": {
+      "card_id": 35368,
+      "name": "Energy Recycle System",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 3.31,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35408:Reverse Holofoil": {
+      "card_id": 35408,
+      "name": "High Pressure System",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 2.7,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35416:Reverse Holofoil": {
+      "card_id": 35416,
+      "name": "Low Pressure System",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 4.44,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35381:Reverse Holofoil": {
+      "card_id": 35381,
+      "name": "Mr. Briney's Compassion",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35356:Reverse Holofoil": {
+      "card_id": 35356,
+      "name": "TV Reporter",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 12.5,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35428:Holofoil": {
+      "card_id": 35428,
+      "name": "Ampharos ex",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 259.57,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35352:Reverse Holofoil": {
+      "card_id": 35352,
+      "name": "Roselia",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 29.75,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35422:Holofoil": {
+      "card_id": 35422,
+      "name": "Dragonite ex",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 233.2,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35388:Holofoil": {
+      "card_id": 35388,
+      "name": "Golem ex",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 80.35,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35411:Holofoil": {
+      "card_id": 35411,
+      "name": "Kingdra ex",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 82.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35406:Holofoil": {
+      "card_id": 35406,
+      "name": "Latias ex",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 226.31,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35432:Holofoil": {
+      "card_id": 35432,
+      "name": "Latios ex",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 273.06,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35433:Holofoil": {
+      "card_id": 35433,
+      "name": "Magcargo ex",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 92.95,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35434:Holofoil": {
+      "card_id": 35434,
+      "name": "Muk ex",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 129.81,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35418:Holofoil": {
+      "card_id": 35418,
+      "name": "Rayquaza ex",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 616.44,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35435:Holofoil": {
+      "card_id": 35435,
+      "name": "Charmander",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 330.76,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35436:Holofoil": {
+      "card_id": 35436,
+      "name": "Charmeleon",
+      "set_id": 5500224,
+      "set_name": "EX Dragon",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 132.55,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35078:Holofoil": {
+      "card_id": 35078,
+      "name": "Armaldo",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 27.73,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35116:Holofoil": {
+      "card_id": 35116,
+      "name": "Sableye",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 159.0,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35124:Holofoil": {
+      "card_id": 35124,
+      "name": "Wailord ex",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 148.96,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35111:Holofoil": {
+      "card_id": 35111,
+      "name": "Seviper",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 31.54,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35109:Holofoil": {
+      "card_id": 35109,
+      "name": "Shiftry - 12/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 35.0,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35102:Holofoil": {
+      "card_id": 35102,
+      "name": "Solrock",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 35.02,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35125:Reverse Holofoil": {
+      "card_id": 35125,
+      "name": "Zangoose",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 47.0,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35039:Reverse Holofoil": {
+      "card_id": 35039,
+      "name": "Arcanine",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 210.84,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35043:Reverse Holofoil": {
+      "card_id": 35043,
+      "name": "Espeon",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 85.02,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35067:Reverse Holofoil": {
+      "card_id": 35067,
+      "name": "Golduck",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 48.2,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35062:Reverse Holofoil": {
+      "card_id": 35062,
+      "name": "Kecleon",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 36.96,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35095:Reverse Holofoil": {
+      "card_id": 35095,
+      "name": "Omastar",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 13.64,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35117:Holofoil": {
+      "card_id": 35117,
+      "name": "Cacturne",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 36.74,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35058:Reverse Holofoil": {
+      "card_id": 35058,
+      "name": "Pichu",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 66.79,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35112:Reverse Holofoil": {
+      "card_id": 35112,
+      "name": "Sandslash",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 19.14,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35089:Reverse Holofoil": {
+      "card_id": 35089,
+      "name": "Shiftry - 22/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 7.96,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35088:Reverse Holofoil": {
+      "card_id": 35088,
+      "name": "Steelix",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 41.63,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35041:Reverse Holofoil": {
+      "card_id": 35041,
+      "name": "Umbreon",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 197.19,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35084:Reverse Holofoil": {
+      "card_id": 35084,
+      "name": "Vaporeon",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 126.64,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35044:Reverse Holofoil": {
+      "card_id": 35044,
+      "name": "Wobbuffet",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 43.7,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35093:Reverse Holofoil": {
+      "card_id": 35093,
+      "name": "Anorith - 27/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 15.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35091:Reverse Holofoil": {
+      "card_id": 35091,
+      "name": "Anorith - 28/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 7.49,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35079:Reverse Holofoil": {
+      "card_id": 35079,
+      "name": "Arbok",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 17.6,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35100:Holofoil": {
+      "card_id": 35100,
+      "name": "Cradily",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 13.55,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35085:Reverse Holofoil": {
+      "card_id": 35085,
+      "name": "Azumarill",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 31.31,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35034:Reverse Holofoil": {
+      "card_id": 35034,
+      "name": "Azurill",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 37.8,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35077:Reverse Holofoil": {
+      "card_id": 35077,
+      "name": "Baltoy",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 11.43,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35075:Reverse Holofoil": {
+      "card_id": 35075,
+      "name": "Breloom",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 32.72,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35107:Reverse Holofoil": {
+      "card_id": 35107,
+      "name": "Delcatty",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 18.77,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35083:Reverse Holofoil": {
+      "card_id": 35083,
+      "name": "Electabuzz",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 16.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35053:Reverse Holofoil": {
+      "card_id": 35053,
+      "name": "Elekid",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 35.23,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35127:Reverse Holofoil": {
+      "card_id": 35127,
+      "name": "Fearow",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 30.49,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35103:Reverse Holofoil": {
+      "card_id": 35103,
+      "name": "Illumise",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 8.63,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35081:Reverse Holofoil": {
+      "card_id": 35081,
+      "name": "Kabuto",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 45.9,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35120:Holofoil": {
+      "card_id": 35120,
+      "name": "Dusclops",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 41.5,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35086:Reverse Holofoil": {
+      "card_id": 35086,
+      "name": "Kirlia",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 25.49,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35106:Reverse Holofoil": {
+      "card_id": 35106,
+      "name": "Lairon",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.32,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35065:Reverse Holofoil": {
+      "card_id": 35065,
+      "name": "Lileep - 42/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 21.72,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35073:Reverse Holofoil": {
+      "card_id": 35073,
+      "name": "Lileep - 43/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 14.94,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35123:Reverse Holofoil": {
+      "card_id": 35123,
+      "name": "Linoone",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 15.04,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35063:Reverse Holofoil": {
+      "card_id": 35063,
+      "name": "Lombre - 45/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 39.01,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35114:Reverse Holofoil": {
+      "card_id": 35114,
+      "name": "Lombre - 46/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 9.27,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35061:Reverse Holofoil": {
+      "card_id": 35061,
+      "name": "Murkrow",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 20.07,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35090:Reverse Holofoil": {
+      "card_id": 35090,
+      "name": "Nuzleaf - 48/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 12.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35115:Reverse Holofoil": {
+      "card_id": 35115,
+      "name": "Nuzleaf - 49/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 6.91,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35122:Holofoil": {
+      "card_id": 35122,
+      "name": "Flareon",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 169.67,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35113:Reverse Holofoil": {
+      "card_id": 35113,
+      "name": "Pelipper",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 7.4,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35038:Reverse Holofoil": {
+      "card_id": 35038,
+      "name": "Quilava",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 38.33,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35104:Reverse Holofoil": {
+      "card_id": 35104,
+      "name": "Vigoroth",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 8.5,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35087:Reverse Holofoil": {
+      "card_id": 35087,
+      "name": "Volbeat",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 31.5,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35119:Reverse Holofoil": {
+      "card_id": 35119,
+      "name": "Wynaut",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 28.64,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35068:Reverse Holofoil": {
+      "card_id": 35068,
+      "name": "Xatu",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 12.51,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35047:Reverse Holofoil": {
+      "card_id": 35047,
+      "name": "Aron",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 32.0,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35056:Reverse Holofoil": {
+      "card_id": 35056,
+      "name": "Cacnea - 57/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 41.36,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35070:Reverse Holofoil": {
+      "card_id": 35070,
+      "name": "Cacnea - 58/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 24.95,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35032:Reverse Holofoil": {
+      "card_id": 35032,
+      "name": "Cyndaquil",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 23.26,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35096:Reverse Holofoil": {
+      "card_id": 35096,
+      "name": "Jolteon",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 187.19,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35031:Reverse Holofoil": {
+      "card_id": 35031,
+      "name": "Dunsparce",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 16.2,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35050:Reverse Holofoil": {
+      "card_id": 35050,
+      "name": "Duskull - 61/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 32.16,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35074:Reverse Holofoil": {
+      "card_id": 35074,
+      "name": "Duskull - 62/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 62.13,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35037:Reverse Holofoil": {
+      "card_id": 35037,
+      "name": "Eevee",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 108.1,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35046:Reverse Holofoil": {
+      "card_id": 35046,
+      "name": "Ekans",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 16.09,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35028:Reverse Holofoil": {
+      "card_id": 35028,
+      "name": "Growlithe",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 42.45,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35030:Reverse Holofoil": {
+      "card_id": 35030,
+      "name": "Lotad - 66/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 14.1,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35059:Reverse Holofoil": {
+      "card_id": 35059,
+      "name": "Lotad - 67/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 14.65,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35033:Reverse Holofoil": {
+      "card_id": 35033,
+      "name": "Marill",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 8.9,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35066:Reverse Holofoil": {
+      "card_id": 35066,
+      "name": "Natu",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 18.44,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35126:Reverse Holofoil": {
+      "card_id": 35126,
+      "name": "Ludicolo",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 130.99,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35040:Reverse Holofoil": {
+      "card_id": 35040,
+      "name": "Omanyte",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 14.54,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35049:Reverse Holofoil": {
+      "card_id": 35049,
+      "name": "Onix",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 22.38,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35035:Reverse Holofoil": {
+      "card_id": 35035,
+      "name": "Pikachu",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 212.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35036:Reverse Holofoil": {
+      "card_id": 35036,
+      "name": "Psyduck",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 436.2,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35101:Reverse Holofoil": {
+      "card_id": 35101,
+      "name": "Ralts",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 30.0,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35042:Reverse Holofoil": {
+      "card_id": 35042,
+      "name": "Sandshrew",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 20.4,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35080:Reverse Holofoil": {
+      "card_id": 35080,
+      "name": "Seedot - 76/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 7.46,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35064:Reverse Holofoil": {
+      "card_id": 35064,
+      "name": "Seedot - 77/100",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 7.56,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35072:Reverse Holofoil": {
+      "card_id": 35072,
+      "name": "Shroomish",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 26.5,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35069:Reverse Holofoil": {
+      "card_id": 35069,
+      "name": "Skitty",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 40.0,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35105:Holofoil": {
+      "card_id": 35105,
+      "name": "Lunatone",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 41.94,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35029:Reverse Holofoil": {
+      "card_id": 35029,
+      "name": "Slakoth",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 28.15,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35051:Reverse Holofoil": {
+      "card_id": 35051,
+      "name": "Spearow",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 7.77,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35082:Reverse Holofoil": {
+      "card_id": 35082,
+      "name": "Trapinch",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 14.47,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35057:Reverse Holofoil": {
+      "card_id": 35057,
+      "name": "Wailmer",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 38.73,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35094:Reverse Holofoil": {
+      "card_id": 35094,
+      "name": "Wingull",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 46.29,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35048:Reverse Holofoil": {
+      "card_id": 35048,
+      "name": "Zigzagoon",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 24.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35076:Reverse Holofoil": {
+      "card_id": 35076,
+      "name": "Double Full Heal",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 3.05,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35108:Reverse Holofoil": {
+      "card_id": 35108,
+      "name": "Lanette's Net Search",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 5.68,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35045:Reverse Holofoil": {
+      "card_id": 35045,
+      "name": "Rare Candy",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 24.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35054:Reverse Holofoil": {
+      "card_id": 35054,
+      "name": "Wally's Training",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 10.82,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35121:Holofoil": {
+      "card_id": 35121,
+      "name": "Mawile",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 64.5,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "35052:Reverse Holofoil": {
+      "card_id": 35052,
+      "name": "Claw Fossil",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 3.01,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35071:Reverse Holofoil": {
+      "card_id": 35071,
+      "name": "Mysterious Fossil",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 3.98,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35055:Reverse Holofoil": {
+      "card_id": 35055,
+      "name": "Root Fossil",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 4.51,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35060:Reverse Holofoil": {
+      "card_id": 35060,
+      "name": "Multi Energy",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 5.32,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35098:Holofoil": {
+      "card_id": 35098,
+      "name": "Aerodactyl ex",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 182.5,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35099:Holofoil": {
+      "card_id": 35099,
+      "name": "Aggron ex",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 122.95,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35110:Holofoil": {
+      "card_id": 35110,
+      "name": "Gardevoir ex",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 302.22,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35092:Holofoil": {
+      "card_id": 35092,
+      "name": "Kabutops ex",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 160.3,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35118:Holofoil": {
+      "card_id": 35118,
+      "name": "Raichu ex",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 524.99,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "35097:Holofoil": {
+      "card_id": 35097,
+      "name": "Typhlosion ex",
+      "set_id": 5500235,
+      "set_name": "EX Sandstorm",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-15",
+          "market_price_usd": 279.78,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
     }
   }
 }
