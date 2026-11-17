@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-16T17:16:17.383006+00:00",
+  "generated_at": "2026-11-17T16:59:41.002583+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 204,
+  "next_set_index": 209,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 9,
-  "total_candidates": 8930,
-  "cards_with_price_history": 26278,
+  "api_calls": 7,
+  "total_candidates": 9112,
+  "cards_with_price_history": 26582,
   "candidates": [
     {
       "card_id": 20118,
@@ -85,6 +85,30 @@
       "market_price_usd": 200.0,
       "market_price_as_of": "2026-11-03",
       "total_listings": 9
+    },
+    {
+      "card_id": 33413,
+      "name": "Growlithe",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "045/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 200.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 50
+    },
+    {
+      "card_id": 33498,
+      "name": "Dewgong",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "040/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 200.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 72
     },
     {
       "card_id": 34042,
@@ -411,6 +435,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 33447,
+      "name": "Onix",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "084/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 197.09,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 219
+    },
+    {
       "card_id": 38408,
       "name": "Turtwig - 78/100",
       "set_id": 5500210,
@@ -421,6 +457,18 @@
       "market_price_usd": 197.03,
       "market_price_as_of": "2026-11-07",
       "total_listings": 1
+    },
+    {
+      "card_id": 33415,
+      "name": "Hitmonlee",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "013/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 196.97,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 40
     },
     {
       "card_id": 17849,
@@ -637,6 +685,30 @@
       "market_price_usd": 190.96,
       "market_price_as_of": "2026-10-23",
       "total_listings": 14
+    },
+    {
+      "card_id": 32326,
+      "name": "Dark Scizor",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "009/105",
+      "rarity": "Holo Rare",
+      "printing": "Unlimited Holofoil",
+      "market_price_usd": 190.76,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 37
+    },
+    {
+      "card_id": 33452,
+      "name": "Seadra",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "063/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 190.69,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 105
     },
     {
       "card_id": 4873,
@@ -903,6 +975,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 33488,
+      "name": "Golem",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "024/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 186.24,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 62
+    },
+    {
       "card_id": 37476,
       "name": "Rayquaza GX - 177a/168",
       "set_id": 5500060,
@@ -999,6 +1083,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 33497,
+      "name": "Meowth",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "053/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 183.76,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 26
+    },
+    {
       "card_id": 25879,
       "name": "Togetic (H27)",
       "set_id": 5500011,
@@ -1009,6 +1105,18 @@
       "market_price_usd": 183.56,
       "market_price_as_of": "2026-11-16",
       "total_listings": 3
+    },
+    {
+      "card_id": 33487,
+      "name": "Tentacruel",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "066/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 183.54,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 129
     },
     {
       "card_id": 18183,
@@ -1383,6 +1491,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 33425,
+      "name": "Voltorb",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "097/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 178.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 160
+    },
+    {
       "card_id": 14192,
       "name": "Cinccino - SWSH009 (Prerelease) [Staff]",
       "set_id": 5500149,
@@ -1489,6 +1609,18 @@
       "market_price_usd": 176.18,
       "market_price_as_of": "2026-10-23",
       "total_listings": 20
+    },
+    {
+      "card_id": 32321,
+      "name": "Dark Crobat",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "002/105",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 175.91,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 38
     },
     {
       "card_id": 35533,
@@ -1647,6 +1779,18 @@
       "total_listings": 0
     },
     {
+      "card_id": 33429,
+      "name": "Spearow",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "094/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 174.97,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 157
+    },
+    {
       "card_id": 26607,
       "name": "Pidgeot (23)",
       "set_id": 5500166,
@@ -1755,6 +1899,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 33426,
+      "name": "Nidoqueen",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "032/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 173.06,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 50
+    },
+    {
       "card_id": 31180,
       "name": "Umbreon (Team Plasma)",
       "set_id": 5500106,
@@ -1765,6 +1921,18 @@
       "market_price_usd": 173.01,
       "market_price_as_of": "2026-10-31",
       "total_listings": 62
+    },
+    {
+      "card_id": 33480,
+      "name": "Fearow",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "042/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 172.5,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 98
     },
     {
       "card_id": 13481,
@@ -1839,6 +2007,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 33444,
+      "name": "Tentacool",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "096/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 170.54,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 241
+    },
+    {
       "card_id": 31304,
       "name": "Gyarados",
       "set_id": 5500037,
@@ -1909,6 +2089,18 @@
       "market_price_usd": 170.0,
       "market_price_as_of": "2026-11-12",
       "total_listings": 47
+    },
+    {
+      "card_id": 36810,
+      "name": "Porygon2",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "12/64",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 170.0,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 54
     },
     {
       "card_id": 35415,
@@ -2139,6 +2331,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 33414,
+      "name": "Weedle",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "099/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 165.82,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 144
+    },
+    {
       "card_id": 25798,
       "name": "Espeon",
       "set_id": 5500011,
@@ -2283,6 +2487,18 @@
       "total_listings": 43
     },
     {
+      "card_id": 33492,
+      "name": "Seel",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "092/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 163.48,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 155
+    },
+    {
       "card_id": 6048,
       "name": "Mew V - 113/264",
       "set_id": 5500194,
@@ -2317,6 +2533,18 @@
       "market_price_usd": 163.0,
       "market_price_as_of": "2026-11-01",
       "total_listings": 14
+    },
+    {
+      "card_id": 33438,
+      "name": "Nidoran F",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "082/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 163.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 160
     },
     {
       "card_id": 24854,
@@ -2619,6 +2847,18 @@
       "total_listings": 19
     },
     {
+      "card_id": 33446,
+      "name": "Abra",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "067/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 159.09,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 143
+    },
+    {
       "card_id": 35116,
       "name": "Sableye",
       "set_id": 5500235,
@@ -2751,6 +2991,18 @@
       "total_listings": 64
     },
     {
+      "card_id": 32300,
+      "name": "Dark Ampharos",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "001/105",
+      "rarity": "Holo Rare",
+      "printing": "Unlimited Holofoil",
+      "market_price_usd": 156.36,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 19
+    },
+    {
       "card_id": 14643,
       "name": "Venusaur & Snivy GX - SM229",
       "set_id": 5500076,
@@ -2811,6 +3063,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 33474,
+      "name": "Tauros",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "065/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 154.69,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 71
+    },
+    {
       "card_id": 6004,
       "name": "Glaceon VMAX - 041/203",
       "set_id": 5500194,
@@ -2821,6 +3085,18 @@
       "market_price_usd": 154.53,
       "market_price_as_of": "2026-10-15",
       "total_listings": 4
+    },
+    {
+      "card_id": 33477,
+      "name": "Arcanine",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "036/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 154.5,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 56
     },
     {
       "card_id": 35235,
@@ -3039,6 +3315,18 @@
       "total_listings": 115
     },
     {
+      "card_id": 33435,
+      "name": "Kadabra",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "049/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 150.19,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 69
+    },
+    {
       "card_id": 2295334,
       "name": "Professor Sada's Vitality",
       "set_id": 5500026,
@@ -3145,6 +3433,18 @@
       "market_price_usd": 150.0,
       "market_price_as_of": "2026-11-13",
       "total_listings": 50
+    },
+    {
+      "card_id": 33455,
+      "name": "Kakuna",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "050/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 150.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 100
     },
     {
       "card_id": 33985,
@@ -3303,6 +3603,18 @@
       "total_listings": 155
     },
     {
+      "card_id": 33411,
+      "name": "Nidorina",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "055/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 149.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 121
+    },
+    {
       "card_id": 34705,
       "name": "Vileplume ex",
       "set_id": 5500231,
@@ -3423,6 +3735,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 36790,
+      "name": "Lugia",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "20/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 148.99,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 47
+    },
+    {
       "card_id": 35124,
       "name": "Wailord ex",
       "set_id": 5500235,
@@ -3531,6 +3855,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 33476,
+      "name": "Sandslash",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "062/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 147.08,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 148
+    },
+    {
       "card_id": 23697,
       "name": "M Mewtwo EX (160 Full Art)",
       "set_id": 5500195,
@@ -3625,6 +3961,18 @@
       "market_price_usd": 145.71,
       "market_price_as_of": "2026-11-05",
       "total_listings": 19
+    },
+    {
+      "card_id": 33490,
+      "name": "Graveler",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "044/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 145.49,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 124
     },
     {
       "card_id": 32084,
@@ -4059,6 +4407,18 @@
       "total_listings": 59
     },
     {
+      "card_id": 32311,
+      "name": "Dark Slowking",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "020/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 140.3,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 31
+    },
+    {
       "card_id": 25821,
       "name": "Houndoom (15)",
       "set_id": 5500011,
@@ -4141,6 +4501,18 @@
       "market_price_usd": 140.0,
       "market_price_as_of": "2026-11-12",
       "total_listings": 20
+    },
+    {
+      "card_id": 33442,
+      "name": "Dark Persian",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "006/110",
+      "rarity": "Holo Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 140.0,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 32
     },
     {
       "card_id": 35357,
@@ -4683,6 +5055,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 36815,
+      "name": "Crobat",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "04/64",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 134.95,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 36
+    },
+    {
       "card_id": 4994,
       "name": "Magikarp - 039/192 (Reverse Cosmos Holo)",
       "set_id": 5500123,
@@ -4717,6 +5101,18 @@
       "market_price_usd": 133.97,
       "market_price_as_of": "2026-11-12",
       "total_listings": 38
+    },
+    {
+      "card_id": 33499,
+      "name": "Machoke",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "051/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 133.86,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 102
     },
     {
       "card_id": 26626,
@@ -4801,6 +5197,18 @@
       "market_price_usd": 132.99,
       "market_price_as_of": "2026-11-16",
       "total_listings": 67
+    },
+    {
+      "card_id": 33395,
+      "name": "Kabuto",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "048/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 132.79,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 92
     },
     {
       "card_id": 23699,
@@ -5053,6 +5461,18 @@
       "market_price_usd": 129.98,
       "market_price_as_of": "2026-11-16",
       "total_listings": 44
+    },
+    {
+      "card_id": 33481,
+      "name": "Energy Retrieval",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "107/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 129.98,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 289
     },
     {
       "card_id": 25068,
@@ -5619,6 +6039,30 @@
       "total_listings": 91
     },
     {
+      "card_id": 33450,
+      "name": "Metapod",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "054/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 125.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 95
+    },
+    {
+      "card_id": 33473,
+      "name": "Moltres",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "030/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 125.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 48
+    },
+    {
       "card_id": 34938,
       "name": "Espeon",
       "set_id": 5500174,
@@ -5725,6 +6169,18 @@
       "market_price_usd": 124.95,
       "market_price_as_of": "2026-11-16",
       "total_listings": 28
+    },
+    {
+      "card_id": 36795,
+      "name": "Ho-oh (18)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "18/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 124.95,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 74
     },
     {
       "card_id": 28159,
@@ -5979,6 +6435,18 @@
       "total_listings": 33
     },
     {
+      "card_id": 33448,
+      "name": "Dodrio",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "041/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 122.4,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 62
+    },
+    {
       "card_id": 31293,
       "name": "Feraligatr (Prime)",
       "set_id": 5500037,
@@ -6111,6 +6579,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 33469,
+      "name": "Nidorino",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "056/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 120.25,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 97
+    },
+    {
       "card_id": 15496,
       "name": "Primal Groudon EX - 97/98",
       "set_id": 5500069,
@@ -6217,6 +6697,18 @@
       "market_price_usd": 119.99,
       "market_price_as_of": "2026-11-04",
       "total_listings": 10
+    },
+    {
+      "card_id": 33449,
+      "name": "Grimer",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "078/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 119.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 153
     },
     {
       "card_id": 38442,
@@ -6399,6 +6891,18 @@
       "total_listings": 94
     },
     {
+      "card_id": 33402,
+      "name": "Challenge!",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "106/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 118.7,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 86
+    },
+    {
       "card_id": 33565,
       "name": "Whiscash",
       "set_id": 5500233,
@@ -6541,6 +7045,18 @@
       "market_price_usd": 117.58,
       "market_price_as_of": "2026-11-06",
       "total_listings": 7
+    },
+    {
+      "card_id": 32322,
+      "name": "Dark Donphan",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "003/105",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 117.5,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 37
     },
     {
       "card_id": 38444,
@@ -6855,6 +7371,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 33419,
+      "name": "Sandshrew",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "091/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 115.24,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 224
+    },
+    {
       "card_id": 26552,
       "name": "Dragonair",
       "set_id": 5500166,
@@ -7021,6 +7549,18 @@
       "market_price_usd": 114.31,
       "market_price_as_of": "2026-10-23",
       "total_listings": 14
+    },
+    {
+      "card_id": 36811,
+      "name": "Jumpluff",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "09/64",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 113.99,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 35
     },
     {
       "card_id": 6125,
@@ -7333,6 +7873,18 @@
       "market_price_usd": 110.13,
       "market_price_as_of": "2026-10-29",
       "total_listings": 14
+    },
+    {
+      "card_id": 38506,
+      "name": "Vileplume",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "17/18",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 110.02,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 33
     },
     {
       "card_id": 25952,
@@ -7707,6 +8259,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 33463,
+      "name": "Mankey",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "081/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 107.55,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 224
+    },
+    {
       "card_id": 28299,
       "name": "Pidove - BW15",
       "set_id": 5500091,
@@ -7741,6 +8305,18 @@
       "market_price_usd": 107.27,
       "market_price_as_of": "2026-10-30",
       "total_listings": 58
+    },
+    {
+      "card_id": 33495,
+      "name": "The Boss's Way",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "105/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 107.19,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 189
     },
     {
       "card_id": 17511,
@@ -8007,6 +8583,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 33404,
+      "name": "Electrode",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "022/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 104.8,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 67
+    },
+    {
       "card_id": 19879,
       "name": "Ash-Greninja EX - XY133",
       "set_id": 5500177,
@@ -8127,6 +8715,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 33424,
+      "name": "Potion",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "110/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 103.66,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 500
+    },
+    {
       "card_id": 4354,
       "name": "Charizard - 1/99 (Cracked Ice Holo)",
       "set_id": 5500123,
@@ -8161,6 +8761,18 @@
       "market_price_usd": 103.28,
       "market_price_as_of": "2026-10-15",
       "total_listings": 115
+    },
+    {
+      "card_id": 33420,
+      "name": "Pidgey",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "085/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 103.2,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 189
     },
     {
       "card_id": 6228,
@@ -8343,6 +8955,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 33422,
+      "name": "Doduo",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "071/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 102.05,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 159
+    },
+    {
       "card_id": 16688,
       "name": "Arceus & Dialga & Palkia GX (Secret)",
       "set_id": 5500206,
@@ -8353,6 +8977,18 @@
       "market_price_usd": 102.03,
       "market_price_as_of": "2026-10-21",
       "total_listings": 16
+    },
+    {
+      "card_id": 33410,
+      "name": "Magnemite",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "080/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 102.01,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 262
     },
     {
       "card_id": 35404,
@@ -8535,6 +9171,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 33475,
+      "name": "Omastar",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "058/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 100.79,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 84
+    },
+    {
       "card_id": 26616,
       "name": "Fearow (11)",
       "set_id": 5500166,
@@ -8583,6 +9231,18 @@
       "total_listings": 24
     },
     {
+      "card_id": 32294,
+      "name": "Light Dragonair",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "022/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 100.29,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 21
+    },
+    {
       "card_id": 14042,
       "name": "Pikachu V - SWSH145",
       "set_id": 5500149,
@@ -8593,6 +9253,18 @@
       "market_price_usd": 100.28,
       "market_price_as_of": "2026-10-21",
       "total_listings": 78
+    },
+    {
+      "card_id": 32327,
+      "name": "Dark Porygon2",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "008/105",
+      "rarity": "Holo Rare",
+      "printing": "Unlimited Holofoil",
+      "market_price_usd": 100.25,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 21
     },
     {
       "card_id": 31103,
@@ -9159,6 +9831,18 @@
       "total_listings": 74
     },
     {
+      "card_id": 33445,
+      "name": "Caterpie",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "069/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 99.27,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 184
+    },
+    {
       "card_id": 31748,
       "name": "Pikachu",
       "set_id": 5500096,
@@ -9349,6 +10033,18 @@
       "market_price_usd": 98.01,
       "market_price_as_of": "2026-11-06",
       "total_listings": 40
+    },
+    {
+      "card_id": 33461,
+      "name": "Pokemon Breeder",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "102/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 97.95,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 54
     },
     {
       "card_id": 32742,
@@ -9543,6 +10239,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 32268,
+      "name": "Light Vaporeon",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "052/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 96.83,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 85
+    },
+    {
       "card_id": 33363,
       "name": "Dark Magcargo",
       "set_id": 5500226,
@@ -9589,6 +10297,18 @@
       "market_price_usd": 96.73,
       "market_price_as_of": "2026-11-11",
       "total_listings": 22
+    },
+    {
+      "card_id": 33484,
+      "name": "Raticate",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "061/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 96.51,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 113
     },
     {
       "card_id": 24457,
@@ -9697,6 +10417,18 @@
       "market_price_usd": 96.26,
       "market_price_as_of": "2026-10-22",
       "total_listings": 68
+    },
+    {
+      "card_id": 33456,
+      "name": "Hypno",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "025/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 96.24,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 61
     },
     {
       "card_id": 19528,
@@ -10047,6 +10779,18 @@
       "total_listings": 249
     },
     {
+      "card_id": 33431,
+      "name": "Kabutops",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "027/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 94.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 41
+    },
+    {
       "card_id": 34358,
       "name": "Leafeon",
       "set_id": 5500102,
@@ -10189,6 +10933,18 @@
       "market_price_usd": 93.13,
       "market_price_as_of": "2026-10-22",
       "total_listings": 53
+    },
+    {
+      "card_id": 32296,
+      "name": "Light Flareon",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "046/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 93.06,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 56
     },
     {
       "card_id": 25201,
@@ -10563,6 +11319,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 33466,
+      "name": "Jynx",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "026/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 91.11,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 41
+    },
+    {
       "card_id": 28768,
       "name": "Colress (Team Plasma) (135 Full Art)",
       "set_id": 5500155,
@@ -10585,6 +11353,18 @@
       "market_price_usd": 90.85,
       "market_price_as_of": "2026-10-28",
       "total_listings": 44
+    },
+    {
+      "card_id": 33439,
+      "name": "Nidoran M",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "083/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 90.7,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 129
     },
     {
       "card_id": 33359,
@@ -10983,6 +11763,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 36809,
+      "name": "Magneton",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "10/64",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 89.7,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 83
+    },
+    {
       "card_id": 2320530,
       "name": "Pikachu ex - 150/128",
       "set_id": 5500219,
@@ -11079,6 +11871,30 @@
       "total_listings": 24
     },
     {
+      "card_id": 32258,
+      "name": "Dark Haunter",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "036/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 89.0,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 84
+    },
+    {
+      "card_id": 33418,
+      "name": "Bill",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "108/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 89.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 451
+    },
+    {
       "card_id": 25972,
       "name": "Poliwag",
       "set_id": 5500160,
@@ -11089,6 +11905,18 @@
       "market_price_usd": 88.97,
       "market_price_as_of": "2026-11-16",
       "total_listings": 17
+    },
+    {
+      "card_id": 33491,
+      "name": "Omanyte",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "057/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 88.9,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
     },
     {
       "card_id": 2119584,
@@ -11355,6 +12183,18 @@
       "total_listings": 43
     },
     {
+      "card_id": 32247,
+      "name": "Light Azumarill",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "013/105",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 87.04,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 78
+    },
+    {
       "card_id": 19777,
       "name": "Mina (Full Art)",
       "set_id": 5500141,
@@ -11499,6 +12339,18 @@
       "total_listings": 139
     },
     {
+      "card_id": 33437,
+      "name": "Primeape",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "059/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 86.23,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 123
+    },
+    {
       "card_id": 28070,
       "name": "Totodile",
       "set_id": 5500232,
@@ -11557,6 +12409,30 @@
       "market_price_usd": 85.88,
       "market_price_as_of": "2026-11-12",
       "total_listings": 25
+    },
+    {
+      "card_id": 33457,
+      "name": "Potion Energy",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "101/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 85.81,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 204
+    },
+    {
+      "card_id": 38515,
+      "name": "Wartortle",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "15/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 85.76,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 34
     },
     {
       "card_id": 28222,
@@ -11703,6 +12579,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 33486,
+      "name": "Exeggcute",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "075/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 85.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 166
+    },
+    {
       "card_id": 32023,
       "name": "Bellsprout",
       "set_id": 5500230,
@@ -11773,6 +12661,18 @@
       "market_price_usd": 84.78,
       "market_price_as_of": "2026-10-21",
       "total_listings": 72
+    },
+    {
+      "card_id": 33483,
+      "name": "Rhyhorn",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "090/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 84.77,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 177
     },
     {
       "card_id": 28128,
@@ -12267,6 +13167,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 33501,
+      "name": "Exeggutor",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "023/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 82.09,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 57
+    },
+    {
       "card_id": 14938,
       "name": "Celebi V (Alternate Full Art)",
       "set_id": 5500208,
@@ -12325,6 +13237,18 @@
       "market_price_usd": 81.96,
       "market_price_as_of": "2026-11-10",
       "total_listings": 40
+    },
+    {
+      "card_id": 36814,
+      "name": "Delibird",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "05/64",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 81.94,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 38
     },
     {
       "card_id": 28288,
@@ -12433,6 +13357,18 @@
       "market_price_usd": 81.33,
       "market_price_as_of": "2026-11-16",
       "total_listings": 187
+    },
+    {
+      "card_id": 38507,
+      "name": "Lapras",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "12/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 81.32,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 38
     },
     {
       "card_id": 30570,
@@ -13057,6 +13993,18 @@
       "market_price_usd": 79.99,
       "market_price_as_of": "2026-11-06",
       "total_listings": 94
+    },
+    {
+      "card_id": 32328,
+      "name": "Miracle Energy",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "016/105",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 79.99,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 61
     },
     {
       "card_id": 33322,
@@ -13779,6 +14727,18 @@
       "total_listings": 114
     },
     {
+      "card_id": 38511,
+      "name": "Jigglypuff",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "08/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 76.96,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 26
+    },
+    {
       "card_id": 26544,
       "name": "Krabby",
       "set_id": 5500166,
@@ -14055,6 +15015,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 33454,
+      "name": "Rhydon",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "035/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 75.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 55
+    },
+    {
       "card_id": 36003,
       "name": "Kabutops",
       "set_id": 5500223,
@@ -14065,6 +15037,18 @@
       "market_price_usd": 75.99,
       "market_price_as_of": "2026-11-10",
       "total_listings": 47
+    },
+    {
+      "card_id": 32225,
+      "name": "Psyduck",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "079/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 75.89,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 97
     },
     {
       "card_id": 28225,
@@ -14379,6 +15363,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 32282,
+      "name": "Light Slowbro",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "051/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 74.82,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 65
+    },
+    {
       "card_id": 34332,
       "name": "Espeon",
       "set_id": 5500102,
@@ -14449,6 +15445,18 @@
       "market_price_usd": 74.47,
       "market_price_as_of": "2026-10-27",
       "total_listings": 9
+    },
+    {
+      "card_id": 38509,
+      "name": "Ledyba",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "07/18",
+      "rarity": "Promo",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 74.43,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 29
     },
     {
       "card_id": 35354,
@@ -14725,6 +15733,18 @@
       "market_price_usd": 73.29,
       "market_price_as_of": "2026-11-10",
       "total_listings": 154
+    },
+    {
+      "card_id": 36785,
+      "name": "Suicune (27)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "27/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 73.28,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 103
     },
     {
       "card_id": 4967,
@@ -15013,6 +16033,18 @@
       "market_price_usd": 72.38,
       "market_price_as_of": "2026-10-09",
       "total_listings": 95
+    },
+    {
+      "card_id": 32278,
+      "name": "Togepi",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "056/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 72.19,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 38
     },
     {
       "card_id": 37857,
@@ -16203,6 +17235,18 @@
       "total_listings": 143
     },
     {
+      "card_id": 36798,
+      "name": "Entei (17)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "17/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 68.15,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 70
+    },
+    {
       "card_id": 37490,
       "name": "Oshawott - 27/114 (Cosmos Holo)",
       "set_id": 5500060,
@@ -16333,6 +17377,18 @@
       "market_price_usd": 67.74,
       "market_price_as_of": "2026-11-09",
       "total_listings": 25
+    },
+    {
+      "card_id": 38516,
+      "name": "Ivysaur",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "05/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 67.72,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 34
     },
     {
       "card_id": 2155085,
@@ -16767,6 +17823,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 32254,
+      "name": "Light Ninetales",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "050/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 66.2,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 77
+    },
+    {
       "card_id": 14686,
       "name": "Pikachu - SM98",
       "set_id": 5500076,
@@ -16777,6 +17845,18 @@
       "market_price_usd": 66.13,
       "market_price_as_of": "2026-10-26",
       "total_listings": 21
+    },
+    {
+      "card_id": 33482,
+      "name": "Scoop Up",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "104/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 66.08,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 54
     },
     {
       "card_id": 17806,
@@ -17485,6 +18565,18 @@
       "market_price_usd": 64.45,
       "market_price_as_of": "2026-10-26",
       "total_listings": 201
+    },
+    {
+      "card_id": 38505,
+      "name": "Onix",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "03/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 64.38,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 31
     },
     {
       "card_id": 16739,
@@ -18591,6 +19683,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 32273,
+      "name": "Light Machamp",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "025/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 60.98,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 78
+    },
+    {
       "card_id": 16727,
       "name": "Arceus & Dialga & Palkia GX (Full Art)",
       "set_id": 5500206,
@@ -18661,6 +19765,18 @@
       "market_price_usd": 60.73,
       "market_price_as_of": "2026-10-28",
       "total_listings": 45
+    },
+    {
+      "card_id": 38503,
+      "name": "Tentacruel",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "10/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 60.72,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 36
     },
     {
       "card_id": 33518,
@@ -19021,6 +20137,18 @@
       "market_price_usd": 59.99,
       "market_price_as_of": "2026-11-11",
       "total_listings": 63
+    },
+    {
+      "card_id": 33416,
+      "name": "Drowzee",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "073/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 59.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 159
     },
     {
       "card_id": 35680,
@@ -20859,6 +21987,18 @@
       "total_listings": 99
     },
     {
+      "card_id": 38513,
+      "name": "Butterfree",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "09/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 55.29,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 30
+    },
+    {
       "card_id": 29090,
       "name": "Squirtle",
       "set_id": 5500008,
@@ -21831,6 +22971,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 36787,
+      "name": "Raikou (22)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "22/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 52.84,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 76
+    },
+    {
       "card_id": 18461,
       "name": "Koraidon - 014 (Pokemon Center Exclusive)",
       "set_id": 5500070,
@@ -21853,6 +23005,18 @@
       "market_price_usd": 52.8,
       "market_price_as_of": "2026-11-04",
       "total_listings": 44
+    },
+    {
+      "card_id": 32303,
+      "name": "Dark Omastar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "019/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 52.7,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 35
     },
     {
       "card_id": 30356,
@@ -22467,6 +23631,30 @@
       "total_listings": 19
     },
     {
+      "card_id": 33453,
+      "name": "Ponyta",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "087/110",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 51.48,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 228
+    },
+    {
+      "card_id": 33417,
+      "name": "Pokemon Trader",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "103/110",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 51.47,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 99
+    },
+    {
       "card_id": 26369,
       "name": "Dragonite EX (Full Art)",
       "set_id": 5500147,
@@ -22633,6 +23821,18 @@
       "market_price_usd": 51.06,
       "market_price_as_of": "2026-10-23",
       "total_listings": 5
+    },
+    {
+      "card_id": 38504,
+      "name": "Pidgeot",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "02/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 51.05,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 37
     },
     {
       "card_id": 28877,
@@ -24291,6 +25491,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 32277,
+      "name": "Chansey",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "031/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 48.42,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 54
+    },
+    {
       "card_id": 25751,
       "name": "Miltank",
       "set_id": 5500011,
@@ -24795,6 +26007,18 @@
       "total_listings": 202
     },
     {
+      "card_id": 36800,
+      "name": "Celebi (16)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "16/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 47.48,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 55
+    },
+    {
       "card_id": 20257,
       "name": "Chansey - 187/167",
       "set_id": 5500051,
@@ -24949,6 +26173,18 @@
       "market_price_usd": 47.24,
       "market_price_as_of": "2026-10-31",
       "total_listings": 80
+    },
+    {
+      "card_id": 32318,
+      "name": "Broken Ground Gym",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "092/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 47.22,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 38
     },
     {
       "card_id": 27443,
@@ -25753,6 +26989,18 @@
       "market_price_usd": 45.87,
       "market_price_as_of": "2026-10-23",
       "total_listings": 57
+    },
+    {
+      "card_id": 36792,
+      "name": "Raichu",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "21/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 45.84,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 73
     },
     {
       "card_id": 20367,
@@ -26679,6 +27927,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 32312,
+      "name": "Unown [H]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "028/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 44.83,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 31
+    },
+    {
       "card_id": 19826,
       "name": "Sceptile GX (Secret)",
       "set_id": 5500141,
@@ -27075,6 +28335,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 32274,
+      "name": "Jigglypuff",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "044/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 44.11,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 21
+    },
+    {
       "card_id": 32491,
       "name": "Reshiram",
       "set_id": 5500207,
@@ -27085,6 +28357,18 @@
       "market_price_usd": 44.09,
       "market_price_as_of": "2026-10-31",
       "total_listings": 71
+    },
+    {
+      "card_id": 32314,
+      "name": "Dark Ursaring",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "021/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 44.07,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 38
     },
     {
       "card_id": 33361,
@@ -27759,6 +29043,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 38514,
+      "name": "Exeggutor",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "13/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 42.71,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 37
+    },
+    {
       "card_id": 34506,
       "name": "Rotom",
       "set_id": 5500135,
@@ -28047,6 +29343,18 @@
       "total_listings": 43
     },
     {
+      "card_id": 32301,
+      "name": "Light Piloswine",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "026/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 42.21,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 46
+    },
+    {
       "card_id": 32061,
       "name": "Hypno",
       "set_id": 5500230,
@@ -28129,6 +29437,18 @@
       "market_price_usd": 42.12,
       "market_price_as_of": "2026-11-15",
       "total_listings": 68
+    },
+    {
+      "card_id": 38517,
+      "name": "Lickitung",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "16/18",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 42.11,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 50
     },
     {
       "card_id": 34499,
@@ -28225,6 +29545,18 @@
       "market_price_usd": 41.99,
       "market_price_as_of": "2026-11-11",
       "total_listings": 55
+    },
+    {
+      "card_id": 38501,
+      "name": "Primeape",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "18/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 41.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 49
     },
     {
       "card_id": 32522,
@@ -28623,6 +29955,18 @@
       "total_listings": 116
     },
     {
+      "card_id": 32306,
+      "name": "Unown [W]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "029/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 41.39,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 48
+    },
+    {
       "card_id": 12810,
       "name": "Venusaur - 28/100 (EX Crystal Guardians)",
       "set_id": 5500101,
@@ -28921,6 +30265,18 @@
       "market_price_usd": 40.99,
       "market_price_as_of": "2026-10-26",
       "total_listings": 6
+    },
+    {
+      "card_id": 38510,
+      "name": "Raticate",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "number": "06/18",
+      "rarity": "Promo",
+      "printing": "Normal",
+      "market_price_usd": 40.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 35
     },
     {
       "card_id": 35445,
@@ -30939,6 +32295,18 @@
       "total_listings": 59
     },
     {
+      "card_id": 32297,
+      "name": "Thought Wave Machine (Rocket's Secret Machine)",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "096/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 38.86,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 36
+    },
+    {
       "card_id": 32055,
       "name": "Cloyster",
       "set_id": 5500230,
@@ -31333,6 +32701,18 @@
       "market_price_usd": 38.46,
       "market_price_as_of": "2026-10-23",
       "total_listings": 9
+    },
+    {
+      "card_id": 32291,
+      "name": "Light Ledian",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "024/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 38.45,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 50
     },
     {
       "card_id": 26205,
@@ -31863,6 +33243,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 32269,
+      "name": "Lucky Stadium",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "100/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 37.65,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 83
+    },
+    {
       "card_id": 16224,
       "name": "Slowpoke - 204/198",
       "set_id": 5500032,
@@ -32187,6 +33579,18 @@
       "total_listings": 157
     },
     {
+      "card_id": 33502,
+      "name": "Full Heal Energy",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "100/110",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 37.07,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 101
+    },
+    {
       "card_id": 28215,
       "name": "Darkrai EX - BW46",
       "set_id": 5500091,
@@ -32401,6 +33805,18 @@
       "market_price_usd": 36.94,
       "market_price_as_of": "2026-11-01",
       "total_listings": 158
+    },
+    {
+      "card_id": 36780,
+      "name": "Rocket's Hideout",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "63/64",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 36.93,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 195
     },
     {
       "card_id": 30349,
@@ -32979,6 +34395,18 @@
       "total_listings": 51
     },
     {
+      "card_id": 32290,
+      "name": "Dark Wigglytuff",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "040/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 36.26,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 39
+    },
+    {
       "card_id": 25964,
       "name": "Yanma",
       "set_id": 5500160,
@@ -33001,6 +34429,18 @@
       "market_price_usd": 36.23,
       "market_price_as_of": "2026-11-12",
       "total_listings": 140
+    },
+    {
+      "card_id": 32245,
+      "name": "Light Machoke",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "049/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 36.22,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 76
     },
     {
       "card_id": 4232,
@@ -33301,6 +34741,18 @@
       "market_price_usd": 35.8,
       "market_price_as_of": "2026-10-22",
       "total_listings": 151
+    },
+    {
+      "card_id": 32237,
+      "name": "Totodile",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "085/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 35.78,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 165
     },
     {
       "card_id": 30375,
@@ -34647,6 +36099,18 @@
       "total_listings": 30
     },
     {
+      "card_id": 36803,
+      "name": "Aerodactyl",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "15/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 34.34,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 52
+    },
+    {
       "card_id": 34617,
       "name": "Staryu",
       "set_id": 5500231,
@@ -35151,6 +36615,18 @@
       "total_listings": 148
     },
     {
+      "card_id": 32244,
+      "name": "Light Wigglytuff",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "054/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 33.74,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 92
+    },
+    {
       "card_id": 28258,
       "name": "Riolu - BW33",
       "set_id": 5500091,
@@ -35329,6 +36805,18 @@
       "market_price_usd": 33.51,
       "market_price_as_of": "2026-11-05",
       "total_listings": 206
+    },
+    {
+      "card_id": 32316,
+      "name": "Unown [X]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "030/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 33.51,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 40
     },
     {
       "card_id": 33705,
@@ -36373,6 +37861,18 @@
       "market_price_usd": 32.42,
       "market_price_as_of": "2026-11-04",
       "total_listings": 54
+    },
+    {
+      "card_id": 36802,
+      "name": "Skarmory",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "23/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 32.41,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 69
     },
     {
       "card_id": 4513,
@@ -42495,6 +43995,30 @@
       "total_listings": 29
     },
     {
+      "card_id": 32280,
+      "name": "Pokemon Personality Test",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "102/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 26.78,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 42
+    },
+    {
+      "card_id": 32230,
+      "name": "Cyndaquil",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "061/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 26.76,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 181
+    },
+    {
       "card_id": 31303,
       "name": "Igglybuff",
       "set_id": 5500037,
@@ -42589,6 +44113,18 @@
       "market_price_usd": 26.72,
       "market_price_as_of": "2026-10-25",
       "total_listings": 160
+    },
+    {
+      "card_id": 32231,
+      "name": "Houndour",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "043/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 26.69,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 85
     },
     {
       "card_id": 12646,
@@ -43203,6 +44739,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 32308,
+      "name": "Unown [G]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "027/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 26.22,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 60
+    },
+    {
       "card_id": 30351,
       "name": "Raikou",
       "set_id": 5500082,
@@ -43441,6 +44989,18 @@
       "market_price_usd": 26.0,
       "market_price_as_of": "2026-10-26",
       "total_listings": 108
+    },
+    {
+      "card_id": 32233,
+      "name": "Dark Quilava",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "039/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 26.0,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 161
     },
     {
       "card_id": 32754,
@@ -44703,6 +46263,18 @@
       "total_listings": 128
     },
     {
+      "card_id": 36806,
+      "name": "Kingdra",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "19/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 25.03,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 112
+    },
+    {
       "card_id": 14335,
       "name": "Litwick - 101/086",
       "set_id": 5500153,
@@ -45915,6 +47487,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 32276,
+      "name": "Scyther",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "055/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 24.23,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 75
+    },
+    {
       "card_id": 16258,
       "name": "Fidough - 213/198",
       "set_id": 5500032,
@@ -46599,6 +48183,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 32229,
+      "name": "Vulpix",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "091/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 23.59,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 141
+    },
+    {
       "card_id": 38811,
       "name": "Growlithe - 1/12",
       "set_id": 5500193,
@@ -46717,6 +48313,18 @@
       "market_price_usd": 23.48,
       "market_price_as_of": "2026-11-05",
       "total_listings": 29
+    },
+    {
+      "card_id": 36804,
+      "name": "Sudowoodo",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "26/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 23.45,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 85
     },
     {
       "card_id": 19634,
@@ -47761,6 +49369,18 @@
       "market_price_usd": 22.77,
       "market_price_as_of": "2026-10-14",
       "total_listings": 119
+    },
+    {
+      "card_id": 32272,
+      "name": "Light Golduck",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "047/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 22.77,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 80
     },
     {
       "card_id": 33682,
@@ -50463,6 +52083,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 32285,
+      "name": "Dark Exeggcutor",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "033/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 20.81,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 88
+    },
+    {
       "card_id": 4764,
       "name": "Bunnelby - 150/189 (Thank You Promo)",
       "set_id": 5500123,
@@ -51591,6 +53223,18 @@
       "total_listings": 127
     },
     {
+      "card_id": 32226,
+      "name": "Growlithe",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "068/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 20.21,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 163
+    },
+    {
       "card_id": 34668,
       "name": "Zubat",
       "set_id": 5500231,
@@ -51805,6 +53449,18 @@
       "market_price_usd": 20.13,
       "market_price_as_of": "2026-10-26",
       "total_listings": 36
+    },
+    {
+      "card_id": 32266,
+      "name": "Hitmonlee",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "042/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 20.13,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 142
     },
     {
       "card_id": 31132,
@@ -53919,6 +55575,18 @@
       "total_listings": 113
     },
     {
+      "card_id": 32238,
+      "name": "Gastly",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "065/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 19.28,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 159
+    },
+    {
       "card_id": 14574,
       "name": "Eevee GX - SM242",
       "set_id": 5500076,
@@ -55179,6 +56847,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 32265,
+      "name": "Dark Flaaffy",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "034/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 18.55,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 82
+    },
+    {
       "card_id": 33694,
       "name": "Aron - 49/109",
       "set_id": 5500228,
@@ -55189,6 +56869,18 @@
       "market_price_usd": 18.55,
       "market_price_as_of": "2026-11-16",
       "total_listings": 83
+    },
+    {
+      "card_id": 36808,
+      "name": "Sneasel",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "24/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 18.55,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 52
     },
     {
       "card_id": 36896,
@@ -55237,6 +56929,18 @@
       "market_price_usd": 18.54,
       "market_price_as_of": "2026-11-13",
       "total_listings": 45
+    },
+    {
+      "card_id": 32267,
+      "name": "Dark Omanyte",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "037/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 18.54,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 57
     },
     {
       "card_id": 34732,
@@ -55441,6 +57145,18 @@
       "market_price_usd": 18.48,
       "market_price_as_of": "2026-10-14",
       "total_listings": 137
+    },
+    {
+      "card_id": 32289,
+      "name": "Dark Magcargo",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "018/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 18.48,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 110
     },
     {
       "card_id": 6132,
@@ -55765,6 +57481,18 @@
       "market_price_usd": 18.33,
       "market_price_as_of": "2026-11-06",
       "total_listings": 316
+    },
+    {
+      "card_id": 32315,
+      "name": "Light Lanturn",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "023/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 18.33,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 48
     },
     {
       "card_id": 32633,
@@ -57591,6 +59319,18 @@
       "total_listings": 100
     },
     {
+      "card_id": 36784,
+      "name": "Pokemon Breeder Fields",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "62/64",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 17.42,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 172
+    },
+    {
       "card_id": 18243,
       "name": "Espeon ex - 175",
       "set_id": 5500070,
@@ -58839,6 +60579,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 32281,
+      "name": "Dark Croconaw",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "032/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 16.82,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 63
+    },
+    {
       "card_id": 186483,
       "name": "Snorlax VMAX - 142/202",
       "set_id": 5500069,
@@ -58921,6 +60673,18 @@
       "market_price_usd": 16.78,
       "market_price_as_of": "2026-10-29",
       "total_listings": 115
+    },
+    {
+      "card_id": 32304,
+      "name": "Dark Ariados",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "017/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 16.78,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 51
     },
     {
       "card_id": 6374,
@@ -59955,6 +61719,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 32240,
+      "name": "Girafarig",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "066/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 16.33,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 133
+    },
+    {
       "card_id": 31198,
       "name": "Sableye (Team Plasma)",
       "set_id": 5500106,
@@ -60879,6 +62655,18 @@
       "total_listings": 167
     },
     {
+      "card_id": 36801,
+      "name": "Starmie",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "25/64",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 15.86,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 69
+    },
+    {
       "card_id": 5997,
       "name": "Grand Tree - 136/142",
       "set_id": 5500194,
@@ -61548,6 +63336,18 @@
       "printing": "Holofoil",
       "market_price_usd": 15.64,
       "market_price_as_of": "2026-11-07",
+      "total_listings": 63
+    },
+    {
+      "card_id": 32307,
+      "name": "Dark Pupitar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "038/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 15.64,
+      "market_price_as_of": "2026-11-16",
       "total_listings": 63
     },
     {
@@ -63003,6 +64803,18 @@
       "total_listings": 177
     },
     {
+      "card_id": 32295,
+      "name": "Unown [Z]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "060/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 15.01,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 73
+    },
+    {
       "card_id": 15460,
       "name": "Reshiram, Zekrom & Kyurem",
       "set_id": 5500069,
@@ -63399,6 +65211,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 36768,
+      "name": "Quagsire",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "48/64",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 14.96,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 180
+    },
+    {
       "card_id": 100018052,
       "name": "Fuecoco ex - 147/128",
       "set_id": 5500219,
@@ -63517,6 +65341,18 @@
       "market_price_usd": 14.92,
       "market_price_as_of": "2026-11-01",
       "total_listings": 42
+    },
+    {
+      "card_id": 36765,
+      "name": "Shuckle",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "51/64",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 14.92,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 191
     },
     {
       "card_id": 13602,
@@ -63697,6 +65533,18 @@
       "market_price_usd": 14.82,
       "market_price_as_of": "2026-11-14",
       "total_listings": 142
+    },
+    {
+      "card_id": 32251,
+      "name": "Light Dewgong",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "045/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 14.81,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 105
     },
     {
       "card_id": 32467,
@@ -65379,6 +67227,18 @@
       "total_listings": 94
     },
     {
+      "card_id": 32286,
+      "name": "Heracross",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "041/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 14.18,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 72
+    },
+    {
       "card_id": 35497,
       "name": "Team Aqua's Electrike - 53/95",
       "set_id": 5500225,
@@ -65437,6 +67297,18 @@
       "market_price_usd": 14.16,
       "market_price_as_of": "2026-10-09",
       "total_listings": 26
+    },
+    {
+      "card_id": 32293,
+      "name": "Unown [Q]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "059/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 14.16,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 77
     },
     {
       "card_id": 20073,
@@ -66639,6 +68511,18 @@
       "total_listings": 174
     },
     {
+      "card_id": 32252,
+      "name": "Porygon",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "078/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 13.67,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 176
+    },
+    {
       "card_id": 12707,
       "name": "Dark Marowak - 7/109 (EX Team Rocket Returns)",
       "set_id": 5500101,
@@ -67537,6 +69421,18 @@
       "market_price_usd": 13.3,
       "market_price_as_of": "2026-10-23",
       "total_listings": 18
+    },
+    {
+      "card_id": 36793,
+      "name": "Jynx",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "31/64",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 13.29,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 112
     },
     {
       "card_id": 38826,
@@ -68905,6 +70801,18 @@
       "market_price_usd": 12.83,
       "market_price_as_of": "2026-10-18",
       "total_listings": 125
+    },
+    {
+      "card_id": 32302,
+      "name": "Light Venomoth",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "053/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 12.83,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 70
     },
     {
       "card_id": 32637,
@@ -70515,6 +72423,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 32263,
+      "name": "Larvitar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "070/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 12.33,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 192
+    },
+    {
       "card_id": 16261,
       "name": "Great Tusk ex - 246/198",
       "set_id": 5500032,
@@ -72099,6 +74019,18 @@
       "total_listings": 197
     },
     {
+      "card_id": 32305,
+      "name": "Unown [C]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "057/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 11.84,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 75
+    },
+    {
       "card_id": 33196,
       "name": "Baltoy",
       "set_id": 5500220,
@@ -73239,6 +75171,18 @@
       "total_listings": 24
     },
     {
+      "card_id": 32298,
+      "name": "Dark Forretress",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "035/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 11.52,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 91
+    },
+    {
       "card_id": 4397,
       "name": "Pikachu ex (Holiday Calendar)",
       "set_id": 5500123,
@@ -73693,6 +75637,18 @@
       "market_price_usd": 11.37,
       "market_price_as_of": "2026-10-21",
       "total_listings": 147
+    },
+    {
+      "card_id": 32279,
+      "name": "Unown [P]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "058/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 11.37,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 97
     },
     {
       "card_id": 35244,
@@ -74377,6 +76333,18 @@
       "market_price_usd": 11.14,
       "market_price_as_of": "2026-11-06",
       "total_listings": 50
+    },
+    {
+      "card_id": 32313,
+      "name": "Impostor Professor Oak's Invention",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "094/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 11.14,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 78
     },
     {
       "card_id": 14513,
@@ -75795,6 +77763,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 32257,
+      "name": "Ledyba",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "071/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 10.72,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 87
+    },
+    {
       "card_id": 35713,
       "name": "Poliwrath",
       "set_id": 5500167,
@@ -76993,6 +78973,18 @@
       "market_price_usd": 10.36,
       "market_price_as_of": "2026-10-12",
       "total_listings": 99
+    },
+    {
+      "card_id": 32310,
+      "name": "Radio Tower",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "095/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 10.36,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 41
     },
     {
       "card_id": 6515,
@@ -80907,6 +82899,18 @@
       "total_listings": 106
     },
     {
+      "card_id": 36783,
+      "name": "Octillery",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "34/64",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 9.43,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 119
+    },
+    {
       "card_id": 14011,
       "name": "Eevee - SWSH175",
       "set_id": 5500149,
@@ -81757,6 +83761,18 @@
       "market_price_usd": 9.23,
       "market_price_as_of": "2026-10-16",
       "total_listings": 129
+    },
+    {
+      "card_id": 32248,
+      "name": "Unown [S]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "087/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 9.23,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 207
     },
     {
       "card_id": 37148,
@@ -85443,6 +87459,18 @@
       "total_listings": 127
     },
     {
+      "card_id": 32309,
+      "name": "EXP.ALL",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "093/105",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 8.4,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 111
+    },
+    {
       "card_id": 36114,
       "name": "Turtonator GX",
       "set_id": 5500083,
@@ -86173,6 +88201,18 @@
       "market_price_usd": 8.25,
       "market_price_as_of": "2026-10-25",
       "total_listings": 244
+    },
+    {
+      "card_id": 32241,
+      "name": "Mareep",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "075/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 8.25,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 106
     },
     {
       "card_id": 32360,
@@ -87207,6 +89247,18 @@
       "total_listings": 142
     },
     {
+      "card_id": 36781,
+      "name": "Flaaffy",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "28/64",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 8.02,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 110
+    },
+    {
       "card_id": 6259,
       "name": "Parallel City - 145/162 (City Championships)",
       "set_id": 5500087,
@@ -88191,6 +90243,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 32260,
+      "name": "Hitmonchan",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "069/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 7.85,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 183
+    },
+    {
       "card_id": 14994,
       "name": "Flaaffy (Secret)",
       "set_id": 5500208,
@@ -88849,6 +90913,18 @@
       "market_price_usd": 7.71,
       "market_price_as_of": "2026-10-22",
       "total_listings": 62
+    },
+    {
+      "card_id": 36769,
+      "name": "Goldeen",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "45/64",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 7.71,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 156
     },
     {
       "card_id": 13875,
@@ -89605,6 +91681,18 @@
       "market_price_usd": 7.54,
       "market_price_as_of": "2026-11-03",
       "total_listings": 91
+    },
+    {
+      "card_id": 32292,
+      "name": "Team Rocket's Evil Deeds",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "103/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.54,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 82
     },
     {
       "card_id": 13054,
@@ -91275,6 +93363,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 36789,
+      "name": "Unown [B]",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "39/64",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.22,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 183
+    },
+    {
       "card_id": 6658,
       "name": "Professor Elm's Training Method - 100/123 (League Promo)",
       "set_id": 5500087,
@@ -91405,6 +93505,18 @@
       "market_price_usd": 7.19,
       "market_price_as_of": "2026-10-14",
       "total_listings": 143
+    },
+    {
+      "card_id": 32270,
+      "name": "Energy Stadium",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "099/105",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.19,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 260
     },
     {
       "card_id": 34431,
@@ -94587,6 +96699,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 36794,
+      "name": "Magcargo",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "33/64",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.63,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 308
+    },
+    {
       "card_id": 14667,
       "name": "Celebi - SM224",
       "set_id": 5500076,
@@ -95329,6 +97453,18 @@
       "market_price_usd": 6.51,
       "market_price_as_of": "2026-11-07",
       "total_listings": 213
+    },
+    {
+      "card_id": 36796,
+      "name": "Unown [Y]",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "40/64",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.51,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 167
     },
     {
       "card_id": 21141,
@@ -100383,6 +102519,18 @@
       "total_listings": 70
     },
     {
+      "card_id": 32243,
+      "name": "Phanpy",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "076/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.77,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 147
+    },
+    {
       "card_id": 36260,
       "name": "Lapras",
       "set_id": 5500049,
@@ -101857,6 +104005,18 @@
       "market_price_usd": 5.6,
       "market_price_as_of": "2026-11-05",
       "total_listings": 98
+    },
+    {
+      "card_id": 36772,
+      "name": "Smoochum",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "number": "54/64",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.6,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 306
     },
     {
       "card_id": 2133467,
@@ -103525,6 +105685,18 @@
       "market_price_usd": 5.39,
       "market_price_as_of": "2026-11-07",
       "total_listings": 114
+    },
+    {
+      "card_id": 33398,
+      "name": "Dark Dragonair",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "number": "038/110",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.39,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 89
     },
     {
       "card_id": 38772,
@@ -106333,6 +108505,18 @@
       "market_price_usd": 5.06,
       "market_price_as_of": "2026-11-05",
       "total_listings": 182
+    },
+    {
+      "card_id": 32275,
+      "name": "Unown [V]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "number": "089/105",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.06,
+      "market_price_as_of": "2026-11-16",
+      "total_listings": 152
     },
     {
       "card_id": 17503,

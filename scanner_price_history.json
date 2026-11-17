@@ -367893,6 +367893,4262 @@
           "market_price_as_of": "2026-11-16"
         }
       ]
+    },
+    "33467:Reverse Holofoil": {
+      "card_id": 33467,
+      "name": "Alakazam",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 321.1,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33412:Reverse Holofoil": {
+      "card_id": 33412,
+      "name": "Articuno",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 749.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33464:Reverse Holofoil": {
+      "card_id": 33464,
+      "name": "Charizard",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 6999.0,
+          "market_price_as_of": "2026-10-19"
+        }
+      ]
+    },
+    "33460:Reverse Holofoil": {
+      "card_id": 33460,
+      "name": "Dark Blastoise",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 975.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33433:Reverse Holofoil": {
+      "card_id": 33433,
+      "name": "Dark Dragonite",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1300.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33442:Reverse Holofoil": {
+      "card_id": 33442,
+      "name": "Dark Persian",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 140.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33485:Reverse Holofoil": {
+      "card_id": 33485,
+      "name": "Dark Raichu",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 349.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33432:Reverse Holofoil": {
+      "card_id": 33432,
+      "name": "Dark Slowbro",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 329.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33494:Reverse Holofoil": {
+      "card_id": 33494,
+      "name": "Dark Vaporeon",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 413.75,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33443:Reverse Holofoil": {
+      "card_id": 33443,
+      "name": "Flareon",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 499.99,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "33472:Reverse Holofoil": {
+      "card_id": 33472,
+      "name": "Gengar",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2224.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33427:Reverse Holofoil": {
+      "card_id": 33427,
+      "name": "Gyarados",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 522.89,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33415:Reverse Holofoil": {
+      "card_id": 33415,
+      "name": "Hitmonlee",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 196.97,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33405:Reverse Holofoil": {
+      "card_id": 33405,
+      "name": "Jolteon",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 228.77,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33489:Reverse Holofoil": {
+      "card_id": 33489,
+      "name": "Machamp",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 312.5,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33459:Reverse Holofoil": {
+      "card_id": 33459,
+      "name": "Muk",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 233.25,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33496:Reverse Holofoil": {
+      "card_id": 33496,
+      "name": "Ninetales",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 415.25,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33478:Reverse Holofoil": {
+      "card_id": 33478,
+      "name": "Venusaur",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 799.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33471:Reverse Holofoil": {
+      "card_id": 33471,
+      "name": "Zapdos",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 399.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33430:Reverse Holofoil": {
+      "card_id": 33430,
+      "name": "Beedrill",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 299.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33468:Reverse Holofoil": {
+      "card_id": 33468,
+      "name": "Butterfree",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 251.71,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33404:Reverse Holofoil": {
+      "card_id": 33404,
+      "name": "Electrode",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 104.8,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33501:Reverse Holofoil": {
+      "card_id": 33501,
+      "name": "Exeggutor",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 82.09,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33488:Reverse Holofoil": {
+      "card_id": 33488,
+      "name": "Golem",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 186.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33456:Reverse Holofoil": {
+      "card_id": 33456,
+      "name": "Hypno",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 96.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33466:Reverse Holofoil": {
+      "card_id": 33466,
+      "name": "Jynx",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 91.11,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33431:Reverse Holofoil": {
+      "card_id": 33431,
+      "name": "Kabutops",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 94.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33400:Reverse Holofoil": {
+      "card_id": 33400,
+      "name": "Magneton",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 239.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33465:Reverse Holofoil": {
+      "card_id": 33465,
+      "name": "Mewtwo",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3300.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33473:Reverse Holofoil": {
+      "card_id": 33473,
+      "name": "Moltres",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 125.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33451:Reverse Holofoil": {
+      "card_id": 33451,
+      "name": "Nidoking",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 262.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33426:Reverse Holofoil": {
+      "card_id": 33426,
+      "name": "Nidoqueen",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 173.06,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33493:Reverse Holofoil": {
+      "card_id": 33493,
+      "name": "Pidgeot",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 218.57,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33440:Reverse Holofoil": {
+      "card_id": 33440,
+      "name": "Pidgeotto",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 216.66,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33454:Reverse Holofoil": {
+      "card_id": 33454,
+      "name": "Rhydon",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 75.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33477:Reverse Holofoil": {
+      "card_id": 33477,
+      "name": "Arcanine",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 154.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33406:Reverse Holofoil": {
+      "card_id": 33406,
+      "name": "Charmeleon",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 375.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33398:Normal": {
+      "card_id": 33398,
+      "name": "Dark Dragonair",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 5.39,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33401:Reverse Holofoil": {
+      "card_id": 33401,
+      "name": "Dark Wartortle",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 319.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33498:Reverse Holofoil": {
+      "card_id": 33498,
+      "name": "Dewgong",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 200.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33448:Reverse Holofoil": {
+      "card_id": 33448,
+      "name": "Dodrio",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 122.4,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33480:Reverse Holofoil": {
+      "card_id": 33480,
+      "name": "Fearow",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 172.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33500:Reverse Holofoil": {
+      "card_id": 33500,
+      "name": "Golduck",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 375.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33490:Reverse Holofoil": {
+      "card_id": 33490,
+      "name": "Graveler",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 145.49,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33413:Reverse Holofoil": {
+      "card_id": 33413,
+      "name": "Growlithe",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 200.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33421:Reverse Holofoil": {
+      "card_id": 33421,
+      "name": "Haunter",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 400.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33428:Reverse Holofoil": {
+      "card_id": 33428,
+      "name": "Ivysaur",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 350.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33395:Reverse Holofoil": {
+      "card_id": 33395,
+      "name": "Kabuto",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 132.79,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33435:Reverse Holofoil": {
+      "card_id": 33435,
+      "name": "Kadabra",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 150.19,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33455:Reverse Holofoil": {
+      "card_id": 33455,
+      "name": "Kakuna",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 150.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33499:Reverse Holofoil": {
+      "card_id": 33499,
+      "name": "Machoke",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 133.86,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33458:Reverse Holofoil": {
+      "card_id": 33458,
+      "name": "Magikarp",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 699.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33497:Reverse Holofoil": {
+      "card_id": 33497,
+      "name": "Meowth",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 183.76,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33450:Reverse Holofoil": {
+      "card_id": 33450,
+      "name": "Metapod",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 125.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33411:Reverse Holofoil": {
+      "card_id": 33411,
+      "name": "Nidorina",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 149.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33469:Reverse Holofoil": {
+      "card_id": 33469,
+      "name": "Nidorino",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 120.25,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33491:Reverse Holofoil": {
+      "card_id": 33491,
+      "name": "Omanyte",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 88.9,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33475:Reverse Holofoil": {
+      "card_id": 33475,
+      "name": "Omastar",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 100.79,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33437:Reverse Holofoil": {
+      "card_id": 33437,
+      "name": "Primeape",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 86.23,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33479:Reverse Holofoil": {
+      "card_id": 33479,
+      "name": "Rapidash",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 255.88,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33484:Reverse Holofoil": {
+      "card_id": 33484,
+      "name": "Raticate",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 96.51,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33476:Reverse Holofoil": {
+      "card_id": 33476,
+      "name": "Sandslash",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 147.08,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33452:Reverse Holofoil": {
+      "card_id": 33452,
+      "name": "Seadra",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 190.69,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33399:Reverse Holofoil": {
+      "card_id": 33399,
+      "name": "Snorlax",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 775.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33474:Reverse Holofoil": {
+      "card_id": 33474,
+      "name": "Tauros",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 154.69,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33487:Reverse Holofoil": {
+      "card_id": 33487,
+      "name": "Tentacruel",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 183.54,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33446:Reverse Holofoil": {
+      "card_id": 33446,
+      "name": "Abra",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 159.09,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33403:Reverse Holofoil": {
+      "card_id": 33403,
+      "name": "Bulbasaur",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 500.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33445:Reverse Holofoil": {
+      "card_id": 33445,
+      "name": "Caterpie",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 99.27,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33397:Reverse Holofoil": {
+      "card_id": 33397,
+      "name": "Charmander",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 662.25,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33422:Reverse Holofoil": {
+      "card_id": 33422,
+      "name": "Doduo",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 102.05,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33416:Reverse Holofoil": {
+      "card_id": 33416,
+      "name": "Drowzee",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 59.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33409:Reverse Holofoil": {
+      "card_id": 33409,
+      "name": "Eevee",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 715.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33486:Reverse Holofoil": {
+      "card_id": 33486,
+      "name": "Exeggcute",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 85.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33434:Reverse Holofoil": {
+      "card_id": 33434,
+      "name": "Gastly",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 483.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33462:Reverse Holofoil": {
+      "card_id": 33462,
+      "name": "Geodude",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 444.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33449:Reverse Holofoil": {
+      "card_id": 33449,
+      "name": "Grimer",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 119.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33436:Reverse Holofoil": {
+      "card_id": 33436,
+      "name": "Machop",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 210.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33410:Reverse Holofoil": {
+      "card_id": 33410,
+      "name": "Magnemite",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 102.01,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33463:Reverse Holofoil": {
+      "card_id": 33463,
+      "name": "Mankey",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 107.55,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33438:Reverse Holofoil": {
+      "card_id": 33438,
+      "name": "Nidoran F",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 163.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33439:Reverse Holofoil": {
+      "card_id": 33439,
+      "name": "Nidoran M",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 90.7,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33447:Reverse Holofoil": {
+      "card_id": 33447,
+      "name": "Onix",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 197.09,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33420:Reverse Holofoil": {
+      "card_id": 33420,
+      "name": "Pidgey",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 103.2,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33394:Reverse Holofoil": {
+      "card_id": 33394,
+      "name": "Pikachu",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1574.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33453:Reverse Holofoil": {
+      "card_id": 33453,
+      "name": "Ponyta",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 51.48,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33407:Reverse Holofoil": {
+      "card_id": 33407,
+      "name": "Psyduck",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 775.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33441:Reverse Holofoil": {
+      "card_id": 33441,
+      "name": "Rattata",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 229.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33483:Reverse Holofoil": {
+      "card_id": 33483,
+      "name": "Rhyhorn",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 84.77,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33419:Reverse Holofoil": {
+      "card_id": 33419,
+      "name": "Sandshrew",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 115.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33492:Reverse Holofoil": {
+      "card_id": 33492,
+      "name": "Seel",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 163.48,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33408:Reverse Holofoil": {
+      "card_id": 33408,
+      "name": "Slowpoke",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1000.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33429:Reverse Holofoil": {
+      "card_id": 33429,
+      "name": "Spearow",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 174.97,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33393:Reverse Holofoil": {
+      "card_id": 33393,
+      "name": "Squirtle",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 486.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33444:Reverse Holofoil": {
+      "card_id": 33444,
+      "name": "Tentacool",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 170.54,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33425:Reverse Holofoil": {
+      "card_id": 33425,
+      "name": "Voltorb",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 178.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33423:Reverse Holofoil": {
+      "card_id": 33423,
+      "name": "Vulpix",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 245.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33414:Reverse Holofoil": {
+      "card_id": 33414,
+      "name": "Weedle",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 165.82,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33502:Reverse Holofoil": {
+      "card_id": 33502,
+      "name": "Full Heal Energy",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 37.07,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33457:Reverse Holofoil": {
+      "card_id": 33457,
+      "name": "Potion Energy",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 85.81,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33461:Reverse Holofoil": {
+      "card_id": 33461,
+      "name": "Pokemon Breeder",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 97.95,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33417:Reverse Holofoil": {
+      "card_id": 33417,
+      "name": "Pokemon Trader",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 51.47,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33482:Reverse Holofoil": {
+      "card_id": 33482,
+      "name": "Scoop Up",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 66.08,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33495:Reverse Holofoil": {
+      "card_id": 33495,
+      "name": "The Boss's Way",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 107.19,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33402:Reverse Holofoil": {
+      "card_id": 33402,
+      "name": "Challenge!",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 118.7,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33481:Reverse Holofoil": {
+      "card_id": 33481,
+      "name": "Energy Retrieval",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 129.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33418:Reverse Holofoil": {
+      "card_id": 33418,
+      "name": "Bill",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 89.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33470:Reverse Holofoil": {
+      "card_id": 33470,
+      "name": "Mysterious Fossil",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 225.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "33424:Reverse Holofoil": {
+      "card_id": 33424,
+      "name": "Potion",
+      "set_id": 5500062,
+      "set_name": "Legendary Collection",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 103.66,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32300:Unlimited Holofoil": {
+      "card_id": 32300,
+      "name": "Dark Ampharos",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 156.36,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32321:1st Edition Holofoil": {
+      "card_id": 32321,
+      "name": "Dark Crobat",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 175.91,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32322:1st Edition Holofoil": {
+      "card_id": 32322,
+      "name": "Dark Donphan",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 117.5,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32330:Unlimited Holofoil": {
+      "card_id": 32330,
+      "name": "Dark Espeon",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 649.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32299:1st Edition Holofoil": {
+      "card_id": 32299,
+      "name": "Dark Feraligatr",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 250.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32317:1st Edition Holofoil": {
+      "card_id": 32317,
+      "name": "Dark Gengar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1995.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32320:Unlimited Holofoil": {
+      "card_id": 32320,
+      "name": "Dark Houndoom",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 299.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32327:Unlimited Holofoil": {
+      "card_id": 32327,
+      "name": "Dark Porygon2",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 100.25,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32326:Unlimited Holofoil": {
+      "card_id": 32326,
+      "name": "Dark Scizor",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 190.76,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32250:1st Edition Holofoil": {
+      "card_id": 32250,
+      "name": "Dark Typhlosion",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 274.99,
+          "market_price_as_of": "2026-11-09"
+        }
+      ]
+    },
+    "32323:Unlimited Holofoil": {
+      "card_id": 32323,
+      "name": "Dark Tyranitar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 295.28,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32325:1st Edition Holofoil": {
+      "card_id": 32325,
+      "name": "Light Arcanine",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 479.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32247:1st Edition Holofoil": {
+      "card_id": 32247,
+      "name": "Light Azumarill",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 87.04,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32324:1st Edition Holofoil": {
+      "card_id": 32324,
+      "name": "Light Dragonite",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 699.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32319:1st Edition Holofoil": {
+      "card_id": 32319,
+      "name": "Light Togetic",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 350.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32328:1st Edition Holofoil": {
+      "card_id": 32328,
+      "name": "Miracle Energy",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 79.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32304:1st Edition": {
+      "card_id": 32304,
+      "name": "Dark Ariados",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 16.78,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32289:1st Edition": {
+      "card_id": 32289,
+      "name": "Dark Magcargo",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 18.48,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32303:1st Edition": {
+      "card_id": 32303,
+      "name": "Dark Omastar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 52.7,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32311:1st Edition": {
+      "card_id": 32311,
+      "name": "Dark Slowking",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 140.3,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32314:1st Edition": {
+      "card_id": 32314,
+      "name": "Dark Ursaring",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 44.07,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32294:1st Edition": {
+      "card_id": 32294,
+      "name": "Light Dragonair",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 100.29,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32315:1st Edition": {
+      "card_id": 32315,
+      "name": "Light Lanturn",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 18.33,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32291:1st Edition": {
+      "card_id": 32291,
+      "name": "Light Ledian",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 38.45,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32273:1st Edition": {
+      "card_id": 32273,
+      "name": "Light Machamp",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 60.98,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32301:1st Edition": {
+      "card_id": 32301,
+      "name": "Light Piloswine",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 42.21,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32308:1st Edition": {
+      "card_id": 32308,
+      "name": "Unown [G]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 26.22,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32312:1st Edition": {
+      "card_id": 32312,
+      "name": "Unown [H]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 44.83,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32306:1st Edition": {
+      "card_id": 32306,
+      "name": "Unown [W]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 41.39,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32316:1st Edition": {
+      "card_id": 32316,
+      "name": "Unown [X]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 33.51,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32277:1st Edition": {
+      "card_id": 32277,
+      "name": "Chansey",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 48.42,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32281:1st Edition": {
+      "card_id": 32281,
+      "name": "Dark Croconaw",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 16.82,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32285:1st Edition": {
+      "card_id": 32285,
+      "name": "Dark Exeggcutor",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 20.81,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32265:1st Edition": {
+      "card_id": 32265,
+      "name": "Dark Flaaffy",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 18.55,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32298:1st Edition": {
+      "card_id": 32298,
+      "name": "Dark Forretress",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 11.52,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32258:1st Edition": {
+      "card_id": 32258,
+      "name": "Dark Haunter",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 89.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32267:1st Edition": {
+      "card_id": 32267,
+      "name": "Dark Omanyte",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 18.54,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32307:1st Edition": {
+      "card_id": 32307,
+      "name": "Dark Pupitar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 15.64,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32233:1st Edition": {
+      "card_id": 32233,
+      "name": "Dark Quilava",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 26.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32290:1st Edition": {
+      "card_id": 32290,
+      "name": "Dark Wigglytuff",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 36.26,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32286:1st Edition": {
+      "card_id": 32286,
+      "name": "Heracross",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 14.18,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32266:1st Edition": {
+      "card_id": 32266,
+      "name": "Hitmonlee",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 20.13,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32231:1st Edition": {
+      "card_id": 32231,
+      "name": "Houndour",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 26.69,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32274:1st Edition": {
+      "card_id": 32274,
+      "name": "Jigglypuff",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 44.11,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32251:1st Edition": {
+      "card_id": 32251,
+      "name": "Light Dewgong",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 14.81,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32296:1st Edition": {
+      "card_id": 32296,
+      "name": "Light Flareon",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 93.06,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32272:1st Edition": {
+      "card_id": 32272,
+      "name": "Light Golduck",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 22.77,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32284:1st Edition": {
+      "card_id": 32284,
+      "name": "Light Jolteon",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 239.15,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32245:1st Edition": {
+      "card_id": 32245,
+      "name": "Light Machoke",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 36.22,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32254:1st Edition": {
+      "card_id": 32254,
+      "name": "Light Ninetales",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 66.2,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32282:1st Edition": {
+      "card_id": 32282,
+      "name": "Light Slowbro",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 74.82,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32268:1st Edition": {
+      "card_id": 32268,
+      "name": "Light Vaporeon",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 96.83,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32302:1st Edition": {
+      "card_id": 32302,
+      "name": "Light Venomoth",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 12.83,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32244:1st Edition": {
+      "card_id": 32244,
+      "name": "Light Wigglytuff",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 33.74,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32276:1st Edition": {
+      "card_id": 32276,
+      "name": "Scyther",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 24.23,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32278:1st Edition": {
+      "card_id": 32278,
+      "name": "Togepi",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 72.19,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32305:1st Edition": {
+      "card_id": 32305,
+      "name": "Unown [C]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 11.84,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32279:1st Edition": {
+      "card_id": 32279,
+      "name": "Unown [P]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 11.37,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32293:1st Edition": {
+      "card_id": 32293,
+      "name": "Unown [Q]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 14.16,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32295:1st Edition": {
+      "card_id": 32295,
+      "name": "Unown [Z]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 15.01,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32230:1st Edition": {
+      "card_id": 32230,
+      "name": "Cyndaquil",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 26.76,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32235:1st Edition": {
+      "card_id": 32235,
+      "name": "Dark Octillery",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.92,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32261:1st Edition": {
+      "card_id": 32261,
+      "name": "Exeggcute",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.93,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32238:1st Edition": {
+      "card_id": 32238,
+      "name": "Gastly",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 19.28,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32240:1st Edition": {
+      "card_id": 32240,
+      "name": "Girafarig",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 16.33,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32232:1st Edition": {
+      "card_id": 32232,
+      "name": "Gligar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.36,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32226:1st Edition": {
+      "card_id": 32226,
+      "name": "Growlithe",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 20.21,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32260:1st Edition": {
+      "card_id": 32260,
+      "name": "Hitmonchan",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 7.85,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32263:1st Edition": {
+      "card_id": 32263,
+      "name": "Larvitar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 12.33,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32257:1st Edition": {
+      "card_id": 32257,
+      "name": "Ledyba",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 10.72,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32259:1st Edition": {
+      "card_id": 32259,
+      "name": "Light Sunflora",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 4.2,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32236:1st Edition": {
+      "card_id": 32236,
+      "name": "Machop",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.88,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32241:1st Edition": {
+      "card_id": 32241,
+      "name": "Mareep",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 8.25,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32243:1st Edition": {
+      "card_id": 32243,
+      "name": "Phanpy",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 5.77,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32262:1st Edition": {
+      "card_id": 32262,
+      "name": "Pineco",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.33,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32252:1st Edition": {
+      "card_id": 32252,
+      "name": "Porygon",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 13.67,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32225:1st Edition": {
+      "card_id": 32225,
+      "name": "Psyduck",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 75.89,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32256:1st Edition": {
+      "card_id": 32256,
+      "name": "Remoraid",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1.92,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32234:1st Edition": {
+      "card_id": 32234,
+      "name": "Seel",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3.61,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32242:1st Edition": {
+      "card_id": 32242,
+      "name": "Slugma",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.2,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32253:1st Edition": {
+      "card_id": 32253,
+      "name": "Sunkern",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.09,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32246:1st Edition": {
+      "card_id": 32246,
+      "name": "Swinub",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.96,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32237:1st Edition": {
+      "card_id": 32237,
+      "name": "Totodile",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 35.78,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32255:1st Edition": {
+      "card_id": 32255,
+      "name": "Unown [L]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.85,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32248:1st Edition": {
+      "card_id": 32248,
+      "name": "Unown [S]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 9.23,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32228:1st Edition": {
+      "card_id": 32228,
+      "name": "Unown [T]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 4.38,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32275:1st Edition": {
+      "card_id": 32275,
+      "name": "Unown [V]",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 5.06,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32249:1st Edition": {
+      "card_id": 32249,
+      "name": "Venonat",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3.05,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32229:1st Edition": {
+      "card_id": 32229,
+      "name": "Vulpix",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 23.59,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32318:1st Edition": {
+      "card_id": 32318,
+      "name": "Broken Ground Gym",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 47.22,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32309:1st Edition": {
+      "card_id": 32309,
+      "name": "EXP.ALL",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 8.4,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32313:1st Edition": {
+      "card_id": 32313,
+      "name": "Impostor Professor Oak's Invention",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 11.14,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32310:1st Edition": {
+      "card_id": 32310,
+      "name": "Radio Tower",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 10.36,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32297:1st Edition": {
+      "card_id": 32297,
+      "name": "Thought Wave Machine (Rocket's Secret Machine)",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 38.86,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32287:1st Edition": {
+      "card_id": 32287,
+      "name": "Counterattack Claws",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3.16,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32283:1st Edition": {
+      "card_id": 32283,
+      "name": "Energy Amplifier",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.57,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32270:1st Edition": {
+      "card_id": 32270,
+      "name": "Energy Stadium",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 7.19,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32269:1st Edition": {
+      "card_id": 32269,
+      "name": "Lucky Stadium",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 37.65,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32288:1st Edition": {
+      "card_id": 32288,
+      "name": "Magnifier",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3.41,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32280:1st Edition": {
+      "card_id": 32280,
+      "name": "Pokemon Personality Test",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 26.78,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32292:1st Edition": {
+      "card_id": 32292,
+      "name": "Team Rocket's Evil Deeds",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 7.54,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32264:1st Edition": {
+      "card_id": 32264,
+      "name": "Heal Powder",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1.14,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32271:1st Edition": {
+      "card_id": 32271,
+      "name": "Mail from Bill",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1.69,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32334:1st Edition Holofoil": {
+      "card_id": 32334,
+      "name": "Shining Celebi",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1801.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32329:Unlimited Holofoil": {
+      "card_id": 32329,
+      "name": "Shining Charizard",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1300.0,
+          "market_price_as_of": "2026-11-11"
+        }
+      ]
+    },
+    "32332:1st Edition Holofoil": {
+      "card_id": 32332,
+      "name": "Shining Kabutops",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1399.95,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "32331:1st Edition Holofoil": {
+      "card_id": 32331,
+      "name": "Shining Mewtwo",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1200.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32336:Unlimited Holofoil": {
+      "card_id": 32336,
+      "name": "Shining Noctowl",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 474.97,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32335:1st Edition Holofoil": {
+      "card_id": 32335,
+      "name": "Shining Raichu",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1200.0,
+          "market_price_as_of": "2026-07-06"
+        }
+      ]
+    },
+    "32337:Unlimited Holofoil": {
+      "card_id": 32337,
+      "name": "Shining Steelix",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 562.5,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32333:1st Edition Holofoil": {
+      "card_id": 32333,
+      "name": "Shining Tyranitar",
+      "set_id": 5500156,
+      "set_name": "Neo Destiny",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 4099.05,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36818:1st Edition Holofoil": {
+      "card_id": 36818,
+      "name": "Ampharos",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 219.9,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36822:1st Edition Holofoil": {
+      "card_id": 36822,
+      "name": "Blissey",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 297.49,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36817:1st Edition Holofoil": {
+      "card_id": 36817,
+      "name": "Celebi (3)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 346.48,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36815:1st Edition Holofoil": {
+      "card_id": 36815,
+      "name": "Crobat",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 134.95,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36814:1st Edition Holofoil": {
+      "card_id": 36814,
+      "name": "Delibird",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 81.94,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36812:1st Edition Holofoil": {
+      "card_id": 36812,
+      "name": "Entei (6)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 611.27,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36821:1st Edition Holofoil": {
+      "card_id": 36821,
+      "name": "Ho-oh (7)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 488.52,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36820:Unlimited Holofoil": {
+      "card_id": 36820,
+      "name": "Houndoom",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 564.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36811:1st Edition Holofoil": {
+      "card_id": 36811,
+      "name": "Jumpluff",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 113.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36809:1st Edition Holofoil": {
+      "card_id": 36809,
+      "name": "Magneton",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 89.7,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36819:1st Edition Holofoil": {
+      "card_id": 36819,
+      "name": "Misdreavus",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 229.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36810:1st Edition Holofoil": {
+      "card_id": 36810,
+      "name": "Porygon2",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 170.0,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36813:1st Edition Holofoil": {
+      "card_id": 36813,
+      "name": "Raikou (13)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 496.24,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36816:1st Edition Holofoil": {
+      "card_id": 36816,
+      "name": "Suicune (14)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 399.95,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36803:1st Edition": {
+      "card_id": 36803,
+      "name": "Aerodactyl",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 34.34,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36800:1st Edition": {
+      "card_id": 36800,
+      "name": "Celebi (16)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 47.48,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36798:1st Edition": {
+      "card_id": 36798,
+      "name": "Entei (17)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 68.15,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36795:1st Edition": {
+      "card_id": 36795,
+      "name": "Ho-oh (18)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 124.95,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36806:1st Edition": {
+      "card_id": 36806,
+      "name": "Kingdra",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 25.03,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36790:1st Edition": {
+      "card_id": 36790,
+      "name": "Lugia",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 148.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36792:1st Edition": {
+      "card_id": 36792,
+      "name": "Raichu",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 45.84,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36787:1st Edition": {
+      "card_id": 36787,
+      "name": "Raikou (22)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 52.84,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36802:1st Edition": {
+      "card_id": 36802,
+      "name": "Skarmory",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 32.41,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36808:1st Edition": {
+      "card_id": 36808,
+      "name": "Sneasel",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 18.55,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36801:1st Edition": {
+      "card_id": 36801,
+      "name": "Starmie",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 15.86,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36804:1st Edition": {
+      "card_id": 36804,
+      "name": "Sudowoodo",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 23.45,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36785:1st Edition": {
+      "card_id": 36785,
+      "name": "Suicune (27)",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 73.28,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36781:1st Edition": {
+      "card_id": 36781,
+      "name": "Flaaffy",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 8.02,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36807:1st Edition": {
+      "card_id": 36807,
+      "name": "Golbat",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.96,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36782:1st Edition": {
+      "card_id": 36782,
+      "name": "Graveler",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.6,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36793:1st Edition": {
+      "card_id": 36793,
+      "name": "Jynx",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 13.29,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36797:1st Edition": {
+      "card_id": 36797,
+      "name": "Lanturn",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 4.22,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36794:1st Edition": {
+      "card_id": 36794,
+      "name": "Magcargo",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 6.63,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36783:1st Edition": {
+      "card_id": 36783,
+      "name": "Octillery",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 9.43,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36788:1st Edition": {
+      "card_id": 36788,
+      "name": "Parasect",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 4.61,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36779:1st Edition": {
+      "card_id": 36779,
+      "name": "Piloswine",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.72,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36786:1st Edition": {
+      "card_id": 36786,
+      "name": "Seaking",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3.27,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36778:1st Edition": {
+      "card_id": 36778,
+      "name": "Stantler",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 4.24,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36789:1st Edition": {
+      "card_id": 36789,
+      "name": "Unown [B]",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 7.22,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36796:1st Edition": {
+      "card_id": 36796,
+      "name": "Unown [Y]",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 6.51,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36763:1st Edition": {
+      "card_id": 36763,
+      "name": "Aipom",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.19,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36762:1st Edition": {
+      "card_id": 36762,
+      "name": "Chinchou",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.14,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36775:1st Edition": {
+      "card_id": 36775,
+      "name": "Farfetch'd",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3.82,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36773:1st Edition": {
+      "card_id": 36773,
+      "name": "Geodude",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.09,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36769:1st Edition": {
+      "card_id": 36769,
+      "name": "Goldeen",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 7.71,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36760:1st Edition": {
+      "card_id": 36760,
+      "name": "Murkrow",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 4.84,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36761:1st Edition": {
+      "card_id": 36761,
+      "name": "Paras",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3.43,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36768:1st Edition": {
+      "card_id": 36768,
+      "name": "Quagsire",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 14.96,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36776:1st Edition": {
+      "card_id": 36776,
+      "name": "Qwilfish",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3.45,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36770:1st Edition": {
+      "card_id": 36770,
+      "name": "Remoraid",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1.91,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36765:1st Edition": {
+      "card_id": 36765,
+      "name": "Shuckle",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 14.92,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36759:1st Edition": {
+      "card_id": 36759,
+      "name": "Skiploom",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.42,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36777:1st Edition": {
+      "card_id": 36777,
+      "name": "Slugma",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.24,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36772:1st Edition": {
+      "card_id": 36772,
+      "name": "Smoochum",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 5.6,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36764:1st Edition": {
+      "card_id": 36764,
+      "name": "Snubbull",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 4.81,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36771:1st Edition": {
+      "card_id": 36771,
+      "name": "Staryu",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.56,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36766:1st Edition": {
+      "card_id": 36766,
+      "name": "Swinub",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.11,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36774:1st Edition": {
+      "card_id": 36774,
+      "name": "Unown [K]",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 3.15,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36767:1st Edition": {
+      "card_id": 36767,
+      "name": "Zubat",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.72,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36805:1st Edition": {
+      "card_id": 36805,
+      "name": "Balloon Berry",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 1.74,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36791:1st Edition": {
+      "card_id": 36791,
+      "name": "Healing Field",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 2.2,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36784:1st Edition": {
+      "card_id": 36784,
+      "name": "Pokemon Breeder Fields",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 17.42,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36780:1st Edition": {
+      "card_id": 36780,
+      "name": "Rocket's Hideout",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 36.93,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36799:1st Edition": {
+      "card_id": 36799,
+      "name": "Old Rod",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 0.89,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "36824:Unlimited Holofoil": {
+      "card_id": 36824,
+      "name": "Shining Gyarados",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 793.16,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36823:1st Edition Holofoil": {
+      "card_id": 36823,
+      "name": "Shining Magikarp",
+      "set_id": 5500039,
+      "set_name": "Neo Revelation",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 549.0,
+          "market_price_as_of": "2026-05-25"
+        }
+      ]
+    },
+    "38500:Reverse Holofoil": {
+      "card_id": 38500,
+      "name": "Mew",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 675.18,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38504:Normal": {
+      "card_id": 38504,
+      "name": "Pidgeot",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 51.05,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38505:Normal": {
+      "card_id": 38505,
+      "name": "Onix",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 64.38,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38512:Reverse Holofoil": {
+      "card_id": 38512,
+      "name": "Togepi",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 337.68,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38516:Normal": {
+      "card_id": 38516,
+      "name": "Ivysaur",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 67.72,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38510:Normal": {
+      "card_id": 38510,
+      "name": "Raticate",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 40.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38509:Reverse Holofoil": {
+      "card_id": 38509,
+      "name": "Ledyba",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 74.43,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38511:Normal": {
+      "card_id": 38511,
+      "name": "Jigglypuff",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 76.96,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38513:Normal": {
+      "card_id": 38513,
+      "name": "Butterfree",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 55.29,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38503:Normal": {
+      "card_id": 38503,
+      "name": "Tentacruel",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 60.72,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38502:Reverse Holofoil": {
+      "card_id": 38502,
+      "name": "Marill",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 242.56,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38507:Normal": {
+      "card_id": 38507,
+      "name": "Lapras",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 81.32,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38514:Normal": {
+      "card_id": 38514,
+      "name": "Exeggutor",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 42.71,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38508:Reverse Holofoil": {
+      "card_id": 38508,
+      "name": "Slowking",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 485.97,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38515:Normal": {
+      "card_id": 38515,
+      "name": "Wartortle",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 85.76,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38517:Normal": {
+      "card_id": 38517,
+      "name": "Lickitung",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 42.11,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38506:Reverse Holofoil": {
+      "card_id": 38506,
+      "name": "Vileplume",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 110.02,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "38501:Normal": {
+      "card_id": 38501,
+      "name": "Primeape",
+      "set_id": 5500038,
+      "set_name": "Southern Islands",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-17",
+          "market_price_usd": 41.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
     }
   }
 }
