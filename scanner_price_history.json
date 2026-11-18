@@ -372149,6 +372149,7384 @@
           "market_price_as_of": "2026-11-17"
         }
       ]
+    },
+    "36464:Unlimited Holofoil": {
+      "card_id": 36464,
+      "name": "Espeon (1)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 412.82,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36447:1st Edition Holofoil": {
+      "card_id": 36447,
+      "name": "Forretress (2)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 62.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36416:1st Edition Holofoil": {
+      "card_id": 36416,
+      "name": "Hitmontop (3)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 161.44,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36457:1st Edition Holofoil": {
+      "card_id": 36457,
+      "name": "Houndoom (4)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 271.66,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36451:1st Edition Holofoil": {
+      "card_id": 36451,
+      "name": "Houndour (5)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 350.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36466:1st Edition Holofoil": {
+      "card_id": 36466,
+      "name": "Kabutops (6)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 148.72,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36467:1st Edition Holofoil": {
+      "card_id": 36467,
+      "name": "Magnemite (7)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 41.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36438:1st Edition Holofoil": {
+      "card_id": 36438,
+      "name": "Politoed (8)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 195.95,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36448:1st Edition Holofoil": {
+      "card_id": 36448,
+      "name": "Poliwrath (9)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 155.97,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36459:1st Edition Holofoil": {
+      "card_id": 36459,
+      "name": "Scizor (10)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 246.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36456:1st Edition Holofoil": {
+      "card_id": 36456,
+      "name": "Smeargle (11)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 120.83,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36452:1st Edition Holofoil": {
+      "card_id": 36452,
+      "name": "Tyranitar (12)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 400.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36468:Unlimited Holofoil": {
+      "card_id": 36468,
+      "name": "Umbreon (13)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 817.16,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36422:1st Edition Holofoil": {
+      "card_id": 36422,
+      "name": "Unown [A] (14)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 117.49,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36460:1st Edition Holofoil": {
+      "card_id": 36460,
+      "name": "Ursaring (15)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 154.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36443:1st Edition Holofoil": {
+      "card_id": 36443,
+      "name": "Wobbuffet (16)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 248.67,
+          "market_price_as_of": "2026-11-13"
+        }
+      ]
+    },
+    "36461:1st Edition Holofoil": {
+      "card_id": 36461,
+      "name": "Yanma (17)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 169.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36450:1st Edition": {
+      "card_id": 36450,
+      "name": "Beedrill",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 36.66,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36417:1st Edition": {
+      "card_id": 36417,
+      "name": "Butterfree",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 38.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36432:1st Edition": {
+      "card_id": 36432,
+      "name": "Espeon (20)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 169.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36435:1st Edition": {
+      "card_id": 36435,
+      "name": "Forretress (21)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.07,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36463:1st Edition": {
+      "card_id": 36463,
+      "name": "Hitmontop (22)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 14.4,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36439:1st Edition": {
+      "card_id": 36439,
+      "name": "Houndoom (23)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 43.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36454:1st Edition": {
+      "card_id": 36454,
+      "name": "Houndour (24)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 44.33,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36455:1st Edition": {
+      "card_id": 36455,
+      "name": "Kabutops (25)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 39.49,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36441:1st Edition": {
+      "card_id": 36441,
+      "name": "Magnemite (26)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 14.22,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36444:1st Edition": {
+      "card_id": 36444,
+      "name": "Politoed (27)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 37.13,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36458:1st Edition": {
+      "card_id": 36458,
+      "name": "Poliwrath (28)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 21.32,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36440:1st Edition": {
+      "card_id": 36440,
+      "name": "Scizor (29)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 43.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36445:1st Edition": {
+      "card_id": 36445,
+      "name": "Smeargle (30)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 25.37,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36436:1st Edition": {
+      "card_id": 36436,
+      "name": "Tyranitar (31)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 98.66,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36465:1st Edition": {
+      "card_id": 36465,
+      "name": "Umbreon (32)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 399.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36449:1st Edition": {
+      "card_id": 36449,
+      "name": "Unown [A] (33)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 20.34,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36453:1st Edition": {
+      "card_id": 36453,
+      "name": "Ursaring (34)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 18.04,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36446:1st Edition": {
+      "card_id": 36446,
+      "name": "Wobbuffet (35)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 20.49,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36462:1st Edition": {
+      "card_id": 36462,
+      "name": "Yanma (36)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.45,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36427:1st Edition": {
+      "card_id": 36427,
+      "name": "Corsola",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 30.14,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36411:1st Edition": {
+      "card_id": 36411,
+      "name": "Eevee",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 45.87,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36424:1st Edition": {
+      "card_id": 36424,
+      "name": "Houndour (39)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36414:1st Edition": {
+      "card_id": 36414,
+      "name": "Igglybuff",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 20.52,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36426:1st Edition": {
+      "card_id": 36426,
+      "name": "Kakuna",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.21,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36420:1st Edition": {
+      "card_id": 36420,
+      "name": "Metapod",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.01,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36421:1st Edition": {
+      "card_id": 36421,
+      "name": "Omastar",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.67,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36429:1st Edition": {
+      "card_id": 36429,
+      "name": "Poliwhirl",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.85,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36415:1st Edition": {
+      "card_id": 36415,
+      "name": "Pupitar",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.54,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36419:1st Edition": {
+      "card_id": 36419,
+      "name": "Scyther",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 12.51,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36418:1st Edition": {
+      "card_id": 36418,
+      "name": "Unown [D]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.03,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36423:1st Edition": {
+      "card_id": 36423,
+      "name": "Unown [F]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36433:1st Edition": {
+      "card_id": 36433,
+      "name": "Unown [M]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.16,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36425:1st Edition": {
+      "card_id": 36425,
+      "name": "Unown [N]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.59,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36430:1st Edition": {
+      "card_id": 36430,
+      "name": "Unown [U]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.84,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36434:1st Edition": {
+      "card_id": 36434,
+      "name": "Xatu",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.1,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36397:1st Edition": {
+      "card_id": 36397,
+      "name": "Caterpie",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.79,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36395:1st Edition": {
+      "card_id": 36395,
+      "name": "Dunsparce",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.77,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36413:1st Edition": {
+      "card_id": 36413,
+      "name": "Hoppip",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.77,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36408:1st Edition": {
+      "card_id": 36408,
+      "name": "Kabuto",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 12.68,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36398:1st Edition": {
+      "card_id": 36398,
+      "name": "Larvitar",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.6,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36412:1st Edition": {
+      "card_id": 36412,
+      "name": "Mareep",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.59,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36404:1st Edition": {
+      "card_id": 36404,
+      "name": "Natu",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.32,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36396:1st Edition": {
+      "card_id": 36396,
+      "name": "Omanyte",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.3,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36405:1st Edition": {
+      "card_id": 36405,
+      "name": "Pineco",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.8,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36410:1st Edition": {
+      "card_id": 36410,
+      "name": "Poliwag",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.49,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36400:1st Edition": {
+      "card_id": 36400,
+      "name": "Sentret",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.15,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36409:1st Edition": {
+      "card_id": 36409,
+      "name": "Spinarak",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.19,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36403:1st Edition": {
+      "card_id": 36403,
+      "name": "Teddiursa",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.43,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36394:1st Edition": {
+      "card_id": 36394,
+      "name": "Tyrogue",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.44,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36406:1st Edition": {
+      "card_id": 36406,
+      "name": "Unown [E]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.49,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36401:1st Edition": {
+      "card_id": 36401,
+      "name": "Unown [I]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36399:1st Edition": {
+      "card_id": 36399,
+      "name": "Unown [O]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.91,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36407:1st Edition": {
+      "card_id": 36407,
+      "name": "Weedle",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.35,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36402:1st Edition": {
+      "card_id": 36402,
+      "name": "Wooper",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 16.53,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36437:1st Edition": {
+      "card_id": 36437,
+      "name": "Fossil Egg",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.92,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36442:1st Edition": {
+      "card_id": 36442,
+      "name": "Hyper Devolution Spray",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.76,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36431:1st Edition": {
+      "card_id": 36431,
+      "name": "Ruin Wall",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.93,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36428:1st Edition": {
+      "card_id": 36428,
+      "name": "Energy Ark",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 0.81,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32913:1st Edition Holofoil": {
+      "card_id": 32913,
+      "name": "Ampharos",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 111.58,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32905:1st Edition Holofoil": {
+      "card_id": 32905,
+      "name": "Azumarill",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 128.95,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32899:1st Edition Holofoil": {
+      "card_id": 32899,
+      "name": "Bellossom",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 91.53,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32920:1st Edition Holofoil": {
+      "card_id": 32920,
+      "name": "Feraligatr (4)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 208.93,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32921:1st Edition Holofoil": {
+      "card_id": 32921,
+      "name": "Feraligatr (5)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 503.94,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32907:1st Edition Holofoil": {
+      "card_id": 32907,
+      "name": "Heracross",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 275.76,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32825:1st Edition Holofoil": {
+      "card_id": 32825,
+      "name": "Jumpluff",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 68.65,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32836:1st Edition Holofoil": {
+      "card_id": 32836,
+      "name": "Kingdra",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 143.66,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32917:1st Edition Holofoil": {
+      "card_id": 32917,
+      "name": "Lugia",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1300.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32923:1st Edition Holofoil": {
+      "card_id": 32923,
+      "name": "Meganium (10)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 160.17,
+          "market_price_as_of": "2026-11-15"
+        }
+      ]
+    },
+    "32924:1st Edition Holofoil": {
+      "card_id": 32924,
+      "name": "Meganium (11)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 268.96,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32925:1st Edition Holofoil": {
+      "card_id": 32925,
+      "name": "Pichu",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 257.57,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "32902:1st Edition Holofoil": {
+      "card_id": 32902,
+      "name": "Skarmory",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 127.47,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32903:1st Edition Holofoil": {
+      "card_id": 32903,
+      "name": "Slowking",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 293.07,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32884:1st Edition Holofoil": {
+      "card_id": 32884,
+      "name": "Steelix",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 198.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32906:1st Edition Holofoil": {
+      "card_id": 32906,
+      "name": "Togetic",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 148.23,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32926:1st Edition Holofoil": {
+      "card_id": 32926,
+      "name": "Typhlosion (17)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 330.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32927:1st Edition Holofoil": {
+      "card_id": 32927,
+      "name": "Typhlosion (18)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 599.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32896:1st Edition Holofoil": {
+      "card_id": 32896,
+      "name": "Metal Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 27.19,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32890:1st Edition": {
+      "card_id": 32890,
+      "name": "Cleffa",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 25.48,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32914:1st Edition": {
+      "card_id": 32914,
+      "name": "Donphan",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.97,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32857:1st Edition": {
+      "card_id": 32857,
+      "name": "Elekid",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 20.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32877:1st Edition": {
+      "card_id": 32877,
+      "name": "Magby",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.51,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32873:1st Edition": {
+      "card_id": 32873,
+      "name": "Murkrow",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.33,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32881:1st Edition": {
+      "card_id": 32881,
+      "name": "Sneasel",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 23.82,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32915:1st Edition": {
+      "card_id": 32915,
+      "name": "Aipom",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.75,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32860:1st Edition": {
+      "card_id": 32860,
+      "name": "Ariados",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.25,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32908:1st Edition": {
+      "card_id": 32908,
+      "name": "Bayleef (28)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.45,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32866:1st Edition": {
+      "card_id": 32866,
+      "name": "Bayleef (29)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.32,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32859:1st Edition": {
+      "card_id": 32859,
+      "name": "Clefairy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 23.64,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32856:1st Edition": {
+      "card_id": 32856,
+      "name": "Croconaw (31)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.3,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32862:1st Edition": {
+      "card_id": 32862,
+      "name": "Croconaw (32)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.52,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32887:1st Edition": {
+      "card_id": 32887,
+      "name": "Electabuzz",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.66,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32870:1st Edition": {
+      "card_id": 32870,
+      "name": "Flaaffy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.56,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32868:1st Edition": {
+      "card_id": 32868,
+      "name": "Furret",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.63,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32883:1st Edition": {
+      "card_id": 32883,
+      "name": "Gloom",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.25,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32861:1st Edition": {
+      "card_id": 32861,
+      "name": "Granbull",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.58,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32853:1st Edition": {
+      "card_id": 32853,
+      "name": "Lanturn",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.97,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32869:1st Edition": {
+      "card_id": 32869,
+      "name": "Ledian",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.63,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32885:1st Edition": {
+      "card_id": 32885,
+      "name": "Magmar",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.25,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32886:1st Edition": {
+      "card_id": 32886,
+      "name": "Miltank",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.77,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32874:1st Edition": {
+      "card_id": 32874,
+      "name": "Noctowl",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.36,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32880:1st Edition": {
+      "card_id": 32880,
+      "name": "Phanpy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.45,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32911:1st Edition": {
+      "card_id": 32911,
+      "name": "Piloswine",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.09,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32879:1st Edition": {
+      "card_id": 32879,
+      "name": "Quagsire",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.8,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32878:1st Edition": {
+      "card_id": 32878,
+      "name": "Quilava (46)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 9.52,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32863:1st Edition": {
+      "card_id": 32863,
+      "name": "Quilava (47)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.79,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32912:1st Edition": {
+      "card_id": 32912,
+      "name": "Seadra",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.3,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32841:1st Edition": {
+      "card_id": 32841,
+      "name": "Skiploom",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32904:1st Edition": {
+      "card_id": 32904,
+      "name": "Sunflora",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.04,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32864:1st Edition": {
+      "card_id": 32864,
+      "name": "Togepi",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 34.79,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32876:1st Edition": {
+      "card_id": 32876,
+      "name": "Xatu",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32839:1st Edition": {
+      "card_id": 32839,
+      "name": "Chikorita (54)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.58,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32826:1st Edition": {
+      "card_id": 32826,
+      "name": "Chinchou",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.9,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32838:1st Edition": {
+      "card_id": 32838,
+      "name": "Cyndaquil (56)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 18.01,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32832:1st Edition": {
+      "card_id": 32832,
+      "name": "Cyndaquil (57)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 15.62,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32834:1st Edition": {
+      "card_id": 32834,
+      "name": "Girafarig",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32845:1st Edition": {
+      "card_id": 32845,
+      "name": "Gligar",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.91,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32847:1st Edition": {
+      "card_id": 32847,
+      "name": "Hoothoot",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.45,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32821:1st Edition": {
+      "card_id": 32821,
+      "name": "Hoppip",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.46,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32843:1st Edition": {
+      "card_id": 32843,
+      "name": "Horsea",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.12,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32855:1st Edition": {
+      "card_id": 32855,
+      "name": "Ledyba",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.43,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32824:1st Edition": {
+      "card_id": 32824,
+      "name": "Mareep",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.74,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32828:1st Edition": {
+      "card_id": 32828,
+      "name": "Marill",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.42,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32851:1st Edition": {
+      "card_id": 32851,
+      "name": "Natu",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.11,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32819:1st Edition": {
+      "card_id": 32819,
+      "name": "Oddish",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.59,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32842:1st Edition": {
+      "card_id": 32842,
+      "name": "Onix",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.74,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32817:1st Edition": {
+      "card_id": 32817,
+      "name": "Pikachu",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 35.26,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32852:1st Edition": {
+      "card_id": 32852,
+      "name": "Sentret",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.96,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32846:1st Edition": {
+      "card_id": 32846,
+      "name": "Shuckle",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.53,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32823:1st Edition": {
+      "card_id": 32823,
+      "name": "Slowpoke",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 22.46,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32835:1st Edition": {
+      "card_id": 32835,
+      "name": "Snubbull",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.32,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32831:1st Edition": {
+      "card_id": 32831,
+      "name": "Spinarak",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.1,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32850:1st Edition": {
+      "card_id": 32850,
+      "name": "Stantler",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.4,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32854:1st Edition": {
+      "card_id": 32854,
+      "name": "Sudowoodo",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.86,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32837:1st Edition": {
+      "card_id": 32837,
+      "name": "Sunkern",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.55,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32830:1st Edition": {
+      "card_id": 32830,
+      "name": "Swinub",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.17,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32833:1st Edition": {
+      "card_id": 32833,
+      "name": "Totodile (80)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.45,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32829:1st Edition": {
+      "card_id": 32829,
+      "name": "Totodile (81)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.22,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32822:1st Edition": {
+      "card_id": 32822,
+      "name": "Wooper",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.39,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32897:1st Edition": {
+      "card_id": 32897,
+      "name": "Arcade Game (Goldenrod Game Corner)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.62,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32919:1st Edition": {
+      "card_id": 32919,
+      "name": "Ecogym",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32910:1st Edition": {
+      "card_id": 32910,
+      "name": "Energy Charge",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.12,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32872:1st Edition": {
+      "card_id": 32872,
+      "name": "Focus Band",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 21.11,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32875:1st Edition": {
+      "card_id": 32875,
+      "name": "Mary",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.2,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32916:Unlimited": {
+      "card_id": 32916,
+      "name": "PokeGear",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "Unlimited",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.71,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32922:1st Edition": {
+      "card_id": 32922,
+      "name": "Super Energy Retrieval",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.64,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32909:1st Edition": {
+      "card_id": 32909,
+      "name": "Time Capsule",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.85,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32882:1st Edition": {
+      "card_id": 32882,
+      "name": "Bill's Teleporter",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.47,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32889:1st Edition": {
+      "card_id": 32889,
+      "name": "Card-Flip Game (Goldenrod Game Corner)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.46,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32893:1st Edition": {
+      "card_id": 32893,
+      "name": "Gold Berry",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.69,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32901:1st Edition": {
+      "card_id": 32901,
+      "name": "Miracle Berry",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 0.96,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32898:1st Edition": {
+      "card_id": 32898,
+      "name": "New Pokedex",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32844:1st Edition": {
+      "card_id": 32844,
+      "name": "Professor Elm",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.84,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32894:1st Edition": {
+      "card_id": 32894,
+      "name": "Sprout Tower",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.31,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32892:1st Edition": {
+      "card_id": 32892,
+      "name": "Super Scoop Up",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.85,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32888:1st Edition": {
+      "card_id": 32888,
+      "name": "Berry",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 0.72,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32849:1st Edition": {
+      "card_id": 32849,
+      "name": "Double Gust",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32820:1st Edition": {
+      "card_id": 32820,
+      "name": "Moo-Moo Milk",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.52,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32827:1st Edition": {
+      "card_id": 32827,
+      "name": "Pokemon March",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.2,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32865:1st Edition": {
+      "card_id": 32865,
+      "name": "Super Rod",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.69,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32918:1st Edition": {
+      "card_id": 32918,
+      "name": "Darkness Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.23,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32900:1st Edition": {
+      "card_id": 32900,
+      "name": "Recycle Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.91,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32867:1st Edition": {
+      "card_id": 32867,
+      "name": "Fire Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.31,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32858:1st Edition": {
+      "card_id": 32858,
+      "name": "Grass Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.31,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32891:1st Edition": {
+      "card_id": 32891,
+      "name": "Lightning Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.14,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32895:1st Edition": {
+      "card_id": 32895,
+      "name": "Psychic Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.36,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32871:1st Edition": {
+      "card_id": 32871,
+      "name": "Water Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.46,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "32840:1st Edition": {
+      "card_id": 32840,
+      "name": "Chikorita (53)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.69,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29426:1st Edition Holofoil": {
+      "card_id": 29426,
+      "name": "Blaine's Arcanine",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 386.48,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29496:1st Edition Holofoil": {
+      "card_id": 29496,
+      "name": "Blaine's Charizard",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 699.99,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "29493:1st Edition Holofoil": {
+      "card_id": 29493,
+      "name": "Brock's Ninetales",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 252.75,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29475:1st Edition Holofoil": {
+      "card_id": 29475,
+      "name": "Erika's Venusaur",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 779.45,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29500:1st Edition Holofoil": {
+      "card_id": 29500,
+      "name": "Giovanni's Gyarados",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 330.04,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29459:1st Edition Holofoil": {
+      "card_id": 29459,
+      "name": "Giovanni's Machamp",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 244.33,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29472:1st Edition Holofoil": {
+      "card_id": 29472,
+      "name": "Giovanni's Nidoking",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 159.91,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29458:1st Edition Holofoil": {
+      "card_id": 29458,
+      "name": "Giovanni's Persian",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 292.47,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29447:1st Edition Holofoil": {
+      "card_id": 29447,
+      "name": "Koga's Beedrill",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 148.54,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29465:1st Edition Holofoil": {
+      "card_id": 29465,
+      "name": "Koga's Ditto",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 100.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29486:1st Edition Holofoil": {
+      "card_id": 29486,
+      "name": "Lt. Surge's Raichu",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 233.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29492:1st Edition Holofoil": {
+      "card_id": 29492,
+      "name": "Misty's Golduck",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 114.48,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29481:1st Edition Holofoil": {
+      "card_id": 29481,
+      "name": "Misty's Gyarados",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 425.0,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "29495:1st Edition Holofoil": {
+      "card_id": 29495,
+      "name": "Rocket's Mewtwo",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 433.35,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "29497:1st Edition Holofoil": {
+      "card_id": 29497,
+      "name": "Rocket's Zapdos",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 238.06,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29417:1st Edition Holofoil": {
+      "card_id": 29417,
+      "name": "Sabrina's Alakazam",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 327.28,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29482:1st Edition Holofoil": {
+      "card_id": 29482,
+      "name": "Blaine (17)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 116.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29499:1st Edition Holofoil": {
+      "card_id": 29499,
+      "name": "Giovanni (18)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 125.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29491:1st Edition Holofoil": {
+      "card_id": 29491,
+      "name": "Koga (19)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 54.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29488:1st Edition Holofoil": {
+      "card_id": 29488,
+      "name": "Sabrina (20)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 186.64,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29466:1st Edition": {
+      "card_id": 29466,
+      "name": "Blaine's Ninetales",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 51.42,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29489:1st Edition": {
+      "card_id": 29489,
+      "name": "Brock's Dugtrio",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 19.03,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29469:1st Edition": {
+      "card_id": 29469,
+      "name": "Giovanni's Nidoqueen",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 30.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29460:1st Edition": {
+      "card_id": 29460,
+      "name": "Giovanni's Pinsir",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 23.79,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29470:1st Edition": {
+      "card_id": 29470,
+      "name": "Koga's Arbok",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 17.08,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29480:1st Edition": {
+      "card_id": 29480,
+      "name": "Koga's Muk",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 16.55,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29498:1st Edition": {
+      "card_id": 29498,
+      "name": "Koga's Pidgeotto",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 21.22,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29432:1st Edition": {
+      "card_id": 29432,
+      "name": "Lt. Surge's Jolteon",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 50.12,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29485:1st Edition": {
+      "card_id": 29485,
+      "name": "Sabrina's Gengar",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 670.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29461:1st Edition": {
+      "card_id": 29461,
+      "name": "Sabrina's Golduck",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 34.86,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29385:1st Edition": {
+      "card_id": 29385,
+      "name": "Blaine's Charmeleon",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 21.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29439:1st Edition": {
+      "card_id": 29439,
+      "name": "Blaine's Dodrio",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.29,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29434:1st Edition": {
+      "card_id": 29434,
+      "name": "Blaine's Rapidash",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.35,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29430:1st Edition": {
+      "card_id": 29430,
+      "name": "Brock's Graveler",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.57,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29454:1st Edition": {
+      "card_id": 29454,
+      "name": "Brock's Primeape",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.75,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29449:1st Edition": {
+      "card_id": 29449,
+      "name": "Brock's Sandslash",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.28,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29435:1st Edition": {
+      "card_id": 29435,
+      "name": "Brock's Vulpix",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 17.02,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29443:1st Edition": {
+      "card_id": 29443,
+      "name": "Erika's Bellsprout",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.76,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29413:1st Edition": {
+      "card_id": 29413,
+      "name": "Erika's Bulbasaur",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 43.21,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29448:1st Edition": {
+      "card_id": 29448,
+      "name": "Erika's Clefairy",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 21.55,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29433:1st Edition": {
+      "card_id": 29433,
+      "name": "Erika's Ivysaur",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 33.3,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29387:1st Edition": {
+      "card_id": 29387,
+      "name": "Giovanni's Machoke",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29412:1st Edition": {
+      "card_id": 29412,
+      "name": "Giovanni's Meowth (43)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 23.35,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29421:1st Edition": {
+      "card_id": 29421,
+      "name": "Giovanni's Nidorina",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.17,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29419:1st Edition": {
+      "card_id": 29419,
+      "name": "Giovanni's Nidorino",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.51,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29452:1st Edition": {
+      "card_id": 29452,
+      "name": "Koga's Golbat",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.58,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29415:1st Edition": {
+      "card_id": 29415,
+      "name": "Koga's Kakuna",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.29,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29399:1st Edition": {
+      "card_id": 29399,
+      "name": "Koga's Koffing (48)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.85,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29446:1st Edition": {
+      "card_id": 29446,
+      "name": "Koga's Pidgey (49)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.51,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29403:1st Edition": {
+      "card_id": 29403,
+      "name": "Koga's Weezing",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.3,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29420:1st Edition": {
+      "card_id": 29420,
+      "name": "Lt. Surge's Eevee",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 36.3,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29445:1st Edition": {
+      "card_id": 29445,
+      "name": "Lt. Surge's Electrode",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.42,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29450:1st Edition": {
+      "card_id": 29450,
+      "name": "Lt. Surge's Raticate",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.25,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29436:1st Edition": {
+      "card_id": 29436,
+      "name": "Misty's Dewgong",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.34,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29370:1st Edition": {
+      "card_id": 29370,
+      "name": "Sabrina's Haunter",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 45.26,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29437:1st Edition": {
+      "card_id": 29437,
+      "name": "Sabrina's Hypno",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 9.53,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29424:1st Edition": {
+      "card_id": 29424,
+      "name": "Sabrina's Jynx",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 9.46,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29408:1st Edition": {
+      "card_id": 29408,
+      "name": "Sabrina's Kadabra",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 16.76,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29444:1st Edition": {
+      "card_id": 29444,
+      "name": "Sabrina's Mr. Mime",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.21,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29371:1st Edition": {
+      "card_id": 29371,
+      "name": "Blaine's Charmander",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 27.52,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29390:1st Edition": {
+      "card_id": 29390,
+      "name": "Blaine's Doduo",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29373:1st Edition": {
+      "card_id": 29373,
+      "name": "Blaine's Growlithe",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.17,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29418:1st Edition": {
+      "card_id": 29418,
+      "name": "Blaine's Mankey",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.62,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29376:1st Edition": {
+      "card_id": 29376,
+      "name": "Blaine's Ponyta",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.85,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29423:1st Edition": {
+      "card_id": 29423,
+      "name": "Blaine's Rhyhorn",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.76,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29378:1st Edition": {
+      "card_id": 29378,
+      "name": "Blaine's Vulpix",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.74,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29407:1st Edition": {
+      "card_id": 29407,
+      "name": "Brock's Diglett",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.77,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29404:1st Edition": {
+      "card_id": 29404,
+      "name": "Brock's Geodude",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.29,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29394:1st Edition": {
+      "card_id": 29394,
+      "name": "Erika's Jigglypuff",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 15.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29377:1st Edition": {
+      "card_id": 29377,
+      "name": "Erika's Oddish",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29400:1st Edition": {
+      "card_id": 29400,
+      "name": "Erika's Paras",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.68,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29386:1st Edition": {
+      "card_id": 29386,
+      "name": "Giovanni's Machop",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.74,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29372:1st Edition": {
+      "card_id": 29372,
+      "name": "Giovanni's Magikarp",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 17.88,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29375:1st Edition": {
+      "card_id": 29375,
+      "name": "Giovanni's Meowth (74)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.62,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29401:1st Edition": {
+      "card_id": 29401,
+      "name": "Giovanni's Nidoran F",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.74,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29383:1st Edition": {
+      "card_id": 29383,
+      "name": "Giovanni's Nidoran M",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.09,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29396:1st Edition": {
+      "card_id": 29396,
+      "name": "Koga's Ekans",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.35,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29406:1st Edition": {
+      "card_id": 29406,
+      "name": "Koga's Grimer",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.69,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29391:1st Edition": {
+      "card_id": 29391,
+      "name": "Koga's Koffing (79)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.81,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29395:1st Edition": {
+      "card_id": 29395,
+      "name": "Koga's Pidgey (80)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.16,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29382:1st Edition": {
+      "card_id": 29382,
+      "name": "Koga's Tangela",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.72,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29410:1st Edition": {
+      "card_id": 29410,
+      "name": "Koga's Weedle",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.07,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29397:1st Edition": {
+      "card_id": 29397,
+      "name": "Koga's Zubat",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.63,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29368:1st Edition": {
+      "card_id": 29368,
+      "name": "Lt. Surge's Pikachu",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 26.19,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29405:1st Edition": {
+      "card_id": 29405,
+      "name": "Lt. Surge's Rattata",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.56,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29409:1st Edition": {
+      "card_id": 29409,
+      "name": "Lt. Surge's Voltorb",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.31,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29411:1st Edition": {
+      "card_id": 29411,
+      "name": "Misty's Horsea",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.05,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29379:1st Edition": {
+      "card_id": 29379,
+      "name": "Misty's Magikarp",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 12.63,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29381:1st Edition": {
+      "card_id": 29381,
+      "name": "Misty's Poliwag",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.19,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29374:1st Edition": {
+      "card_id": 29374,
+      "name": "Misty's Psyduck",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 32.11,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29398:1st Edition": {
+      "card_id": 29398,
+      "name": "Misty's Seel",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.73,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29402:1st Edition": {
+      "card_id": 29402,
+      "name": "Misty's Staryu",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.91,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29392:1st Edition": {
+      "card_id": 29392,
+      "name": "Sabrina's Abra (93)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.13,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29389:1st Edition": {
+      "card_id": 29389,
+      "name": "Sabrina's Abra (94)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.06,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29380:1st Edition": {
+      "card_id": 29380,
+      "name": "Sabrina's Drowzee",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.81,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29384:1st Edition": {
+      "card_id": 29384,
+      "name": "Sabrina's Gastly (96)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 14.19,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29422:1st Edition": {
+      "card_id": 29422,
+      "name": "Sabrina's Gastly (97)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 16.62,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29393:1st Edition": {
+      "card_id": 29393,
+      "name": "Sabrina's Porygon",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.19,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29369:1st Edition": {
+      "card_id": 29369,
+      "name": "Sabrina's Psyduck",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 24.05,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29429:1st Edition": {
+      "card_id": 29429,
+      "name": "Blaine (100)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.66,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29467:1st Edition": {
+      "card_id": 29467,
+      "name": "Brock's Protection",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29483:1st Edition": {
+      "card_id": 29483,
+      "name": "Chaos Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29468:1st Edition": {
+      "card_id": 29468,
+      "name": "Erika's Kindness",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 74.3,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29440:1st Edition": {
+      "card_id": 29440,
+      "name": "Giovanni (104)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 15.72,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29477:1st Edition": {
+      "card_id": 29477,
+      "name": "Giovanni's Last Resort",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 23.9,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29441:1st Edition": {
+      "card_id": 29441,
+      "name": "Koga (106)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29487:1st Edition": {
+      "card_id": 29487,
+      "name": "Lt. Surge's Secret Plan",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 9.11,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29474:1st Edition": {
+      "card_id": 29474,
+      "name": "Misty's Wish",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 41.83,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29494:1st Edition": {
+      "card_id": 29494,
+      "name": "Resistance Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.09,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29463:1st Edition": {
+      "card_id": 29463,
+      "name": "Sabrina (110)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 23.88,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29473:1st Edition": {
+      "card_id": 29473,
+      "name": "Blaine's Quiz #2",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.75,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29462:1st Edition": {
+      "card_id": 29462,
+      "name": "Blaine's Quiz #3",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.68,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29456:1st Edition": {
+      "card_id": 29456,
+      "name": "Cinnabar City Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.56,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29431:1st Edition": {
+      "card_id": 29431,
+      "name": "Fuchsia City Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.55,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29438:1st Edition": {
+      "card_id": 29438,
+      "name": "Koga's Ninja Trick",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.11,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29484:1st Edition": {
+      "card_id": 29484,
+      "name": "Master Ball",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.2,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29478:1st Edition": {
+      "card_id": 29478,
+      "name": "Max Revive",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.12,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29451:1st Edition": {
+      "card_id": 29451,
+      "name": "Misty's Tears",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 64.57,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29490:1st Edition": {
+      "card_id": 29490,
+      "name": "Rocket's Minefield Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.1,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29476:1st Edition": {
+      "card_id": 29476,
+      "name": "Rocket's Secret Experiment",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 28.44,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29414:1st Edition": {
+      "card_id": 29414,
+      "name": "Sabrina's Psychic Control",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 32.38,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29416:1st Edition": {
+      "card_id": 29416,
+      "name": "Saffron City Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.83,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29442:1st Edition": {
+      "card_id": 29442,
+      "name": "Viridian City Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.69,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29425:1st Edition": {
+      "card_id": 29425,
+      "name": "Fervor",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.6,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29455:1st Edition": {
+      "card_id": 29455,
+      "name": "Transparent Walls",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29428:1st Edition": {
+      "card_id": 29428,
+      "name": "Warp Point",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29427:1st Edition": {
+      "card_id": 29427,
+      "name": "Fire Energy",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.33,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29457:1st Edition": {
+      "card_id": 29457,
+      "name": "Grass Energy",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.91,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29464:Unlimited": {
+      "card_id": 29464,
+      "name": "Lightning Energy",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "Unlimited",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.46,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29388:1st Edition": {
+      "card_id": 29388,
+      "name": "Psychic Energy",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.91,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29471:Unlimited": {
+      "card_id": 29471,
+      "name": "Water Energy",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "printing": "Unlimited",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.47,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29899:1st Edition Holofoil": {
+      "card_id": 29899,
+      "name": "Blaine's Moltres",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 243.32,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29825:1st Edition Holofoil": {
+      "card_id": 29825,
+      "name": "Brock's Rhydon",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 145.74,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29907:1st Edition Holofoil": {
+      "card_id": 29907,
+      "name": "Erika's Clefable",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 96.41,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29885:1st Edition Holofoil": {
+      "card_id": 29885,
+      "name": "Erika's Dragonair",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 381.27,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29830:1st Edition Holofoil": {
+      "card_id": 29830,
+      "name": "Erika's Vileplume",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 90.26,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29905:1st Edition Holofoil": {
+      "card_id": 29905,
+      "name": "Lt. Surge's Electabuzz (6)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 98.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29887:1st Edition Holofoil": {
+      "card_id": 29887,
+      "name": "Lt. Surge's Fearow",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 200.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29838:1st Edition Holofoil": {
+      "card_id": 29838,
+      "name": "Lt. Surge's Magneton",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 104.86,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29894:1st Edition Holofoil": {
+      "card_id": 29894,
+      "name": "Misty's Seadra",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 139.56,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29842:1st Edition Holofoil": {
+      "card_id": 29842,
+      "name": "Misty's Tentacruel",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 97.25,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29916:1st Edition Holofoil": {
+      "card_id": 29916,
+      "name": "Rocket's Hitmonchan",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 138.16,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29919:1st Edition Holofoil": {
+      "card_id": 29919,
+      "name": "Rocket's Moltres",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 226.64,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29890:1st Edition Holofoil": {
+      "card_id": 29890,
+      "name": "Rocket's Scyther",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 244.59,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29918:1st Edition Holofoil": {
+      "card_id": 29918,
+      "name": "Sabrina's Gengar",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1249.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29915:1st Edition Holofoil": {
+      "card_id": 29915,
+      "name": "Brock (15)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 102.84,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29914:1st Edition Holofoil": {
+      "card_id": 29914,
+      "name": "Erika (16)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 108.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29910:1st Edition Holofoil": {
+      "card_id": 29910,
+      "name": "Lt. Surge (17)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 90.59,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29903:1st Edition Holofoil": {
+      "card_id": 29903,
+      "name": "Misty (18)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 207.37,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29904:1st Edition Holofoil": {
+      "card_id": 29904,
+      "name": "The Rocket's Trap",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 54.21,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29895:1st Edition": {
+      "card_id": 29895,
+      "name": "Brock's Golem",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 34.32,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29893:1st Edition": {
+      "card_id": 29893,
+      "name": "Brock's Onix (21)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 17.36,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29909:1st Edition": {
+      "card_id": 29909,
+      "name": "Brock's Rhyhorn (22)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 22.23,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29897:1st Edition": {
+      "card_id": 29897,
+      "name": "Brock's Sandslash",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 23.52,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29906:1st Edition": {
+      "card_id": 29906,
+      "name": "Brock's Zubat (24)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 19.8,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29873:1st Edition": {
+      "card_id": 29873,
+      "name": "Erika's Clefairy",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 32.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29881:1st Edition": {
+      "card_id": 29881,
+      "name": "Erika's Victreebel",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 25.21,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29886:1st Edition": {
+      "card_id": 29886,
+      "name": "Lt. Surge's Electabuzz (27)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 19.42,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29901:1st Edition": {
+      "card_id": 29901,
+      "name": "Lt. Surge's Raichu",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 54.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29902:1st Edition": {
+      "card_id": 29902,
+      "name": "Misty's Cloyster",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 25.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29908:1st Edition": {
+      "card_id": 29908,
+      "name": "Misty's Goldeen (30)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 15.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29876:1st Edition": {
+      "card_id": 29876,
+      "name": "Misty's Poliwrath",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 39.55,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29896:1st Edition": {
+      "card_id": 29896,
+      "name": "Misty's Tentacool (32)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 15.91,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29837:1st Edition": {
+      "card_id": 29837,
+      "name": "Rocket's Snorlax",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 194.51,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29882:1st Edition": {
+      "card_id": 29882,
+      "name": "Sabrina's Venomoth",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.86,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29845:1st Edition": {
+      "card_id": 29845,
+      "name": "Blaine's Growlithe (35)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 20.47,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29821:1st Edition": {
+      "card_id": 29821,
+      "name": "Blaine's Kangaskhan",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.84,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29863:1st Edition": {
+      "card_id": 29863,
+      "name": "Blaine's Magmar",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 9.73,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29883:1st Edition": {
+      "card_id": 29883,
+      "name": "Brock's Geodude (38)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29884:1st Edition": {
+      "card_id": 29884,
+      "name": "Brock's Golbat",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.09,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29844:1st Edition": {
+      "card_id": 29844,
+      "name": "Brock's Graveler",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.41,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29833:1st Edition": {
+      "card_id": 29833,
+      "name": "Brock's Lickitung",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.03,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29850:1st Edition": {
+      "card_id": 29850,
+      "name": "Erika's Exeggcute (43)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.67,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29852:1st Edition": {
+      "card_id": 29852,
+      "name": "Erika's Exeggutor",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29841:1st Edition": {
+      "card_id": 29841,
+      "name": "Erika's Gloom (45)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.81,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29866:1st Edition": {
+      "card_id": 29866,
+      "name": "Erika's Gloom (46)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 18.78,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29867:1st Edition": {
+      "card_id": 29867,
+      "name": "Erika's Oddish (47)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 9.23,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29889:1st Edition": {
+      "card_id": 29889,
+      "name": "Erika's Weepinbell (48)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 14.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29847:1st Edition": {
+      "card_id": 29847,
+      "name": "Erika's Weepinbell (49)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.42,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29875:1st Edition": {
+      "card_id": 29875,
+      "name": "Lt. Surge's Magnemite (50)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.87,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29843:1st Edition": {
+      "card_id": 29843,
+      "name": "Lt. Surge's Raticate",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.34,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29848:1st Edition": {
+      "card_id": 29848,
+      "name": "Lt. Surge's Spearow (52)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.43,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29849:1st Edition": {
+      "card_id": 29849,
+      "name": "Misty's Poliwhirl",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.43,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29814:1st Edition": {
+      "card_id": 29814,
+      "name": "Misty's Psyduck",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 38.2,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29857:1st Edition": {
+      "card_id": 29857,
+      "name": "Misty's Seaking",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 9.06,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29851:1st Edition": {
+      "card_id": 29851,
+      "name": "Misty's Starmie",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 16.28,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29820:1st Edition": {
+      "card_id": 29820,
+      "name": "Misty's Tentacool (57)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 14.48,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29817:1st Edition": {
+      "card_id": 29817,
+      "name": "Sabrina's Haunter",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 63.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29831:1st Edition": {
+      "card_id": 29831,
+      "name": "Sabrina's Jynx",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.27,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29836:1st Edition": {
+      "card_id": 29836,
+      "name": "Sabrina's Slowbro",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 18.44,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29805:1st Edition": {
+      "card_id": 29805,
+      "name": "Blaine's Charmander",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.67,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29790:1st Edition": {
+      "card_id": 29790,
+      "name": "Blaine's Growlithe (62)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 9.63,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29812:1st Edition": {
+      "card_id": 29812,
+      "name": "Blaine's Ponyta",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.02,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29832:1st Edition": {
+      "card_id": 29832,
+      "name": "Blaine's Tauros",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.37,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29828:1st Edition": {
+      "card_id": 29828,
+      "name": "Blaine's Vulpix",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.11,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29796:1st Edition": {
+      "card_id": 29796,
+      "name": "Brock's Geodude (66)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.13,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29804:1st Edition": {
+      "card_id": 29804,
+      "name": "Brock's Mankey (67)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.2,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29871:1st Edition": {
+      "card_id": 29871,
+      "name": "Brock's Mankey (68)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.3,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29798:1st Edition": {
+      "card_id": 29798,
+      "name": "Brock's Onix (69)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.58,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29800:1st Edition": {
+      "card_id": 29800,
+      "name": "Brock's Rhyhorn (70)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.34,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29818:1st Edition": {
+      "card_id": 29818,
+      "name": "Brock's Sandshrew (71)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.28,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29826:1st Edition": {
+      "card_id": 29826,
+      "name": "Brock's Sandshrew (72)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 12.81,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29799:1st Edition": {
+      "card_id": 29799,
+      "name": "Brock's Vulpix",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.21,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29824:1st Edition": {
+      "card_id": 29824,
+      "name": "Brock's Zubat (74)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.69,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29839:1st Edition": {
+      "card_id": 29839,
+      "name": "Erika's Bellsprout (75)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.75,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29795:1st Edition": {
+      "card_id": 29795,
+      "name": "Erika's Bellsprout (76)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.67,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29813:1st Edition": {
+      "card_id": 29813,
+      "name": "Erika's Exeggcute (77)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.93,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29794:1st Edition": {
+      "card_id": 29794,
+      "name": "Erika's Oddish (78)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.76,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29797:1st Edition": {
+      "card_id": 29797,
+      "name": "Erika's Tangela",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.85,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29806:1st Edition": {
+      "card_id": 29806,
+      "name": "Lt. Surge's Magnemite (80)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.16,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29788:1st Edition": {
+      "card_id": 29788,
+      "name": "Lt. Surge's Pikachu",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 32.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29791:1st Edition": {
+      "card_id": 29791,
+      "name": "Lt. Surge's Rattata",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.63,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29809:1st Edition": {
+      "card_id": 29809,
+      "name": "Lt. Surge's Spearow (83)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.05,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29789:1st Edition": {
+      "card_id": 29789,
+      "name": "Lt. Surge's Voltorb",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.42,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29801:1st Edition": {
+      "card_id": 29801,
+      "name": "Misty's Goldeen (85)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.73,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29808:1st Edition": {
+      "card_id": 29808,
+      "name": "Misty's Horsea",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.52,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29816:1st Edition": {
+      "card_id": 29816,
+      "name": "Misty's Poliwag",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.93,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29802:1st Edition": {
+      "card_id": 29802,
+      "name": "Misty's Seel",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.05,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29834:1st Edition": {
+      "card_id": 29834,
+      "name": "Misty's Shellder",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.68,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29807:1st Edition": {
+      "card_id": 29807,
+      "name": "Misty's Staryu",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.71,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29822:1st Edition": {
+      "card_id": 29822,
+      "name": "Sabrina's Abra",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.58,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29829:1st Edition": {
+      "card_id": 29829,
+      "name": "Sabrina's Drowzee",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.71,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29793:1st Edition": {
+      "card_id": 29793,
+      "name": "Sabrina's Gastly",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 12.82,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29811:1st Edition": {
+      "card_id": 29811,
+      "name": "Sabrina's Mr. Mime",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.47,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29823:1st Edition": {
+      "card_id": 29823,
+      "name": "Sabrina's Slowpoke",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.65,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29803:1st Edition": {
+      "card_id": 29803,
+      "name": "Sabrina's Venonat",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29891:1st Edition": {
+      "card_id": 29891,
+      "name": "Blaine's Quiz #1",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 28.97,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29877:1st Edition": {
+      "card_id": 29877,
+      "name": "Brock (98)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.6,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29900:1st Edition": {
+      "card_id": 29900,
+      "name": "Charity",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 16.84,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29870:1st Edition": {
+      "card_id": 29870,
+      "name": "Erika (100)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 16.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29872:1st Edition": {
+      "card_id": 29872,
+      "name": "Lt. Surge (101)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.76,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29840:1st Edition": {
+      "card_id": 29840,
+      "name": "Misty (102)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 29.51,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29917:1st Edition": {
+      "card_id": 29917,
+      "name": "No Removal Gym",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.8,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29911:1st Edition": {
+      "card_id": 29911,
+      "name": "The Rocket's Training Gym",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 18.96,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29879:1st Edition": {
+      "card_id": 29879,
+      "name": "Blaine's Last Resort",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.07,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29860:1st Edition": {
+      "card_id": 29860,
+      "name": "Brock's Training Method",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.93,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29898:1st Edition": {
+      "card_id": 29898,
+      "name": "Celadon City Gym",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.35,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29869:1st Edition": {
+      "card_id": 29869,
+      "name": "Cerulean City Gym",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.91,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29862:1st Edition": {
+      "card_id": 29862,
+      "name": "Erika's Maids",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.34,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29858:1st Edition": {
+      "card_id": 29858,
+      "name": "Erika's Perfume",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.68,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29810:1st Edition": {
+      "card_id": 29810,
+      "name": "Good Manners",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.22,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29888:1st Edition": {
+      "card_id": 29888,
+      "name": "Lt. Surge's Treaty",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.86,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29892:1st Edition": {
+      "card_id": 29892,
+      "name": "Minion of Team Rocket",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.78,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29819:1st Edition": {
+      "card_id": 29819,
+      "name": "Misty's Wrath",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 28.34,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29865:1st Edition": {
+      "card_id": 29865,
+      "name": "Pewter City Gym",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.73,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29868:1st Edition": {
+      "card_id": 29868,
+      "name": "Recall",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 18.78,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29846:1st Edition": {
+      "card_id": 29846,
+      "name": "Sabrina's ESP",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 19.11,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29859:1st Edition": {
+      "card_id": 29859,
+      "name": "Secret Mission",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29912:1st Edition": {
+      "card_id": 29912,
+      "name": "Tickling Machine",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.43,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29864:1st Edition": {
+      "card_id": 29864,
+      "name": "Vermilion City Gym",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29855:1st Edition": {
+      "card_id": 29855,
+      "name": "Blaine's Gamble",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.55,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29856:1st Edition": {
+      "card_id": 29856,
+      "name": "Energy Flow",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.06,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29827:1st Edition": {
+      "card_id": 29827,
+      "name": "Misty's Duel",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.99,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29853:1st Edition": {
+      "card_id": 29853,
+      "name": "Narrow Gym",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.53,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29815:1st Edition": {
+      "card_id": 29815,
+      "name": "Sabrina's Gaze",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.0,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29874:1st Edition": {
+      "card_id": 29874,
+      "name": "Trash Exchange",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.18,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29913:Unlimited": {
+      "card_id": 29913,
+      "name": "Fire Energy",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "Unlimited",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.73,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29835:1st Edition": {
+      "card_id": 29835,
+      "name": "Grass Energy",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.68,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29880:1st Edition": {
+      "card_id": 29880,
+      "name": "Lightning Energy",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.27,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29854:1st Edition": {
+      "card_id": 29854,
+      "name": "Psychic Energy",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "29878:1st Edition": {
+      "card_id": 29878,
+      "name": "Water Energy",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.48,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36381:1st Edition Holofoil": {
+      "card_id": 36381,
+      "name": "Dark Alakazam (1)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 178.88,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36332:1st Edition Holofoil": {
+      "card_id": 36332,
+      "name": "Dark Arbok (2)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 69.72,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36380:1st Edition Holofoil": {
+      "card_id": 36380,
+      "name": "Dark Blastoise (3)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 522.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36387:Unlimited Holofoil": {
+      "card_id": 36387,
+      "name": "Dark Charizard (4)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 384.22,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36385:1st Edition Holofoil": {
+      "card_id": 36385,
+      "name": "Dark Dragonite (5)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 548.64,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36376:1st Edition Holofoil": {
+      "card_id": 36376,
+      "name": "Dark Dugtrio (6)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 94.27,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36378:1st Edition Holofoil": {
+      "card_id": 36378,
+      "name": "Dark Golbat (7)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 83.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36386:1st Edition Holofoil": {
+      "card_id": 36386,
+      "name": "Dark Gyarados (8)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 205.4,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36375:1st Edition Holofoil": {
+      "card_id": 36375,
+      "name": "Dark Hypno (9)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 100.12,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36379:1st Edition Holofoil": {
+      "card_id": 36379,
+      "name": "Dark Machamp (10)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 146.07,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36374:1st Edition Holofoil": {
+      "card_id": 36374,
+      "name": "Dark Magneton (11)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 97.77,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36377:1st Edition Holofoil": {
+      "card_id": 36377,
+      "name": "Dark Slowbro (12)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 109.28,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36362:1st Edition Holofoil": {
+      "card_id": 36362,
+      "name": "Dark Vileplume (13)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 71.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36334:1st Edition Holofoil": {
+      "card_id": 36334,
+      "name": "Dark Weezing (14)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 42.38,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36383:1st Edition Holofoil": {
+      "card_id": 36383,
+      "name": "Here Comes Team Rocket! (15)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 67.81,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36373:1st Edition Holofoil": {
+      "card_id": 36373,
+      "name": "Rocket's Sneak Attack (16)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 43.24,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36382:1st Edition Holofoil": {
+      "card_id": 36382,
+      "name": "Rainbow Energy (17)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 40.84,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36366:1st Edition": {
+      "card_id": 36366,
+      "name": "Dark Alakazam (18)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 33.05,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36368:1st Edition": {
+      "card_id": 36368,
+      "name": "Dark Arbok (19)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 12.87,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36356:1st Edition": {
+      "card_id": 36356,
+      "name": "Dark Blastoise (20)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 67.22,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36357:1st Edition": {
+      "card_id": 36357,
+      "name": "Dark Charizard (21)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 168.27,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36360:1st Edition": {
+      "card_id": 36360,
+      "name": "Dark Dragonite (22)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 71.12,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36358:1st Edition": {
+      "card_id": 36358,
+      "name": "Dark Dugtrio (23)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.03,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36355:1st Edition": {
+      "card_id": 36355,
+      "name": "Dark Golbat (24)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 14.39,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36351:1st Edition": {
+      "card_id": 36351,
+      "name": "Dark Gyarados (25)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 37.16,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36367:1st Edition": {
+      "card_id": 36367,
+      "name": "Dark Hypno (26)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 14.39,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36354:1st Edition": {
+      "card_id": 36354,
+      "name": "Dark Machamp (27)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 16.52,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36369:1st Edition": {
+      "card_id": 36369,
+      "name": "Dark Magneton (28)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 14.77,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36364:1st Edition": {
+      "card_id": 36364,
+      "name": "Dark Slowbro (29)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 20.23,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36371:1st Edition": {
+      "card_id": 36371,
+      "name": "Dark Vileplume (30)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 15.18,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36365:1st Edition": {
+      "card_id": 36365,
+      "name": "Dark Weezing (31)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.42,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36329:1st Edition": {
+      "card_id": 36329,
+      "name": "Dark Charmeleon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 27.34,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36340:1st Edition": {
+      "card_id": 36340,
+      "name": "Dark Dragonair",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.82,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36347:1st Edition": {
+      "card_id": 36347,
+      "name": "Dark Electrode",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.5,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36330:1st Edition": {
+      "card_id": 36330,
+      "name": "Dark Flareon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 22.13,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36346:1st Edition": {
+      "card_id": 36346,
+      "name": "Dark Gloom",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.26,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36338:1st Edition": {
+      "card_id": 36338,
+      "name": "Dark Golduck",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 10.68,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36333:1st Edition": {
+      "card_id": 36333,
+      "name": "Dark Jolteon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 25.69,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36331:1st Edition": {
+      "card_id": 36331,
+      "name": "Dark Kadabra",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.85,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36345:1st Edition": {
+      "card_id": 36345,
+      "name": "Dark Machoke",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.97,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36348:1st Edition": {
+      "card_id": 36348,
+      "name": "Dark Muk",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.61,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36341:1st Edition": {
+      "card_id": 36341,
+      "name": "Dark Persian",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.96,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36343:1st Edition": {
+      "card_id": 36343,
+      "name": "Dark Primeape",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.45,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36342:1st Edition": {
+      "card_id": 36342,
+      "name": "Dark Rapidash",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36325:1st Edition": {
+      "card_id": 36325,
+      "name": "Dark Vaporeon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 24.33,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36336:1st Edition": {
+      "card_id": 36336,
+      "name": "Dark Wartortle",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 13.53,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36344:1st Edition": {
+      "card_id": 36344,
+      "name": "Magikarp",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 9.34,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36350:1st Edition": {
+      "card_id": 36350,
+      "name": "Porygon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.13,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36322:1st Edition": {
+      "card_id": 36322,
+      "name": "Abra",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.21,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36310:1st Edition": {
+      "card_id": 36310,
+      "name": "Charmander",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.56,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36315:1st Edition": {
+      "card_id": 36315,
+      "name": "Dark Raticate",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.84,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36323:1st Edition": {
+      "card_id": 36323,
+      "name": "Diglett",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.42,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36307:1st Edition": {
+      "card_id": 36307,
+      "name": "Drowzee",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.33,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36308:1st Edition": {
+      "card_id": 36308,
+      "name": "Eevee",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.79,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36306:1st Edition": {
+      "card_id": 36306,
+      "name": "Ekans",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.75,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36311:1st Edition": {
+      "card_id": 36311,
+      "name": "Grimer",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.53,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36305:1st Edition": {
+      "card_id": 36305,
+      "name": "Koffing",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36314:1st Edition": {
+      "card_id": 36314,
+      "name": "Machop",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.46,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36327:1st Edition": {
+      "card_id": 36327,
+      "name": "Magnemite",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.12,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36328:1st Edition": {
+      "card_id": 36328,
+      "name": "Mankey",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.27,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36324:1st Edition": {
+      "card_id": 36324,
+      "name": "Meowth",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 4.38,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36313:1st Edition": {
+      "card_id": 36313,
+      "name": "Oddish",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.9,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36309:1st Edition": {
+      "card_id": 36309,
+      "name": "Ponyta",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.06,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36318:1st Edition": {
+      "card_id": 36318,
+      "name": "Psyduck",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 7.36,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36317:1st Edition": {
+      "card_id": 36317,
+      "name": "Rattata",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.04,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36326:1st Edition": {
+      "card_id": 36326,
+      "name": "Slowpoke",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 5.67,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36312:1st Edition": {
+      "card_id": 36312,
+      "name": "Squirtle",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.25,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36321:1st Edition": {
+      "card_id": 36321,
+      "name": "Voltorb",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36319:1st Edition": {
+      "card_id": 36319,
+      "name": "Zubat",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.25,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36370:1st Edition": {
+      "card_id": 36370,
+      "name": "Here Comes Team Rocket! (71)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 18.04,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36363:1st Edition": {
+      "card_id": 36363,
+      "name": "Rocket's Sneak Attack (72)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 11.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36349:1st Edition": {
+      "card_id": 36349,
+      "name": "The Boss's Way",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.4,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36339:1st Edition": {
+      "card_id": 36339,
+      "name": "Challenge!",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 6.43,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36353:1st Edition": {
+      "card_id": 36353,
+      "name": "Digger (Rocket's Secret Machine)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.32,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36335:1st Edition": {
+      "card_id": 36335,
+      "name": "Imposter Oak's Revenge",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 15.98,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36352:1st Edition": {
+      "card_id": 36352,
+      "name": "Nightly Garbage Run (Rocket's Secret Machine)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 2.55,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36337:1st Edition": {
+      "card_id": 36337,
+      "name": "Goop Gas Attack",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 0.9,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36316:1st Edition": {
+      "card_id": 36316,
+      "name": "Sleep! (Rocket's Secret Machine)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 8.9,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36372:1st Edition": {
+      "card_id": 36372,
+      "name": "Rainbow Energy (80)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 12.04,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36359:1st Edition": {
+      "card_id": 36359,
+      "name": "Full Heal Energy",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36361:1st Edition": {
+      "card_id": 36361,
+      "name": "Potion Energy",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 3.23,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
+    },
+    "36384:1st Edition Holofoil": {
+      "card_id": 36384,
+      "name": "Dark Raichu",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-18",
+          "market_price_usd": 373.13,
+          "market_price_as_of": "2026-11-17"
+        }
+      ]
     }
   }
 }

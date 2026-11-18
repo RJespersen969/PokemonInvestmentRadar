@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-17T16:59:41.002583+00:00",
+  "generated_at": "2026-11-18T16:39:02.245653+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 209,
+  "next_set_index": 214,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 7,
-  "total_candidates": 9112,
-  "cards_with_price_history": 26582,
+  "api_calls": 8,
+  "total_candidates": 9423,
+  "cards_with_price_history": 27109,
   "candidates": [
     {
       "card_id": 20118,
@@ -73,6 +73,18 @@
       "market_price_usd": 200.0,
       "market_price_as_of": "2026-11-16",
       "total_listings": 5
+    },
+    {
+      "card_id": 29887,
+      "name": "Lt. Surge's Fearow",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "007/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 200.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 73
     },
     {
       "card_id": 31970,
@@ -411,6 +423,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 32884,
+      "name": "Steelix",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "015/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 198.5,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 90
+    },
+    {
       "card_id": 38743,
       "name": "Electabuzz - 1 [Winner]",
       "set_id": 5500186,
@@ -507,6 +531,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 36438,
+      "name": "Politoed (8)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "08/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 195.95,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 64
+    },
+    {
       "card_id": 26590,
       "name": "Skarmory (27)",
       "set_id": 5500166,
@@ -553,6 +589,18 @@
       "market_price_usd": 194.83,
       "market_price_as_of": "2026-11-12",
       "total_listings": 47
+    },
+    {
+      "card_id": 29837,
+      "name": "Rocket's Snorlax",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "033/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 194.51,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 79
     },
     {
       "card_id": 25831,
@@ -949,6 +997,18 @@
       "market_price_usd": 186.65,
       "market_price_as_of": "2026-10-23",
       "total_listings": 25
+    },
+    {
+      "card_id": 29488,
+      "name": "Sabrina (20)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "020/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 186.64,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 65
     },
     {
       "card_id": 19563,
@@ -1441,6 +1501,18 @@
       "market_price_usd": 179.03,
       "market_price_as_of": "2026-10-09",
       "total_listings": 93
+    },
+    {
+      "card_id": 36381,
+      "name": "Dark Alakazam (1)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "01/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 178.88,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 116
     },
     {
       "card_id": 32682,
@@ -2115,6 +2187,30 @@
       "total_listings": 23
     },
     {
+      "card_id": 36432,
+      "name": "Espeon (20)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "20/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 169.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
+    },
+    {
+      "card_id": 36461,
+      "name": "Yanma (17)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "17/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 169.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 92
+    },
+    {
       "card_id": 35122,
       "name": "Flareon",
       "set_id": 5500235,
@@ -2185,6 +2281,18 @@
       "market_price_usd": 168.77,
       "market_price_as_of": "2026-11-16",
       "total_listings": 14
+    },
+    {
+      "card_id": 36357,
+      "name": "Dark Charizard (21)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "21/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 168.27,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 130
     },
     {
       "card_id": 25922,
@@ -2619,6 +2727,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 36416,
+      "name": "Hitmontop (3)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "03/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 161.44,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 103
+    },
+    {
       "card_id": 20371,
       "name": "Perrin - 220/167",
       "set_id": 5500051,
@@ -2751,6 +2871,18 @@
       "total_listings": 3
     },
     {
+      "card_id": 32923,
+      "name": "Meganium (10)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "010/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 160.17,
+      "market_price_as_of": "2026-11-15",
+      "total_listings": 56
+    },
+    {
       "card_id": 34385,
       "name": "Lightning Energy",
       "set_id": 5500102,
@@ -2833,6 +2965,18 @@
       "market_price_usd": 159.99,
       "market_price_as_of": "2026-11-06",
       "total_listings": 3
+    },
+    {
+      "card_id": 29472,
+      "name": "Giovanni's Nidoking",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "007/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 159.91,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 63
     },
     {
       "card_id": 28770,
@@ -3015,6 +3159,18 @@
       "total_listings": 31
     },
     {
+      "card_id": 36448,
+      "name": "Poliwrath (9)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "09/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 155.97,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 61
+    },
+    {
       "card_id": 26617,
       "name": "Clefable (7)",
       "set_id": 5500166,
@@ -3049,6 +3205,18 @@
       "market_price_usd": 154.99,
       "market_price_as_of": "2026-11-07",
       "total_listings": 22
+    },
+    {
+      "card_id": 36460,
+      "name": "Ursaring (15)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "15/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 154.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 53
     },
     {
       "card_id": 6210,
@@ -3771,6 +3939,30 @@
       "total_listings": 6
     },
     {
+      "card_id": 36466,
+      "name": "Kabutops (6)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "06/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 148.72,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 61
+    },
+    {
+      "card_id": 29447,
+      "name": "Koga's Beedrill",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "009/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 148.54,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 102
+    },
+    {
       "card_id": 6702,
       "name": "Misty's Determination - 104/122 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -3793,6 +3985,18 @@
       "market_price_usd": 148.23,
       "market_price_as_of": "2026-10-22",
       "total_listings": 43
+    },
+    {
+      "card_id": 32906,
+      "name": "Togetic",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "016/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 148.23,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 78
     },
     {
       "card_id": 26528,
@@ -3927,6 +4131,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 36379,
+      "name": "Dark Machamp (10)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "10/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 146.07,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 124
+    },
+    {
       "card_id": 22323,
       "name": "Erika's Hospitality (Full Art)",
       "set_id": 5500079,
@@ -3949,6 +4165,18 @@
       "market_price_usd": 145.9,
       "market_price_as_of": "2026-10-23",
       "total_listings": 13
+    },
+    {
+      "card_id": 29825,
+      "name": "Brock's Rhydon",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "002/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 145.74,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 128
     },
     {
       "card_id": 31378,
@@ -4129,6 +4357,18 @@
       "market_price_usd": 143.74,
       "market_price_as_of": "2026-11-09",
       "total_listings": 31
+    },
+    {
+      "card_id": 32836,
+      "name": "Kingdra",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "008/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 143.66,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 150
     },
     {
       "card_id": 37501,
@@ -4707,6 +4947,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 29894,
+      "name": "Misty's Seadra",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "009/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 139.56,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 120
+    },
+    {
       "card_id": 100009842,
       "name": "Charizard",
       "set_id": 5500238,
@@ -4789,6 +5041,18 @@
       "market_price_usd": 138.32,
       "market_price_as_of": "2026-11-13",
       "total_listings": 93
+    },
+    {
+      "card_id": 29916,
+      "name": "Rocket's Hitmonchan",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "011/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 138.16,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 76
     },
     {
       "card_id": 36113,
@@ -5643,6 +5907,18 @@
       "total_listings": 24
     },
     {
+      "card_id": 32905,
+      "name": "Azumarill",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "002/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 128.95,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 76
+    },
+    {
       "card_id": 38742,
       "name": "Hitmonchan - 2 [Winner]",
       "set_id": 5500186,
@@ -5785,6 +6061,18 @@
       "market_price_usd": 127.5,
       "market_price_as_of": "2026-10-23",
       "total_listings": 4
+    },
+    {
+      "card_id": 32902,
+      "name": "Skarmory",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "013/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 127.47,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 112
     },
     {
       "card_id": 4466,
@@ -6025,6 +6313,18 @@
       "market_price_usd": 125.0,
       "market_price_as_of": "2026-11-04",
       "total_listings": 3
+    },
+    {
+      "card_id": 29499,
+      "name": "Giovanni (18)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "018/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 125.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 69
     },
     {
       "card_id": 30999,
@@ -6541,6 +6841,18 @@
       "market_price_usd": 121.25,
       "market_price_as_of": "2026-11-10",
       "total_listings": 24
+    },
+    {
+      "card_id": 36456,
+      "name": "Smeargle (11)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "11/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 120.83,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 55
     },
     {
       "card_id": 33138,
@@ -7071,6 +7383,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 36422,
+      "name": "Unown [A] (14)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "14/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 117.49,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 102
+    },
+    {
       "card_id": 32585,
       "name": "Ditto (Geodude)",
       "set_id": 5500234,
@@ -7105,6 +7429,18 @@
       "market_price_usd": 117.0,
       "market_price_as_of": "2026-10-26",
       "total_listings": 3
+    },
+    {
+      "card_id": 29482,
+      "name": "Blaine (17)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "017/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 116.98,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 64
     },
     {
       "card_id": 32712,
@@ -7515,6 +7851,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 29492,
+      "name": "Misty's Golduck",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "012/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 114.48,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 75
+    },
+    {
       "card_id": 30203,
       "name": "Bonsly",
       "set_id": 5500034,
@@ -7815,6 +8163,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 32913,
+      "name": "Ampharos",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "001/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 111.58,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 87
+    },
+    {
       "card_id": 5849,
       "name": "Umbreon V - 094/203",
       "set_id": 5500194,
@@ -8043,6 +8403,18 @@
       "total_listings": 55
     },
     {
+      "card_id": 36377,
+      "name": "Dark Slowbro (12)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "12/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 109.28,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 80
+    },
+    {
       "card_id": 36897,
       "name": "Infernape LV.X - DP10",
       "set_id": 5500116,
@@ -8089,6 +8461,18 @@
       "market_price_usd": 108.91,
       "market_price_as_of": "2026-10-10",
       "total_listings": 101
+    },
+    {
+      "card_id": 29914,
+      "name": "Erika (16)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "016/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 108.89,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 80
     },
     {
       "card_id": 14855,
@@ -8583,6 +8967,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 29838,
+      "name": "Lt. Surge's Magneton",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "008/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 104.86,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 146
+    },
+    {
       "card_id": 33404,
       "name": "Electrode",
       "set_id": 5500062,
@@ -8845,6 +9241,18 @@
       "market_price_usd": 102.95,
       "market_price_as_of": "2026-11-12",
       "total_listings": 20
+    },
+    {
+      "card_id": 29915,
+      "name": "Brock (15)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "015/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 102.84,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 88
     },
     {
       "card_id": 13029,
@@ -9267,6 +9675,18 @@
       "total_listings": 21
     },
     {
+      "card_id": 36375,
+      "name": "Dark Hypno (9)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "09/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 100.12,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 151
+    },
+    {
       "card_id": 31103,
       "name": "Time-Space Distortion",
       "set_id": 5500046,
@@ -9301,6 +9721,18 @@
       "market_price_usd": 100.0,
       "market_price_as_of": "2026-11-06",
       "total_listings": 86
+    },
+    {
+      "card_id": 29465,
+      "name": "Koga's Ditto",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "010/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 100.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 53
     },
     {
       "card_id": 31618,
@@ -9951,6 +10383,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 36436,
+      "name": "Tyranitar (31)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "31/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 98.66,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 54
+    },
+    {
       "card_id": 38739,
       "name": "Dark Ivysaur - 6 [Winner]",
       "set_id": 5500186,
@@ -9961,6 +10405,18 @@
       "market_price_usd": 98.56,
       "market_price_as_of": "2026-11-16",
       "total_listings": 13
+    },
+    {
+      "card_id": 29905,
+      "name": "Lt. Surge's Electabuzz (6)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "006/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 98.5,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 67
     },
     {
       "card_id": 38714,
@@ -10045,6 +10501,18 @@
       "market_price_usd": 97.95,
       "market_price_as_of": "2026-11-17",
       "total_listings": 54
+    },
+    {
+      "card_id": 36374,
+      "name": "Dark Magneton (11)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "11/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 97.77,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 184
     },
     {
       "card_id": 32742,
@@ -10153,6 +10621,18 @@
       "market_price_usd": 97.28,
       "market_price_as_of": "2026-10-27",
       "total_listings": 4
+    },
+    {
+      "card_id": 29842,
+      "name": "Misty's Tentacruel",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "010/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 97.25,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 164
     },
     {
       "card_id": 31552,
@@ -10321,6 +10801,18 @@
       "market_price_usd": 96.5,
       "market_price_as_of": "2026-10-23",
       "total_listings": 12
+    },
+    {
+      "card_id": 29907,
+      "name": "Erika's Clefable",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "003/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 96.41,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 83
     },
     {
       "card_id": 6500,
@@ -10729,6 +11221,18 @@
       "market_price_usd": 94.46,
       "market_price_as_of": "2026-10-24",
       "total_listings": 36
+    },
+    {
+      "card_id": 36376,
+      "name": "Dark Dugtrio (6)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "06/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 94.27,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 131
     },
     {
       "card_id": 26477,
@@ -11199,6 +11703,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 32899,
+      "name": "Bellossom",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "003/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 91.53,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
+    },
+    {
       "card_id": 19916,
       "name": "Pikachu EX - XY84",
       "set_id": 5500177,
@@ -11391,6 +11907,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 29910,
+      "name": "Lt. Surge (17)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "017/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 90.59,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 97
+    },
+    {
       "card_id": 19004,
       "name": "Galarian Rapidash V (Alternate Full Art)",
       "set_id": 5500170,
@@ -11437,6 +11965,18 @@
       "market_price_usd": 90.26,
       "market_price_as_of": "2026-10-11",
       "total_listings": 176
+    },
+    {
+      "card_id": 29830,
+      "name": "Erika's Vileplume",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "005/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 90.26,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 147
     },
     {
       "card_id": 14781,
@@ -12913,6 +13453,18 @@
       "market_price_usd": 83.32,
       "market_price_as_of": "2026-10-24",
       "total_listings": 29
+    },
+    {
+      "card_id": 36378,
+      "name": "Dark Golbat (7)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "07/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 83.24,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 204
     },
     {
       "card_id": 33944,
@@ -15459,6 +16011,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 29468,
+      "name": "Erika's Kindness",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "103/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 74.3,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 74
+    },
+    {
       "card_id": 35354,
       "name": "Magikarp",
       "set_id": 5500224,
@@ -16263,6 +16827,18 @@
       "total_listings": 62
     },
     {
+      "card_id": 36362,
+      "name": "Dark Vileplume (13)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "13/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 71.24,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 136
+    },
+    {
       "card_id": 34884,
       "name": "Quagsire (Delta Species)",
       "set_id": 5500221,
@@ -16333,6 +16909,18 @@
       "market_price_usd": 71.12,
       "market_price_as_of": "2026-10-23",
       "total_listings": 21
+    },
+    {
+      "card_id": 36360,
+      "name": "Dark Dragonite (22)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "22/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 71.12,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 153
     },
     {
       "card_id": 38148,
@@ -16839,6 +17427,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 36332,
+      "name": "Dark Arbok (2)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "02/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 69.72,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 234
+    },
+    {
       "card_id": 38734,
       "name": "Dark Ivysaur - 6",
       "set_id": 5500186,
@@ -17139,6 +17739,18 @@
       "total_listings": 50
     },
     {
+      "card_id": 32825,
+      "name": "Jumpluff",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "007/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 68.65,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 164
+    },
+    {
       "card_id": 7205,
       "name": "Mega Meganium ex - 272/217",
       "set_id": 5500112,
@@ -17353,6 +17965,18 @@
       "market_price_usd": 67.82,
       "market_price_as_of": "2026-11-16",
       "total_listings": 19
+    },
+    {
+      "card_id": 36383,
+      "name": "Here Comes Team Rocket! (15)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "15/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 67.81,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 127
     },
     {
       "card_id": 21871,
@@ -17581,6 +18205,18 @@
       "market_price_usd": 67.23,
       "market_price_as_of": "2026-10-23",
       "total_listings": 25
+    },
+    {
+      "card_id": 36356,
+      "name": "Dark Blastoise (20)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "20/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 67.22,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 117
     },
     {
       "card_id": 28287,
@@ -18543,6 +19179,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 29451,
+      "name": "Misty's Tears",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "118/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 64.57,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 107
+    },
+    {
       "card_id": 35121,
       "name": "Mawile",
       "set_id": 5500235,
@@ -18793,6 +19441,18 @@
       "market_price_usd": 63.65,
       "market_price_as_of": "2026-10-31",
       "total_listings": 36
+    },
+    {
+      "card_id": 29817,
+      "name": "Sabrina's Haunter",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "058/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 63.61,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 179
     },
     {
       "card_id": 34031,
@@ -19201,6 +19861,18 @@
       "market_price_usd": 62.5,
       "market_price_as_of": "2026-11-12",
       "total_listings": 61
+    },
+    {
+      "card_id": 36447,
+      "name": "Forretress (2)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "02/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 62.5,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 68
     },
     {
       "card_id": 14602,
@@ -22119,6 +22791,18 @@
       "total_listings": 160
     },
     {
+      "card_id": 29491,
+      "name": "Koga (19)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "019/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 54.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 74
+    },
+    {
       "card_id": 31799,
       "name": "Arceus (AR5)",
       "set_id": 5500096,
@@ -22371,6 +23055,18 @@
       "total_listings": 167
     },
     {
+      "card_id": 29901,
+      "name": "Lt. Surge's Raichu",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "028/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 54.61,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 100
+    },
+    {
       "card_id": 32638,
       "name": "Marowak (Delta Species)",
       "set_id": 5500234,
@@ -22537,6 +23233,18 @@
       "market_price_usd": 54.26,
       "market_price_as_of": "2026-10-18",
       "total_listings": 41
+    },
+    {
+      "card_id": 29904,
+      "name": "The Rocket's Trap",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "019/132",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 54.21,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 92
     },
     {
       "card_id": 37818,
@@ -23667,6 +24375,18 @@
       "total_listings": 122
     },
     {
+      "card_id": 29466,
+      "name": "Blaine's Ninetales",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "021/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 51.42,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 79
+    },
+    {
       "card_id": 22191,
       "name": "Pikachu & Zekrom GX",
       "set_id": 5500079,
@@ -24241,6 +24961,18 @@
       "market_price_usd": 50.16,
       "market_price_as_of": "2026-11-10",
       "total_listings": 99
+    },
+    {
+      "card_id": 29432,
+      "name": "Lt. Surge's Jolteon",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "028/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 50.12,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 98
     },
     {
       "card_id": 25674,
@@ -26991,6 +27723,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 36411,
+      "name": "Eevee",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "38/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 45.87,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 171
+    },
+    {
       "card_id": 36792,
       "name": "Raichu",
       "set_id": 5500039,
@@ -27457,6 +28201,18 @@
       "market_price_usd": 45.29,
       "market_price_as_of": "2026-11-09",
       "total_listings": 29
+    },
+    {
+      "card_id": 29370,
+      "name": "Sabrina's Haunter",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "055/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 45.26,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 167
     },
     {
       "card_id": 37275,
@@ -28179,6 +28935,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 36454,
+      "name": "Houndour (24)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "24/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 44.33,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 41
+    },
+    {
       "card_id": 28125,
       "name": "Hitmonchan",
       "set_id": 5500232,
@@ -28443,6 +29211,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 36440,
+      "name": "Scizor (29)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "29/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 43.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 61
+    },
+    {
       "card_id": 6314,
       "name": "Cosmoem",
       "set_id": 5500087,
@@ -28489,6 +29269,18 @@
       "market_price_usd": 43.93,
       "market_price_as_of": "2026-11-16",
       "total_listings": 83
+    },
+    {
+      "card_id": 36439,
+      "name": "Houndoom (23)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "23/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 43.89,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 62
     },
     {
       "card_id": 4420,
@@ -28779,6 +29571,18 @@
       "total_listings": 131
     },
     {
+      "card_id": 36373,
+      "name": "Rocket's Sneak Attack (16)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "16/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 43.24,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 168
+    },
+    {
       "card_id": 38805,
       "name": "Mudkip - 5/12",
       "set_id": 5500172,
@@ -28789,6 +29593,18 @@
       "market_price_usd": 43.23,
       "market_price_as_of": "2026-10-28",
       "total_listings": 32
+    },
+    {
+      "card_id": 29413,
+      "name": "Erika's Bulbasaur",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "039/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 43.21,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 160
     },
     {
       "card_id": 21025,
@@ -29259,6 +30075,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 36334,
+      "name": "Dark Weezing (14)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "14/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 42.38,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 292
+    },
+    {
       "card_id": 13726,
       "name": "Serperior ex - 164/086",
       "set_id": 5500093,
@@ -29653,6 +30481,18 @@
       "market_price_usd": 41.84,
       "market_price_as_of": "2026-11-13",
       "total_listings": 37
+    },
+    {
+      "card_id": 29474,
+      "name": "Misty's Wish",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "108/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 41.83,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 60
     },
     {
       "card_id": 15346,
@@ -30255,6 +31095,18 @@
       "total_listings": 258
     },
     {
+      "card_id": 36467,
+      "name": "Magnemite (7)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "07/75",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 41.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 53
+    },
+    {
       "card_id": 14852,
       "name": "Buzzwole - SM218 (Prerelease) [Staff]",
       "set_id": 5500076,
@@ -30325,6 +31177,18 @@
       "market_price_usd": 40.85,
       "market_price_as_of": "2026-10-22",
       "total_listings": 141
+    },
+    {
+      "card_id": 36382,
+      "name": "Rainbow Energy (17)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "17/82",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 40.84,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 176
     },
     {
       "card_id": 37816,
@@ -31623,6 +32487,18 @@
       "total_listings": 267
     },
     {
+      "card_id": 29876,
+      "name": "Misty's Poliwrath",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "031/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 39.55,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 101
+    },
+    {
       "card_id": 20028,
       "name": "Gym Badge (Sabrina)",
       "set_id": 5500177,
@@ -31645,6 +32521,18 @@
       "market_price_usd": 39.49,
       "market_price_as_of": "2026-11-16",
       "total_listings": 26
+    },
+    {
+      "card_id": 36455,
+      "name": "Kabutops (25)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "25/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 39.49,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 67
     },
     {
       "card_id": 33963,
@@ -32185,6 +33073,18 @@
       "market_price_usd": 38.99,
       "market_price_as_of": "2026-11-08",
       "total_listings": 158
+    },
+    {
+      "card_id": 36417,
+      "name": "Butterfree",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "19/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 38.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
     },
     {
       "card_id": 36692,
@@ -32845,6 +33745,18 @@
       "market_price_usd": 38.22,
       "market_price_as_of": "2026-10-25",
       "total_listings": 37
+    },
+    {
+      "card_id": 29814,
+      "name": "Misty's Psyduck",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "054/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 38.2,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 177
     },
     {
       "card_id": 21897,
@@ -33531,6 +34443,30 @@
       "total_listings": 119
     },
     {
+      "card_id": 36351,
+      "name": "Dark Gyarados (25)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "25/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 37.16,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 202
+    },
+    {
+      "card_id": 36444,
+      "name": "Politoed (27)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "27/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 37.13,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 29
+    },
+    {
       "card_id": 16096,
       "name": "Steelix - 208/182",
       "set_id": 5500212,
@@ -34023,6 +34959,18 @@
       "total_listings": 32
     },
     {
+      "card_id": 36450,
+      "name": "Beedrill",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "18/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 36.66,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 57
+    },
+    {
       "card_id": 31513,
       "name": "Alakazam E4",
       "set_id": 5500173,
@@ -34369,6 +35317,18 @@
       "market_price_usd": 36.3,
       "market_price_as_of": "2026-11-16",
       "total_listings": 34
+    },
+    {
+      "card_id": 29420,
+      "name": "Lt. Surge's Eevee",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "051/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 36.3,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 101
     },
     {
       "card_id": 31796,
@@ -35223,6 +36183,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 32817,
+      "name": "Pikachu",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "070/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 35.26,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 301
+    },
+    {
       "card_id": 14552,
       "name": "Pikachu & Zekrom GX - SM248",
       "set_id": 5500076,
@@ -35667,6 +36639,18 @@
       "total_listings": 125
     },
     {
+      "card_id": 29461,
+      "name": "Sabrina's Golduck",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "030/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 34.86,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 93
+    },
+    {
       "card_id": 28228,
       "name": "Minccino - BW13 (Cosmos Holo)",
       "set_id": 5500091,
@@ -35701,6 +36685,18 @@
       "market_price_usd": 34.81,
       "market_price_as_of": "2026-11-16",
       "total_listings": 40
+    },
+    {
+      "card_id": 32864,
+      "name": "Togepi",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "051/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 34.79,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 110
     },
     {
       "card_id": 6904,
@@ -36109,6 +37105,18 @@
       "market_price_usd": 34.34,
       "market_price_as_of": "2026-11-16",
       "total_listings": 52
+    },
+    {
+      "card_id": 29895,
+      "name": "Brock's Golem",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "020/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 34.32,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 114
     },
     {
       "card_id": 34617,
@@ -36975,6 +37983,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 29433,
+      "name": "Erika's Ivysaur",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "041/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 33.3,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 146
+    },
+    {
       "card_id": 36123,
       "name": "Eevee (47)",
       "set_id": 5500137,
@@ -37167,6 +38187,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 36366,
+      "name": "Dark Alakazam (18)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "18/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 33.05,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 217
+    },
+    {
       "card_id": 100008287,
       "name": "Ditto - 106 (30th Celebration)",
       "set_id": 5500111,
@@ -37321,6 +38353,30 @@
       "market_price_usd": 32.91,
       "market_price_as_of": "2026-10-22",
       "total_listings": 26
+    },
+    {
+      "card_id": 29788,
+      "name": "Lt. Surge's Pikachu",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "081/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 32.89,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 279
+    },
+    {
+      "card_id": 29873,
+      "name": "Erika's Clefairy",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "025/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 32.89,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 107
     },
     {
       "card_id": 33570,
@@ -37899,6 +38955,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 29414,
+      "name": "Sabrina's Psychic Control",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "121/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 32.38,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
+    },
+    {
       "card_id": 15901,
       "name": "Roaring Moon ex - 251/182",
       "set_id": 5500212,
@@ -38005,6 +39073,18 @@
       "market_price_usd": 32.16,
       "market_price_as_of": "2026-11-15",
       "total_listings": 64
+    },
+    {
+      "card_id": 29374,
+      "name": "Misty's Psyduck",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "090/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 32.11,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 166
     },
     {
       "card_id": 23001,
@@ -39519,6 +40599,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 29469,
+      "name": "Giovanni's Nidoqueen",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "023/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 30.5,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 110
+    },
+    {
       "card_id": 32586,
       "name": "Koffing",
       "set_id": 5500234,
@@ -39973,6 +41065,18 @@
       "market_price_usd": 30.14,
       "market_price_as_of": "2026-10-26",
       "total_listings": 51
+    },
+    {
+      "card_id": 36427,
+      "name": "Corsola",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "37/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 30.14,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 165
     },
     {
       "card_id": 34854,
@@ -40875,6 +41979,18 @@
       "total_listings": 97
     },
     {
+      "card_id": 29840,
+      "name": "Misty (102)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "102/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 29.51,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 154
+    },
+    {
       "card_id": 30788,
       "name": "Roserade (15)",
       "set_id": 5500184,
@@ -41499,6 +42615,18 @@
       "total_listings": 39
     },
     {
+      "card_id": 29891,
+      "name": "Blaine's Quiz #1",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "097/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 28.97,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 88
+    },
+    {
       "card_id": 20737,
       "name": "Arbok - 176/162",
       "set_id": 5500066,
@@ -42015,6 +43143,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 29476,
+      "name": "Rocket's Secret Experiment",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "120/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 28.44,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 127
+    },
+    {
       "card_id": 30491,
       "name": "M Tyranitar EX",
       "set_id": 5500196,
@@ -42073,6 +43213,18 @@
       "market_price_usd": 28.35,
       "market_price_as_of": "2026-10-27",
       "total_listings": 156
+    },
+    {
+      "card_id": 29819,
+      "name": "Misty's Wrath",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "114/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 28.34,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 134
     },
     {
       "card_id": 34837,
@@ -42987,6 +44139,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 29371,
+      "name": "Blaine's Charmander",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "060/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 27.52,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 205
+    },
+    {
       "card_id": 33972,
       "name": "Double Rainbow Energy",
       "set_id": 5500222,
@@ -43275,6 +44439,18 @@
       "total_listings": 180
     },
     {
+      "card_id": 36329,
+      "name": "Dark Charmeleon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "32/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 27.34,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 369
+    },
+    {
       "card_id": 814,
       "name": "Dark Tyranitar (20) - 2005 (Takashi Yoneda)",
       "set_id": 5500029,
@@ -43501,6 +44677,18 @@
       "market_price_usd": 27.19,
       "market_price_as_of": "2026-11-11",
       "total_listings": 221
+    },
+    {
+      "card_id": 32896,
+      "name": "Metal Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "019/111",
+      "rarity": "Holo Rare",
+      "printing": "1st Edition Holofoil",
+      "market_price_usd": 27.19,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 150
     },
     {
       "card_id": 31867,
@@ -44811,6 +45999,18 @@
       "total_listings": 356
     },
     {
+      "card_id": 29368,
+      "name": "Lt. Surge's Pikachu",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "084/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 26.19,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 209
+    },
+    {
       "card_id": 4328,
       "name": "Hop's Snorlax - 117/159 (GameStop) (Cosmos Holo)",
       "set_id": 5500123,
@@ -45049,6 +46249,18 @@
       "market_price_usd": 25.99,
       "market_price_as_of": "2026-11-16",
       "total_listings": 104
+    },
+    {
+      "card_id": 29902,
+      "name": "Misty's Cloyster",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "029/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 25.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
     },
     {
       "card_id": 34537,
@@ -45349,6 +46561,18 @@
       "market_price_usd": 25.69,
       "market_price_as_of": "2026-10-18",
       "total_listings": 54
+    },
+    {
+      "card_id": 36333,
+      "name": "Dark Jolteon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "38/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 25.69,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 327
     },
     {
       "card_id": 15001,
@@ -45687,6 +46911,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 32890,
+      "name": "Cleffa",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "020/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 25.48,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 119
+    },
+    {
       "card_id": 35939,
       "name": "Seedot",
       "set_id": 5500223,
@@ -45805,6 +47041,18 @@
       "market_price_usd": 25.37,
       "market_price_as_of": "2026-10-31",
       "total_listings": 75
+    },
+    {
+      "card_id": 36445,
+      "name": "Smeargle (30)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "30/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 25.37,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 56
     },
     {
       "card_id": 35951,
@@ -46021,6 +47269,18 @@
       "market_price_usd": 25.21,
       "market_price_as_of": "2026-10-09",
       "total_listings": 131
+    },
+    {
+      "card_id": 29881,
+      "name": "Erika's Victreebel",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "026/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 25.21,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 120
     },
     {
       "card_id": 18175,
@@ -47403,6 +48663,18 @@
       "total_listings": 51
     },
     {
+      "card_id": 36325,
+      "name": "Dark Vaporeon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "45/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 24.33,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 383
+    },
+    {
       "card_id": 32063,
       "name": "Fearow",
       "set_id": 5500230,
@@ -47739,6 +49011,18 @@
       "total_listings": 95
     },
     {
+      "card_id": 29369,
+      "name": "Sabrina's Psyduck",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "099/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 24.05,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 200
+    },
+    {
       "card_id": 38047,
       "name": "Altaria",
       "set_id": 5500133,
@@ -47895,6 +49179,18 @@
       "total_listings": 61
     },
     {
+      "card_id": 29477,
+      "name": "Giovanni's Last Resort",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "105/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 23.9,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 92
+    },
+    {
       "card_id": 14675,
       "name": "Alolan Marowak GX - SM187",
       "set_id": 5500076,
@@ -47905,6 +49201,18 @@
       "market_price_usd": 23.88,
       "market_price_as_of": "2026-10-26",
       "total_listings": 47
+    },
+    {
+      "card_id": 29463,
+      "name": "Sabrina (110)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "110/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 23.88,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
     },
     {
       "card_id": 27280,
@@ -47955,6 +49263,18 @@
       "total_listings": 104
     },
     {
+      "card_id": 32881,
+      "name": "Sneasel",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "025/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 23.82,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 175
+    },
+    {
       "card_id": 27542,
       "name": "Mr. Mime",
       "set_id": 5500063,
@@ -47965,6 +49285,18 @@
       "market_price_usd": 23.79,
       "market_price_as_of": "2026-11-06",
       "total_listings": 44
+    },
+    {
+      "card_id": 29460,
+      "name": "Giovanni's Pinsir",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "024/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 23.79,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 128
     },
     {
       "card_id": 2153334,
@@ -48159,6 +49491,18 @@
       "total_listings": 126
     },
     {
+      "card_id": 32859,
+      "name": "Clefairy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "030/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 23.64,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 132
+    },
+    {
       "card_id": 36749,
       "name": "Cynthia's Ambition",
       "set_id": 5500218,
@@ -48229,6 +49573,18 @@
       "market_price_usd": 23.53,
       "market_price_as_of": "2026-10-10",
       "total_listings": 406
+    },
+    {
+      "card_id": 29897,
+      "name": "Brock's Sandslash",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "023/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 23.52,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 114
     },
     {
       "card_id": 15296,
@@ -48529,6 +49885,18 @@
       "market_price_usd": 23.36,
       "market_price_as_of": "2026-10-31",
       "total_listings": 83
+    },
+    {
+      "card_id": 29412,
+      "name": "Giovanni's Meowth (43)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "043/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 23.35,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 110
     },
     {
       "card_id": 31298,
@@ -49791,6 +51159,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 32823,
+      "name": "Slowpoke",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "073/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 22.46,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 248
+    },
+    {
       "card_id": 6170,
       "name": "Galarian Articuno V - 058/198",
       "set_id": 5500194,
@@ -50091,6 +51471,18 @@
       "total_listings": 31
     },
     {
+      "card_id": 29909,
+      "name": "Brock's Rhyhorn (22)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "022/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 22.23,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 105
+    },
+    {
       "card_id": 6058,
       "name": "Shadow Rider Calyrex VMAX - 075/198",
       "set_id": 5500194,
@@ -50197,6 +51589,18 @@
       "market_price_usd": 22.15,
       "market_price_as_of": "2026-10-31",
       "total_listings": 4
+    },
+    {
+      "card_id": 36330,
+      "name": "Dark Flareon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "35/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 22.13,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 337
     },
     {
       "card_id": 14296,
@@ -50967,6 +52371,18 @@
       "total_listings": 174
     },
     {
+      "card_id": 29448,
+      "name": "Erika's Clefairy",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "040/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 21.55,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 94
+    },
+    {
       "card_id": 17557,
       "name": "Lapras VMAX (Secret)",
       "set_id": 5500025,
@@ -51219,6 +52635,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 36458,
+      "name": "Poliwrath (28)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "28/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 21.32,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 74
+    },
+    {
       "card_id": 38737,
       "name": "Rocket's Sneasel - 5",
       "set_id": 5500186,
@@ -51387,6 +52815,18 @@
       "total_listings": 168
     },
     {
+      "card_id": 29385,
+      "name": "Blaine's Charmeleon",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "031/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 21.24,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 144
+    },
+    {
       "card_id": 38784,
       "name": "Scraggy - 10/12",
       "set_id": 5500164,
@@ -51397,6 +52837,18 @@
       "market_price_usd": 21.24,
       "market_price_as_of": "2026-11-02",
       "total_listings": 36
+    },
+    {
+      "card_id": 29498,
+      "name": "Koga's Pidgeotto",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "027/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 21.22,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
     },
     {
       "card_id": 26605,
@@ -51613,6 +53065,18 @@
       "market_price_usd": 21.11,
       "market_price_as_of": "2026-11-11",
       "total_listings": 212
+    },
+    {
+      "card_id": 32872,
+      "name": "Focus Band",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "086/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 21.11,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 87
     },
     {
       "card_id": 33941,
@@ -52515,6 +53979,18 @@
       "total_listings": 48
     },
     {
+      "card_id": 32857,
+      "name": "Elekid",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "022/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 20.61,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 174
+    },
+    {
       "card_id": 34632,
       "name": "Tentacool",
       "set_id": 5500231,
@@ -52695,6 +54171,18 @@
       "total_listings": 175
     },
     {
+      "card_id": 36414,
+      "name": "Igglybuff",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "40/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 20.52,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 107
+    },
+    {
       "card_id": 5912,
       "name": "Arceus VSTAR - 123/172",
       "set_id": 5500194,
@@ -52743,6 +54231,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 36446,
+      "name": "Wobbuffet (35)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "35/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 20.49,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 45
+    },
+    {
       "card_id": 14791,
       "name": "Regice - 28/111 (Cosmos Holo)",
       "set_id": 5500076,
@@ -52753,6 +54253,18 @@
       "market_price_usd": 20.48,
       "market_price_as_of": "2026-10-26",
       "total_listings": 6
+    },
+    {
+      "card_id": 29845,
+      "name": "Blaine's Growlithe (35)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "035/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 20.47,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 137
     },
     {
       "card_id": 30750,
@@ -53007,6 +54519,18 @@
       "total_listings": 66
     },
     {
+      "card_id": 36449,
+      "name": "Unown [A] (33)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "33/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 20.34,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 53
+    },
+    {
       "card_id": 641,
       "name": "Regirock ex - 2006 (Jason Klaczynski)",
       "set_id": 5500029,
@@ -53185,6 +54709,18 @@
       "market_price_usd": 20.24,
       "market_price_as_of": "2026-11-09",
       "total_listings": 156
+    },
+    {
+      "card_id": 36364,
+      "name": "Dark Slowbro (29)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "29/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 20.23,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 182
     },
     {
       "card_id": 15487,
@@ -54507,6 +56043,18 @@
       "total_listings": 99
     },
     {
+      "card_id": 29906,
+      "name": "Brock's Zubat (24)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "024/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 19.8,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 96
+    },
+    {
       "card_id": 29107,
       "name": "Crobat G",
       "set_id": 5500008,
@@ -55287,6 +56835,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 29886,
+      "name": "Lt. Surge's Electabuzz (27)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "027/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 19.42,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 114
+    },
+    {
       "card_id": 38095,
       "name": "Zacian V",
       "set_id": 5500061,
@@ -55959,6 +57519,18 @@
       "total_listings": 70
     },
     {
+      "card_id": 29846,
+      "name": "Sabrina's ESP",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "117/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 19.11,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 139
+    },
+    {
       "card_id": 29118,
       "name": "Riolu",
       "set_id": 5500008,
@@ -56127,6 +57699,18 @@
       "total_listings": 208
     },
     {
+      "card_id": 29489,
+      "name": "Brock's Dugtrio",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "022/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 19.03,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 99
+    },
+    {
       "card_id": 14531,
       "name": "Swadloon (Master Ball Pattern)",
       "set_id": 5500153,
@@ -56221,6 +57805,18 @@
       "market_price_usd": 18.96,
       "market_price_as_of": "2026-11-12",
       "total_listings": 65
+    },
+    {
+      "card_id": 29911,
+      "name": "The Rocket's Training Gym",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "104/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 18.96,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 61
     },
     {
       "card_id": 31876,
@@ -56473,6 +58069,30 @@
       "market_price_usd": 18.78,
       "market_price_as_of": "2026-10-22",
       "total_listings": 17
+    },
+    {
+      "card_id": 29866,
+      "name": "Erika's Gloom (46)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "046/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 18.78,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 131
+    },
+    {
+      "card_id": 29868,
+      "name": "Recall",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "116/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 18.78,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 72
     },
     {
       "card_id": 36937,
@@ -57255,6 +58875,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 29836,
+      "name": "Sabrina's Slowbro",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "060/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 18.44,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 130
+    },
+    {
       "card_id": 35066,
       "name": "Natu",
       "set_id": 5500235,
@@ -57951,6 +59583,30 @@
       "total_listings": 43
     },
     {
+      "card_id": 36370,
+      "name": "Here Comes Team Rocket! (71)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "71/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 18.04,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 203
+    },
+    {
+      "card_id": 36453,
+      "name": "Ursaring (34)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "34/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 18.04,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 58
+    },
+    {
       "card_id": 13416,
       "name": "Wellspring Mask Ogerpon ex - 152/131",
       "set_id": 5500017,
@@ -58045,6 +59701,18 @@
       "market_price_usd": 18.01,
       "market_price_as_of": "2026-10-09",
       "total_listings": 121
+    },
+    {
+      "card_id": 32838,
+      "name": "Cyndaquil (56)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "056/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 18.01,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 468
     },
     {
       "card_id": 33629,
@@ -58369,6 +60037,18 @@
       "market_price_usd": 17.89,
       "market_price_as_of": "2026-11-08",
       "total_listings": 191
+    },
+    {
+      "card_id": 29372,
+      "name": "Giovanni's Magikarp",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "073/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 17.88,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 206
     },
     {
       "card_id": 15921,
@@ -59487,6 +61167,18 @@
       "total_listings": 45
     },
     {
+      "card_id": 29893,
+      "name": "Brock's Onix (21)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "021/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 17.36,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 104
+    },
+    {
       "card_id": 14500,
       "name": "Swoobat (Master Ball Pattern)",
       "set_id": 5500153,
@@ -60063,6 +61755,18 @@
       "total_listings": 190
     },
     {
+      "card_id": 29470,
+      "name": "Koga's Arbok",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "025/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 17.08,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
+    },
+    {
       "card_id": 14374,
       "name": "Dewott - 106/086",
       "set_id": 5500153,
@@ -60169,6 +61873,18 @@
       "market_price_usd": 17.02,
       "market_price_as_of": "2026-10-28",
       "total_listings": 75
+    },
+    {
+      "card_id": 29435,
+      "name": "Brock's Vulpix",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "037/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 17.02,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 154
     },
     {
       "card_id": 248,
@@ -60531,6 +62247,18 @@
       "total_listings": 41
     },
     {
+      "card_id": 29900,
+      "name": "Charity",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "099/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 16.84,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 119
+    },
+    {
       "card_id": 30769,
       "name": "Houndoom",
       "set_id": 5500184,
@@ -60745,6 +62473,18 @@
       "market_price_usd": 16.77,
       "market_price_as_of": "2026-10-28",
       "total_listings": 161
+    },
+    {
+      "card_id": 29408,
+      "name": "Sabrina's Kadabra",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "058/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 16.76,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 192
     },
     {
       "card_id": 33930,
@@ -61083,6 +62823,18 @@
       "total_listings": 89
     },
     {
+      "card_id": 29422,
+      "name": "Sabrina's Gastly (97)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "097/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 16.62,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 158
+    },
+    {
       "card_id": 35427,
       "name": "Swellow",
       "set_id": 5500224,
@@ -61251,6 +63003,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 29480,
+      "name": "Koga's Muk",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "026/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 16.55,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 108
+    },
+    {
       "card_id": 18277,
       "name": "Eevee ex - 174",
       "set_id": 5500070,
@@ -61297,6 +63061,18 @@
       "market_price_usd": 16.53,
       "market_price_as_of": "2026-11-14",
       "total_listings": 340
+    },
+    {
+      "card_id": 36402,
+      "name": "Wooper",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "71/75",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 16.53,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 295
     },
     {
       "card_id": 37708,
@@ -61347,6 +63123,18 @@
       "total_listings": 51
     },
     {
+      "card_id": 36354,
+      "name": "Dark Machamp (27)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "27/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 16.52,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 197
+    },
+    {
       "card_id": 22840,
       "name": "Drampa GX (Secret)",
       "set_id": 5500036,
@@ -61393,6 +63181,18 @@
       "market_price_usd": 16.5,
       "market_price_as_of": "2026-11-16",
       "total_listings": 42
+    },
+    {
+      "card_id": 29870,
+      "name": "Erika (100)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "100/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 16.5,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 185
     },
     {
       "card_id": 17664,
@@ -61837,6 +63637,18 @@
       "market_price_usd": 16.29,
       "market_price_as_of": "2026-10-23",
       "total_listings": 154
+    },
+    {
+      "card_id": 29851,
+      "name": "Misty's Starmie",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "056/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 16.28,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 261
     },
     {
       "card_id": 32135,
@@ -62463,6 +64275,18 @@
       "total_listings": 72
     },
     {
+      "card_id": 36335,
+      "name": "Imposter Oak's Revenge",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "76/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 15.98,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 382
+    },
+    {
       "card_id": 15620,
       "name": "Crocalor - 202/193",
       "set_id": 5500150,
@@ -62559,6 +64383,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 29896,
+      "name": "Misty's Tentacool (32)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "032/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 15.91,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 96
+    },
+    {
       "card_id": 6084,
       "name": "Precious Trolley - 185/191",
       "set_id": 5500194,
@@ -62629,6 +64465,18 @@
       "market_price_usd": 15.89,
       "market_price_as_of": "2026-10-30",
       "total_listings": 161
+    },
+    {
+      "card_id": 29394,
+      "name": "Erika's Jigglypuff",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "069/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 15.89,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 202
     },
     {
       "card_id": 14517,
@@ -63099,6 +64947,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 29440,
+      "name": "Giovanni (104)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "104/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 15.72,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 129
+    },
+    {
       "card_id": 32492,
       "name": "Meloetta (86)",
       "set_id": 5500207,
@@ -63373,6 +65233,18 @@
       "market_price_usd": 15.62,
       "market_price_as_of": "2026-10-28",
       "total_listings": 28
+    },
+    {
+      "card_id": 32832,
+      "name": "Cyndaquil (57)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "057/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 15.62,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 568
     },
     {
       "card_id": 5,
@@ -64407,6 +66279,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 36371,
+      "name": "Dark Vileplume (30)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "30/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 15.18,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 184
+    },
+    {
       "card_id": 38183,
       "name": "Corviknight V",
       "set_id": 5500197,
@@ -64873,6 +66757,18 @@
       "market_price_usd": 15.0,
       "market_price_as_of": "2026-11-07",
       "total_listings": 56
+    },
+    {
+      "card_id": 29908,
+      "name": "Misty's Goldeen (30)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "030/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 15.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 107
     },
     {
       "card_id": 30262,
@@ -65667,6 +67563,18 @@
       "total_listings": 174
     },
     {
+      "card_id": 36369,
+      "name": "Dark Magneton (28)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "28/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 14.77,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 222
+    },
+    {
       "card_id": 20880,
       "name": "Gouging Fire ex - 214/162",
       "set_id": 5500066,
@@ -66207,6 +68115,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 29889,
+      "name": "Erika's Weepinbell (48)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "048/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 14.61,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 124
+    },
+    {
       "card_id": 17173,
       "name": "Miraidon ex",
       "set_id": 5500030,
@@ -66483,6 +68403,18 @@
       "total_listings": 216
     },
     {
+      "card_id": 29820,
+      "name": "Misty's Tentacool (57)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "057/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 14.48,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 242
+    },
+    {
       "card_id": 13825,
       "name": "Audino - 074/086 (Master Ball Pattern)",
       "set_id": 5500093,
@@ -66625,6 +68557,42 @@
       "market_price_usd": 14.4,
       "market_price_as_of": "2026-10-11",
       "total_listings": 234
+    },
+    {
+      "card_id": 36463,
+      "name": "Hitmontop (22)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "22/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 14.4,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 66
+    },
+    {
+      "card_id": 36355,
+      "name": "Dark Golbat (24)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "24/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 14.39,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 255
+    },
+    {
+      "card_id": 36367,
+      "name": "Dark Hypno (26)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "26/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 14.39,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 188
     },
     {
       "card_id": 1001,
@@ -67071,6 +69039,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 36441,
+      "name": "Magnemite (26)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "26",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 14.22,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 81
+    },
+    {
       "card_id": 14526,
       "name": "Gothorita (Master Ball Pattern)",
       "set_id": 5500153,
@@ -67141,6 +69121,18 @@
       "market_price_usd": 14.19,
       "market_price_as_of": "2026-10-26",
       "total_listings": 44
+    },
+    {
+      "card_id": 29384,
+      "name": "Sabrina's Gastly (96)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "096/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 14.19,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 307
     },
     {
       "card_id": 31841,
@@ -68127,6 +70119,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 29882,
+      "name": "Sabrina's Venomoth",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "034/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 13.86,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 131
+    },
+    {
       "card_id": 34657,
       "name": "Beldum - 28/101",
       "set_id": 5500231,
@@ -68149,6 +70153,18 @@
       "market_price_usd": 13.85,
       "market_price_as_of": "2026-11-14",
       "total_listings": 36
+    },
+    {
+      "card_id": 36429,
+      "name": "Poliwhirl",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "44/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 13.85,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 230
     },
     {
       "card_id": 14509,
@@ -68221,6 +70237,18 @@
       "market_price_usd": 13.83,
       "market_price_as_of": "2026-11-04",
       "total_listings": 33
+    },
+    {
+      "card_id": 36340,
+      "name": "Dark Dragonair",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "33/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 13.82,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 352
     },
     {
       "card_id": 23628,
@@ -68511,6 +70539,18 @@
       "total_listings": 174
     },
     {
+      "card_id": 29805,
+      "name": "Blaine's Charmander",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "061/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 13.67,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 262
+    },
+    {
       "card_id": 32252,
       "name": "Porygon",
       "set_id": 5500156,
@@ -68679,6 +70719,18 @@
       "total_listings": 166
     },
     {
+      "card_id": 32897,
+      "name": "Arcade Game (Goldenrod Game Corner)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "083/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 13.62,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 84
+    },
+    {
       "card_id": 19978,
       "name": "Yveltal EX - XY150 (Shiny)",
       "set_id": 5500177,
@@ -68689,6 +70741,18 @@
       "market_price_usd": 13.61,
       "market_price_as_of": "2026-10-31",
       "total_listings": 100
+    },
+    {
+      "card_id": 29877,
+      "name": "Brock (98)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "098/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 13.6,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 146
     },
     {
       "card_id": 31065,
@@ -68787,6 +70851,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 36336,
+      "name": "Dark Wartortle",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "46/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 13.53,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 471
+    },
+    {
       "card_id": 25208,
       "name": "Gulpin - 154/142",
       "set_id": 5500045,
@@ -68857,6 +70933,18 @@
       "market_price_usd": 13.51,
       "market_price_as_of": "2026-10-31",
       "total_listings": 33
+    },
+    {
+      "card_id": 32877,
+      "name": "Magby",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "023/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 13.51,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 210
     },
     {
       "card_id": 34929,
@@ -69039,6 +71127,18 @@
       "total_listings": 38
     },
     {
+      "card_id": 32833,
+      "name": "Totodile (80)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "080/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 13.45,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 438
+    },
+    {
       "card_id": 34734,
       "name": "Porygon",
       "set_id": 5500078,
@@ -69049,6 +71149,18 @@
       "market_price_usd": 13.45,
       "market_price_as_of": "2026-11-04",
       "total_listings": 156
+    },
+    {
+      "card_id": 36462,
+      "name": "Yanma (36)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "36/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 13.45,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 74
     },
     {
       "card_id": 27538,
@@ -69423,6 +71535,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 36396,
+      "name": "Omanyte",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "60/75",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 13.3,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 303
+    },
+    {
       "card_id": 36793,
       "name": "Jynx",
       "set_id": 5500039,
@@ -69685,6 +71809,18 @@
       "market_price_usd": 13.22,
       "market_price_as_of": "2026-10-21",
       "total_listings": 67
+    },
+    {
+      "card_id": 29444,
+      "name": "Sabrina's Mr. Mime",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "059/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 13.21,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 173
     },
     {
       "card_id": 34301,
@@ -69999,6 +72135,18 @@
       "total_listings": 414
     },
     {
+      "card_id": 36435,
+      "name": "Forretress (21)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "21/75",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 13.07,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 100
+    },
+    {
       "card_id": 37273,
       "name": "Pikachu (#2)",
       "set_id": 5500022,
@@ -70071,6 +72219,18 @@
       "total_listings": 610
     },
     {
+      "card_id": 29389,
+      "name": "Sabrina's Abra (94)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "094/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 13.06,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 225
+    },
+    {
       "card_id": 24060,
       "name": "Snorlax",
       "set_id": 5500217,
@@ -70117,6 +72277,18 @@
       "market_price_usd": 13.04,
       "market_price_as_of": "2026-10-29",
       "total_listings": 30
+    },
+    {
+      "card_id": 36358,
+      "name": "Dark Dugtrio (23)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "23/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 13.03,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 237
     },
     {
       "card_id": 6261,
@@ -70707,6 +72879,18 @@
       "total_listings": 30
     },
     {
+      "card_id": 36368,
+      "name": "Dark Arbok (19)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "19/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 12.87,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 212
+    },
+    {
       "card_id": 38790,
       "name": "Woobat - 7/12",
       "set_id": 5500164,
@@ -70851,6 +73035,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 29793,
+      "name": "Sabrina's Gastly",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "093/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 12.82,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 256
+    },
+    {
       "card_id": 13821,
       "name": "Reuniclus (Master Ball Pattern)",
       "set_id": 5500093,
@@ -70885,6 +73081,18 @@
       "market_price_usd": 12.81,
       "market_price_as_of": "2026-10-16",
       "total_listings": 93
+    },
+    {
+      "card_id": 29826,
+      "name": "Brock's Sandshrew (72)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "072/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 12.81,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 276
     },
     {
       "card_id": 27010,
@@ -71199,6 +73407,18 @@
       "total_listings": 179
     },
     {
+      "card_id": 36408,
+      "name": "Kabuto",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "56/75",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 12.68,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 241
+    },
+    {
       "card_id": 1758,
       "name": "Blissey - 2011 (Ross Cawthon)",
       "set_id": 5500029,
@@ -71389,6 +73609,18 @@
       "market_price_usd": 12.63,
       "market_price_as_of": "2026-10-24",
       "total_listings": 58
+    },
+    {
+      "card_id": 29379,
+      "name": "Misty's Magikarp",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "088/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 12.63,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 261
     },
     {
       "card_id": 32482,
@@ -71725,6 +73957,18 @@
       "market_price_usd": 12.51,
       "market_price_as_of": "2026-11-15",
       "total_listings": 79
+    },
+    {
+      "card_id": 36419,
+      "name": "Scyther",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "46/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 12.51,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 316
     },
     {
       "card_id": 5888,
@@ -73275,6 +75519,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 36372,
+      "name": "Rainbow Energy (80)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "80/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 12.04,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 255
+    },
+    {
       "card_id": 37703,
       "name": "Psychic Energy (2024)",
       "set_id": 5500026,
@@ -73575,6 +75831,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 29483,
+      "name": "Chaos Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "102/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 11.98,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 122
+    },
+    {
       "card_id": 31361,
       "name": "Meganium",
       "set_id": 5500037,
@@ -73597,6 +75865,18 @@
       "market_price_usd": 11.98,
       "market_price_as_of": "2026-10-21",
       "total_listings": 56
+    },
+    {
+      "card_id": 36363,
+      "name": "Rocket's Sneak Attack (72)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "72/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 11.98,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 250
     },
     {
       "card_id": 15405,
@@ -73873,6 +76153,18 @@
       "market_price_usd": 11.89,
       "market_price_as_of": "2026-10-09",
       "total_listings": 28
+    },
+    {
+      "card_id": 36424,
+      "name": "Houndour (39)",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "39/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 11.89,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 190
     },
     {
       "card_id": 36069,
@@ -74343,6 +76635,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 29872,
+      "name": "Lt. Surge (101)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "101/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 11.76,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 171
+    },
+    {
       "card_id": 33187,
       "name": "Grass Energy",
       "set_id": 5500220,
@@ -74715,6 +77019,18 @@
       "total_listings": 89
     },
     {
+      "card_id": 29429,
+      "name": "Blaine (100)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "100/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 11.66,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 119
+    },
+    {
       "card_id": 36138,
       "name": "Houndour (54)",
       "set_id": 5500137,
@@ -75039,6 +77355,18 @@
       "total_listings": 122
     },
     {
+      "card_id": 36310,
+      "name": "Charmander",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "50/82",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 11.56,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 666
+    },
+    {
       "card_id": 15370,
       "name": "Guzzlord GX - 63a/111",
       "set_id": 5500069,
@@ -75229,6 +77557,18 @@
       "market_price_usd": 11.51,
       "market_price_as_of": "2026-10-09",
       "total_listings": 583
+    },
+    {
+      "card_id": 29419,
+      "name": "Giovanni's Nidorino",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "045/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 11.51,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 261
     },
     {
       "card_id": 35571,
@@ -75447,6 +77787,18 @@
       "total_listings": 109
     },
     {
+      "card_id": 32908,
+      "name": "Bayleef (28)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "028/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 11.45,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 227
+    },
+    {
       "card_id": 36091,
       "name": "Drampa GX",
       "set_id": 5500083,
@@ -75505,6 +77857,18 @@
       "market_price_usd": 11.43,
       "market_price_as_of": "2026-11-06",
       "total_listings": 166
+    },
+    {
+      "card_id": 29849,
+      "name": "Misty's Poliwhirl",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "053/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 11.43,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 227
     },
     {
       "card_id": 35077,
@@ -76011,6 +78375,18 @@
       "total_listings": 456
     },
     {
+      "card_id": 36312,
+      "name": "Squirtle",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "68/82",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 11.25,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 710
+    },
+    {
       "card_id": 6082,
       "name": "Crobat - 091/163",
       "set_id": 5500194,
@@ -76285,6 +78661,18 @@
       "market_price_usd": 11.17,
       "market_price_as_of": "2026-10-26",
       "total_listings": 65
+    },
+    {
+      "card_id": 29373,
+      "name": "Blaine's Growlithe",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "062/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 11.17,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 306
     },
     {
       "card_id": 35472,
@@ -76719,6 +79107,18 @@
       "total_listings": 192
     },
     {
+      "card_id": 29812,
+      "name": "Blaine's Ponyta",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "063/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 11.02,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 345
+    },
+    {
       "card_id": 32423,
       "name": "Lampent",
       "set_id": 5500189,
@@ -76753,6 +79153,18 @@
       "market_price_usd": 11.0,
       "market_price_as_of": "2026-11-16",
       "total_listings": 62
+    },
+    {
+      "card_id": 29467,
+      "name": "Brock's Protection",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "101/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 11.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 96
     },
     {
       "card_id": 35466,
@@ -77211,6 +79623,18 @@
       "total_listings": 189
     },
     {
+      "card_id": 29852,
+      "name": "Erika's Exeggutor",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "044/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 10.89,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 243
+    },
+    {
       "card_id": 32561,
       "name": "Zoroark",
       "set_id": 5500207,
@@ -77341,6 +79765,18 @@
       "market_price_usd": 10.86,
       "market_price_as_of": "2026-10-15",
       "total_listings": 72
+    },
+    {
+      "card_id": 29821,
+      "name": "Blaine's Kangaskhan",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "036/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 10.84,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 222
     },
     {
       "card_id": 30343,
@@ -77499,6 +79935,18 @@
       "total_listings": 337
     },
     {
+      "card_id": 29917,
+      "name": "No Removal Gym",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "103/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 10.8,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 119
+    },
+    {
       "card_id": 35204,
       "name": "Zapdos",
       "set_id": 5500053,
@@ -77521,6 +79969,18 @@
       "market_price_usd": 10.79,
       "market_price_as_of": "2026-11-01",
       "total_listings": 125
+    },
+    {
+      "card_id": 32863,
+      "name": "Quilava (47)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "047/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 10.79,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 324
     },
     {
       "card_id": 6636,
@@ -77593,6 +80053,18 @@
       "market_price_usd": 10.77,
       "market_price_as_of": "2026-10-12",
       "total_listings": 183
+    },
+    {
+      "card_id": 32886,
+      "name": "Miltank",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "041/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 10.77,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 181
     },
     {
       "card_id": 33191,
@@ -77869,6 +80341,18 @@
       "market_price_usd": 10.68,
       "market_price_as_of": "2026-11-02",
       "total_listings": 86
+    },
+    {
+      "card_id": 36338,
+      "name": "Dark Golduck",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "37/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 10.68,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 367
     },
     {
       "card_id": 2301878,
@@ -78759,6 +81243,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 36365,
+      "name": "Dark Weezing (31)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "31/82",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 10.42,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 264
+    },
+    {
       "card_id": 111,
       "name": "Absol ex - 2007 (Tom Roos)",
       "set_id": 5500029,
@@ -78987,6 +81483,18 @@
       "total_listings": 41
     },
     {
+      "card_id": 32874,
+      "name": "Noctowl",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "042/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 10.36,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 257
+    },
+    {
       "card_id": 6515,
       "name": "Arven - 166/198 (Regional Championships)",
       "set_id": 5500087,
@@ -79117,6 +81625,18 @@
       "market_price_usd": 10.33,
       "market_price_as_of": "2026-11-03",
       "total_listings": 157
+    },
+    {
+      "card_id": 32873,
+      "name": "Murkrow",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "024/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 10.33,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 159
     },
     {
       "card_id": 38045,
@@ -79443,6 +81963,18 @@
       "total_listings": 66
     },
     {
+      "card_id": 32918,
+      "name": "Darkness Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "104/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 10.23,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 212
+    },
+    {
       "card_id": 38266,
       "name": "Torchic",
       "set_id": 5500098,
@@ -79501,6 +82033,18 @@
       "market_price_usd": 10.22,
       "market_price_as_of": "2026-11-05",
       "total_listings": 38
+    },
+    {
+      "card_id": 32829,
+      "name": "Totodile (81)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "081/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 10.22,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 512
     },
     {
       "card_id": 35220,
@@ -79597,6 +82141,18 @@
       "market_price_usd": 10.2,
       "market_price_as_of": "2026-10-24",
       "total_listings": 50
+    },
+    {
+      "card_id": 32827,
+      "name": "Pokemon March",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "102/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 10.2,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 303
     },
     {
       "card_id": 15270,
@@ -79899,6 +82455,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 29828,
+      "name": "Blaine's Vulpix",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "065/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 10.11,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 243
+    },
+    {
       "card_id": 32120,
       "name": "Gyarados",
       "set_id": 5500089,
@@ -80113,6 +82681,18 @@
       "market_price_usd": 10.04,
       "market_price_as_of": "2026-10-28",
       "total_listings": 176
+    },
+    {
+      "card_id": 29833,
+      "name": "Brock's Lickitung",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "041/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 10.03,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 217
     },
     {
       "card_id": 545,
@@ -81603,6 +84183,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 29863,
+      "name": "Blaine's Magmar",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "037/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 9.73,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 199
+    },
+    {
       "card_id": 32548,
       "name": "Spiritomb",
       "set_id": 5500207,
@@ -82023,6 +84615,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 29790,
+      "name": "Blaine's Growlithe (62)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "062/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 9.63,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 263
+    },
+    {
       "card_id": 14294,
       "name": "Durant - 150/086",
       "set_id": 5500153,
@@ -82431,6 +85035,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 29437,
+      "name": "Sabrina's Hypno",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "056/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 9.53,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 129
+    },
+    {
       "card_id": 37633,
       "name": "Magikarp",
       "set_id": 5500165,
@@ -82465,6 +85081,18 @@
       "market_price_usd": 9.52,
       "market_price_as_of": "2026-11-04",
       "total_listings": 18
+    },
+    {
+      "card_id": 32878,
+      "name": "Quilava (46)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "046/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 9.52,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 243
     },
     {
       "card_id": 35395,
@@ -82837,6 +85465,18 @@
       "market_price_usd": 9.46,
       "market_price_as_of": "2026-10-26",
       "total_listings": 156
+    },
+    {
+      "card_id": 29424,
+      "name": "Sabrina's Jynx",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "057/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 9.46,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 196
     },
     {
       "card_id": 36147,
@@ -83307,6 +85947,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 36344,
+      "name": "Magikarp",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "47/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 9.34,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 390
+    },
+    {
       "card_id": 38258,
       "name": "Ralts",
       "set_id": 5500098,
@@ -83763,6 +86415,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 29867,
+      "name": "Erika's Oddish (47)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "047/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 9.23,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 151
+    },
+    {
       "card_id": 32248,
       "name": "Unown [S]",
       "set_id": 5500156,
@@ -84207,6 +86871,18 @@
       "total_listings": 101
     },
     {
+      "card_id": 29487,
+      "name": "Lt. Surge's Secret Plan",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "107/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 9.11,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 127
+    },
+    {
       "card_id": 30357,
       "name": "Duskull",
       "set_id": 5500082,
@@ -84409,6 +87085,18 @@
       "market_price_usd": 9.06,
       "market_price_as_of": "2026-10-22",
       "total_listings": 68
+    },
+    {
+      "card_id": 29857,
+      "name": "Misty's Seaking",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "055/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 9.06,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 194
     },
     {
       "card_id": 30539,
@@ -85215,6 +87903,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 36316,
+      "name": "Sleep! (Rocket's Secret Machine)",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "79/82",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 8.9,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 846
+    },
+    {
       "card_id": 4526,
       "name": "Mudkip - 33/160 (Sheen Holo)",
       "set_id": 5500123,
@@ -85647,6 +88347,18 @@
       "total_listings": 128
     },
     {
+      "card_id": 32879,
+      "name": "Quagsire",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "045/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 8.8,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 140
+    },
+    {
       "card_id": 38088,
       "name": "Ice Rider Calyrex V",
       "set_id": 5500061,
@@ -85681,6 +88393,18 @@
       "market_price_usd": 8.79,
       "market_price_as_of": "2026-11-07",
       "total_listings": 76
+    },
+    {
+      "card_id": 36308,
+      "name": "Eevee",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "55/82",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 8.79,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 851
     },
     {
       "card_id": 4369,
@@ -86403,6 +89127,18 @@
       "total_listings": 60
     },
     {
+      "card_id": 29823,
+      "name": "Sabrina's Slowpoke",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "095/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 8.65,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 204
+    },
+    {
       "card_id": 30118,
       "name": "Xerosic's Machinations - 089/064",
       "set_id": 5500139,
@@ -86545,6 +89281,18 @@
       "market_price_usd": 8.62,
       "market_price_as_of": "2026-10-12",
       "total_listings": 91
+    },
+    {
+      "card_id": 29375,
+      "name": "Giovanni's Meowth (74)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "074/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 8.62,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 257
     },
     {
       "card_id": 34048,
@@ -86701,6 +89449,18 @@
       "market_price_usd": 8.58,
       "market_price_as_of": "2026-10-31",
       "total_listings": 36
+    },
+    {
+      "card_id": 29798,
+      "name": "Brock's Onix (69)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "069/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 8.58,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 433
     },
     {
       "card_id": 30112,
@@ -87147,6 +89907,18 @@
       "total_listings": 196
     },
     {
+      "card_id": 29811,
+      "name": "Sabrina's Mr. Mime",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "094/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 8.47,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 312
+    },
+    {
       "card_id": 6394,
       "name": "Surfer - 187/191 (Regional Championship)",
       "set_id": 5500087,
@@ -87531,6 +90303,18 @@
       "total_listings": 205
     },
     {
+      "card_id": 32822,
+      "name": "Wooper",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "082/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 8.39,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 322
+    },
+    {
       "card_id": 36029,
       "name": "Rowlet",
       "set_id": 5500083,
@@ -87867,6 +90651,18 @@
       "total_listings": 127
     },
     {
+      "card_id": 29436,
+      "name": "Misty's Dewgong",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "054/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 8.34,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 141
+    },
+    {
       "card_id": 5736,
       "name": "Pecharunt ex - 039/064",
       "set_id": 5500194,
@@ -88095,6 +90891,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 29449,
+      "name": "Brock's Sandslash",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "036/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 8.28,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 202
+    },
+    {
       "card_id": 35221,
       "name": "Hitmonchan",
       "set_id": 5500053,
@@ -88129,6 +90937,18 @@
       "market_price_usd": 8.27,
       "market_price_as_of": "2026-10-25",
       "total_listings": 46
+    },
+    {
+      "card_id": 29831,
+      "name": "Sabrina's Jynx",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "059/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 8.27,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 210
     },
     {
       "card_id": 37630,
@@ -88465,6 +91285,18 @@
       "market_price_usd": 8.21,
       "market_price_as_of": "2026-10-22",
       "total_listings": 66
+    },
+    {
+      "card_id": 29799,
+      "name": "Brock's Vulpix",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "073/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 8.21,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 274
     },
     {
       "card_id": 109,
@@ -88959,6 +91791,18 @@
       "total_listings": 137
     },
     {
+      "card_id": 29494,
+      "name": "Resistance Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "109/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 8.09,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 111
+    },
+    {
       "card_id": 31323,
       "name": "Snubbull",
       "set_id": 5500037,
@@ -89293,6 +92137,18 @@
       "market_price_usd": 8.01,
       "market_price_as_of": "2026-11-16",
       "total_listings": 336
+    },
+    {
+      "card_id": 36420,
+      "name": "Metapod",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "42/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 8.01,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 304
     },
     {
       "card_id": 36718,
@@ -89679,6 +92535,18 @@
       "total_listings": 171
     },
     {
+      "card_id": 36342,
+      "name": "Dark Rapidash",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "44/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.98,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 384
+    },
+    {
       "card_id": 925,
       "name": "Nidorina - 2005 (Jeremy Maron)",
       "set_id": 5500029,
@@ -89691,6 +92559,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 32914,
+      "name": "Donphan",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "021/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 7.97,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 167
+    },
+    {
       "card_id": 33666,
       "name": "Switch",
       "set_id": 5500228,
@@ -89701,6 +92581,18 @@
       "market_price_usd": 7.97,
       "market_price_as_of": "2026-11-16",
       "total_listings": 284
+    },
+    {
+      "card_id": 36345,
+      "name": "Dark Machoke",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "40/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.97,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 522
     },
     {
       "card_id": 19827,
@@ -89979,6 +92871,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 32900,
+      "name": "Recycle Energy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "105/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 7.91,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 186
+    },
+    {
       "card_id": 38254,
       "name": "Purrloin",
       "set_id": 5500098,
@@ -90049,6 +92953,18 @@
       "market_price_usd": 7.9,
       "market_price_as_of": "2026-10-27",
       "total_listings": 13
+    },
+    {
+      "card_id": 29441,
+      "name": "Koga (106)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "106/132",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 7.89,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 136
     },
     {
       "card_id": 31630,
@@ -90241,6 +93157,18 @@
       "market_price_usd": 7.85,
       "market_price_as_of": "2026-11-04",
       "total_listings": 48
+    },
+    {
+      "card_id": 29399,
+      "name": "Koga's Koffing (48)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "048/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.85,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 238
     },
     {
       "card_id": 32260,
@@ -90447,6 +93375,18 @@
       "total_listings": 519
     },
     {
+      "card_id": 29841,
+      "name": "Erika's Gloom (45)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "045/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.81,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 217
+    },
+    {
       "card_id": 22364,
       "name": "Cobalion GX (Full Art)",
       "set_id": 5500079,
@@ -90543,6 +93483,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 36397,
+      "name": "Caterpie",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "53/75",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 7.79,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 387
+    },
+    {
       "card_id": 12895,
       "name": "Camerupt - 4/107 (EX Deoxys)",
       "set_id": 5500101,
@@ -90589,6 +93541,18 @@
       "market_price_usd": 7.78,
       "market_price_as_of": "2026-10-29",
       "total_listings": 93
+    },
+    {
+      "card_id": 29892,
+      "name": "Minion of Team Rocket",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "113/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.78,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 139
     },
     {
       "card_id": 30220,
@@ -90781,6 +93745,18 @@
       "market_price_usd": 7.75,
       "market_price_as_of": "2026-10-16",
       "total_listings": 130
+    },
+    {
+      "card_id": 29454,
+      "name": "Brock's Primeape",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "035/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.75,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 196
     },
     {
       "card_id": 13427,
@@ -90985,6 +93961,18 @@
       "market_price_usd": 7.69,
       "market_price_as_of": "2026-10-21",
       "total_listings": 226
+    },
+    {
+      "card_id": 32840,
+      "name": "Chikorita (53)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "53/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 7.69,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 323
     },
     {
       "card_id": 14134,
@@ -91201,6 +94189,18 @@
       "market_price_usd": 7.63,
       "market_price_as_of": "2026-11-02",
       "total_listings": 211
+    },
+    {
+      "card_id": 32868,
+      "name": "Furret",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "035/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.63,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 230
     },
     {
       "card_id": 6597,
@@ -91429,6 +94429,18 @@
       "market_price_usd": 7.59,
       "market_price_as_of": "2026-11-01",
       "total_listings": 121
+    },
+    {
+      "card_id": 36425,
+      "name": "Unown [N]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "50/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.59,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 227
     },
     {
       "card_id": 13448,
@@ -92019,6 +95031,18 @@
       "total_listings": 119
     },
     {
+      "card_id": 36410,
+      "name": "Poliwag",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "62/75",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 7.49,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 340
+    },
+    {
       "card_id": 13131,
       "name": "Jolteon ex - 030/131",
       "set_id": 5500017,
@@ -92403,6 +95427,18 @@
       "total_listings": 191
     },
     {
+      "card_id": 32828,
+      "name": "Marill",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "066/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 7.42,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 429
+    },
+    {
       "card_id": 38715,
       "name": "Pikachu - 7/15",
       "set_id": 5500198,
@@ -92763,6 +95799,18 @@
       "total_listings": 277
     },
     {
+      "card_id": 36318,
+      "name": "Psyduck",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "65/82",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 7.36,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 592
+    },
+    {
       "card_id": 1414,
       "name": "Desert Shaman - 2004 (Kevin Nguyen)",
       "set_id": 5500029,
@@ -92773,6 +95821,18 @@
       "market_price_usd": 7.35,
       "market_price_as_of": "2026-10-23",
       "total_listings": 21
+    },
+    {
+      "card_id": 29434,
+      "name": "Blaine's Rapidash",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "033/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.35,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 233
     },
     {
       "card_id": 32124,
@@ -93327,6 +96387,18 @@
       "total_listings": 331
     },
     {
+      "card_id": 29810,
+      "name": "Good Manners",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "111/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 7.22,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 206
+    },
+    {
       "card_id": 30723,
       "name": "Water Energy",
       "set_id": 5500115,
@@ -93481,6 +96553,18 @@
       "market_price_usd": 7.2,
       "market_price_as_of": "2026-10-25",
       "total_listings": 78
+    },
+    {
+      "card_id": 32875,
+      "name": "Mary",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "087/111",
+      "rarity": "Rare",
+      "printing": "1st Edition",
+      "market_price_usd": 7.2,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 221
     },
     {
       "card_id": 38264,
@@ -94599,6 +97683,18 @@
       "total_listings": 157
     },
     {
+      "card_id": 29827,
+      "name": "Misty's Duel",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "123/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 6.99,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 160
+    },
+    {
       "card_id": 30372,
       "name": "Phanpy",
       "set_id": 5500082,
@@ -95103,6 +98199,18 @@
       "total_listings": 147
     },
     {
+      "card_id": 29859,
+      "name": "Secret Mission",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "118/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.89,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 275
+    },
+    {
       "card_id": 31210,
       "name": "Cofagrigus (Team Plasma) (56)",
       "set_id": 5500106,
@@ -95329,6 +98437,18 @@
       "market_price_usd": 6.86,
       "market_price_as_of": "2026-10-18",
       "total_listings": 103
+    },
+    {
+      "card_id": 36331,
+      "name": "Dark Kadabra",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "39/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.85,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 666
     },
     {
       "card_id": 18276,
@@ -96015,6 +99135,18 @@
       "total_listings": 172
     },
     {
+      "card_id": 29378,
+      "name": "Blaine's Vulpix",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "066/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 6.74,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 240
+    },
+    {
       "card_id": 30282,
       "name": "Rhydon",
       "set_id": 5500034,
@@ -96459,6 +99591,18 @@
       "total_listings": 132
     },
     {
+      "card_id": 29850,
+      "name": "Erika's Exeggcute (43)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "043/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.67,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 197
+    },
+    {
       "card_id": 30239,
       "name": "Hippopotas",
       "set_id": 5500034,
@@ -96553,6 +99697,18 @@
       "market_price_usd": 6.66,
       "market_price_as_of": "2026-11-01",
       "total_listings": 115
+    },
+    {
+      "card_id": 32887,
+      "name": "Electabuzz",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "033/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.66,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 328
     },
     {
       "card_id": 5612,
@@ -96793,6 +99949,18 @@
       "market_price_usd": 6.61,
       "market_price_as_of": "2026-11-01",
       "total_listings": 143
+    },
+    {
+      "card_id": 29387,
+      "name": "Giovanni's Machoke",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "042/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.61,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 183
     },
     {
       "card_id": 36063,
@@ -97167,6 +100335,18 @@
       "total_listings": 238
     },
     {
+      "card_id": 32870,
+      "name": "Flaaffy",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "034/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.56,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 212
+    },
+    {
       "card_id": 36054,
       "name": "Poipole",
       "set_id": 5500083,
@@ -97261,6 +100441,18 @@
       "market_price_usd": 6.54,
       "market_price_as_of": "2026-10-14",
       "total_listings": 56
+    },
+    {
+      "card_id": 36415,
+      "name": "Pupitar",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "45/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.54,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 330
     },
     {
       "card_id": 37287,
@@ -97417,6 +100609,18 @@
       "market_price_usd": 6.51,
       "market_price_as_of": "2026-11-01",
       "total_listings": 54
+    },
+    {
+      "card_id": 29446,
+      "name": "Koga's Pidgey (49)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "049/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.51,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 183
     },
     {
       "card_id": 30762,
@@ -97851,6 +101055,18 @@
       "total_listings": 54
     },
     {
+      "card_id": 36343,
+      "name": "Dark Primeape",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "43/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.45,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 478
+    },
+    {
       "card_id": 100018029,
       "name": "Articuno - 132/128",
       "set_id": 5500219,
@@ -97993,6 +101209,18 @@
       "market_price_usd": 6.43,
       "market_price_as_of": "2026-11-04",
       "total_listings": 194
+    },
+    {
+      "card_id": 36339,
+      "name": "Challenge!",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "74/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.43,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 370
     },
     {
       "card_id": 32428,
@@ -98451,6 +101679,18 @@
       "total_listings": 186
     },
     {
+      "card_id": 29862,
+      "name": "Erika's Maids",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "109/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.34,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 223
+    },
+    {
       "card_id": 30422,
       "name": "Lickitung",
       "set_id": 5500082,
@@ -98751,6 +101991,18 @@
       "total_listings": 103
     },
     {
+      "card_id": 32856,
+      "name": "Croconaw (31)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "031/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.3,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 321
+    },
+    {
       "card_id": 36129,
       "name": "Team Rocket's Trickery",
       "set_id": 5500137,
@@ -98797,6 +102049,18 @@
       "market_price_usd": 6.29,
       "market_price_as_of": "2026-11-07",
       "total_listings": 104
+    },
+    {
+      "card_id": 29415,
+      "name": "Koga's Kakuna",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "047/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.29,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 282
     },
     {
       "card_id": 30628,
@@ -99001,6 +102265,18 @@
       "market_price_usd": 6.26,
       "market_price_as_of": "2026-10-24",
       "total_listings": 6
+    },
+    {
+      "card_id": 32883,
+      "name": "Gloom",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "036/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.25,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 175
     },
     {
       "card_id": 4495,
@@ -99291,6 +102567,18 @@
       "total_listings": 93
     },
     {
+      "card_id": 29484,
+      "name": "Master Ball",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "116/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.2,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 186
+    },
+    {
       "card_id": 30810,
       "name": "Aggron",
       "set_id": 5500184,
@@ -99361,6 +102649,18 @@
       "market_price_usd": 6.19,
       "market_price_as_of": "2026-11-06",
       "total_listings": 202
+    },
+    {
+      "card_id": 29393,
+      "name": "Sabrina's Porygon",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "098/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 6.19,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 340
     },
     {
       "card_id": 32355,
@@ -99675,6 +102975,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 36433,
+      "name": "Unown [M]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "49/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.16,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 193
+    },
+    {
       "card_id": 6299,
       "name": "Tepig - 15/114 (League Promo)",
       "set_id": 5500087,
@@ -99879,6 +103191,18 @@
       "total_listings": 286
     },
     {
+      "card_id": 29392,
+      "name": "Sabrina's Abra (93)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "093/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 6.13,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 324
+    },
+    {
       "card_id": 31454,
       "name": "Toxel",
       "set_id": 5500042,
@@ -100045,6 +103369,18 @@
       "market_price_usd": 6.11,
       "market_price_as_of": "2026-11-16",
       "total_listings": 56
+    },
+    {
+      "card_id": 29438,
+      "name": "Koga's Ninja Trick",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "115/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.11,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 106
     },
     {
       "card_id": 36083,
@@ -100237,6 +103573,18 @@
       "market_price_usd": 6.09,
       "market_price_as_of": "2026-10-23",
       "total_listings": 115
+    },
+    {
+      "card_id": 29884,
+      "name": "Brock's Golbat",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "039/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 6.09,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 257
     },
     {
       "card_id": 30243,
@@ -101835,6 +105183,18 @@
       "total_listings": 89
     },
     {
+      "card_id": 29875,
+      "name": "Lt. Surge's Magnemite (50)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "050/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.87,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 205
+    },
+    {
       "card_id": 30099,
       "name": "Janine's Secret Art - 088/064",
       "set_id": 5500139,
@@ -101991,6 +105351,18 @@
       "total_listings": 86
     },
     {
+      "card_id": 36430,
+      "name": "Unown [U]",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "51/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.84,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 227
+    },
+    {
       "card_id": 13603,
       "name": "Crustle - 130/086",
       "set_id": 5500093,
@@ -102001,6 +105373,18 @@
       "market_price_usd": 5.83,
       "market_price_as_of": "2026-10-09",
       "total_listings": 116
+    },
+    {
+      "card_id": 29416,
+      "name": "Saffron City Gym",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "122/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.83,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 244
     },
     {
       "card_id": 30218,
@@ -102637,6 +106021,18 @@
       "market_price_usd": 5.75,
       "market_price_as_of": "2026-10-22",
       "total_listings": 109
+    },
+    {
+      "card_id": 29473,
+      "name": "Blaine's Quiz #2",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "111/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.75,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 137
     },
     {
       "card_id": 31093,
@@ -103383,6 +106779,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 29462,
+      "name": "Blaine's Quiz #3",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "112/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.68,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 147
+    },
+    {
       "card_id": 35108,
       "name": "Lanette's Net Search",
       "set_id": 5500235,
@@ -103465,6 +106873,18 @@
       "market_price_usd": 5.67,
       "market_price_as_of": "2026-11-10",
       "total_listings": 719
+    },
+    {
+      "card_id": 36326,
+      "name": "Slowpoke",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "67/82",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.67,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 677
     },
     {
       "card_id": 38246,
@@ -103851,6 +107271,30 @@
       "total_listings": 140
     },
     {
+      "card_id": 29377,
+      "name": "Erika's Oddish",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "070/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.61,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 250
+    },
+    {
+      "card_id": 29803,
+      "name": "Sabrina's Venonat",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "096/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.61,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 395
+    },
+    {
       "card_id": 30306,
       "name": "Luxio",
       "set_id": 5500034,
@@ -104149,6 +107593,42 @@
       "market_price_usd": 5.58,
       "market_price_as_of": "2026-11-01",
       "total_listings": 158
+    },
+    {
+      "card_id": 29452,
+      "name": "Koga's Golbat",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "046/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.58,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 195
+    },
+    {
+      "card_id": 29822,
+      "name": "Sabrina's Abra",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "091/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.58,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 306
+    },
+    {
+      "card_id": 32839,
+      "name": "Chikorita (54)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "054/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.58,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 473
     },
     {
       "card_id": 35493,
@@ -104559,6 +108039,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 32846,
+      "name": "Shuckle",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "072/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.53,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 337
+    },
+    {
       "card_id": 33240,
       "name": "Mysterious Fossil",
       "set_id": 5500220,
@@ -104641,6 +108133,18 @@
       "market_price_usd": 5.52,
       "market_price_as_of": "2026-11-02",
       "total_listings": 280
+    },
+    {
+      "card_id": 32820,
+      "name": "Moo-Moo Milk",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "101/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.52,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 590
     },
     {
       "card_id": 1476,
@@ -104785,6 +108289,18 @@
       "market_price_usd": 5.5,
       "market_price_as_of": "2026-10-21",
       "total_listings": 101
+    },
+    {
+      "card_id": 36347,
+      "name": "Dark Electrode",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "34/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.5,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 630
     },
     {
       "card_id": 37898,
@@ -105387,6 +108903,30 @@
       "total_listings": 147
     },
     {
+      "card_id": 29912,
+      "name": "Tickling Machine",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "119/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.43,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 163
+    },
+    {
+      "card_id": 36403,
+      "name": "Teddiursa",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "65/75",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.43,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 396
+    },
+    {
       "card_id": 6108,
       "name": "Energy Search Pro - 176/191",
       "set_id": 5500194,
@@ -105445,6 +108985,18 @@
       "market_price_usd": 5.42,
       "market_price_as_of": "2026-10-23",
       "total_listings": 206
+    },
+    {
+      "card_id": 29445,
+      "name": "Lt. Surge's Electrode",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "052/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.42,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 194
     },
     {
       "card_id": 36941,
@@ -105867,6 +109419,18 @@
       "total_listings": 102
     },
     {
+      "card_id": 29832,
+      "name": "Blaine's Tauros",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "064/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.37,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 395
+    },
+    {
       "card_id": 36039,
       "name": "Shuppet",
       "set_id": 5500083,
@@ -106203,6 +109767,18 @@
       "total_listings": 133
     },
     {
+      "card_id": 29843,
+      "name": "Lt. Surge's Raticate",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "051/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.34,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 382
+    },
+    {
       "card_id": 38778,
       "name": "Crabrawler - 7/12",
       "set_id": 5500145,
@@ -106383,6 +109959,18 @@
       "total_listings": 580
     },
     {
+      "card_id": 32866,
+      "name": "Bayleef (29)",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "029/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.32,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 269
+    },
+    {
       "card_id": 35060,
       "name": "Multi Energy",
       "set_id": 5500235,
@@ -106527,6 +110115,30 @@
       "total_listings": 118
     },
     {
+      "card_id": 29403,
+      "name": "Koga's Weezing",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "050/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.3,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 245
+    },
+    {
+      "card_id": 29871,
+      "name": "Brock's Mankey (68)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "068/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.3,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 303
+    },
+    {
       "card_id": 32145,
       "name": "Psychic Energy",
       "set_id": 5500089,
@@ -106597,6 +110209,18 @@
       "market_price_usd": 5.29,
       "market_price_as_of": "2026-10-17",
       "total_listings": 136
+    },
+    {
+      "card_id": 29439,
+      "name": "Blaine's Dodrio",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "032/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.29,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 213
     },
     {
       "card_id": 31094,
@@ -106741,6 +110365,18 @@
       "market_price_usd": 5.28,
       "market_price_as_of": "2026-11-01",
       "total_listings": 117
+    },
+    {
+      "card_id": 29818,
+      "name": "Brock's Sandshrew (71)",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "071/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.28,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 434
     },
     {
       "card_id": 4090,
@@ -106899,6 +110535,18 @@
       "total_listings": 188
     },
     {
+      "card_id": 36346,
+      "name": "Dark Gloom",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "36/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.26,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 627
+    },
+    {
       "card_id": 38783,
       "name": "Drilbur - 8/12",
       "set_id": 5500164,
@@ -106945,6 +110593,18 @@
       "market_price_usd": 5.25,
       "market_price_as_of": "2026-11-09",
       "total_listings": 147
+    },
+    {
+      "card_id": 32885,
+      "name": "Magmar",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "040/111",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.25,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 391
     },
     {
       "card_id": 37880,
@@ -107235,6 +110895,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 36426,
+      "name": "Kakuna",
+      "set_id": 5500105,
+      "set_name": "Neo Discovery",
+      "number": "41/75",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.21,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 233
+    },
+    {
       "card_id": 100018055,
       "name": "Morpeko - 135/128",
       "set_id": 5500219,
@@ -107499,6 +111171,18 @@
       "total_listings": 422
     },
     {
+      "card_id": 29421,
+      "name": "Giovanni's Nidorina",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "044/132",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.17,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 231
+    },
+    {
       "card_id": 30342,
       "name": "Mareep",
       "set_id": 5500082,
@@ -107557,6 +111241,18 @@
       "market_price_usd": 5.16,
       "market_price_as_of": "2026-10-14",
       "total_listings": 236
+    },
+    {
+      "card_id": 29395,
+      "name": "Koga's Pidgey (80)",
+      "set_id": 5500085,
+      "set_name": "Gym Challenge",
+      "number": "080/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.16,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 486
     },
     {
       "card_id": 36982,
@@ -107907,6 +111603,18 @@
       "total_listings": 86
     },
     {
+      "card_id": 36350,
+      "name": "Porygon",
+      "set_id": 5500190,
+      "set_name": "Team Rocket",
+      "number": "48/82",
+      "rarity": "Uncommon",
+      "printing": "1st Edition",
+      "market_price_usd": 5.13,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 439
+    },
+    {
       "card_id": 38070,
       "name": "Shroomish",
       "set_id": 5500133,
@@ -108013,6 +111721,18 @@
       "market_price_usd": 5.12,
       "market_price_as_of": "2026-11-03",
       "total_listings": 360
+    },
+    {
+      "card_id": 32843,
+      "name": "Horsea",
+      "set_id": 5500205,
+      "set_name": "Neo Genesis",
+      "number": "062/111",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.12,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 387
     },
     {
       "card_id": 1538,
@@ -109165,6 +112885,18 @@
       "market_price_usd": 5.0,
       "market_price_as_of": "2026-11-01",
       "total_listings": 102
+    },
+    {
+      "card_id": 29815,
+      "name": "Sabrina's Gaze",
+      "set_id": 5500157,
+      "set_name": "Gym Heroes",
+      "number": "125/132",
+      "rarity": "Common",
+      "printing": "1st Edition",
+      "market_price_usd": 5.0,
+      "market_price_as_of": "2026-11-17",
+      "total_listings": 398
     },
     {
       "card_id": 30324,
