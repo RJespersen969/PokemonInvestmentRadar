@@ -379527,6 +379527,5928 @@
           "market_price_as_of": "2026-11-17"
         }
       ]
+    },
+    "30020:Holofoil": {
+      "card_id": 30020,
+      "name": "Alakazam",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 53.01,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30055:Holofoil": {
+      "card_id": 30055,
+      "name": "Blastoise",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 152.56,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29945:Holofoil": {
+      "card_id": 29945,
+      "name": "Chansey",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 33.73,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30057:Holofoil": {
+      "card_id": 30057,
+      "name": "Charizard",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 513.67,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29996:Holofoil": {
+      "card_id": 29996,
+      "name": "Clefable",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 31.3,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29944:Holofoil": {
+      "card_id": 29944,
+      "name": "Clefairy",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 26.85,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29979:Holofoil": {
+      "card_id": 29979,
+      "name": "Gyarados",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 61.82,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29983:Holofoil": {
+      "card_id": 29983,
+      "name": "Hitmonchan",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 26.69,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29973:Holofoil": {
+      "card_id": 29973,
+      "name": "Magneton",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 27.32,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30053:Holofoil": {
+      "card_id": 30053,
+      "name": "Mewtwo",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 164.96,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30025:Holofoil": {
+      "card_id": 30025,
+      "name": "Nidoking",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 43.44,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30016:Holofoil": {
+      "card_id": 30016,
+      "name": "Nidoqueen",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 40.42,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30019:Holofoil": {
+      "card_id": 30019,
+      "name": "Ninetales",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 36.76,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29993:Holofoil": {
+      "card_id": 29993,
+      "name": "Pidgeot",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 41.58,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29938:Holofoil": {
+      "card_id": 29938,
+      "name": "Poliwrath",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 22.3,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30021:Holofoil": {
+      "card_id": 30021,
+      "name": "Raichu",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 60.73,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30017:Holofoil": {
+      "card_id": 30017,
+      "name": "Scyther",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 40.97,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30035:Holofoil": {
+      "card_id": 30035,
+      "name": "Venusaur",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 121.45,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29939:Holofoil": {
+      "card_id": 29939,
+      "name": "Wigglytuff",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 22.66,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30038:Holofoil": {
+      "card_id": 30038,
+      "name": "Zapdos",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 45.59,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30010:Normal": {
+      "card_id": 30010,
+      "name": "Beedrill",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.01,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30004:Normal": {
+      "card_id": 30004,
+      "name": "Dragonair",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.39,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30030:Normal": {
+      "card_id": 30030,
+      "name": "Dugtrio",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.42,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29982:Normal": {
+      "card_id": 29982,
+      "name": "Electabuzz",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.18,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30011:Normal": {
+      "card_id": 30011,
+      "name": "Electrode",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 8.75,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29994:Normal": {
+      "card_id": 29994,
+      "name": "Kangaskhan",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 5.98,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30015:Normal": {
+      "card_id": 30015,
+      "name": "Mr. Mime",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.07,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30005:Normal": {
+      "card_id": 30005,
+      "name": "Pidgeotto",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 5.12,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30001:Normal": {
+      "card_id": 30001,
+      "name": "Pinsir",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.15,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29981:Normal": {
+      "card_id": 29981,
+      "name": "Snorlax",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 30.6,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29995:Normal": {
+      "card_id": 29995,
+      "name": "Venomoth",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.68,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29978:Normal": {
+      "card_id": 29978,
+      "name": "Victreebel",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.34,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29985:Normal": {
+      "card_id": 29985,
+      "name": "Arcanine",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.03,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30006:Normal": {
+      "card_id": 30006,
+      "name": "Butterfree",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.48,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30024:Normal": {
+      "card_id": 30024,
+      "name": "Charmeleon",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.42,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29990:Normal": {
+      "card_id": 29990,
+      "name": "Dewgong",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.4,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30052:Normal": {
+      "card_id": 30052,
+      "name": "Dodrio",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.01,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29986:Normal": {
+      "card_id": 29986,
+      "name": "Exeggutor",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.05,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29971:Normal": {
+      "card_id": 29971,
+      "name": "Farfetch'd",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.76,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30013:Normal": {
+      "card_id": 30013,
+      "name": "Fearow",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.49,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30026:Normal": {
+      "card_id": 30026,
+      "name": "Growlithe",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.11,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29984:Normal": {
+      "card_id": 29984,
+      "name": "Haunter",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29975:Normal": {
+      "card_id": 29975,
+      "name": "Ivysaur",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 7.78,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30033:Normal": {
+      "card_id": 30033,
+      "name": "Jynx",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.93,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29941:Normal": {
+      "card_id": 29941,
+      "name": "Kadabra",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.15,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30022:Normal": {
+      "card_id": 30022,
+      "name": "Kakuna",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.05,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29987:Normal": {
+      "card_id": 29987,
+      "name": "Lickitung",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.05,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29951:Normal": {
+      "card_id": 29951,
+      "name": "Machoke",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.89,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30027:Normal": {
+      "card_id": 30027,
+      "name": "Magikarp",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.74,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29970:Normal": {
+      "card_id": 29970,
+      "name": "Magmar",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.15,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30037:Normal": {
+      "card_id": 30037,
+      "name": "Marowak",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.02,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29964:Normal": {
+      "card_id": 29964,
+      "name": "Nidorina",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.4,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30032:Normal": {
+      "card_id": 30032,
+      "name": "Nidorino",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.62,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29989:Normal": {
+      "card_id": 29989,
+      "name": "Parasect",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.36,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30031:Normal": {
+      "card_id": 30031,
+      "name": "Persian",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.74,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29969:Normal": {
+      "card_id": 29969,
+      "name": "Poliwhirl",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30051:Normal": {
+      "card_id": 30051,
+      "name": "Raticate",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.27,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30039:Normal": {
+      "card_id": 30039,
+      "name": "Rhydon",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.46,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29940:Normal": {
+      "card_id": 29940,
+      "name": "Seaking",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.02,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29961:Normal": {
+      "card_id": 29961,
+      "name": "Seel",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.8,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30050:Normal": {
+      "card_id": 30050,
+      "name": "Tauros",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.73,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29968:Normal": {
+      "card_id": 29968,
+      "name": "Wartortle",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.88,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29960:Normal": {
+      "card_id": 29960,
+      "name": "Weepinbell",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.85,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29959:Normal": {
+      "card_id": 29959,
+      "name": "Abra",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.69,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29946:Normal": {
+      "card_id": 29946,
+      "name": "Bellsprout",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29943:Normal": {
+      "card_id": 29943,
+      "name": "Bulbasaur",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.44,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29998:Normal": {
+      "card_id": 29998,
+      "name": "Caterpie",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.78,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29950:Normal": {
+      "card_id": 29950,
+      "name": "Charmander",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.28,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29929:Normal": {
+      "card_id": 29929,
+      "name": "Cubone",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.23,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29937:Normal": {
+      "card_id": 29937,
+      "name": "Diglett",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.75,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29935:Normal": {
+      "card_id": 29935,
+      "name": "Doduo",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.75,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29974:Normal": {
+      "card_id": 29974,
+      "name": "Drowzee",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.7,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29956:Normal": {
+      "card_id": 29956,
+      "name": "Exeggcute",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.94,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29952:Normal": {
+      "card_id": 29952,
+      "name": "Gastly",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.77,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29931:Normal": {
+      "card_id": 29931,
+      "name": "Goldeen",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.57,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29967:Normal": {
+      "card_id": 29967,
+      "name": "Jigglypuff",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.66,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29954:Normal": {
+      "card_id": 29954,
+      "name": "Machop",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.68,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29953:Normal": {
+      "card_id": 29953,
+      "name": "Magnemite",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29957:Normal": {
+      "card_id": 29957,
+      "name": "Meowth",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.96,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29942:Normal": {
+      "card_id": 29942,
+      "name": "Metapod",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.78,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30008:Normal": {
+      "card_id": 30008,
+      "name": "Nidoran F",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.59,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29980:Normal": {
+      "card_id": 29980,
+      "name": "Nidoran M",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.8,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30043:Normal": {
+      "card_id": 30043,
+      "name": "Onix",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.94,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29965:Normal": {
+      "card_id": 29965,
+      "name": "Paras",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.75,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29999:Normal": {
+      "card_id": 29999,
+      "name": "Pidgey",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.98,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29933:Normal": {
+      "card_id": 29933,
+      "name": "Pikachu",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.73,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29949:Normal": {
+      "card_id": 29949,
+      "name": "Poliwag",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.53,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29966:Normal": {
+      "card_id": 29966,
+      "name": "Rattata",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.76,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29972:Normal": {
+      "card_id": 29972,
+      "name": "Rhyhorn",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.8,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29955:Normal": {
+      "card_id": 29955,
+      "name": "Sandshrew",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29962:Normal": {
+      "card_id": 29962,
+      "name": "Spearow",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.86,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29932:Normal": {
+      "card_id": 29932,
+      "name": "Squirtle",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.74,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29958:Normal": {
+      "card_id": 29958,
+      "name": "Starmie",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.08,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29930:Normal": {
+      "card_id": 29930,
+      "name": "Staryu",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29947:Normal": {
+      "card_id": 29947,
+      "name": "Tangela",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.53,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30014:Normal": {
+      "card_id": 30014,
+      "name": "Venonat",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.32,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29992:Normal": {
+      "card_id": 29992,
+      "name": "Voltorb",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.62,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29976:Normal": {
+      "card_id": 29976,
+      "name": "Vulpix",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.15,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29934:Normal": {
+      "card_id": 29934,
+      "name": "Weedle",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.42,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29997:Normal": {
+      "card_id": 29997,
+      "name": "Computer Search",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.62,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30046:Normal": {
+      "card_id": 30046,
+      "name": "Imposter Professor Oak",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.61,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30028:Normal": {
+      "card_id": 30028,
+      "name": "Item Finder",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 7.1,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30041:Normal": {
+      "card_id": 30041,
+      "name": "Lass",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.13,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30018:Normal": {
+      "card_id": 30018,
+      "name": "Pokemon Breeder",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.8,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30029:Normal": {
+      "card_id": 30029,
+      "name": "Pokemon Trader",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.5,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30048:Normal": {
+      "card_id": 30048,
+      "name": "Scoop Up",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 5.24,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29988:Normal": {
+      "card_id": 29988,
+      "name": "Super Energy Removal",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.86,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30042:Normal": {
+      "card_id": 30042,
+      "name": "Defender",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30000:Normal": {
+      "card_id": 30000,
+      "name": "Energy Retrieval",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30044:Normal": {
+      "card_id": 30044,
+      "name": "Full Heal",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.41,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30045:Normal": {
+      "card_id": 30045,
+      "name": "Maintenance",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.21,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30036:Normal": {
+      "card_id": 30036,
+      "name": "PlusPower",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30047:Normal": {
+      "card_id": 30047,
+      "name": "Pokemon Center",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.17,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30056:Normal": {
+      "card_id": 30056,
+      "name": "Pokedex",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30034:Normal": {
+      "card_id": 30034,
+      "name": "Professor Oak",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.4,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30054:Normal": {
+      "card_id": 30054,
+      "name": "Super Potion",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30002:Normal": {
+      "card_id": 30002,
+      "name": "Bill",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30012:Normal": {
+      "card_id": 30012,
+      "name": "Energy Removal",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29977:Normal": {
+      "card_id": 29977,
+      "name": "Gust of Wind",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29963:Normal": {
+      "card_id": 29963,
+      "name": "Poke Ball",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30023:Normal": {
+      "card_id": 30023,
+      "name": "Potion",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.21,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30003:Normal": {
+      "card_id": 30003,
+      "name": "Switch",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.32,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29991:Normal": {
+      "card_id": 29991,
+      "name": "Double Colorless Energy",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.32,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30040:Normal": {
+      "card_id": 30040,
+      "name": "Fire Energy",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.04,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29948:Normal": {
+      "card_id": 29948,
+      "name": "Grass Energy",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "30049:Normal": {
+      "card_id": 30049,
+      "name": "Lightning Energy",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29928:Normal": {
+      "card_id": 29928,
+      "name": "Psychic Energy",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "29936:Normal": {
+      "card_id": 29936,
+      "name": "Water Energy",
+      "set_id": 5500006,
+      "set_name": "Base Set 2",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36870:1st Edition Holofoil": {
+      "card_id": 36870,
+      "name": "Aerodactyl (1)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 96.24,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36876:1st Edition Holofoil": {
+      "card_id": 36876,
+      "name": "Articuno (2)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 197.08,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36885:1st Edition Holofoil": {
+      "card_id": 36885,
+      "name": "Ditto (3)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 143.23,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36878:1st Edition Holofoil": {
+      "card_id": 36878,
+      "name": "Dragonite (4)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 689.86,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36887:1st Edition Holofoil": {
+      "card_id": 36887,
+      "name": "Gengar (5)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 725.0,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36873:1st Edition Holofoil": {
+      "card_id": 36873,
+      "name": "Haunter (6)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 184.89,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36865:1st Edition Holofoil": {
+      "card_id": 36865,
+      "name": "Hitmonlee (7)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 151.29,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36884:1st Edition Holofoil": {
+      "card_id": 36884,
+      "name": "Hypno (8)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 102.36,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36872:1st Edition Holofoil": {
+      "card_id": 36872,
+      "name": "Kabutops (9)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 115.84,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36841:1st Edition Holofoil": {
+      "card_id": 36841,
+      "name": "Lapras (10)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 244.14,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36866:1st Edition Holofoil": {
+      "card_id": 36866,
+      "name": "Magneton (11)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 68.01,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36888:1st Edition Holofoil": {
+      "card_id": 36888,
+      "name": "Moltres (12)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 196.26,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36844:1st Edition Holofoil": {
+      "card_id": 36844,
+      "name": "Muk (13)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 65.4,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36889:1st Edition Holofoil": {
+      "card_id": 36889,
+      "name": "Raichu (14)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 208.87,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36862:1st Edition Holofoil": {
+      "card_id": 36862,
+      "name": "Zapdos (15)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 246.79,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36875:1st Edition": {
+      "card_id": 36875,
+      "name": "Aerodactyl (16)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 25.55,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36879:1st Edition": {
+      "card_id": 36879,
+      "name": "Articuno (17)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 34.9,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36874:1st Edition": {
+      "card_id": 36874,
+      "name": "Ditto (18)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 25.04,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36869:1st Edition": {
+      "card_id": 36869,
+      "name": "Dragonite (19)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 103.83,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36867:1st Edition": {
+      "card_id": 36867,
+      "name": "Gengar (20)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 119.53,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36882:1st Edition": {
+      "card_id": 36882,
+      "name": "Haunter (21)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 28.08,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36881:1st Edition": {
+      "card_id": 36881,
+      "name": "Hitmonlee (22)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 15.48,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36883:1st Edition": {
+      "card_id": 36883,
+      "name": "Hypno (23)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.33,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36880:1st Edition": {
+      "card_id": 36880,
+      "name": "Kabutops (24)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 22.66,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36868:1st Edition": {
+      "card_id": 36868,
+      "name": "Lapras (25)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 28.6,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36886:1st Edition": {
+      "card_id": 36886,
+      "name": "Magneton (26)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 13.8,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36863:1st Edition": {
+      "card_id": 36863,
+      "name": "Moltres (27)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 33.1,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36877:1st Edition": {
+      "card_id": 36877,
+      "name": "Muk (28)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.26,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36864:1st Edition": {
+      "card_id": 36864,
+      "name": "Raichu (29)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 25.6,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36871:1st Edition": {
+      "card_id": 36871,
+      "name": "Zapdos (30)",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 31.4,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36852:1st Edition": {
+      "card_id": 36852,
+      "name": "Arbok",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.66,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36848:1st Edition": {
+      "card_id": 36848,
+      "name": "Cloyster",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.4,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36861:1st Edition": {
+      "card_id": 36861,
+      "name": "Gastly",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.96,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36850:1st Edition": {
+      "card_id": 36850,
+      "name": "Golbat",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.06,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36854:1st Edition": {
+      "card_id": 36854,
+      "name": "Golduck",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 7.12,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36859:1st Edition": {
+      "card_id": 36859,
+      "name": "Golem",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.39,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36840:1st Edition": {
+      "card_id": 36840,
+      "name": "Graveler",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.25,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36842:1st Edition": {
+      "card_id": 36842,
+      "name": "Kingler",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.24,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36845:1st Edition": {
+      "card_id": 36845,
+      "name": "Magmar",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 5.79,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36853:1st Edition": {
+      "card_id": 36853,
+      "name": "Omastar",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 5.61,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36855:1st Edition": {
+      "card_id": 36855,
+      "name": "Sandslash",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 5.51,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36856:1st Edition": {
+      "card_id": 36856,
+      "name": "Seadra",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.58,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36847:1st Edition": {
+      "card_id": 36847,
+      "name": "Slowbro",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 9.33,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36858:1st Edition": {
+      "card_id": 36858,
+      "name": "Tentacruel",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.34,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36860:1st Edition": {
+      "card_id": 36860,
+      "name": "Weezing",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.69,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36838:1st Edition": {
+      "card_id": 36838,
+      "name": "Ekans",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.69,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36831:1st Edition": {
+      "card_id": 36831,
+      "name": "Geodude",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.98,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36832:1st Edition": {
+      "card_id": 36832,
+      "name": "Grimer",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.67,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36833:1st Edition": {
+      "card_id": 36833,
+      "name": "Horsea",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.15,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36829:1st Edition": {
+      "card_id": 36829,
+      "name": "Kabuto",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 18.96,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36834:1st Edition": {
+      "card_id": 36834,
+      "name": "Krabby",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.12,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36828:1st Edition": {
+      "card_id": 36828,
+      "name": "Omanyte",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.28,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36830:1st Edition": {
+      "card_id": 36830,
+      "name": "Psyduck",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 15.91,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36839:1st Edition": {
+      "card_id": 36839,
+      "name": "Shellder",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.9,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36836:1st Edition": {
+      "card_id": 36836,
+      "name": "Slowpoke",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.15,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36835:1st Edition": {
+      "card_id": 36835,
+      "name": "Tentacool",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.36,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36837:1st Edition": {
+      "card_id": 36837,
+      "name": "Zubat",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.25,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36857:1st Edition": {
+      "card_id": 36857,
+      "name": "Mr. Fuji",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 7.86,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36851:1st Edition": {
+      "card_id": 36851,
+      "name": "Energy Search",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.08,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36849:1st Edition": {
+      "card_id": 36849,
+      "name": "Gambler",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 7.12,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36843:1st Edition": {
+      "card_id": 36843,
+      "name": "Recycle",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.94,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36846:1st Edition": {
+      "card_id": 36846,
+      "name": "Mysterious Fossil",
+      "set_id": 5500054,
+      "set_name": "Fossil",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.13,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36563:Holofoil": {
+      "card_id": 36563,
+      "name": "Misty's Seadra (Prerelease)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 20.49,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36555:Normal": {
+      "card_id": 36555,
+      "name": "Pikachu (1)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 42.93,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36606:1st Edition Holofoil": {
+      "card_id": 36606,
+      "name": "Aerodactyl (Prerelease)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 95.9,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36615:Holofoil": {
+      "card_id": 36615,
+      "name": "Clefable (Prerelease)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 248.33,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36552:Normal": {
+      "card_id": 36552,
+      "name": "Electabuzz (Movie Promo)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 12.61,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36553:Normal": {
+      "card_id": 36553,
+      "name": "Mewtwo (Movie Promo)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 36.91,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36599:Normal": {
+      "card_id": 36599,
+      "name": "Brock's Vulpix [W Stamped]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 31.16,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36554:Normal": {
+      "card_id": 36554,
+      "name": "Pikachu (Movie Promo)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 41.98,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36550:Normal": {
+      "card_id": 36550,
+      "name": "Dragonite (Movie Promo)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 57.76,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36607:Normal": {
+      "card_id": 36607,
+      "name": "Misty's Psyduck [W Stamped]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 162.13,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36569:Normal": {
+      "card_id": 36569,
+      "name": "Arcanine",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 43.59,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36591:Normal": {
+      "card_id": 36591,
+      "name": "Wartortle [W Stamped]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 77.41,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36585:Normal": {
+      "card_id": 36585,
+      "name": "Jigglypuff",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 38.91,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36548:Normal": {
+      "card_id": 36548,
+      "name": "Mew (8)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 13.12,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36556:Holofoil": {
+      "card_id": 36556,
+      "name": "Dark Gyarados (Prerelease)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 34.29,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36564:Holofoil": {
+      "card_id": 36564,
+      "name": "Mew (9)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 149.71,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36568:Holofoil": {
+      "card_id": 36568,
+      "name": "Meowth",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 70.74,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36558:Holofoil": {
+      "card_id": 36558,
+      "name": "Eevee",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 56.47,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36611:Normal": {
+      "card_id": 36611,
+      "name": "Eevee (JR East Stamp Rally)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 598.98,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36583:Normal": {
+      "card_id": 36583,
+      "name": "Mewtwo (12)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 151.94,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36597:Holofoil": {
+      "card_id": 36597,
+      "name": "Venusaur",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 293.74,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36551:Normal": {
+      "card_id": 36551,
+      "name": "Mewtwo (14)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 34.15,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36590:Holofoil": {
+      "card_id": 36590,
+      "name": "Cool Porygon",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 89.83,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36570:Normal": {
+      "card_id": 36570,
+      "name": "Computer Error (Rocket's Secret Machine)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.84,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36581:Holofoil": {
+      "card_id": 36581,
+      "name": "Dark Persian",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 131.4,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36578:Normal": {
+      "card_id": 36578,
+      "name": "Team Rocket's Meowth",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 28.51,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36588:Normal": {
+      "card_id": 36588,
+      "name": "Sabrina's Abra",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 50.23,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36598:Normal": {
+      "card_id": 36598,
+      "name": "Dark Arbok [W Stamped]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 58.53,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36571:Normal": {
+      "card_id": 36571,
+      "name": "Psyduck",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 85.81,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36565:Normal": {
+      "card_id": 36565,
+      "name": "Moltres",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 19.79,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36562:Normal": {
+      "card_id": 36562,
+      "name": "Articuno (22)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.06,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36559:Normal": {
+      "card_id": 36559,
+      "name": "Zapdos",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 21.59,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36604:Holofoil": {
+      "card_id": 36604,
+      "name": "______'s Pikachu",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 497.91,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36580:Normal": {
+      "card_id": 36580,
+      "name": "Flying Pikachu",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 94.3,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36589:Normal": {
+      "card_id": 36589,
+      "name": "Pikachu (SNAP Promo)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 101.88,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36609:Normal": {
+      "card_id": 36609,
+      "name": "Pikachu (Baby)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 91.65,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36567:Normal": {
+      "card_id": 36567,
+      "name": "Pikachu (27)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 32.95,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36572:Normal": {
+      "card_id": 36572,
+      "name": "Surfing Pikachu",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 59.44,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36561:Normal": {
+      "card_id": 36561,
+      "name": "Marill",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.83,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36582:Normal": {
+      "card_id": 36582,
+      "name": "Togepi",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 32.95,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36576:Normal": {
+      "card_id": 36576,
+      "name": "Cleffa",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.97,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36566:Normal": {
+      "card_id": 36566,
+      "name": "Smeargle",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 18.84,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36613:Normal": {
+      "card_id": 36613,
+      "name": "Dark Charmeleon [W Stamped]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 121.73,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36574:Normal": {
+      "card_id": 36574,
+      "name": "Scizor",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 19.83,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36549:Reverse Holofoil": {
+      "card_id": 36549,
+      "name": "Entei",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 26.94,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36560:Reverse Holofoil": {
+      "card_id": 36560,
+      "name": "Pichu",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 106.27,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36573:Normal": {
+      "card_id": 36573,
+      "name": "Igglybuff",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 15.17,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36584:Normal": {
+      "card_id": 36584,
+      "name": "Hitmontop",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 8.89,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36575:Normal": {
+      "card_id": 36575,
+      "name": "Unown [J]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 25.44,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36577:Normal": {
+      "card_id": 36577,
+      "name": "Misdreavus",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 7.98,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36612:Normal": {
+      "card_id": 36612,
+      "name": "Pokemon Center",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1224.09,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36617:Normal": {
+      "card_id": 36617,
+      "name": "Lucky Stadium",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1700.0,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36579:Normal": {
+      "card_id": 36579,
+      "name": "Pokemon Tower",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 13.18,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36557:Normal": {
+      "card_id": 36557,
+      "name": "Machamp",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 79.11,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36593:Normal": {
+      "card_id": 36593,
+      "name": "Magmar",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 33.83,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36601:Normal": {
+      "card_id": 36601,
+      "name": "Scyther",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 60.39,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36586:Normal": {
+      "card_id": 36586,
+      "name": "Electabuzz",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 44.44,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36603:Normal": {
+      "card_id": 36603,
+      "name": "Mew (47)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 162.97,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36608:Normal": {
+      "card_id": 36608,
+      "name": "Articuno (48)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 92.19,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36595:Normal": {
+      "card_id": 36595,
+      "name": "Snorlax",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 425.41,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36596:Normal": {
+      "card_id": 36596,
+      "name": "Celebi",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 110.31,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36605:Normal": {
+      "card_id": 36605,
+      "name": "Kabuto [W Stamped]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 61.09,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36594:Normal": {
+      "card_id": 36594,
+      "name": "Rapidash (51)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 56.21,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36610:Normal": {
+      "card_id": 36610,
+      "name": "Rapidash [Pokemon Center NY]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 119.87,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36592:Normal": {
+      "card_id": 36592,
+      "name": "Ho-oh",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 58.46,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36616:Normal": {
+      "card_id": 36616,
+      "name": "Ho-oh [Pokemon Center NY]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 111.82,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36587:Normal": {
+      "card_id": 36587,
+      "name": "Suicune",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 71.88,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36602:Normal": {
+      "card_id": 36602,
+      "name": "Pikachu [W Stamped]",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 249.46,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36600:Normal": {
+      "card_id": 36600,
+      "name": "Mew - 8 (Glossy Finish)",
+      "set_id": 5500162,
+      "set_name": "WoTC Promo",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 38.14,
+          "market_price_as_of": "2026-11-19"
+        }
+      ]
+    },
+    "36669:1st Edition Holofoil": {
+      "card_id": 36669,
+      "name": "Clefable (1)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 149.15,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36666:1st Edition Holofoil": {
+      "card_id": 36666,
+      "name": "Electrode (2)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 73.26,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36680:1st Edition Holofoil": {
+      "card_id": 36680,
+      "name": "Flareon (3)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 341.24,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36681:1st Edition Holofoil": {
+      "card_id": 36681,
+      "name": "Jolteon (4)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 282.42,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36634:1st Edition Holofoil": {
+      "card_id": 36634,
+      "name": "Kangaskhan (5)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 85.25,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36665:1st Edition Holofoil": {
+      "card_id": 36665,
+      "name": "Mr. Mime (6)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 168.87,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36670:1st Edition Holofoil": {
+      "card_id": 36670,
+      "name": "Nidoqueen (7)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 107.99,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36674:1st Edition Holofoil": {
+      "card_id": 36674,
+      "name": "Pidgeot (8)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 143.83,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36663:1st Edition Holofoil": {
+      "card_id": 36663,
+      "name": "Pinsir (9)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 91.86,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36679:1st Edition Holofoil": {
+      "card_id": 36679,
+      "name": "Scyther (10)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 205.02,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36682:1st Edition Holofoil": {
+      "card_id": 36682,
+      "name": "Snorlax (11)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 454.99,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36642:1st Edition Holofoil": {
+      "card_id": 36642,
+      "name": "Vaporeon (12)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 312.49,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36657:1st Edition Holofoil": {
+      "card_id": 36657,
+      "name": "Venomoth (13)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 94.39,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36676:1st Edition Holofoil": {
+      "card_id": 36676,
+      "name": "Victreebel (14)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 119.99,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36673:1st Edition Holofoil": {
+      "card_id": 36673,
+      "name": "Vileplume (15)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 152.02,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36678:1st Edition Holofoil": {
+      "card_id": 36678,
+      "name": "Wigglytuff (16)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 104.69,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36660:1st Edition": {
+      "card_id": 36660,
+      "name": "Clefable (17)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 15.35,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36662:1st Edition": {
+      "card_id": 36662,
+      "name": "Electrode (18)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 53.26,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36655:1st Edition": {
+      "card_id": 36655,
+      "name": "Flareon (19)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 49.25,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36668:1st Edition": {
+      "card_id": 36668,
+      "name": "Jolteon (20)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 54.32,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36671:1st Edition": {
+      "card_id": 36671,
+      "name": "Kangaskhan (21)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 18.36,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36677:1st Edition": {
+      "card_id": 36677,
+      "name": "Mr. Mime (22)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 19.57,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36653:1st Edition": {
+      "card_id": 36653,
+      "name": "Nidoqueen (23)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 24.29,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36659:1st Edition": {
+      "card_id": 36659,
+      "name": "Pidgeot (24)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 24.31,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36667:1st Edition": {
+      "card_id": 36667,
+      "name": "Pinsir (25)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 18.15,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36675:1st Edition": {
+      "card_id": 36675,
+      "name": "Scyther (26)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 30.7,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36654:1st Edition": {
+      "card_id": 36654,
+      "name": "Snorlax (27)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 79.7,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36656:1st Edition": {
+      "card_id": 36656,
+      "name": "Vaporeon (28)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 42.45,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36661:1st Edition": {
+      "card_id": 36661,
+      "name": "Venomoth (29)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 13.77,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36672:1st Edition": {
+      "card_id": 36672,
+      "name": "Victreebel (30)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.4,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36664:1st Edition": {
+      "card_id": 36664,
+      "name": "Vileplume (31)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.5,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36658:1st Edition": {
+      "card_id": 36658,
+      "name": "Wigglytuff (32)",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 20.38,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36646:1st Edition": {
+      "card_id": 36646,
+      "name": "Butterfree",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 12.52,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36644:1st Edition": {
+      "card_id": 36644,
+      "name": "Dodrio",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.71,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36652:1st Edition": {
+      "card_id": 36652,
+      "name": "Exeggutor",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.28,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36648:1st Edition": {
+      "card_id": 36648,
+      "name": "Fearow",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.39,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36640:1st Edition": {
+      "card_id": 36640,
+      "name": "Gloom",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.5,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36645:1st Edition": {
+      "card_id": 36645,
+      "name": "Lickitung",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 7.93,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36635:1st Edition": {
+      "card_id": 36635,
+      "name": "Marowak",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 12.07,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36637:1st Edition": {
+      "card_id": 36637,
+      "name": "Nidorina",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.43,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36649:1st Edition": {
+      "card_id": 36649,
+      "name": "Parasect",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.98,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36639:1st Edition": {
+      "card_id": 36639,
+      "name": "Persian",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 9.42,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36650:1st Edition": {
+      "card_id": 36650,
+      "name": "Primeape",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 5.39,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36651:1st Edition": {
+      "card_id": 36651,
+      "name": "Rapidash",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 9.57,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36641:1st Edition": {
+      "card_id": 36641,
+      "name": "Rhydon",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 9.11,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36643:1st Edition": {
+      "card_id": 36643,
+      "name": "Seaking",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 4.94,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36647:1st Edition": {
+      "card_id": 36647,
+      "name": "Tauros",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.23,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36636:1st Edition": {
+      "card_id": 36636,
+      "name": "Weepinbell",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.96,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36622:1st Edition": {
+      "card_id": 36622,
+      "name": "Bellsprout",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.18,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36621:1st Edition": {
+      "card_id": 36621,
+      "name": "Cubone",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 11.1,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36619:1st Edition": {
+      "card_id": 36619,
+      "name": "Eevee",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.83,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36628:1st Edition": {
+      "card_id": 36628,
+      "name": "Exeggcute",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.81,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36624:1st Edition": {
+      "card_id": 36624,
+      "name": "Goldeen",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.33,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36633:1st Edition": {
+      "card_id": 36633,
+      "name": "Jigglypuff",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 7.75,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36631:1st Edition": {
+      "card_id": 36631,
+      "name": "Mankey",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.45,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36630:1st Edition": {
+      "card_id": 36630,
+      "name": "Meowth",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 6.86,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36627:1st Edition": {
+      "card_id": 36627,
+      "name": "Nidoran F",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.54,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36632:1st Edition": {
+      "card_id": 36632,
+      "name": "Oddish",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.67,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36626:1st Edition": {
+      "card_id": 36626,
+      "name": "Paras",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2.33,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36620:1st Edition": {
+      "card_id": 36620,
+      "name": "Pikachu",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 35.57,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36623:1st Edition": {
+      "card_id": 36623,
+      "name": "Rhyhorn",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 3.04,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36625:1st Edition": {
+      "card_id": 36625,
+      "name": "Spearow",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.97,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36629:1st Edition": {
+      "card_id": 36629,
+      "name": "Venonat",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.83,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "36638:1st Edition": {
+      "card_id": 36638,
+      "name": "Poke Ball",
+      "set_id": 5500126,
+      "set_name": "Jungle",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1.86,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33823:Unlimited Holofoil": {
+      "card_id": 33823,
+      "name": "Alakazam",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 490.98,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33828:1st Edition Holofoil": {
+      "card_id": 33828,
+      "name": "Blastoise",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1300.0,
+          "market_price_as_of": "2026-10-04"
+        }
+      ]
+    },
+    "33809:1st Edition Holofoil": {
+      "card_id": 33809,
+      "name": "Chansey",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 349.0,
+          "market_price_as_of": "2026-11-13"
+        }
+      ]
+    },
+    "33831:Unlimited Holofoil": {
+      "card_id": 33831,
+      "name": "Charizard",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "Unlimited Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 2172.24,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33799:1st Edition Holofoil": {
+      "card_id": 33799,
+      "name": "Clefairy",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 379.98,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33810:1st Edition Holofoil": {
+      "card_id": 33810,
+      "name": "Gyarados",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 200.0,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33795:1st Edition Holofoil": {
+      "card_id": 33795,
+      "name": "Hitmonchan",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 225.0,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33803:1st Edition Holofoil": {
+      "card_id": 33803,
+      "name": "Magneton",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 367.5,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33794:1st Edition Holofoil": {
+      "card_id": 33794,
+      "name": "Mewtwo",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 358.01,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33815:1st Edition Holofoil": {
+      "card_id": 33815,
+      "name": "Nidoking",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 349.96,
+          "market_price_as_of": "2026-11-16"
+        }
+      ]
+    },
+    "33806:1st Edition Holofoil": {
+      "card_id": 33806,
+      "name": "Ninetales",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 350.5,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33827:1st Edition Holofoil": {
+      "card_id": 33827,
+      "name": "Poliwrath",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 299.99,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33830:1st Edition Holofoil": {
+      "card_id": 33830,
+      "name": "Raichu",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 550.0,
+          "market_price_as_of": "2026-11-14"
+        }
+      ]
+    },
+    "33829:1st Edition Holofoil": {
+      "card_id": 33829,
+      "name": "Venusaur",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 1000.0,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33819:1st Edition Holofoil": {
+      "card_id": 33819,
+      "name": "Zapdos",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 300.0,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33796:1st Edition": {
+      "card_id": 33796,
+      "name": "Beedrill",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 158.23,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33802:1st Edition": {
+      "card_id": 33802,
+      "name": "Dragonair",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 122.74,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33822:1st Edition": {
+      "card_id": 33822,
+      "name": "Dugtrio",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 120.36,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33808:1st Edition": {
+      "card_id": 33808,
+      "name": "Electabuzz",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 160.4,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33821:1st Edition": {
+      "card_id": 33821,
+      "name": "Electrode",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 79.29,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33787:1st Edition": {
+      "card_id": 33787,
+      "name": "Pidgeotto",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 107.87,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33788:1st Edition": {
+      "card_id": 33788,
+      "name": "Arcanine",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 91.24,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33760:1st Edition": {
+      "card_id": 33760,
+      "name": "Charmeleon",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 132.54,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33765:1st Edition": {
+      "card_id": 33765,
+      "name": "Dewgong",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 30.5,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33769:1st Edition": {
+      "card_id": 33769,
+      "name": "Farfetch'd",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 62.75,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33752:1st Edition": {
+      "card_id": 33752,
+      "name": "Growlithe",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 74.02,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33778:1st Edition": {
+      "card_id": 33778,
+      "name": "Haunter",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 63.13,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33775:1st Edition": {
+      "card_id": 33775,
+      "name": "Ivysaur",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 86.82,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33790:1st Edition": {
+      "card_id": 33790,
+      "name": "Jynx",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 60.01,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33780:1st Edition": {
+      "card_id": 33780,
+      "name": "Kadabra",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 84.92,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33746:1st Edition": {
+      "card_id": 33746,
+      "name": "Kakuna",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 21.74,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33732:1st Edition": {
+      "card_id": 33732,
+      "name": "Machoke",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 54.27,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33782:1st Edition": {
+      "card_id": 33782,
+      "name": "Magikarp",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 164.98,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33759:1st Edition": {
+      "card_id": 33759,
+      "name": "Magmar",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 33.72,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33754:1st Edition": {
+      "card_id": 33754,
+      "name": "Nidorino",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 33.76,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33770:1st Edition": {
+      "card_id": 33770,
+      "name": "Poliwhirl",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 36.29,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33774:1st Edition": {
+      "card_id": 33774,
+      "name": "Porygon",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 37.77,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33761:1st Edition": {
+      "card_id": 33761,
+      "name": "Raticate",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 26.17,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33773:1st Edition": {
+      "card_id": 33773,
+      "name": "Seel",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 24.67,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33789:1st Edition": {
+      "card_id": 33789,
+      "name": "Wartortle",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 119.74,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33744:1st Edition": {
+      "card_id": 33744,
+      "name": "Abra",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 44.64,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33743:1st Edition": {
+      "card_id": 33743,
+      "name": "Bulbasaur",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 287.57,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33766:1st Edition": {
+      "card_id": 33766,
+      "name": "Caterpie",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 53.82,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33734:1st Edition": {
+      "card_id": 33734,
+      "name": "Charmander",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 198.22,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33731:1st Edition": {
+      "card_id": 33731,
+      "name": "Diglett",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 27.27,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33753:1st Edition": {
+      "card_id": 33753,
+      "name": "Doduo",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 20.6,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33745:1st Edition": {
+      "card_id": 33745,
+      "name": "Drowzee",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 26.04,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33755:1st Edition": {
+      "card_id": 33755,
+      "name": "Gastly",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 47.96,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33733:1st Edition": {
+      "card_id": 33733,
+      "name": "Koffing",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 31.84,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33730:1st Edition": {
+      "card_id": 33730,
+      "name": "Machop",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 23.48,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33747:1st Edition": {
+      "card_id": 33747,
+      "name": "Magnemite",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 21.2,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33764:1st Edition": {
+      "card_id": 33764,
+      "name": "Metapod",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 27.12,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33742:1st Edition": {
+      "card_id": 33742,
+      "name": "Nidoran M",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 30.41,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33739:1st Edition": {
+      "card_id": 33739,
+      "name": "Onix",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 32.3,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33762:1st Edition": {
+      "card_id": 33762,
+      "name": "Pidgey",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 41.0,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33772:1st Edition": {
+      "card_id": 33772,
+      "name": "Pikachu",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 195.66,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33786:1st Edition": {
+      "card_id": 33786,
+      "name": "Pikachu (Red Cheeks)",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 510.95,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33763:1st Edition": {
+      "card_id": 33763,
+      "name": "Poliwag",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 29.84,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33735:1st Edition": {
+      "card_id": 33735,
+      "name": "Ponyta",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 32.82,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33738:1st Edition": {
+      "card_id": 33738,
+      "name": "Rattata",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 31.35,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33750:1st Edition": {
+      "card_id": 33750,
+      "name": "Sandshrew",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 36.07,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33741:1st Edition": {
+      "card_id": 33741,
+      "name": "Squirtle",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 143.69,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33749:1st Edition": {
+      "card_id": 33749,
+      "name": "Starmie",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 48.48,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33737:1st Edition": {
+      "card_id": 33737,
+      "name": "Staryu",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 21.02,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33751:1st Edition": {
+      "card_id": 33751,
+      "name": "Tangela",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 28.67,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33736:1st Edition": {
+      "card_id": 33736,
+      "name": "Voltorb",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 29.41,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33771:1st Edition": {
+      "card_id": 33771,
+      "name": "Vulpix",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 43.54,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33740:1st Edition": {
+      "card_id": 33740,
+      "name": "Weedle",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 61.28,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33798:1st Edition": {
+      "card_id": 33798,
+      "name": "Clefairy Doll",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 87.26,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33811:1st Edition": {
+      "card_id": 33811,
+      "name": "Computer Search",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 148.99,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33820:1st Edition": {
+      "card_id": 33820,
+      "name": "Devolution Spray",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 58.93,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33825:1st Edition": {
+      "card_id": 33825,
+      "name": "Impostor Professor Oak",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 69.13,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33817:1st Edition": {
+      "card_id": 33817,
+      "name": "Item Finder",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 64.73,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33812:1st Edition": {
+      "card_id": 33812,
+      "name": "Lass",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 251.5,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33816:1st Edition": {
+      "card_id": 33816,
+      "name": "Pokemon Breeder",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 76.26,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33807:1st Edition": {
+      "card_id": 33807,
+      "name": "Pokemon Trader",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 52.48,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33818:1st Edition": {
+      "card_id": 33818,
+      "name": "Scoop Up",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 66.29,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33824:1st Edition": {
+      "card_id": 33824,
+      "name": "Super Energy Removal",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 135.6,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33826:1st Edition": {
+      "card_id": 33826,
+      "name": "Defender",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 28.81,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33792:1st Edition": {
+      "card_id": 33792,
+      "name": "Energy Retrieval",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 36.62,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33813:1st Edition": {
+      "card_id": 33813,
+      "name": "Full Heal",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.31,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33797:1st Edition": {
+      "card_id": 33797,
+      "name": "Maintenance",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 9.77,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33805:1st Edition": {
+      "card_id": 33805,
+      "name": "PlusPower",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 16.04,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33801:1st Edition": {
+      "card_id": 33801,
+      "name": "Pokemon Center",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 10.86,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33814:1st Edition": {
+      "card_id": 33814,
+      "name": "Pokemon Flute",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 38.29,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33785:1st Edition": {
+      "card_id": 33785,
+      "name": "Pokedex",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 29.84,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33800:1st Edition": {
+      "card_id": 33800,
+      "name": "Professor Oak",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 67.1,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33791:1st Edition": {
+      "card_id": 33791,
+      "name": "Revive",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 38.45,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33793:1st Edition": {
+      "card_id": 33793,
+      "name": "Super Potion",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 26.37,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33784:1st Edition": {
+      "card_id": 33784,
+      "name": "Bill",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 29.5,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33781:1st Edition": {
+      "card_id": 33781,
+      "name": "Energy Removal",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 20.28,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33783:1st Edition": {
+      "card_id": 33783,
+      "name": "Gust of Wind",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 25.52,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33777:1st Edition": {
+      "card_id": 33777,
+      "name": "Potion",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 17.81,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33776:1st Edition": {
+      "card_id": 33776,
+      "name": "Switch",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 27.38,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33804:1st Edition": {
+      "card_id": 33804,
+      "name": "Double Colorless Energy",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 46.63,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33748:1st Edition": {
+      "card_id": 33748,
+      "name": "Fire Energy",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 9.94,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33767:1st Edition": {
+      "card_id": 33767,
+      "name": "Grass Energy",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 27.74,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33757:1st Edition": {
+      "card_id": 33757,
+      "name": "Lightning Energy",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 8.58,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33758:1st Edition": {
+      "card_id": 33758,
+      "name": "Psychic Energy",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 9.55,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
+    },
+    "33768:1st Edition": {
+      "card_id": 33768,
+      "name": "Water Energy",
+      "set_id": 5500007,
+      "set_name": "Base Set (Shadowless)",
+      "printing": "1st Edition",
+      "prices": [
+        {
+          "date": "2026-11-19",
+          "market_price_usd": 13.93,
+          "market_price_as_of": "2026-11-18"
+        }
+      ]
     }
   }
 }
