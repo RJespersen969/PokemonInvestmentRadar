@@ -385449,6 +385449,4052 @@
           "market_price_as_of": "2026-11-18"
         }
       ]
+    },
+    "34264:Holofoil": {
+      "card_id": 34264,
+      "name": "Alakazam",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 76.03,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34265:Holofoil": {
+      "card_id": 34265,
+      "name": "Blastoise",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 232.43,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34259:Holofoil": {
+      "card_id": 34259,
+      "name": "Chansey",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 53.54,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34273:Holofoil": {
+      "card_id": 34273,
+      "name": "Charizard",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1001.05,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34258:Holofoil": {
+      "card_id": 34258,
+      "name": "Clefairy",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 45.84,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34222:Holofoil": {
+      "card_id": 34222,
+      "name": "Gyarados",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 62.04,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34200:Holofoil": {
+      "card_id": 34200,
+      "name": "Hitmonchan",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 19.37,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34230:Holofoil": {
+      "card_id": 34230,
+      "name": "Magneton",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 30.54,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34208:Holofoil": {
+      "card_id": 34208,
+      "name": "Mewtwo",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 86.3,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34246:Holofoil": {
+      "card_id": 34246,
+      "name": "Nidoking",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 41.63,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34198:Holofoil": {
+      "card_id": 34198,
+      "name": "Ninetales",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 37.31,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34249:Holofoil": {
+      "card_id": 34249,
+      "name": "Poliwrath",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 35.38,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34243:Holofoil": {
+      "card_id": 34243,
+      "name": "Raichu",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 63.81,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34270:Holofoil": {
+      "card_id": 34270,
+      "name": "Venusaur",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 134.84,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34262:Holofoil": {
+      "card_id": 34262,
+      "name": "Zapdos",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 57.92,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34224:Normal": {
+      "card_id": 34224,
+      "name": "Beedrill",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 6.36,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34235:Normal": {
+      "card_id": 34235,
+      "name": "Dragonair",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 19.77,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34252:Normal": {
+      "card_id": 34252,
+      "name": "Dugtrio",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 10.53,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34236:Normal": {
+      "card_id": 34236,
+      "name": "Electabuzz",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 9.77,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34253:Normal": {
+      "card_id": 34253,
+      "name": "Electrode",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.99,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34255:Normal": {
+      "card_id": 34255,
+      "name": "Pidgeotto",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 10.16,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34218:Normal": {
+      "card_id": 34218,
+      "name": "Arcanine",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.95,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34194:Normal": {
+      "card_id": 34194,
+      "name": "Charmeleon",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.24,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34254:Normal": {
+      "card_id": 34254,
+      "name": "Dewgong",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.94,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34212:Normal": {
+      "card_id": 34212,
+      "name": "Farfetch'd",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.34,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34206:Normal": {
+      "card_id": 34206,
+      "name": "Growlithe",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.24,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34228:Normal": {
+      "card_id": 34228,
+      "name": "Haunter",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.51,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34196:Normal": {
+      "card_id": 34196,
+      "name": "Ivysaur",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.67,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34223:Normal": {
+      "card_id": 34223,
+      "name": "Jynx",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.17,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34181:Normal": {
+      "card_id": 34181,
+      "name": "Kadabra",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.96,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34221:Normal": {
+      "card_id": 34221,
+      "name": "Kakuna",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.45,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34195:Normal": {
+      "card_id": 34195,
+      "name": "Machoke",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.02,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34179:Normal": {
+      "card_id": 34179,
+      "name": "Magikarp",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.61,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34238:Normal": {
+      "card_id": 34238,
+      "name": "Magmar",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.86,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34256:Normal": {
+      "card_id": 34256,
+      "name": "Nidorino",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.52,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34211:Normal": {
+      "card_id": 34211,
+      "name": "Poliwhirl",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.27,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34242:Normal": {
+      "card_id": 34242,
+      "name": "Porygon",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.36,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34251:Normal": {
+      "card_id": 34251,
+      "name": "Raticate",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.31,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34244:Normal": {
+      "card_id": 34244,
+      "name": "Seel",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.25,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34197:Normal": {
+      "card_id": 34197,
+      "name": "Wartortle",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.32,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34202:Normal": {
+      "card_id": 34202,
+      "name": "Abra",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.8,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34174:Normal": {
+      "card_id": 34174,
+      "name": "Bulbasaur",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.48,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34232:Normal": {
+      "card_id": 34232,
+      "name": "Caterpie",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.28,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34175:Normal": {
+      "card_id": 34175,
+      "name": "Charmander",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.12,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34187:Normal": {
+      "card_id": 34187,
+      "name": "Diglett",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.83,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34214:Normal": {
+      "card_id": 34214,
+      "name": "Doduo",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.19,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34209:Normal": {
+      "card_id": 34209,
+      "name": "Drowzee",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.8,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34205:Normal": {
+      "card_id": 34205,
+      "name": "Gastly",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.05,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34191:Normal": {
+      "card_id": 34191,
+      "name": "Koffing",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.91,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34178:Normal": {
+      "card_id": 34178,
+      "name": "Machop",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.69,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34213:Normal": {
+      "card_id": 34213,
+      "name": "Magnemite",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.59,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34203:Normal": {
+      "card_id": 34203,
+      "name": "Metapod",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.2,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34220:Normal": {
+      "card_id": 34220,
+      "name": "Nidoran M",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.03,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34217:Normal": {
+      "card_id": 34217,
+      "name": "Onix",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.14,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34227:Normal": {
+      "card_id": 34227,
+      "name": "Pidgey",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.83,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34182:Normal": {
+      "card_id": 34182,
+      "name": "Pikachu",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.69,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34192:Normal": {
+      "card_id": 34192,
+      "name": "Poliwag",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.77,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34176:Normal": {
+      "card_id": 34176,
+      "name": "Ponyta",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.02,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34207:Normal": {
+      "card_id": 34207,
+      "name": "Rattata",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34204:Normal": {
+      "card_id": 34204,
+      "name": "Sandshrew",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.13,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34173:Normal": {
+      "card_id": 34173,
+      "name": "Squirtle",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 5.56,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34190:Normal": {
+      "card_id": 34190,
+      "name": "Starmie",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.81,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34193:Normal": {
+      "card_id": 34193,
+      "name": "Staryu",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.78,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34229:Normal": {
+      "card_id": 34229,
+      "name": "Tangela",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.95,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34180:Normal": {
+      "card_id": 34180,
+      "name": "Voltorb",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.72,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34186:Normal": {
+      "card_id": 34186,
+      "name": "Vulpix",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.91,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34201:Normal": {
+      "card_id": 34201,
+      "name": "Weedle",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34267:Normal": {
+      "card_id": 34267,
+      "name": "Clefairy Doll",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.99,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34231:Normal": {
+      "card_id": 34231,
+      "name": "Computer Search",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.24,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34271:Normal": {
+      "card_id": 34271,
+      "name": "Devolution Spray",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 6.47,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34266:Normal": {
+      "card_id": 34266,
+      "name": "Imposter Professor Oak",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.91,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34261:Normal": {
+      "card_id": 34261,
+      "name": "Item Finder",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.8,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34250:Normal": {
+      "card_id": 34250,
+      "name": "Lass",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.56,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34269:Normal": {
+      "card_id": 34269,
+      "name": "Pokemon Breeder",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.4,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34247:Normal": {
+      "card_id": 34247,
+      "name": "Pokemon Trader",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 5.44,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34268:Normal": {
+      "card_id": 34268,
+      "name": "Scoop Up",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 9.94,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34237:Normal": {
+      "card_id": 34237,
+      "name": "Super Energy Removal",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.25,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34234:Normal": {
+      "card_id": 34234,
+      "name": "Defender",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.42,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34240:Normal": {
+      "card_id": 34240,
+      "name": "Energy Retrieval",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.58,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34272:Normal": {
+      "card_id": 34272,
+      "name": "Full Heal",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.6,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34257:Normal": {
+      "card_id": 34257,
+      "name": "Maintenance",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.05,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34239:Normal": {
+      "card_id": 34239,
+      "name": "PlusPower",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.71,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34241:Normal": {
+      "card_id": 34241,
+      "name": "Pokemon Center",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.52,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34263:Normal": {
+      "card_id": 34263,
+      "name": "Pokemon Flute",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.01,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34245:Normal": {
+      "card_id": 34245,
+      "name": "Pokedex",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.65,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34215:Normal": {
+      "card_id": 34215,
+      "name": "Professor Oak",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.49,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34260:Normal": {
+      "card_id": 34260,
+      "name": "Revive",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.62,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34248:Normal": {
+      "card_id": 34248,
+      "name": "Super Potion",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.36,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34210:Normal": {
+      "card_id": 34210,
+      "name": "Bill",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.38,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34233:Normal": {
+      "card_id": 34233,
+      "name": "Energy Removal",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.52,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34226:Normal": {
+      "card_id": 34226,
+      "name": "Gust of Wind",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34216:Normal": {
+      "card_id": 34216,
+      "name": "Potion",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34225:Normal": {
+      "card_id": 34225,
+      "name": "Switch",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34219:Normal": {
+      "card_id": 34219,
+      "name": "Double Colorless Energy",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 6.43,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34183:Normal": {
+      "card_id": 34183,
+      "name": "Fire Energy",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.48,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34185:Normal": {
+      "card_id": 34185,
+      "name": "Grass Energy",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34199:Normal": {
+      "card_id": 34199,
+      "name": "Lightning Energy",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34189:Normal": {
+      "card_id": 34189,
+      "name": "Psychic Energy",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "34188:Normal": {
+      "card_id": 34188,
+      "name": "Water Energy",
+      "set_id": 5500005,
+      "set_name": "Base Set",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.45,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299564:Holofoil": {
+      "card_id": 2299564,
+      "name": "Rayquaza - 003/017 (2006)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 205.89,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30921:Holofoil": {
+      "card_id": 30921,
+      "name": "Venusaur - 3/108 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 19.04,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30923:Holofoil": {
+      "card_id": 30923,
+      "name": "Meganium - 3/122 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 6.19,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30956:Holofoil": {
+      "card_id": 30956,
+      "name": "Gliscor - 4/90 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 22.8,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30920:Holofoil": {
+      "card_id": 30920,
+      "name": "Dragonite - 5/20 (Dragon Vault)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 37.44,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30964:Holofoil": {
+      "card_id": 30964,
+      "name": "Ninetales - 7/123 (Cracked Ice)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 112.99,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30893:Holofoil": {
+      "card_id": 30893,
+      "name": "Metagross - 7/147 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 17.23,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30918:Holofoil": {
+      "card_id": 30918,
+      "name": "Salamence - 8/20 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 17.47,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30950:Holofoil": {
+      "card_id": 30950,
+      "name": "Latias - 9/20 (Dragon Vault)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 65.83,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30931:Holofoil": {
+      "card_id": 30931,
+      "name": "Latios - 10/20 (Dragon Vault)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 42.82,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30903:Holofoil": {
+      "card_id": 30903,
+      "name": "Dartrix - 10/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.26,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30881:Holofoil": {
+      "card_id": 30881,
+      "name": "Grookey - 010/202 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30916:Holofoil": {
+      "card_id": 30916,
+      "name": "Rayquaza - 11/20 (Dragon Vault)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 105.44,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30900:Holofoil": {
+      "card_id": 30900,
+      "name": "Pyroar - 12/119 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.5,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "100245543:Holofoil": {
+      "card_id": 100245543,
+      "name": "Delphox - 013/086 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.24,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30983:Holofoil": {
+      "card_id": 30983,
+      "name": "Virizion - 13/101 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.0,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30914:Holofoil": {
+      "card_id": 30914,
+      "name": "Serperior - 13/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 14.97,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30887:Holofoil": {
+      "card_id": 30887,
+      "name": "Entei - 14/98 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 18.71,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30905:Holofoil": {
+      "card_id": 30905,
+      "name": "Moltres - 14/99 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 10.79,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30898:Holofoil": {
+      "card_id": 30898,
+      "name": "Chesnaught - 14/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30936:Holofoil": {
+      "card_id": 30936,
+      "name": "Haxorus - 16/20 (Dragon Vault)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 45.9,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30888:Holofoil": {
+      "card_id": 30888,
+      "name": "Blastoise - 16/101 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 34.5,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30940:Holofoil": {
+      "card_id": 30940,
+      "name": "Druddigon - 17/20 (Dragon Vault)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 12.64,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299511:Holofoil": {
+      "card_id": 2299511,
+      "name": "Reshiram - 017/094 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.92,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30922:Holofoil": {
+      "card_id": 30922,
+      "name": "Feraligatr - 17/119 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 10.07,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30963:Holofoil": {
+      "card_id": 30963,
+      "name": "Vivillon - 17/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 14.56,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "100245535:Holofoil": {
+      "card_id": 100245535,
+      "name": "Keldeo - 019/086 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.75,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30933:Holofoil": {
+      "card_id": 30933,
+      "name": "Gogoat - 19/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.89,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30977:Holofoil": {
+      "card_id": 30977,
+      "name": "Chandelure - 20/99 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 179.99,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30884:Holofoil": {
+      "card_id": 30884,
+      "name": "Charizard - 20/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 66.61,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30928:Holofoil": {
+      "card_id": 30928,
+      "name": "Typhlosion - 20/162 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 11.12,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30872:Holofoil": {
+      "card_id": 30872,
+      "name": "Applin - 020/192 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.3,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30882:Holofoil": {
+      "card_id": 30882,
+      "name": "Sinistcha - 022/167 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30912:Holofoil": {
+      "card_id": 30912,
+      "name": "Arcanine - 22/214 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 31.66,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299509:Holofoil": {
+      "card_id": 2299509,
+      "name": "Aurorus - 024/088 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.47,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30924:Holofoil": {
+      "card_id": 30924,
+      "name": "Gyarados - 24/124 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 51.99,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30910:Holofoil": {
+      "card_id": 30910,
+      "name": "Delphox - 26/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.71,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30985:Holofoil": {
+      "card_id": 30985,
+      "name": "Emboar - 26/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.89,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30896:Holofoil": {
+      "card_id": 30896,
+      "name": "Articuno - 27/99 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 11.06,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299521:Holofoil": {
+      "card_id": 2299521,
+      "name": "Luxray - 028/088 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.59,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30939:Holofoil": {
+      "card_id": 30939,
+      "name": "Milotic - 28/124 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 21.77,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "100055910:Holofoil": {
+      "card_id": 100055910,
+      "name": "Cinderace - 028/132 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30926:Holofoil": {
+      "card_id": 30926,
+      "name": "Talonflame - 28/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.23,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "100245528:Holofoil": {
+      "card_id": 100245528,
+      "name": "Ampharos - 029/086 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.03,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30911:Holofoil": {
+      "card_id": 30911,
+      "name": "Beartic - 30/98 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.95,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30968:Holofoil": {
+      "card_id": 30968,
+      "name": "Beartic - 30/98 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.13,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30899:Holofoil": {
+      "card_id": 30899,
+      "name": "Suicune - 30/122 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 14.16,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30871:Holofoil": {
+      "card_id": 30871,
+      "name": "Scorbunny - 030/202 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.67,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30947:Holofoil": {
+      "card_id": 30947,
+      "name": "Gyarados - 33/147 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 63.26,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299507:Holofoil": {
+      "card_id": 2299507,
+      "name": "Pawmot - 034/094 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.07,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "100055772:Holofoil": {
+      "card_id": 100055772,
+      "name": "Marshadow - 040/084 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.33,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30951:Holofoil": {
+      "card_id": 30951,
+      "name": "Raichu - 40/99 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 121.75,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30973:Holofoil": {
+      "card_id": 30973,
+      "name": "Ampharos - 40/124 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 26.53,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30937:Holofoil": {
+      "card_id": 30937,
+      "name": "Wailord - 40/168 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 20.91,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30894:Holofoil": {
+      "card_id": 30894,
+      "name": "Zapdos - 41/99 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 10.36,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30895:Holofoil": {
+      "card_id": 30895,
+      "name": "Greninja - 41/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 30.47,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30949:Holofoil": {
+      "card_id": 30949,
+      "name": "Raichu - 41/147 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 6.7,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30991:Holofoil": {
+      "card_id": 30991,
+      "name": "Samurott - 41/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.59,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30877:Holofoil": {
+      "card_id": 30877,
+      "name": "Houndstone - 042 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.47,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "100245530:Holofoil": {
+      "card_id": 100245530,
+      "name": "Xerneas - 042/086 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.05,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30975:Holofoil": {
+      "card_id": 30975,
+      "name": "Alolan Golem - 42/145 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.78,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30957:Holofoil": {
+      "card_id": 30957,
+      "name": "Shinx - 43/99 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 21.72,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30997:Holofoil": {
+      "card_id": 30997,
+      "name": "Chandelure - 43/119 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.77,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30915:Holofoil": {
+      "card_id": 30915,
+      "name": "Raichu - 43/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 9.26,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299530:Holofoil": {
+      "card_id": 2299530,
+      "name": "Tyrantrum - 045/088 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.91,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299518:Holofoil": {
+      "card_id": 2299518,
+      "name": "Zacian - 045/094 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.93,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30971:Holofoil": {
+      "card_id": 30971,
+      "name": "Luxray - 46/99 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.31,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30980:Holofoil": {
+      "card_id": 30980,
+      "name": "Luxray - 46/99 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 38.42,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30906:Holofoil": {
+      "card_id": 30906,
+      "name": "Machamp - 46/111 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.25,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30981:Holofoil": {
+      "card_id": 30981,
+      "name": "Roggenrola - 49/98 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.68,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30945:Holofoil": {
+      "card_id": 30945,
+      "name": "Machamp - 49/101 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.66,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299493:Holofoil": {
+      "card_id": 2299493,
+      "name": "Gengar - 050/088 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 6.52,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30992:Holofoil": {
+      "card_id": 30992,
+      "name": "Boldore - 51/98 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 5.94,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30976:Holofoil": {
+      "card_id": 30976,
+      "name": "Golisopod - 51/236 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.35,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30960:Holofoil": {
+      "card_id": 30960,
+      "name": "Sigilyph - 52/124 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.86,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30874:Holofoil": {
+      "card_id": 30874,
+      "name": "Thundurus - 052/198 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299497:Holofoil": {
+      "card_id": 2299497,
+      "name": "Flygon - 053/094 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.38,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30987:Holofoil": {
+      "card_id": 30987,
+      "name": "Gigalith - 53/98 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.97,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30892:Holofoil": {
+      "card_id": 30892,
+      "name": "Gardevoir - 54/98 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 19.43,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30993:Holofoil": {
+      "card_id": 30993,
+      "name": "Electivire - 54/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 59.74,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30876:Holofoil": {
+      "card_id": 30876,
+      "name": "Sobble - 54/202 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.54,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30890:Holofoil": {
+      "card_id": 30890,
+      "name": "Raikou - 55/162 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.96,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "2299504:Holofoil": {
+      "card_id": 2299504,
+      "name": "Zarude - 056/084 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30969:Holofoil": {
+      "card_id": 30969,
+      "name": "Excadrill - 56/98 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 9.99,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30917:Holofoil": {
+      "card_id": 30917,
+      "name": "Crobat - 56/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 6.25,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30930:Holofoil": {
+      "card_id": 30930,
+      "name": "Salamence - 57/108 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 18.94,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30953:Holofoil": {
+      "card_id": 30953,
+      "name": "Alolan Muk - 58/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.25,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30879:Holofoil": {
+      "card_id": 30879,
+      "name": "Baxcalibur - 060/193 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30958:Holofoil": {
+      "card_id": 30958,
+      "name": "Gallade - 61/135 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 17.18,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30994:Holofoil": {
+      "card_id": 30994,
+      "name": "Beheeyem - 62/99 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.56,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30948:Holofoil": {
+      "card_id": 30948,
+      "name": "Rhyperior - 62/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.91,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30897:Holofoil": {
+      "card_id": 30897,
+      "name": "Hawlucha - 63/111 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.7,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30908:Holofoil": {
+      "card_id": 30908,
+      "name": "Dusknoir - 63/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.08,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30927:Holofoil": {
+      "card_id": 30927,
+      "name": "Lucario - 64/99 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 28.42,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30989:Holofoil": {
+      "card_id": 30989,
+      "name": "Krookodile - 65/114 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 24.0,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30875:Holofoil": {
+      "card_id": 30875,
+      "name": "Machamp - 65/145 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.85,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30984:Holofoil": {
+      "card_id": 30984,
+      "name": "Eelektross - 65/160 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.52,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30978:Holofoil": {
+      "card_id": 30978,
+      "name": "Krookodile - 66/108 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 31.3,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30970:Holofoil": {
+      "card_id": 30970,
+      "name": "Haxorus - 69/101 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.0,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30952:Holofoil": {
+      "card_id": 30952,
+      "name": "Druddigon - 70/106(Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 5.45,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30934:Holofoil": {
+      "card_id": 30934,
+      "name": "Zoroark - 71/114 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 15.58,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30942:Holofoil": {
+      "card_id": 30942,
+      "name": "Gigalith - 71/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.44,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30962:Holofoil": {
+      "card_id": 30962,
+      "name": "Terrakion - 73/101 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.2,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30944:Holofoil": {
+      "card_id": 30944,
+      "name": "Zoroark - 73/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.21,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30974:Holofoil": {
+      "card_id": 30974,
+      "name": "Klink - 74/114 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.2,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30913:Holofoil": {
+      "card_id": 30913,
+      "name": "Hydreigon - 074/119 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 6.57,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30966:Reverse Holofoil": {
+      "card_id": 30966,
+      "name": "Klang - 75/114 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.79,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30979:Reverse Holofoil": {
+      "card_id": 30979,
+      "name": "Klinklang - 76/114 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.51,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30909:Holofoil": {
+      "card_id": 30909,
+      "name": "Noivern - 77/111 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.56,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30904:Holofoil": {
+      "card_id": 30904,
+      "name": "Goodra - 77/119 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.39,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30929:Holofoil": {
+      "card_id": 30929,
+      "name": "Wigglytuff - 79/99 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 10.51,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30932:Holofoil": {
+      "card_id": 30932,
+      "name": "Alolan Persian - 79/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.72,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30986:Holofoil": {
+      "card_id": 30986,
+      "name": "Aggron - 80/124 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 24.1,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30990:Holofoil": {
+      "card_id": 30990,
+      "name": "Persian - 81/99 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 19.97,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30972:Holofoil": {
+      "card_id": 30972,
+      "name": "Sharpedo - 82/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.26,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30870:Holofoil": {
+      "card_id": 30870,
+      "name": "Alakazam - 082/167 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 6.19,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30886:Holofoil": {
+      "card_id": 30886,
+      "name": "Dragonite - 83/116 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 54.23,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30995:Holofoil": {
+      "card_id": 30995,
+      "name": "Cobalion - 84/101 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.68,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30891:Holofoil": {
+      "card_id": 30891,
+      "name": "Gallade - 84/162 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.07,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30902:Holofoil": {
+      "card_id": 30902,
+      "name": "Togekiss - 085/197 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.57,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30996:Holofoil": {
+      "card_id": 30996,
+      "name": "Alolan Dugtrio - 87/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 10.12,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30901:Holofoil": {
+      "card_id": 30901,
+      "name": "Espeon - 89/214 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 24.38,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30998:Holofoil": {
+      "card_id": 30998,
+      "name": "Zoroark - 90/113 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.27,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30925:Holofoil": {
+      "card_id": 30925,
+      "name": "Garchomp - 91/124 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 15.9,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30943:Holofoil": {
+      "card_id": 30943,
+      "name": "Scizor - 94/149 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 37.52,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30954:Holofoil": {
+      "card_id": 30954,
+      "name": "Yveltal - 94/162 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 5.08,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "100055769:Holofoil": {
+      "card_id": 100055769,
+      "name": "Team Rocket's Mimikyu - 097/217 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.59,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30938:Holofoil": {
+      "card_id": 30938,
+      "name": "Hydreigon - 98/124 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.46,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30883:Holofoil": {
+      "card_id": 30883,
+      "name": "Hisuian Arcanine - 100/167 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 4.34,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30889:Holofoil": {
+      "card_id": 30889,
+      "name": "Xerneas - 107/162 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 8.66,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30967:Holofoil": {
+      "card_id": 30967,
+      "name": "Xatu - 11/95 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 16.65,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30961:Holofoil": {
+      "card_id": 30961,
+      "name": "Flygon - 110/160 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 16.75,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30959:Holofoil": {
+      "card_id": 30959,
+      "name": "Furfrou - 114/146 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.74,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "100055767:Holofoil": {
+      "card_id": 100055767,
+      "name": "Eevee - 116/128 (30th Celebration) (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "18503:Holofoil": {
+      "card_id": 18503,
+      "name": "Rockruff - 116/193 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.25,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30885:Holofoil": {
+      "card_id": 30885,
+      "name": "Umbreon - 120/214 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 43.27,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30907:Holofoil": {
+      "card_id": 30907,
+      "name": "Garganacl (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.29,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30955:Holofoil": {
+      "card_id": 30955,
+      "name": "Steelix - 125/214 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 53.5,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30965:Holofoil": {
+      "card_id": 30965,
+      "name": "Melmetal - 129/214 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.22,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30946:Normal": {
+      "card_id": 30946,
+      "name": "Copperajah - 137/202 (Non-Holo Gamestop Exclusive)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.73,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30988:Holofoil": {
+      "card_id": 30988,
+      "name": "Hydreigon (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 19.61,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30869:Holofoil": {
+      "card_id": 30869,
+      "name": "Snorlax - 140/202 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 5.91,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30873:Holofoil": {
+      "card_id": 30873,
+      "name": "Tornadus - 142/185 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30880:Holofoil": {
+      "card_id": 30880,
+      "name": "Landorus - 148/264 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.39,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30941:Holofoil": {
+      "card_id": 30941,
+      "name": "Silvally - 184/236 (Cosmos Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.41,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "30982:Holofoil": {
+      "card_id": 30982,
+      "name": "Scolipede - 54/114 (Cracked Ice Holo)",
+      "set_id": 5500103,
+      "set_name": "Blister Exclusives",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 20.0,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38468:Normal": {
+      "card_id": 38468,
+      "name": "Bagon",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.48,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38467:Normal": {
+      "card_id": 38467,
+      "name": "Electrike",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.24,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38476:Normal": {
+      "card_id": 38476,
+      "name": "Fire Energy",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.28,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38477:Normal": {
+      "card_id": 38477,
+      "name": "Lightning Energy",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.34,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38473:Normal": {
+      "card_id": 38473,
+      "name": "Combusken",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38462:Holofoil": {
+      "card_id": 38462,
+      "name": "Latios",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 33.23,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38475:Normal": {
+      "card_id": 38475,
+      "name": "Delcatty",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.55,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38470:Normal": {
+      "card_id": 38470,
+      "name": "Linoone",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.53,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38463:Holofoil": {
+      "card_id": 38463,
+      "name": "Latias",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 39.88,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38465:Normal": {
+      "card_id": 38465,
+      "name": "Magnemite",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.61,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38469:Normal": {
+      "card_id": 38469,
+      "name": "Magneton",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.4,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38461:Normal": {
+      "card_id": 38461,
+      "name": "Numel",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.02,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38459:Normal": {
+      "card_id": 38459,
+      "name": "Pikachu",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.02,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38460:Normal": {
+      "card_id": 38460,
+      "name": "Skitty",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.1,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38466:Normal": {
+      "card_id": 38466,
+      "name": "Torchic",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.53,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38464:Normal": {
+      "card_id": 38464,
+      "name": "Zigzagoon",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.44,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38478:Normal": {
+      "card_id": 38478,
+      "name": "Potion (Latias)",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.17,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38472:Normal": {
+      "card_id": 38472,
+      "name": "Potion (Latios)",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.13,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38471:Normal": {
+      "card_id": 38471,
+      "name": "Energy Search (Latias)",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.2,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38474:Normal": {
+      "card_id": 38474,
+      "name": "Energy Search (Latios)",
+      "set_id": 5500148,
+      "set_name": "EX Trainer Kit 1: Latias & Latios",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.19,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38303:Normal": {
+      "card_id": 38303,
+      "name": "Arcanine",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 7.02,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38305:Normal": {
+      "card_id": 38305,
+      "name": "Beldum",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38318:Normal": {
+      "card_id": 38318,
+      "name": "Potion (Minun)",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.35,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38309:Normal": {
+      "card_id": 38309,
+      "name": "Professor Cozmo's Discovery",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.41,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38313:Normal": {
+      "card_id": 38313,
+      "name": "Fire Energy",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38314:Normal": {
+      "card_id": 38314,
+      "name": "Lightning Energy (Plusle)",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.56,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38308:Normal": {
+      "card_id": 38308,
+      "name": "Lightning Energy (Minun)",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38311:Normal": {
+      "card_id": 38311,
+      "name": "Psychic Energy",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.42,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38296:Normal": {
+      "card_id": 38296,
+      "name": "Charmander",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 3.38,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38312:Normal": {
+      "card_id": 38312,
+      "name": "Electrike",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.37,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38301:Normal": {
+      "card_id": 38301,
+      "name": "Charmeleon",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 2.16,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38306:Normal": {
+      "card_id": 38306,
+      "name": "Grumpig",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.6,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38297:Normal": {
+      "card_id": 38297,
+      "name": "Growlithe",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.07,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38302:Normal": {
+      "card_id": 38302,
+      "name": "Meowth",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.76,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38304:Normal": {
+      "card_id": 38304,
+      "name": "Mareep",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.63,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38310:Normal": {
+      "card_id": 38310,
+      "name": "Metang",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.88,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38298:Holofoil": {
+      "card_id": 38298,
+      "name": "Minun",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 22.86,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38300:Holofoil": {
+      "card_id": 38300,
+      "name": "Plusle",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 21.95,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38307:Normal": {
+      "card_id": 38307,
+      "name": "Spoink",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.38,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38299:Normal": {
+      "card_id": 38299,
+      "name": "Vulpix",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 1.0,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38317:Normal": {
+      "card_id": 38317,
+      "name": "Celio's Network",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.49,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38315:Normal": {
+      "card_id": 38315,
+      "name": "Energy Search (Plusle)",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.41,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38316:Normal": {
+      "card_id": 38316,
+      "name": "Energy Search (Minun)",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.63,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
+    },
+    "38319:Normal": {
+      "card_id": 38319,
+      "name": "Potion (Plusle)",
+      "set_id": 5500168,
+      "set_name": "EX Trainer Kit 2: Plusle & Minun",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-20",
+          "market_price_usd": 0.51,
+          "market_price_as_of": "2026-11-20"
+        }
+      ]
     }
   }
 }
