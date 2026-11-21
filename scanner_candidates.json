@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-20T16:17:49.527640+00:00",
+  "generated_at": "2026-11-21T15:30:13.758764+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 224,
+  "next_set_index": 229,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 7,
-  "total_candidates": 9791,
-  "cards_with_price_history": 27821,
+  "api_calls": 5,
+  "total_candidates": 9861,
+  "cards_with_price_history": 27908,
   "candidates": [
     {
       "card_id": 20118,
@@ -1371,6 +1371,18 @@
       "total_listings": 67
     },
     {
+      "card_id": 38527,
+      "name": "Celebi ex (Holo)",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "017/017",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 181.18,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 19
+    },
+    {
       "card_id": 25688,
       "name": "Kyogre EX (148 Full Art)",
       "set_id": 5500118,
@@ -1705,6 +1717,18 @@
       "market_price_usd": 177.04,
       "market_price_as_of": "2026-11-09",
       "total_listings": 25
+    },
+    {
+      "card_id": 38630,
+      "name": "Pokemon Fan Club",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "009/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 177.0,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 9
     },
     {
       "card_id": 34046,
@@ -6447,6 +6471,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 38564,
+      "name": "Pichu Bros.",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "016/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 126.71,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 29
+    },
+    {
       "card_id": 35084,
       "name": "Vaporeon",
       "set_id": 5500235,
@@ -6721,6 +6757,18 @@
       "market_price_usd": 125.0,
       "market_price_as_of": "2026-11-05",
       "total_listings": 7
+    },
+    {
+      "card_id": 38574,
+      "name": "Ho-Oh ex (Non-Holo)",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "017/017",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 125.0,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 6
     },
     {
       "card_id": 6648,
@@ -9853,6 +9901,18 @@
       "market_price_usd": 102.62,
       "market_price_as_of": "2026-10-10",
       "total_listings": 102
+    },
+    {
+      "card_id": 38618,
+      "name": "Mudkip",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "011/017",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 102.5,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 16
     },
     {
       "card_id": 15145,
@@ -13887,6 +13947,18 @@
       "total_listings": 166
     },
     {
+      "card_id": 38613,
+      "name": "Mew",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "004/017",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 85.0,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 18
+    },
+    {
       "card_id": 32023,
       "name": "Bellsprout",
       "set_id": 5500230,
@@ -13945,6 +14017,18 @@
       "market_price_usd": 84.9,
       "market_price_as_of": "2026-11-13",
       "total_listings": 49
+    },
+    {
+      "card_id": 38562,
+      "name": "Ditto",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "012/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 84.88,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 34
     },
     {
       "card_id": 38738,
@@ -16851,6 +16935,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 38537,
+      "name": "Celebi ex (Non-Holo)",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "017/017",
+      "rarity": "Ultra Rare",
+      "printing": "Normal",
+      "market_price_usd": 74.36,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 16
+    },
+    {
       "card_id": 29468,
       "name": "Erika's Kindness",
       "set_id": 5500085,
@@ -18711,6 +18807,18 @@
       "total_listings": 10
     },
     {
+      "card_id": 38619,
+      "name": "Squirtle",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "014/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 68.39,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 14
+    },
+    {
       "card_id": 2299717,
       "name": "Slowbro - 083 [Staff]",
       "set_id": 5500111,
@@ -19983,6 +20091,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 38558,
+      "name": "Jolteon",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "003/017",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 65.0,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 50
+    },
+    {
       "card_id": 15437,
       "name": "Snorlax V - 141/202",
       "set_id": 5500069,
@@ -20569,6 +20689,18 @@
       "market_price_usd": 63.32,
       "market_price_as_of": "2026-11-11",
       "total_listings": 52
+    },
+    {
+      "card_id": 38521,
+      "name": "Pikachu",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "016/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 63.29,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 24
     },
     {
       "card_id": 37862,
@@ -21375,6 +21507,18 @@
       "total_listings": 217
     },
     {
+      "card_id": 38612,
+      "name": "Garchomp",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "001/017",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 61.11,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 33
+    },
+    {
       "card_id": 24306,
       "name": "Jirachi Prism Star",
       "set_id": 5500088,
@@ -21625,6 +21769,18 @@
       "market_price_usd": 60.44,
       "market_price_as_of": "2026-11-14",
       "total_listings": 49
+    },
+    {
+      "card_id": 38523,
+      "name": "Entei",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "001/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 60.44,
+      "market_price_as_of": "2026-11-20",
+      "total_listings": 48
     },
     {
       "card_id": 36601,
@@ -21949,6 +22105,18 @@
       "market_price_usd": 59.99,
       "market_price_as_of": "2026-11-05",
       "total_listings": 38
+    },
+    {
+      "card_id": 38592,
+      "name": "Chimchar (Cracked Ice Holo)",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "012/017",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 59.99,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 2
     },
     {
       "card_id": 4380,
@@ -23691,6 +23859,18 @@
       "total_listings": 62
     },
     {
+      "card_id": 38535,
+      "name": "Ivysaur",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "007/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 55.8,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 16
+    },
+    {
       "card_id": 13743,
       "name": "Volcarona - 100/086",
       "set_id": 5500093,
@@ -24685,6 +24865,18 @@
       "market_price_usd": 53.54,
       "market_price_as_of": "2026-11-20",
       "total_listings": 255
+    },
+    {
+      "card_id": 38559,
+      "name": "Flareon",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "002/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 53.51,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 71
     },
     {
       "card_id": 25754,
@@ -26475,6 +26667,18 @@
       "total_listings": 143
     },
     {
+      "card_id": 38561,
+      "name": "Minun",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "004/017",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 50.0,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 71
+    },
+    {
       "card_id": 6588,
       "name": "Parallel City - 145/162 (City Championships) [Staff]",
       "set_id": 5500087,
@@ -26739,6 +26943,18 @@
       "total_listings": 39
     },
     {
+      "card_id": 38590,
+      "name": "Chimchar",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "012/017",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 49.79,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 58
+    },
+    {
       "card_id": 25777,
       "name": "Nidorino",
       "set_id": 5500011,
@@ -26799,6 +27015,18 @@
       "total_listings": 100
     },
     {
+      "card_id": 38532,
+      "name": "Pokemon Park",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "010/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 49.66,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 27
+    },
+    {
       "card_id": 20780,
       "name": "Morty's Conviction - 211/162",
       "set_id": 5500066,
@@ -26857,6 +27085,18 @@
       "market_price_usd": 49.52,
       "market_price_as_of": "2026-11-16",
       "total_listings": 42
+    },
+    {
+      "card_id": 38526,
+      "name": "Raikou",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "003/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 49.52,
+      "market_price_as_of": "2026-11-20",
+      "total_listings": 47
     },
     {
       "card_id": 25741,
@@ -27099,6 +27339,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 38528,
+      "name": "Bulbasaur",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "012/17",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 49.19,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 55
+    },
+    {
       "card_id": 27517,
       "name": "Venusaur",
       "set_id": 5500063,
@@ -27193,6 +27445,18 @@
       "market_price_usd": 49.09,
       "market_price_as_of": "2026-10-12",
       "total_listings": 92
+    },
+    {
+      "card_id": 38522,
+      "name": "Suicune",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "004/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 49.09,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 61
     },
     {
       "card_id": 35197,
@@ -27973,6 +28237,18 @@
       "market_price_usd": 47.84,
       "market_price_as_of": "2026-11-09",
       "total_listings": 6
+    },
+    {
+      "card_id": 38560,
+      "name": "Plusle",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "005/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.84,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 48
     },
     {
       "card_id": 1557,
@@ -29041,6 +29317,18 @@
       "market_price_usd": 46.0,
       "market_price_as_of": "2026-11-07",
       "total_listings": 9
+    },
+    {
+      "card_id": 38581,
+      "name": "Riolu",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "016/017",
+      "rarity": "Common",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 45.99,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 43
     },
     {
       "card_id": 26897,
@@ -33747,6 +34035,18 @@
       "total_listings": 31
     },
     {
+      "card_id": 38568,
+      "name": "Eevee",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "013/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 39.98,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 27
+    },
+    {
       "card_id": 34641,
       "name": "Corsola",
       "set_id": 5500231,
@@ -34237,6 +34537,18 @@
       "market_price_usd": 39.36,
       "market_price_as_of": "2026-11-13",
       "total_listings": 37
+    },
+    {
+      "card_id": 38626,
+      "name": "Grovyle",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "007/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 39.35,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 7
     },
     {
       "card_id": 14682,
@@ -36171,6 +36483,18 @@
       "total_listings": 143
     },
     {
+      "card_id": 38615,
+      "name": "Flygon",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "003/017",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 37.25,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 46
+    },
+    {
       "card_id": 29044,
       "name": "Winona (108 Full Art)",
       "set_id": 5500095,
@@ -36313,6 +36637,18 @@
       "market_price_usd": 37.03,
       "market_price_as_of": "2026-11-09",
       "total_listings": 62
+    },
+    {
+      "card_id": 38557,
+      "name": "Vaporeon",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "006/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.03,
+      "market_price_as_of": "2026-11-20",
+      "total_listings": 88
     },
     {
       "card_id": 32722,
@@ -38403,6 +38739,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 38579,
+      "name": "Luxray",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "003/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.94,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 30
+    },
+    {
       "card_id": 38736,
       "name": "Professor Elm - 3",
       "set_id": 5500186,
@@ -39085,6 +39433,18 @@
       "market_price_usd": 34.2,
       "market_price_as_of": "2026-11-12",
       "total_listings": 8
+    },
+    {
+      "card_id": 38519,
+      "name": "Venusaur",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "006/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.2,
+      "market_price_as_of": "2026-11-20",
+      "total_listings": 82
     },
     {
       "card_id": 32681,
@@ -42411,6 +42771,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 38624,
+      "name": "Combusken",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "006/017",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 30.75,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 32
+    },
+    {
       "card_id": 26527,
       "name": "Shellder",
       "set_id": 5500166,
@@ -42541,6 +42913,18 @@
       "market_price_usd": 30.65,
       "market_price_as_of": "2026-10-25",
       "total_listings": 71
+    },
+    {
+      "card_id": 38583,
+      "name": "Croagunk",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "13/17",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 30.65,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 79
     },
     {
       "card_id": 35346,
@@ -43309,6 +43693,18 @@
       "market_price_usd": 30.04,
       "market_price_as_of": "2026-10-24",
       "total_listings": 6
+    },
+    {
+      "card_id": 38623,
+      "name": "Pidgey",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "012/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 30.01,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 16
     },
     {
       "card_id": 26001,
@@ -45759,6 +46155,18 @@
       "total_listings": 140
     },
     {
+      "card_id": 38597,
+      "name": "Raichu",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "003/017",
+      "rarity": "Rare",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 28.17,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 51
+    },
+    {
       "card_id": 20061,
       "name": "Yveltal - XY06",
       "set_id": 5500177,
@@ -46359,6 +46767,18 @@
       "total_listings": 43
     },
     {
+      "card_id": 38577,
+      "name": "Lucario",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "002/017",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 27.63,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 66
+    },
+    {
       "card_id": 100009843,
       "name": "Pikachu & Zekrom GX",
       "set_id": 5500238,
@@ -46921,6 +47341,18 @@
       "market_price_usd": 27.22,
       "market_price_as_of": "2026-10-23",
       "total_listings": 53
+    },
+    {
+      "card_id": 38621,
+      "name": "Treecko (Delta Species)",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "015/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 27.22,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 16
     },
     {
       "card_id": 15465,
@@ -50907,6 +51339,18 @@
       "total_listings": 76
     },
     {
+      "card_id": 38595,
+      "name": "Pikachu",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "015/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 24.48,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 68
+    },
+    {
       "card_id": 35644,
       "name": "Mankey",
       "set_id": 5500167,
@@ -53715,6 +54159,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 38572,
+      "name": "Donphan",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "008/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 22.49,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 19
+    },
+    {
       "card_id": 36739,
       "name": "Zeraora VSTAR",
       "set_id": 5500218,
@@ -53917,6 +54373,18 @@
       "market_price_usd": 22.32,
       "market_price_as_of": "2026-10-23",
       "total_listings": 4
+    },
+    {
+      "card_id": 38604,
+      "name": "Pichu",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "011/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 22.31,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 40
     },
     {
       "card_id": 18466,
@@ -55201,6 +55669,18 @@
       "market_price_usd": 21.45,
       "market_price_as_of": "2026-10-24",
       "total_listings": 30
+    },
+    {
+      "card_id": 38571,
+      "name": "Combusken",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "007/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 21.45,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 17
     },
     {
       "card_id": 16686,
@@ -56545,6 +57025,18 @@
       "market_price_usd": 20.66,
       "market_price_as_of": "2026-11-09",
       "total_listings": 149
+    },
+    {
+      "card_id": 38576,
+      "name": "Happiny",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "014/017",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 20.66,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 82
     },
     {
       "card_id": 6144,
@@ -60063,6 +60555,18 @@
       "total_listings": 63
     },
     {
+      "card_id": 38529,
+      "name": "Phanpy",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "015/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 19.27,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 49
+    },
+    {
       "card_id": 1535,
       "name": "Rayquaza EX - 2013 (Clement Lamberton)",
       "set_id": 5500029,
@@ -60589,6 +61093,18 @@
       "market_price_usd": 19.03,
       "market_price_as_of": "2026-11-17",
       "total_listings": 99
+    },
+    {
+      "card_id": 38573,
+      "name": "Forretress",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "009/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 19.03,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 18
     },
     {
       "card_id": 14531,
@@ -63219,6 +63735,18 @@
       "total_listings": 395
     },
     {
+      "card_id": 38584,
+      "name": "Piplup",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "015/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 17.77,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 31
+    },
+    {
       "card_id": 31770,
       "name": "Charmeleon",
       "set_id": 5500096,
@@ -64719,6 +65247,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 38525,
+      "name": "Pidgeot",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "002/017",
+      "rarity": "Rare",
+      "printing": "Normal",
+      "market_price_usd": 17.1,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 60
+    },
+    {
       "card_id": 14510,
       "name": "Lampent (Master Ball Pattern)",
       "set_id": 5500153,
@@ -64801,6 +65341,18 @@
       "market_price_usd": 17.07,
       "market_price_as_of": "2026-11-07",
       "total_listings": 154
+    },
+    {
+      "card_id": 38587,
+      "name": "Luxio",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "008/017",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 17.06,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 15
     },
     {
       "card_id": 27060,
@@ -68989,6 +69541,18 @@
       "market_price_usd": 15.4,
       "market_price_as_of": "2026-11-05",
       "total_listings": 111
+    },
+    {
+      "card_id": 38530,
+      "name": "Mr. Briney's Compassion",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "008/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 15.4,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 27
     },
     {
       "card_id": 33924,
@@ -73227,6 +73791,18 @@
       "total_listings": 44
     },
     {
+      "card_id": 38563,
+      "name": "Ivysaur",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "014/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 13.94,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 25
+    },
+    {
       "card_id": 23602,
       "name": "Pikachu",
       "set_id": 5500195,
@@ -74185,6 +74761,18 @@
       "market_price_usd": 13.52,
       "market_price_as_of": "2026-11-07",
       "total_listings": 15
+    },
+    {
+      "card_id": 38599,
+      "name": "Manaphy",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "002/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.52,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 52
     },
     {
       "card_id": 15794,
@@ -76107,6 +76695,18 @@
       "total_listings": 52
     },
     {
+      "card_id": 38591,
+      "name": "Roseanne's Research",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "011/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 12.91,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 16
+    },
+    {
       "card_id": 1697,
       "name": "Pidgeotto - 2006 (Jimmy Ballard)",
       "set_id": 5500029,
@@ -77665,6 +78265,18 @@
       "market_price_usd": 12.43,
       "market_price_as_of": "2026-10-31",
       "total_listings": 30
+    },
+    {
+      "card_id": 38586,
+      "name": "Cherrim",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "006/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 12.43,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 16
     },
     {
       "card_id": 13807,
@@ -79501,6 +80113,18 @@
       "market_price_usd": 11.9,
       "market_price_as_of": "2026-10-09",
       "total_listings": 38
+    },
+    {
+      "card_id": 38627,
+      "name": "Heal Energy",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "008/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 11.9,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 16
     },
     {
       "card_id": 14532,
@@ -82899,6 +83523,18 @@
       "total_listings": 106
     },
     {
+      "card_id": 38569,
+      "name": "Marshtomp",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "015/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 10.91,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 48
+    },
+    {
       "card_id": 13387,
       "name": "Groudon (Master Ball Pattern)",
       "set_id": 5500017,
@@ -83245,6 +83881,18 @@
       "market_price_usd": 10.83,
       "market_price_as_of": "2026-11-06",
       "total_listings": 326
+    },
+    {
+      "card_id": 38598,
+      "name": "Rotom",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "005/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.83,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 51
     },
     {
       "card_id": 15360,
@@ -85801,6 +86449,18 @@
       "market_price_usd": 10.15,
       "market_price_as_of": "2026-10-27",
       "total_listings": 16
+    },
+    {
+      "card_id": 38600,
+      "name": "Piplup",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "016/017",
+      "rarity": "Common",
+      "printing": "Normal",
+      "market_price_usd": 10.14,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 71
     },
     {
       "card_id": 14533,
@@ -89067,6 +89727,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 38617,
+      "name": "Wobbuffet",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "016/017",
+      "rarity": "Common",
+      "printing": "Holofoil",
+      "market_price_usd": 9.45,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 46
+    },
+    {
       "card_id": 23939,
       "name": "Iono's Bellibolt ex - 188/159",
       "set_id": 5500077,
@@ -90985,6 +91657,18 @@
       "market_price_usd": 9.0,
       "market_price_as_of": "2026-11-05",
       "total_listings": 203
+    },
+    {
+      "card_id": 38567,
+      "name": "Low Pressure System",
+      "set_id": 5500128,
+      "set_name": "POP Series 3",
+      "number": "011/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 9.0,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 25
     },
     {
       "card_id": 5193,
@@ -94635,6 +95319,18 @@
       "total_listings": 209
     },
     {
+      "card_id": 38622,
+      "name": "Scramble Energy",
+      "set_id": 5500086,
+      "set_name": "POP Series 4",
+      "number": "010/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 8.29,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 8
+    },
+    {
       "card_id": 15307,
       "name": "Pikachu GX - SM232",
       "set_id": 5500069,
@@ -95077,6 +95773,18 @@
       "market_price_usd": 8.21,
       "market_price_as_of": "2026-11-20",
       "total_listings": 37
+    },
+    {
+      "card_id": 38531,
+      "name": "TV Reporter",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "011/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 8.21,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 21
     },
     {
       "card_id": 109,
@@ -96123,6 +96831,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 38589,
+      "name": "Rare Candy",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "010/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 8.0,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 27
+    },
+    {
       "card_id": 1219,
       "name": "Copycat - 2006 (Jimmy Ballard)",
       "set_id": 5500029,
@@ -96421,6 +97141,18 @@
       "market_price_usd": 7.97,
       "market_price_as_of": "2026-11-17",
       "total_listings": 522
+    },
+    {
+      "card_id": 38609,
+      "name": "Buizel",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "006/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 7.97,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 37
     },
     {
       "card_id": 19827,
@@ -97261,6 +97993,18 @@
       "market_price_usd": 7.8,
       "market_price_as_of": "2026-10-22",
       "total_listings": 41
+    },
+    {
+      "card_id": 38605,
+      "name": "Regigigas",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "004/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.8,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 76
     },
     {
       "card_id": 4060,
@@ -99457,6 +100201,18 @@
       "market_price_usd": 7.41,
       "market_price_as_of": "2026-10-22",
       "total_listings": 72
+    },
+    {
+      "card_id": 38608,
+      "name": "Pachirisu",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "010/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 7.41,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 22
     },
     {
       "card_id": 14751,
@@ -101991,6 +102747,18 @@
       "total_listings": 911
     },
     {
+      "card_id": 38596,
+      "name": "Lopunny",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "009/017",
+      "rarity": "Uncommon",
+      "printing": "Holofoil",
+      "market_price_usd": 6.96,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 105
+    },
+    {
       "card_id": 5810,
       "name": "Aurora Energy - 186/202",
       "set_id": 5500194,
@@ -103453,6 +104221,18 @@
       "market_price_usd": 6.7,
       "market_price_as_of": "2026-10-16",
       "total_listings": 305
+    },
+    {
+      "card_id": 38585,
+      "name": "Probopass",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "004/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.7,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 63
     },
     {
       "card_id": 6719,
@@ -104955,6 +105735,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 38524,
+      "name": "Tauros",
+      "set_id": 5500044,
+      "set_name": "POP Series 2",
+      "number": "005/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.48,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 84
+    },
+    {
       "card_id": 17861,
       "name": "Duraludon VMAX (Secret)",
       "set_id": 5500048,
@@ -106177,6 +106969,18 @@
       "market_price_usd": 6.3,
       "market_price_as_of": "2026-11-04",
       "total_listings": 221
+    },
+    {
+      "card_id": 38593,
+      "name": "Carnivine",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "007/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 6.3,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 51
     },
     {
       "card_id": 6040,
@@ -109273,6 +110077,18 @@
       "market_price_usd": 5.91,
       "market_price_as_of": "2026-11-09",
       "total_listings": 259
+    },
+    {
+      "card_id": 38588,
+      "name": "Yanmega",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "005/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.91,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 80
     },
     {
       "card_id": 38762,
@@ -114927,6 +115743,18 @@
       "total_listings": 627
     },
     {
+      "card_id": 38611,
+      "name": "Croagunk",
+      "set_id": 5500057,
+      "set_name": "POP Series 9",
+      "number": "007/017",
+      "rarity": "Uncommon",
+      "printing": "Normal",
+      "market_price_usd": 5.26,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 47
+    },
+    {
       "card_id": 38783,
       "name": "Drilbur - 8/12",
       "set_id": 5500164,
@@ -116653,6 +117481,18 @@
       "market_price_usd": 5.06,
       "market_price_as_of": "2026-11-16",
       "total_listings": 152
+    },
+    {
+      "card_id": 38582,
+      "name": "Heatran",
+      "set_id": 5500202,
+      "set_name": "POP Series 8",
+      "number": "001/017",
+      "rarity": "Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.06,
+      "market_price_as_of": "2026-11-21",
+      "total_listings": 143
     },
     {
       "card_id": 17503,
