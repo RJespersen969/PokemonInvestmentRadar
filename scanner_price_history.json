@@ -390713,6 +390713,1812 @@
           "market_price_as_of": "2026-11-21"
         }
       ]
+    },
+    "38649:Holofoil": {
+      "card_id": 38649,
+      "name": "Ho-Oh",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 79.08,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38651:Normal": {
+      "card_id": 38651,
+      "name": "Lugia",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 418.44,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38655:Holofoil": {
+      "card_id": 38655,
+      "name": "Mew (Delta Species)",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 581.48,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38664:Normal": {
+      "card_id": 38664,
+      "name": "Double Rainbow Energy",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 44.99,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38666:Normal": {
+      "card_id": 38666,
+      "name": "Charmeleon (Delta Species)",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 89.99,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38659:Normal": {
+      "card_id": 38659,
+      "name": "Bill's Maintenance",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 15.33,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38663:Normal": {
+      "card_id": 38663,
+      "name": "Rare Candy",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 25.66,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38662:Normal": {
+      "card_id": 38662,
+      "name": "Boost Energy",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 6.64,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38660:Normal": {
+      "card_id": 38660,
+      "name": "Delta Rainbow Energy",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 17.56,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38658:Normal": {
+      "card_id": 38658,
+      "name": "Charmander (Delta Species)",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 45.44,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38656:Normal": {
+      "card_id": 38656,
+      "name": "Meowth (Delta Species)",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 23.23,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38654:Holofoil": {
+      "card_id": 38654,
+      "name": "Pikachu",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 400.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38657:Normal": {
+      "card_id": 38657,
+      "name": "Pikachu (Delta Species)",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 74.28,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38650:Holofoil": {
+      "card_id": 38650,
+      "name": "Pelipper (Delta Species)",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 13.53,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38652:Holofoil": {
+      "card_id": 38652,
+      "name": "Zangoose (Delta Species)",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 16.53,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38665:Holofoil": {
+      "card_id": 38665,
+      "name": "Umbreon Star",
+      "set_id": 5500199,
+      "set_name": "POP Series 5",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 104.0,
+          "market_price_as_of": "2026-09-16"
+        }
+      ]
+    },
+    "38554:Normal": {
+      "card_id": 38554,
+      "name": "Bastiodon",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 10.17,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38546:Normal": {
+      "card_id": 38546,
+      "name": "Lucario",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 30.11,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38541:Holofoil": {
+      "card_id": 38541,
+      "name": "Manaphy",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 13.58,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38548:Normal": {
+      "card_id": 38548,
+      "name": "Pachirisu",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 11.67,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38544:Normal": {
+      "card_id": 38544,
+      "name": "Rampardos",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 9.08,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38556:Normal": {
+      "card_id": 38556,
+      "name": "Drifloon",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 117.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38550:Normal": {
+      "card_id": 38550,
+      "name": "Gible",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 15.25,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38542:Normal": {
+      "card_id": 38542,
+      "name": "Riolu",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 29.33,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38545:Holofoil": {
+      "card_id": 38545,
+      "name": "Pikachu",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 155.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38543:Normal": {
+      "card_id": 38543,
+      "name": "Pikachu (Pokemon Day Stamped)",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 249.99,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38551:Normal": {
+      "card_id": 38551,
+      "name": "Staravia",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 27.4,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38549:Normal": {
+      "card_id": 38549,
+      "name": "Bidoof",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 35.07,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38555:Normal": {
+      "card_id": 38555,
+      "name": "Buneary",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 37.49,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38547:Normal": {
+      "card_id": 38547,
+      "name": "Cherubi",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 15.14,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38539:Holofoil": {
+      "card_id": 38539,
+      "name": "Chimchar",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 17.12,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38538:Holofoil": {
+      "card_id": 38538,
+      "name": "Piplup",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 37.39,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38553:Normal": {
+      "card_id": 38553,
+      "name": "Starly",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 9.14,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38540:Holofoil": {
+      "card_id": 38540,
+      "name": "Turtwig",
+      "set_id": 5500127,
+      "set_name": "POP Series 6",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 26.39,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35846:Holofoil": {
+      "card_id": 35846,
+      "name": "Kyogre ex - 001 (Nintendo Power Magazine)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 372.5,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35851:Holofoil": {
+      "card_id": 35851,
+      "name": "Groudon ex - 002 (Nintendo Power Magazine)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 178.22,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35900:Reverse Holofoil": {
+      "card_id": 35900,
+      "name": "Treecko - 003 (e-League)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 86.36,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35872:Normal": {
+      "card_id": 35872,
+      "name": "Grovyle - 004 (e-League) [Winner]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 149.5,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35870:Reverse Holofoil": {
+      "card_id": 35870,
+      "name": "Torchic - 008 (e-League)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 128.49,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35912:Normal": {
+      "card_id": 35912,
+      "name": "Combusken - 009 (e-League) [Winner]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 247.75,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35858:Reverse Holofoil": {
+      "card_id": 35858,
+      "name": "Mudkip - 010 (e-League)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Reverse Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 183.67,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35898:Normal": {
+      "card_id": 35898,
+      "name": "Marshtomp - 011 (e-League) [Winner]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 314.15,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35850:Normal": {
+      "card_id": 35850,
+      "name": "Latias - 014 (Pokemon Heroes: Latios & Latias DVD Release)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 32.33,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35852:Normal": {
+      "card_id": 35852,
+      "name": "Latios - 015 (Pokemon Heroes: Latios & Latias DVD Release)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 36.88,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35884:Normal": {
+      "card_id": 35884,
+      "name": "Treecko - 016 (Target Promo)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 51.46,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35868:Normal": {
+      "card_id": 35868,
+      "name": "Torchic - 017 (Target Promo)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 32.5,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35875:Normal": {
+      "card_id": 35875,
+      "name": "Mudkip - 018 (Target Promo)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 100.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35897:Normal": {
+      "card_id": 35897,
+      "name": "Whismur - 019 (Target Promo)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 26.12,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35848:Holofoil": {
+      "card_id": 35848,
+      "name": "Ludicolo - 020 (EX Series Value Pack)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 20.49,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35849:Normal": {
+      "card_id": 35849,
+      "name": "Jirachi - 021 (Jirachi: Wish Maker DVD Release)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 79.97,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35869:Normal": {
+      "card_id": 35869,
+      "name": "Beldum - 022 (e-League)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 6.83,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35891:Normal": {
+      "card_id": 35891,
+      "name": "Chimecho - 024 (e-League)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 14.66,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35878:Normal": {
+      "card_id": 35878,
+      "name": "Chimecho - 024 (e-League) [Winner]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 43.02,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35862:Normal": {
+      "card_id": 35862,
+      "name": "Flygon - 025 (e-League)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 58.69,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35877:Normal": {
+      "card_id": 35877,
+      "name": "Tropical Wind - 026 (2004 World Championships) [Participation]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 223.5,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35854:Holofoil": {
+      "card_id": 35854,
+      "name": "Typhlosion - 034 (Epic Collection Value Boxes)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 50.59,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35859:Holofoil": {
+      "card_id": 35859,
+      "name": "Pikachu (Delta Species) - 035 (Value Pack)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 308.86,
+          "market_price_as_of": "2026-11-21"
+        }
+      ]
+    },
+    "35847:Holofoil": {
+      "card_id": 35847,
+      "name": "Mew - 040 (Trainer's Challenge Set)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 223.63,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35871:Normal": {
+      "card_id": 35871,
+      "name": "Shellos East Sea - 106/132 (Origins Game Fair 2008)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 28.31,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35892:Normal": {
+      "card_id": 35892,
+      "name": "Shellos East Sea - 106/132 (Origins Game Fair 2008) [Staff]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 155.62,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35895:Holofoil": {
+      "card_id": 35895,
+      "name": "Leafeon - 17/90 (Prerelease) [Staff]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 385.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35904:Holofoil": {
+      "card_id": 35904,
+      "name": "Salamence - 19/97 (e-League)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 108.88,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35905:Holofoil": {
+      "card_id": 35905,
+      "name": "Salamence - 19/97 (e-League) [Winner]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 222.19,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35913:Normal": {
+      "card_id": 35913,
+      "name": "Raichu - 27/99 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 99.25,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35885:Normal": {
+      "card_id": 35885,
+      "name": "Dragonair (Delta Species) - 28/101 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 150.72,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35881:Holofoil": {
+      "card_id": 35881,
+      "name": "Pichu - 28/123 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 149.66,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35882:Holofoil": {
+      "card_id": 35882,
+      "name": "Pichu - 28/123 (Prerelease) [Staff]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 500.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35887:Normal": {
+      "card_id": 35887,
+      "name": "Grumpig - 29/106 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 44.38,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35909:Normal": {
+      "card_id": 35909,
+      "name": "Gyarados - 32/97 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 375.75,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35901:Holofoil": {
+      "card_id": 35901,
+      "name": "Snorlax - 33/95 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 500.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35896:Holofoil": {
+      "card_id": 35896,
+      "name": "Snorlax - 33/95 (Prerelease) [Staff]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 1975.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35876:Normal": {
+      "card_id": 35876,
+      "name": "Ivysaur - 35/100 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 78.91,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35902:Normal": {
+      "card_id": 35902,
+      "name": "Bayleef - 35/115 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 37.75,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35894:Holofoil": {
+      "card_id": 35894,
+      "name": "Dark Houndoom - 37/109 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 311.46,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35880:Normal": {
+      "card_id": 35880,
+      "name": "Manectric - 38/107 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 99.99,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35879:Normal": {
+      "card_id": 35879,
+      "name": "Exeggutor (Delta Species) - 41/110 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 57.97,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35910:Normal": {
+      "card_id": 35910,
+      "name": "Tentacruel - 45/92 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 54.99,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35867:Normal": {
+      "card_id": 35867,
+      "name": "Piloswine - 46/100 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 13.75,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35873:Normal": {
+      "card_id": 35873,
+      "name": "Metang (Delta Species) - 49/113 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 61.88,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35863:Normal": {
+      "card_id": 35863,
+      "name": "Swalot - 50/101 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 118.16,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35888:Normal": {
+      "card_id": 35888,
+      "name": "Bagon - 50/97 (Black Star)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 20.73,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35922:Normal": {
+      "card_id": 35922,
+      "name": "Bagon - 50/97 (Gen Con 2004 Promo)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 160.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35886:Normal": {
+      "card_id": 35886,
+      "name": "Bagon - 50/97 (InQuest Gamer)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 89.15,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35874:Normal": {
+      "card_id": 35874,
+      "name": "Bagon - 50/97 (Scrye Magazine)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 72.5,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35864:Normal": {
+      "card_id": 35864,
+      "name": "Tropius - 52/111 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 19.51,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35866:Normal": {
+      "card_id": 35866,
+      "name": "Tropius - 52/111 (Prerelease) [Staff]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 199.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35907:Normal": {
+      "card_id": 35907,
+      "name": "Luxio - 52/130 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 32.33,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35915:Normal": {
+      "card_id": 35915,
+      "name": "Luxio - 52/130 (Prerelease) [Staff]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 143.33,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35893:Normal": {
+      "card_id": 35893,
+      "name": "Ditto - 61/113 (Origins International Game Expo 2007)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 407.14,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35906:Normal": {
+      "card_id": 35906,
+      "name": "Milotic - 70/147 (Prerelease)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 49.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35865:Normal": {
+      "card_id": 35865,
+      "name": "Milotic - 70/147 (Prerelease) [Staff]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 236.04,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35861:Normal": {
+      "card_id": 35861,
+      "name": "Shinx - 98/130 (City Championships)",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 13.59,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "35908:Normal": {
+      "card_id": 35908,
+      "name": "Shinx - 98/130 (City Championships) [Staff]",
+      "set_id": 5500055,
+      "set_name": "Nintendo Promos",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 223.33,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38482:Holofoil": {
+      "card_id": 38482,
+      "name": "Blaziken",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 31.63,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38486:Normal": {
+      "card_id": 38486,
+      "name": "Metagross",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 17.56,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38480:Normal": {
+      "card_id": 38480,
+      "name": "Rayquaza",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 435.42,
+          "market_price_as_of": "2026-11-21"
+        }
+      ]
+    },
+    "38483:Holofoil": {
+      "card_id": 38483,
+      "name": "Sceptile",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 36.9,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38484:Holofoil": {
+      "card_id": 38484,
+      "name": "Swampert",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 63.3,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38494:Normal": {
+      "card_id": 38494,
+      "name": "Beautifly",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 13.81,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38495:Normal": {
+      "card_id": 38495,
+      "name": "Masquerain",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 5.92,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38490:Normal": {
+      "card_id": 38490,
+      "name": "Murkrow",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 20.13,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38499:Normal": {
+      "card_id": 38499,
+      "name": "Pupitar",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 14.62,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38493:Normal": {
+      "card_id": 38493,
+      "name": "Torkoal",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 12.75,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38487:Normal": {
+      "card_id": 38487,
+      "name": "Larvitar",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 3.69,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38485:Normal": {
+      "card_id": 38485,
+      "name": "Minun",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 5.81,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38488:Normal": {
+      "card_id": 38488,
+      "name": "Plusle",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 5.79,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38496:Normal": {
+      "card_id": 38496,
+      "name": "Surskit",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 1.57,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38489:Normal": {
+      "card_id": 38489,
+      "name": "Swellow",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 2.02,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38492:Holofoil": {
+      "card_id": 38492,
+      "name": "Armaldo ex (Holo)",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 150.0,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38498:Normal": {
+      "card_id": 38498,
+      "name": "Armaldo ex (Non-Holo)",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 39.94,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38481:Holofoil": {
+      "card_id": 38481,
+      "name": "Tyranitar ex (Holo)",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 199.9,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38497:Normal": {
+      "card_id": 38497,
+      "name": "Tyranitar ex (Non-Holo)",
+      "set_id": 5500146,
+      "set_name": "POP Series 1",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 117.55,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38632:Holofoil": {
+      "card_id": 38632,
+      "name": "Ampharos",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 39.54,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38639:Holofoil": {
+      "card_id": 38639,
+      "name": "Gallade",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 32.77,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38631:Holofoil": {
+      "card_id": 38631,
+      "name": "Latias",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 63.97,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38633:Holofoil": {
+      "card_id": 38633,
+      "name": "Latios",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 33.3,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38638:Holofoil": {
+      "card_id": 38638,
+      "name": "Mothim",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 5.99,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38641:Normal": {
+      "card_id": 38641,
+      "name": "Delibird",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 25.82,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38647:Normal": {
+      "card_id": 38647,
+      "name": "Flaaffy",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 36.83,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38635:Holofoil": {
+      "card_id": 38635,
+      "name": "Kirlia",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Holofoil",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 24.99,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38642:Normal": {
+      "card_id": 38642,
+      "name": "Stantler",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 15.69,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38646:Normal": {
+      "card_id": 38646,
+      "name": "Wormadam Sandy Cloak",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 17.08,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38643:Normal": {
+      "card_id": 38643,
+      "name": "Burmy Plant Cloak",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 1.35,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38640:Normal": {
+      "card_id": 38640,
+      "name": "Burmy Sandy Cloak",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 1.72,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38644:Normal": {
+      "card_id": 38644,
+      "name": "Corsola",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 2.46,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38634:Normal": {
+      "card_id": 38634,
+      "name": "Mareep",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 8.56,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38637:Normal": {
+      "card_id": 38637,
+      "name": "Ralts",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 6.59,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38645:Normal": {
+      "card_id": 38645,
+      "name": "Sentret",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 4.79,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
+    },
+    "38636:Normal": {
+      "card_id": 38636,
+      "name": "Spinda",
+      "set_id": 5500185,
+      "set_name": "POP Series 7",
+      "printing": "Normal",
+      "prices": [
+        {
+          "date": "2026-11-22",
+          "market_price_usd": 3.83,
+          "market_price_as_of": "2026-11-22"
+        }
+      ]
     }
   }
 }
