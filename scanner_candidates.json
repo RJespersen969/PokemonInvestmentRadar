@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-22T15:31:58.156085+00:00",
+  "generated_at": "2026-11-23T19:24:36.185763+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 234,
+  "next_set_index": 5,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 5,
-  "total_candidates": 9961,
-  "cards_with_price_history": 28037,
+  "api_calls": 10,
+  "total_candidates": 9980,
+  "cards_with_price_history": 28194,
   "candidates": [
     {
       "card_id": 20118,
@@ -4191,18 +4191,6 @@
       "total_listings": 5
     },
     {
-      "card_id": 2163518,
-      "name": "Mega Darkrai ex - 116/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "116/084",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 149.83,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 232
-    },
-    {
       "card_id": 36564,
       "name": "Mew (9)",
       "set_id": 5500162,
@@ -5415,18 +5403,6 @@
       "total_listings": 120
     },
     {
-      "card_id": 100009842,
-      "name": "Charizard",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "4/102",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 139.23,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 91
-    },
-    {
       "card_id": 4368,
       "name": "Charizard - 19/113 (Cosmos Holo)",
       "set_id": 5500123,
@@ -5461,18 +5437,6 @@
       "market_price_usd": 138.65,
       "market_price_as_of": "2026-11-16",
       "total_listings": 13
-    },
-    {
-      "card_id": 2163540,
-      "name": "Mega Darkrai ex - 120/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "120/084",
-      "rarity": "Mega Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 138.43,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 118
     },
     {
       "card_id": 17010,
@@ -6111,18 +6075,6 @@
       "total_listings": 41
     },
     {
-      "card_id": 2153371,
-      "name": "Mega Greninja ex - 116/086",
-      "set_id": 5500213,
-      "set_name": "ME04: Chaos Rising",
-      "number": "116/086",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 130.63,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 298
-    },
-    {
       "card_id": 30790,
       "name": "Mew EX",
       "set_id": 5500184,
@@ -6627,6 +6579,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 2163518,
+      "name": "Mega Darkrai ex - 116/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "116/084",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 126.94,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 186
+    },
+    {
       "card_id": 38564,
       "name": "Pichu Bros.",
       "set_id": 5500128,
@@ -7093,18 +7057,6 @@
       "market_price_usd": 124.26,
       "market_price_as_of": "2026-11-04",
       "total_listings": 99
-    },
-    {
-      "card_id": 2153400,
-      "name": "Mega Greninja ex - 122/086",
-      "set_id": 5500213,
-      "set_name": "ME04: Chaos Rising",
-      "number": "122/086",
-      "rarity": "Mega Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 124.01,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 194
     },
     {
       "card_id": 26011,
@@ -8715,6 +8667,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 100009841,
+      "name": "Lugia",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "149/147",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 113.26,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 143
+    },
+    {
       "card_id": 38093,
       "name": "Starmie V",
       "set_id": 5500061,
@@ -8881,6 +8845,18 @@
       "market_price_usd": 111.82,
       "market_price_as_of": "2026-11-19",
       "total_listings": 11
+    },
+    {
+      "card_id": 2153400,
+      "name": "Mega Greninja ex - 122/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "number": "122/086",
+      "rarity": "Mega Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 111.77,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 175
     },
     {
       "card_id": 32913,
@@ -9411,6 +9387,18 @@
       "total_listings": 117
     },
     {
+      "card_id": 2163540,
+      "name": "Mega Darkrai ex - 120/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "120/084",
+      "rarity": "Mega Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 107.57,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 103
+    },
+    {
       "card_id": 33463,
       "name": "Mankey",
       "set_id": 5500062,
@@ -9867,6 +9855,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 100009842,
+      "name": "Charizard",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "4/102",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 104.29,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 120
+    },
+    {
       "card_id": 26016,
       "name": "Poliwrath (26)",
       "set_id": 5500160,
@@ -9913,6 +9913,18 @@
       "market_price_usd": 103.9,
       "market_price_as_of": "2026-10-15",
       "total_listings": 16
+    },
+    {
+      "card_id": 2153371,
+      "name": "Mega Greninja ex - 116/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "number": "116/086",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 103.86,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 258
     },
     {
       "card_id": 25887,
@@ -10417,6 +10429,18 @@
       "market_price_usd": 101.0,
       "market_price_as_of": "2026-11-12",
       "total_listings": 96
+    },
+    {
+      "card_id": 100162869,
+      "name": "Raikou ex",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "136/103",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 100.99,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 54
     },
     {
       "card_id": 28224,
@@ -14799,18 +14823,6 @@
       "total_listings": 23
     },
     {
-      "card_id": 100018065,
-      "name": "Magikarp",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "203/193",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 82.27,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 96
-    },
-    {
       "card_id": 33239,
       "name": "Vileplume (Delta Species)",
       "set_id": 5500220,
@@ -15349,18 +15361,6 @@
       "market_price_usd": 80.34,
       "market_price_as_of": "2026-11-12",
       "total_listings": 85
-    },
-    {
-      "card_id": 100034352,
-      "name": "Mew ex - 152/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "152/128",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 80.33,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 191
     },
     {
       "card_id": 35287,
@@ -17881,18 +17881,6 @@
       "market_price_usd": 72.48,
       "market_price_as_of": "2026-10-18",
       "total_listings": 83
-    },
-    {
-      "card_id": 100034361,
-      "name": "Gengar ex - 154/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "154/128",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 72.45,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 190
     },
     {
       "card_id": 13755,
@@ -20763,18 +20751,6 @@
       "total_listings": 72
     },
     {
-      "card_id": 2163499,
-      "name": "Morpeko ex - 117/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "117/084",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 64.07,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 230
-    },
-    {
       "card_id": 16526,
       "name": "Togepi & Cleffa & Igglybuff GX",
       "set_id": 5500206,
@@ -20989,6 +20965,18 @@
       "market_price_usd": 63.47,
       "market_price_as_of": "2026-10-28",
       "total_listings": 284
+    },
+    {
+      "card_id": 2162722,
+      "name": "30th Celebration Classic Collection Pack",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": null,
+      "rarity": null,
+      "printing": "Normal",
+      "market_price_usd": 63.42,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 31
     },
     {
       "card_id": 6734,
@@ -21253,18 +21241,6 @@
       "market_price_usd": 62.86,
       "market_price_as_of": "2026-11-10",
       "total_listings": 133
-    },
-    {
-      "card_id": 2158854,
-      "name": "Mew ex - 158/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "158/128",
-      "rarity": "Futuristic Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 62.85,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 176
     },
     {
       "card_id": 33306,
@@ -22201,6 +22177,18 @@
       "market_price_usd": 60.36,
       "market_price_as_of": "2026-10-23",
       "total_listings": 4
+    },
+    {
+      "card_id": 100018065,
+      "name": "Magikarp",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "203/193",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 60.35,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 180
     },
     {
       "card_id": 5073,
@@ -23487,6 +23475,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 2163499,
+      "name": "Morpeko ex - 117/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "117/084",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 57.89,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 195
+    },
+    {
       "card_id": 19886,
       "name": "Pikachu EX - XY174",
       "set_id": 5500177,
@@ -24399,6 +24399,18 @@
       "total_listings": 28
     },
     {
+      "card_id": 100034352,
+      "name": "Mew ex - 152/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "152/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 55.54,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 203
+    },
+    {
       "card_id": 5021,
       "name": "Meowth - 67/108 (Build-A-Bear Workshop Exclusive)",
       "set_id": 5500123,
@@ -24819,18 +24831,6 @@
       "total_listings": 30
     },
     {
-      "card_id": 100034357,
-      "name": "Mewtwo ex - 151/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "151/128",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 54.65,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 129
-    },
-    {
       "card_id": 29184,
       "name": "Gardevoir",
       "set_id": 5500008,
@@ -25165,18 +25165,6 @@
       "market_price_usd": 53.97,
       "market_price_as_of": "2026-10-25",
       "total_listings": 38
-    },
-    {
-      "card_id": 100018088,
-      "name": "Gengar (Prime)",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "94/102",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 53.9,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 102
     },
     {
       "card_id": 31202,
@@ -28431,18 +28419,6 @@
       "total_listings": 36
     },
     {
-      "card_id": 100018035,
-      "name": "Jirachi ex - 155/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "155/128",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 48.19,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 182
-    },
-    {
       "card_id": 4531,
       "name": "Gyarados - 4/123 (Cracked Ice Holo)",
       "set_id": 5500123,
@@ -28729,18 +28705,6 @@
       "market_price_usd": 47.79,
       "market_price_as_of": "2026-10-24",
       "total_listings": 31
-    },
-    {
-      "card_id": 2158855,
-      "name": "Mewtwo ex - 157/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "157/128",
-      "rarity": "Futuristic Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 47.78,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 143
     },
     {
       "card_id": 34036,
@@ -31119,6 +31083,18 @@
       "total_listings": 36
     },
     {
+      "card_id": 100034361,
+      "name": "Gengar ex - 154/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "154/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.45,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 225
+    },
+    {
       "card_id": 36586,
       "name": "Electabuzz",
       "set_id": 5500162,
@@ -32535,30 +32511,6 @@
       "total_listings": 48
     },
     {
-      "card_id": 100018021,
-      "name": "Sylveon ex - 153/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "153/128",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 42.18,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 146
-    },
-    {
-      "card_id": 2153405,
-      "name": "Cinccino ex - 119/086",
-      "set_id": 5500213,
-      "set_name": "ME04: Chaos Rising",
-      "number": "119/086",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 42.15,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 323
-    },
-    {
       "card_id": 2119580,
       "name": "Mega Zygarde ex - 120/088",
       "set_id": 5500047,
@@ -32941,18 +32893,6 @@
       "market_price_usd": 41.67,
       "market_price_as_of": "2026-10-31",
       "total_listings": 11
-    },
-    {
-      "card_id": 2163468,
-      "name": "Mega Zeraora ex - 114/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "114/084",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 41.66,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 298
     },
     {
       "card_id": 5254,
@@ -36375,6 +36315,18 @@
       "total_listings": 60
     },
     {
+      "card_id": 100018088,
+      "name": "Gengar (Prime)",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "94/102",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 38.09,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 154
+    },
+    {
       "card_id": 32717,
       "name": "Venusaur",
       "set_id": 5500204,
@@ -37491,6 +37443,18 @@
       "total_listings": 50
     },
     {
+      "card_id": 2320530,
+      "name": "Pikachu ex - 150/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "150/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.84,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 213
+    },
+    {
       "card_id": 38647,
       "name": "Flaaffy",
       "set_id": 5500185,
@@ -37705,6 +37669,18 @@
       "market_price_usd": 36.64,
       "market_price_as_of": "2026-11-05",
       "total_listings": 46
+    },
+    {
+      "card_id": 2153405,
+      "name": "Cinccino ex - 119/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "number": "119/086",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.63,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 319
     },
     {
       "card_id": 33792,
@@ -39073,18 +39049,6 @@
       "market_price_usd": 35.11,
       "market_price_as_of": "2026-11-02",
       "total_listings": 51
-    },
-    {
-      "card_id": 2163514,
-      "name": "Mega Chandelure ex - 115/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "115/084",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 35.1,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 278
     },
     {
       "card_id": 33563,
@@ -40563,6 +40527,18 @@
       "total_listings": 151
     },
     {
+      "card_id": 2320502,
+      "name": "Pikachu ex - 149/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "149/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.69,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 250
+    },
+    {
       "card_id": 14826,
       "name": "Seviper - SM46 (Prerelease) [Staff]",
       "set_id": 5500076,
@@ -40621,6 +40597,18 @@
       "market_price_usd": 33.63,
       "market_price_as_of": "2026-10-25",
       "total_listings": 34
+    },
+    {
+      "card_id": 2163468,
+      "name": "Mega Zeraora ex - 114/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "114/084",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.62,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 243
     },
     {
       "card_id": 34830,
@@ -43443,6 +43431,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 100034357,
+      "name": "Mewtwo ex - 151/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "151/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.8,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 258
+    },
+    {
       "card_id": 17005,
       "name": "Rowlet & Alolan Exeggutor GX (Full Art)",
       "set_id": 5500211,
@@ -43887,6 +43887,18 @@
       "total_listings": 80
     },
     {
+      "card_id": 100018021,
+      "name": "Sylveon ex - 153/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "153/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.42,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 258
+    },
+    {
       "card_id": 33742,
       "name": "Nidoran M",
       "set_id": 5500007,
@@ -44257,6 +44269,18 @@
       "market_price_usd": 30.16,
       "market_price_as_of": "2026-11-15",
       "total_listings": 54
+    },
+    {
+      "card_id": 100162853,
+      "name": "Zinnia's Trust - 140/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "140/103",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 30.15,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 61
     },
     {
       "card_id": 18471,
@@ -44737,6 +44761,18 @@
       "market_price_usd": 29.98,
       "market_price_as_of": "2026-10-27",
       "total_listings": 10
+    },
+    {
+      "card_id": 2158854,
+      "name": "Mew ex - 158/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "158/128",
+      "rarity": "Futuristic Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.97,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 274
     },
     {
       "card_id": 27326,
@@ -47259,6 +47295,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 100167425,
+      "name": "Mega Golurk ex - 137/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "137/103",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.84,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 49
+    },
+    {
       "card_id": 33625,
       "name": "Water Energy",
       "set_id": 5500228,
@@ -47497,18 +47545,6 @@
       "market_price_usd": 27.63,
       "market_price_as_of": "2026-11-21",
       "total_listings": 66
-    },
-    {
-      "card_id": 100009843,
-      "name": "Pikachu & Zekrom GX",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "33/181",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 27.56,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 102
     },
     {
       "card_id": 15991,
@@ -47797,6 +47833,18 @@
       "market_price_usd": 27.41,
       "market_price_as_of": "2026-10-28",
       "total_listings": 72
+    },
+    {
+      "card_id": 2163514,
+      "name": "Mega Chandelure ex - 115/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "115/084",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.4,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 284
     },
     {
       "card_id": 38551,
@@ -48375,6 +48423,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 100164597,
+      "name": "Mega Golisopod ex - 135/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "135/103",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.04,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 28
+    },
+    {
       "card_id": 33174,
       "name": "Carvanha (Delta Species)",
       "set_id": 5500220,
@@ -48639,18 +48699,6 @@
       "total_listings": 246
     },
     {
-      "card_id": 2163555,
-      "name": "Gwynn - 119/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "119/084",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 26.83,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 198
-    },
-    {
       "card_id": 22809,
       "name": "Alolan Ninetales GX (Full Art)",
       "set_id": 5500036,
@@ -48817,6 +48865,18 @@
       "market_price_usd": 26.72,
       "market_price_as_of": "2026-10-25",
       "total_listings": 160
+    },
+    {
+      "card_id": 100018035,
+      "name": "Jirachi ex - 155/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "155/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.69,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 307
     },
     {
       "card_id": 29983,
@@ -50823,18 +50883,6 @@
       "total_listings": 300
     },
     {
-      "card_id": 2163544,
-      "name": "Gladion's Final Battle - 118/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "118/084",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 25.27,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 209
-    },
-    {
       "card_id": 19918,
       "name": "M Aerodactyl EX",
       "set_id": 5500177,
@@ -51663,18 +51711,6 @@
       "total_listings": 212
     },
     {
-      "card_id": 2153379,
-      "name": "Mega Dragalge ex - 118/086",
-      "set_id": 5500213,
-      "set_name": "ME04: Chaos Rising",
-      "number": "118/086",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 24.86,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 373
-    },
-    {
       "card_id": 24454,
       "name": "Stakataka GX (Secret)",
       "set_id": 5500088,
@@ -51805,18 +51841,6 @@
       "market_price_usd": 24.68,
       "market_price_as_of": "2026-10-29",
       "total_listings": 69
-    },
-    {
-      "card_id": 100018090,
-      "name": "Shining Celebi",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "106/105",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 24.67,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 133
     },
     {
       "card_id": 32114,
@@ -53079,18 +53103,6 @@
       "total_listings": 128
     },
     {
-      "card_id": 2153334,
-      "name": "Mega Floette ex - 117/086",
-      "set_id": 5500213,
-      "set_name": "ME04: Chaos Rising",
-      "number": "117/086",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 23.78,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 328
-    },
-    {
       "card_id": 37455,
       "name": "Dedenne GX - 195a/214",
       "set_id": 5500060,
@@ -53463,6 +53475,18 @@
       "total_listings": 440
     },
     {
+      "card_id": 2163555,
+      "name": "Gwynn - 119/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "119/084",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.47,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 252
+    },
+    {
       "card_id": 36804,
       "name": "Sudowoodo",
       "set_id": 5500039,
@@ -53809,6 +53833,18 @@
       "market_price_usd": 23.3,
       "market_price_as_of": "2026-11-09",
       "total_listings": 68
+    },
+    {
+      "card_id": 2158855,
+      "name": "Mewtwo ex - 157/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "157/128",
+      "rarity": "Futuristic Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.28,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 300
     },
     {
       "card_id": 25676,
@@ -56139,6 +56175,18 @@
       "total_listings": 82
     },
     {
+      "card_id": 100162811,
+      "name": "Kecleon - 117/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "117/103",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.71,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 127
+    },
+    {
       "card_id": 15625,
       "name": "Frigibax - 208/193",
       "set_id": 5500150,
@@ -57387,6 +57435,18 @@
       "total_listings": 96
     },
     {
+      "card_id": 2153379,
+      "name": "Mega Dragalge ex - 118/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "number": "118/086",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.89,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 375
+    },
+    {
       "card_id": 2119569,
       "name": "Jacinthe - 122/088",
       "set_id": 5500047,
@@ -57481,18 +57541,6 @@
       "market_price_usd": 20.83,
       "market_price_as_of": "2026-10-12",
       "total_listings": 186
-    },
-    {
-      "card_id": 100018078,
-      "name": "Darkrai & Cresselia Legend (Bottom)",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "100/102",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 20.82,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 117
     },
     {
       "card_id": 17562,
@@ -57601,6 +57649,18 @@
       "market_price_usd": 20.8,
       "market_price_as_of": "2026-10-27",
       "total_listings": 2
+    },
+    {
+      "card_id": 100162804,
+      "name": "Eevee - 114/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "114/103",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.78,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 160
     },
     {
       "card_id": 19562,
@@ -57793,18 +57853,6 @@
       "market_price_usd": 20.69,
       "market_price_as_of": "2026-10-15",
       "total_listings": 26
-    },
-    {
-      "card_id": 100018075,
-      "name": "Rayquaza EX",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "85/124",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 20.67,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 108
     },
     {
       "card_id": 24838,
@@ -58515,18 +58563,6 @@
       "total_listings": 33
     },
     {
-      "card_id": 100018080,
-      "name": "Darkrai & Cresselia Legend (Top)",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "99/102",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 20.38,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 105
-    },
-    {
       "card_id": 36658,
       "name": "Wigglytuff (32)",
       "set_id": 5500126,
@@ -59029,18 +59065,6 @@
       "market_price_usd": 20.15,
       "market_price_as_of": "2026-10-25",
       "total_listings": 38
-    },
-    {
-      "card_id": 100018072,
-      "name": "Pikachu",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "58/102",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 20.14,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 124
     },
     {
       "card_id": 16555,
@@ -59689,18 +59713,6 @@
       "market_price_usd": 19.98,
       "market_price_as_of": "2026-10-28",
       "total_listings": 153
-    },
-    {
-      "card_id": 100018031,
-      "name": "Greninja ex - 148/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "148/128",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 19.97,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 232
     },
     {
       "card_id": 21881,
@@ -61083,18 +61095,6 @@
       "total_listings": 24
     },
     {
-      "card_id": 2153349,
-      "name": "AZ's Tranquility - 120/086",
-      "set_id": 5500213,
-      "set_name": "ME04: Chaos Rising",
-      "number": "120/086",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 19.39,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 324
-    },
-    {
       "card_id": 28492,
       "name": "Mamoswine",
       "set_id": 5500113,
@@ -61573,6 +61573,18 @@
       "market_price_usd": 19.2,
       "market_price_as_of": "2026-10-23",
       "total_listings": 41
+    },
+    {
+      "card_id": 100009843,
+      "name": "Pikachu & Zekrom GX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "33/181",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 19.19,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 196
     },
     {
       "card_id": 26672,
@@ -62535,6 +62547,18 @@
       "total_listings": 217
     },
     {
+      "card_id": 100162872,
+      "name": "Groudon - 111/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "111/103",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.69,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 129
+    },
+    {
       "card_id": 12792,
       "name": "Palkia - 26/106 (Cosmos Holo)",
       "set_id": 5500101,
@@ -62737,18 +62761,6 @@
       "market_price_usd": 18.57,
       "market_price_as_of": "2026-10-27",
       "total_listings": 3
-    },
-    {
-      "card_id": 100018074,
-      "name": "Mew VMAX",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "114/264",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 18.56,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 87
     },
     {
       "card_id": 35499,
@@ -63505,6 +63517,18 @@
       "market_price_usd": 18.29,
       "market_price_as_of": "2026-11-09",
       "total_listings": 367
+    },
+    {
+      "card_id": 2153334,
+      "name": "Mega Floette ex - 117/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "number": "117/086",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.27,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 362
     },
     {
       "card_id": 33921,
@@ -64371,6 +64395,18 @@
       "total_listings": 206
     },
     {
+      "card_id": 100162820,
+      "name": "Aarune - 139/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "139/103",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.87,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 73
+    },
+    {
       "card_id": 15921,
       "name": "Tapu Koko ex - 247/182",
       "set_id": 5500212,
@@ -64753,6 +64789,18 @@
       "market_price_usd": 17.68,
       "market_price_as_of": "2026-10-26",
       "total_listings": 36
+    },
+    {
+      "card_id": 2153349,
+      "name": "AZ's Tranquility - 120/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "number": "120/086",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.68,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 381
     },
     {
       "card_id": 2299721,
@@ -69855,6 +69903,18 @@
       "total_listings": 63
     },
     {
+      "card_id": 100018074,
+      "name": "Mew VMAX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "114/264",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 15.63,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 138
+    },
+    {
       "card_id": 1121,
       "name": "Lombre - 2005 (Michael Gonzalez)",
       "set_id": 5500029,
@@ -70287,18 +70347,6 @@
       "total_listings": 13
     },
     {
-      "card_id": 100018053,
-      "name": "Salamence ex - 156/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "156/128",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 15.46,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 168
-    },
-    {
       "card_id": 5601,
       "name": "Espeon ex - 034/131",
       "set_id": 5500194,
@@ -70323,18 +70371,6 @@
       "total_listings": 157
     },
     {
-      "card_id": 2153425,
-      "name": "Roxie's Performance - 121/086",
-      "set_id": 5500213,
-      "set_name": "ME04: Chaos Rising",
-      "number": "121/086",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 15.45,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 353
-    },
-    {
       "card_id": 36144,
       "name": "Sableye",
       "set_id": 5500137,
@@ -70345,6 +70381,18 @@
       "market_price_usd": 15.45,
       "market_price_as_of": "2026-11-05",
       "total_listings": 137
+    },
+    {
+      "card_id": 100018075,
+      "name": "Rayquaza EX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "85/124",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 15.44,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 156
     },
     {
       "card_id": 18987,
@@ -70561,6 +70609,18 @@
       "market_price_usd": 15.34,
       "market_price_as_of": "2026-10-22",
       "total_listings": 26
+    },
+    {
+      "card_id": 2163544,
+      "name": "Gladion's Final Battle - 118/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "118/084",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.33,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 307
     },
     {
       "card_id": 22851,
@@ -70957,6 +71017,18 @@
       "market_price_usd": 15.19,
       "market_price_as_of": "2026-10-09",
       "total_listings": 168
+    },
+    {
+      "card_id": 2153425,
+      "name": "Roxie's Performance - 121/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "number": "121/086",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.18,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 381
     },
     {
       "card_id": 28723,
@@ -71869,18 +71941,6 @@
       "market_price_usd": 14.96,
       "market_price_as_of": "2026-11-16",
       "total_listings": 180
-    },
-    {
-      "card_id": 100018052,
-      "name": "Fuecoco ex - 147/128",
-      "set_id": 5500219,
-      "set_name": "ME: 30th Celebration",
-      "number": "147/128",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.95,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 147
     },
     {
       "card_id": 14499,
@@ -73467,18 +73527,6 @@
       "total_listings": 143
     },
     {
-      "card_id": 100018063,
-      "name": "N",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "101/101",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 14.37,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 132
-    },
-    {
       "card_id": 20887,
       "name": "Raging Bolt ex - 218/162",
       "set_id": 5500066,
@@ -73801,6 +73849,18 @@
       "market_price_usd": 14.24,
       "market_price_as_of": "2026-10-23",
       "total_listings": 9
+    },
+    {
+      "card_id": 100018090,
+      "name": "Shining Celebi",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "106/105",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 14.23,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 229
     },
     {
       "card_id": 20232,
@@ -75903,6 +75963,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 100162831,
+      "name": "Growlithe - 106/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "106/103",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.49,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 119
+    },
+    {
       "card_id": 19980,
       "name": "Mandibuzz BREAK",
       "set_id": 5500177,
@@ -76021,6 +76093,18 @@
       "market_price_usd": 13.46,
       "market_price_as_of": "2026-10-27",
       "total_listings": 35
+    },
+    {
+      "card_id": 100018080,
+      "name": "Darkrai & Cresselia Legend (Top)",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "99/102",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 13.45,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 221
     },
     {
       "card_id": 13580,
@@ -77775,6 +77859,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 100018078,
+      "name": "Darkrai & Cresselia Legend (Bottom)",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "100/102",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 12.88,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 280
+    },
+    {
       "card_id": 17655,
       "name": "Rayquaza VMAX",
       "set_id": 5500048,
@@ -78999,6 +79095,18 @@
       "total_listings": 7
     },
     {
+      "card_id": 100018031,
+      "name": "Greninja ex - 148/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "148/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.5,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 375
+    },
+    {
       "card_id": 27527,
       "name": "Gible",
       "set_id": 5500063,
@@ -79273,18 +79381,6 @@
       "market_price_usd": 12.44,
       "market_price_as_of": "2026-10-25",
       "total_listings": 201
-    },
-    {
-      "card_id": 100018084,
-      "name": "Dark Tyranitar",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "19/109",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 12.43,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 166
     },
     {
       "card_id": 21852,
@@ -81457,6 +81553,18 @@
       "market_price_usd": 11.82,
       "market_price_as_of": "2026-10-28",
       "total_listings": 86
+    },
+    {
+      "card_id": 100018072,
+      "name": "Pikachu",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "58/102",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 11.81,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 251
     },
     {
       "card_id": 13801,
@@ -84049,18 +84157,6 @@
       "market_price_usd": 11.07,
       "market_price_as_of": "2026-10-23",
       "total_listings": 17
-    },
-    {
-      "card_id": 100018076,
-      "name": "M Gardevoir EX",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "106/160",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 11.06,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 94
     },
     {
       "card_id": 13837,
@@ -87951,30 +88047,6 @@
       "total_listings": 17
     },
     {
-      "card_id": 100018077,
-      "name": "Palkia LV.X",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "106/106",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 10.01,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 90
-    },
-    {
-      "card_id": 100018081,
-      "name": "Greninja BREAK",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "41/122",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 10.01,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 127
-    },
-    {
       "card_id": 19921,
       "name": "Swampert EX - XY55",
       "set_id": 5500177,
@@ -89559,6 +89631,18 @@
       "total_listings": 136
     },
     {
+      "card_id": 100162871,
+      "name": "Sprigatito - 105/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "105/103",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.7,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 137
+    },
+    {
       "card_id": 12821,
       "name": "Kyogre - 53/236 (Cracked Ice Holo)",
       "set_id": 5500101,
@@ -90231,6 +90315,18 @@
       "total_listings": 200
     },
     {
+      "card_id": 100167357,
+      "name": "Talonflame ex - 124/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "124/103",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.55,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 147
+    },
+    {
       "card_id": 14221,
       "name": "Hilda - 164/086",
       "set_id": 5500153,
@@ -90241,18 +90337,6 @@
       "market_price_usd": 9.55,
       "market_price_as_of": "2026-10-09",
       "total_listings": 296
-    },
-    {
-      "card_id": 2163495,
-      "name": "Misty's Vitality - 111/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "111/084",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 9.55,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 469
     },
     {
       "card_id": 28060,
@@ -90649,6 +90733,18 @@
       "market_price_usd": 9.49,
       "market_price_as_of": "2026-10-15",
       "total_listings": 15
+    },
+    {
+      "card_id": 100018063,
+      "name": "N",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "101/101",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 9.48,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 233
     },
     {
       "card_id": 14673,
@@ -91827,6 +91923,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 100018052,
+      "name": "Fuecoco ex - 147/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "147/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.2,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 322
+    },
+    {
       "card_id": 33877,
       "name": "Psychic Energy",
       "set_id": 5500229,
@@ -92499,6 +92607,18 @@
       "total_listings": 194
     },
     {
+      "card_id": 100018053,
+      "name": "Salamence ex - 156/128",
+      "set_id": 5500219,
+      "set_name": "ME: 30th Celebration",
+      "number": "156/128",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.04,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 329
+    },
+    {
       "card_id": 30539,
       "name": "Ampharos EX",
       "set_id": 5500196,
@@ -92641,18 +92761,6 @@
       "market_price_usd": 9.01,
       "market_price_as_of": "2026-10-27",
       "total_listings": 12
-    },
-    {
-      "card_id": 100018089,
-      "name": "Scizor ex",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "108/115",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 9.0,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 142
     },
     {
       "card_id": 15435,
@@ -92929,18 +93037,6 @@
       "market_price_usd": 8.99,
       "market_price_as_of": "2026-10-24",
       "total_listings": 18
-    },
-    {
-      "card_id": 100018086,
-      "name": "Raikou",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "050/185",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 8.97,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 147
     },
     {
       "card_id": 16641,
@@ -96759,18 +96855,6 @@
       "total_listings": 23
     },
     {
-      "card_id": 100018064,
-      "name": "Erika's Jigglypuff",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "69/132",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 8.22,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 186
-    },
-    {
       "card_id": 13421,
       "name": "Lopunny (Master Ball Pattern)",
       "set_id": 5500017,
@@ -98331,6 +98415,18 @@
       "total_listings": 42
     },
     {
+      "card_id": 100018076,
+      "name": "M Gardevoir EX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "106/160",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 7.94,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 224
+    },
+    {
       "card_id": 20060,
       "name": "Chespin - XY01",
       "set_id": 5500177,
@@ -98989,18 +99085,6 @@
       "market_price_usd": 7.82,
       "market_price_as_of": "2026-10-10",
       "total_listings": 299
-    },
-    {
-      "card_id": 2153341,
-      "name": "Mega Greninja ex - 100/086",
-      "set_id": 5500213,
-      "set_name": "ME04: Chaos Rising",
-      "number": "100/086",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.82,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 575
     },
     {
       "card_id": 3,
@@ -99829,18 +99913,6 @@
       "market_price_usd": 7.67,
       "market_price_as_of": "2026-10-09",
       "total_listings": 101
-    },
-    {
-      "card_id": 100018079,
-      "name": "Arceus VSTAR",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "123/172",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 7.66,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 81
     },
     {
       "card_id": 31316,
@@ -101871,6 +101943,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 100018086,
+      "name": "Raikou",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "050/185",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 7.29,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 185
+    },
+    {
       "card_id": 32556,
       "name": "Gabite",
       "set_id": 5500207,
@@ -101941,6 +102025,18 @@
       "market_price_usd": 7.27,
       "market_price_as_of": "2026-10-24",
       "total_listings": 13
+    },
+    {
+      "card_id": 100018089,
+      "name": "Scizor ex",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "108/115",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 7.26,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 259
     },
     {
       "card_id": 21884,
@@ -102349,6 +102445,30 @@
       "market_price_usd": 7.21,
       "market_price_as_of": "2026-10-24",
       "total_listings": 88
+    },
+    {
+      "card_id": 2153341,
+      "name": "Mega Greninja ex - 100/086",
+      "set_id": 5500213,
+      "set_name": "ME04: Chaos Rising",
+      "number": "100/086",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.2,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 622
+    },
+    {
+      "card_id": 2163495,
+      "name": "Misty's Vitality - 111/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "111/084",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.2,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 531
     },
     {
       "card_id": 22187,
@@ -103093,6 +103213,18 @@
       "market_price_usd": 7.07,
       "market_price_as_of": "2026-10-28",
       "total_listings": 83
+    },
+    {
+      "card_id": 100018077,
+      "name": "Palkia LV.X",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "106/106",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 7.06,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 246
     },
     {
       "card_id": 34303,
@@ -103909,6 +104041,18 @@
       "market_price_usd": 6.95,
       "market_price_as_of": "2026-10-25",
       "total_listings": 40
+    },
+    {
+      "card_id": 100018081,
+      "name": "Greninja BREAK",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "41/122",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 6.94,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 229
     },
     {
       "card_id": 14146,
@@ -104967,18 +105111,6 @@
       "total_listings": 176
     },
     {
-      "card_id": 2163441,
-      "name": "Mega Darkrai ex - 101/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "101/084",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.76,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 455
-    },
-    {
       "card_id": 24555,
       "name": "Ho-Oh GX",
       "set_id": 5500119,
@@ -105625,18 +105757,6 @@
       "market_price_usd": 6.66,
       "market_price_as_of": "2026-10-12",
       "total_listings": 196
-    },
-    {
-      "card_id": 2163436,
-      "name": "Slowbro - 090/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "090/084",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.66,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 641
     },
     {
       "card_id": 27176,
@@ -107907,18 +108027,6 @@
       "total_listings": 240
     },
     {
-      "card_id": 100018061,
-      "name": "Genesect EX (Team Plasma)",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "11/101",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 6.32,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 74
-    },
-    {
       "card_id": 24578,
       "name": "Lycanroc GX (Full Art)",
       "set_id": 5500119,
@@ -108075,18 +108183,6 @@
       "total_listings": 91
     },
     {
-      "card_id": 2163475,
-      "name": "Gwynn - 109/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "109/084",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.3,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 408
-    },
-    {
       "card_id": 29167,
       "name": "Dugtrio",
       "set_id": 5500008,
@@ -108229,6 +108325,18 @@
       "market_price_usd": 6.28,
       "market_price_as_of": "2026-10-28",
       "total_listings": 27
+    },
+    {
+      "card_id": 2163475,
+      "name": "Gwynn - 109/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "109/084",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.28,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 470
     },
     {
       "card_id": 25353,
@@ -109299,6 +109407,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 2163441,
+      "name": "Mega Darkrai ex - 101/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "101/084",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.14,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 491
+    },
+    {
       "card_id": 24738,
       "name": "Lucario",
       "set_id": 5500013,
@@ -109611,6 +109731,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 100018079,
+      "name": "Arceus VSTAR",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "123/172",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 6.1,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 241
+    },
+    {
       "card_id": 13629,
       "name": "Beheeyem - 121/086",
       "set_id": 5500093,
@@ -109837,6 +109969,18 @@
       "market_price_usd": 6.09,
       "market_price_as_of": "2026-10-09",
       "total_listings": 596
+    },
+    {
+      "card_id": 100162865,
+      "name": "Azurill - 115/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "115/103",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.08,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 121
     },
     {
       "card_id": 15287,
@@ -111459,6 +111603,18 @@
       "total_listings": 15
     },
     {
+      "card_id": 100018061,
+      "name": "Genesect EX (Team Plasma)",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "11/101",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 5.87,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 211
+    },
+    {
       "card_id": 28426,
       "name": "Hitmonlee",
       "set_id": 5500113,
@@ -111877,6 +112033,18 @@
       "market_price_usd": 5.8,
       "market_price_as_of": "2026-10-20",
       "total_listings": 110
+    },
+    {
+      "card_id": 2163502,
+      "name": "Mega Zeraora ex - 098/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "098/084",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.8,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 508
     },
     {
       "card_id": 27506,
@@ -112875,18 +113043,6 @@
       "total_listings": 308
     },
     {
-      "card_id": 100018069,
-      "name": "Solgaleo GX",
-      "set_id": 5500238,
-      "set_name": "ME: 30th Celebration Classic Collection",
-      "number": "89/149",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 5.7,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 110
-    },
-    {
       "card_id": 13430,
       "name": "Great Tusk (Master Ball Pattern)",
       "set_id": 5500017,
@@ -113403,6 +113559,18 @@
       "total_listings": 57
     },
     {
+      "card_id": 100018084,
+      "name": "Dark Tyranitar",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "19/109",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 5.63,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 282
+    },
+    {
       "card_id": 15119,
       "name": "Elesa's Sparkle (Secret)",
       "set_id": 5500208,
@@ -113727,18 +113895,6 @@
       "total_listings": 138
     },
     {
-      "card_id": 2163502,
-      "name": "Mega Zeraora ex - 098/084",
-      "set_id": 5500216,
-      "set_name": "ME05: Pitch Black",
-      "number": "098/084",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.6,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 359
-    },
-    {
       "card_id": 28750,
       "name": "Magneton (45)",
       "set_id": 5500155,
@@ -113797,6 +113953,18 @@
       "market_price_usd": 5.6,
       "market_price_as_of": "2026-11-16",
       "total_listings": 306
+    },
+    {
+      "card_id": 100018064,
+      "name": "Erika's Jigglypuff",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "69/132",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 5.59,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 316
     },
     {
       "card_id": 2133467,
@@ -115779,6 +115947,18 @@
       "total_listings": 562
     },
     {
+      "card_id": 100018069,
+      "name": "Solgaleo GX",
+      "set_id": 5500238,
+      "set_name": "ME: 30th Celebration Classic Collection",
+      "number": "89/149",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 5.37,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 249
+    },
+    {
       "card_id": 15932,
       "name": "Slither Wing - 203/182",
       "set_id": 5500212,
@@ -116187,6 +116367,18 @@
       "total_listings": 84
     },
     {
+      "card_id": 100167329,
+      "name": "Talonflame ex - 088/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "088/103",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 185
+    },
+    {
       "card_id": 13912,
       "name": "Eevee - SWSH118",
       "set_id": 5500149,
@@ -116341,6 +116533,18 @@
       "market_price_usd": 5.33,
       "market_price_as_of": "2026-10-17",
       "total_listings": 211
+    },
+    {
+      "card_id": 100162819,
+      "name": "Zorua - 112/103",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "112/103",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.32,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 177
     },
     {
       "card_id": 17936,
@@ -117289,6 +117493,18 @@
       "market_price_usd": 5.22,
       "market_price_as_of": "2026-10-23",
       "total_listings": 5
+    },
+    {
+      "card_id": 100162832,
+      "name": "Mega Rayquaza ex",
+      "set_id": 5500236,
+      "set_name": "ME06: Delta Reign",
+      "number": "084/103",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.21,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 344
     },
     {
       "card_id": 12692,
@@ -119041,6 +119257,18 @@
       "market_price_usd": 5.02,
       "market_price_as_of": "2026-10-09",
       "total_listings": 334
+    },
+    {
+      "card_id": 2163436,
+      "name": "Slowbro - 090/084",
+      "set_id": 5500216,
+      "set_name": "ME05: Pitch Black",
+      "number": "090/084",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.02,
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 725
     },
     {
       "card_id": 35705,
