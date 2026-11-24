@@ -1,5 +1,5 @@
 {
-  "next_set_index": 5,
+  "next_set_index": 10,
   "candidates": {
     "100018086:Holofoil": {
       "card_id": 100018086,
@@ -825,9 +825,9 @@
       "number": null,
       "rarity": null,
       "printing": "Normal",
-      "market_price_usd": 59.7,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 114
+      "market_price_usd": 50.65,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 130
     },
     "2139532:Normal": {
       "card_id": 2139532,
@@ -837,9 +837,9 @@
       "number": null,
       "rarity": null,
       "printing": "Normal",
-      "market_price_usd": 25.81,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 248
+      "market_price_usd": 23.6,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 263
     },
     "2170690:Normal": {
       "card_id": 2170690,
@@ -849,9 +849,9 @@
       "number": null,
       "rarity": null,
       "printing": "Normal",
-      "market_price_usd": 24.87,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 212
+      "market_price_usd": 21.33,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 236
     },
     "2119485:Holofoil": {
       "card_id": 2119485,
@@ -861,9 +861,9 @@
       "number": "094/088",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 13.06,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 610
+      "market_price_usd": 12.76,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 668
     },
     "2119509:Holofoil": {
       "card_id": 2119509,
@@ -873,9 +873,9 @@
       "number": "107/088",
       "rarity": "Ultra Rare",
       "printing": "Holofoil",
-      "market_price_usd": 9.25,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 491
+      "market_price_usd": 10.5,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 476
     },
     "2119490:Holofoil": {
       "card_id": 2119490,
@@ -885,9 +885,9 @@
       "number": "113/088",
       "rarity": "Ultra Rare",
       "printing": "Holofoil",
-      "market_price_usd": 9.57,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 509
+      "market_price_usd": 9.3,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 518
     },
     "2119579:Holofoil": {
       "card_id": 2119579,
@@ -897,9 +897,9 @@
       "number": "118/088",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 32.25,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 304
+      "market_price_usd": 27.28,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 286
     },
     "2119583:Holofoil": {
       "card_id": 2119583,
@@ -909,9 +909,9 @@
       "number": "119/088",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 39.43,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 268
+      "market_price_usd": 34.09,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 285
     },
     "2119580:Holofoil": {
       "card_id": 2119580,
@@ -921,9 +921,9 @@
       "number": "120/088",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 42.14,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 325
+      "market_price_usd": 36.43,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 291
     },
     "2119584:Holofoil": {
       "card_id": 2119584,
@@ -933,9 +933,9 @@
       "number": "121/088",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 88.83,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 283
+      "market_price_usd": 75.58,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 260
     },
     "2119569:Holofoil": {
       "card_id": 2119569,
@@ -945,9 +945,9 @@
       "number": "122/088",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 20.86,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 306
+      "market_price_usd": 15.86,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 355
     },
     "2119578:Holofoil": {
       "card_id": 2119578,
@@ -957,9 +957,9 @@
       "number": "123/088",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 40.26,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 283
+      "market_price_usd": 33.24,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 331
     },
     "2119586:Holofoil": {
       "card_id": 2119586,
@@ -969,9 +969,9 @@
       "number": "124/088",
       "rarity": "Mega Hyper Rare",
       "printing": "Holofoil",
-      "market_price_usd": 102.2,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 184
+      "market_price_usd": 81.34,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 181
     },
     "6819:Holofoil": {
       "card_id": 6819,
@@ -982,8 +982,8 @@
       "rarity": "Double Rare",
       "printing": "Holofoil",
       "market_price_usd": 5.8,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 419
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 414
     },
     "6938:Reverse Holofoil": {
       "card_id": 6938,
@@ -994,8 +994,8 @@
       "rarity": "Uncommon",
       "printing": "Reverse Holofoil",
       "market_price_usd": 5.78,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 1800
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 2023
     },
     "6800:Reverse Holofoil": {
       "card_id": 6800,
@@ -1006,8 +1006,8 @@
       "rarity": "Rare",
       "printing": "Reverse Holofoil",
       "market_price_usd": 9.81,
-      "market_price_as_of": "2026-10-05",
-      "total_listings": 1503
+      "market_price_as_of": "2026-11-23",
+      "total_listings": 1884
     },
     "6927:Holofoil": {
       "card_id": 6927,
@@ -1017,9 +1017,9 @@
       "number": "218/217",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 11.72,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 385
+      "market_price_usd": 11.0,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 418
     },
     "7021:Holofoil": {
       "card_id": 7021,
@@ -1053,9 +1053,9 @@
       "number": "225/217",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 5.79,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 487
+      "market_price_usd": 5.46,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 562
     },
     "6885:Holofoil": {
       "card_id": 6885,
@@ -1065,9 +1065,9 @@
       "number": "226/217",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 45.0,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 308
+      "market_price_usd": 37.68,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 320
     },
     "6946:Holofoil": {
       "card_id": 6946,
@@ -1077,9 +1077,9 @@
       "number": "231/217",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 6.91,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 491
+      "market_price_usd": 5.47,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 495
     },
     "6965:Holofoil": {
       "card_id": 6965,
@@ -1089,9 +1089,9 @@
       "number": "232/217",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 9.73,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 425
+      "market_price_usd": 7.95,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 430
     },
     "6943:Holofoil": {
       "card_id": 6943,
@@ -1101,9 +1101,9 @@
       "number": "234/217",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 8.24,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 470
+      "market_price_usd": 5.43,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 526
     },
     "7003:Holofoil": {
       "card_id": 7003,
@@ -1113,9 +1113,9 @@
       "number": "236/217",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 7.23,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 434
+      "market_price_usd": 5.91,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 500
     },
     "6958:Holofoil": {
       "card_id": 6958,
@@ -1125,9 +1125,9 @@
       "number": "238/217",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 16.25,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 366
+      "market_price_usd": 13.95,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 375
     },
     "6925:Holofoil": {
       "card_id": 6925,
@@ -1149,9 +1149,9 @@
       "number": "244/217",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 8.54,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 444
+      "market_price_usd": 5.88,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 475
     },
     "6912:Holofoil": {
       "card_id": 6912,
@@ -1173,9 +1173,9 @@
       "number": "256/217",
       "rarity": "Ultra Rare",
       "printing": "Holofoil",
-      "market_price_usd": 5.89,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 520
+      "market_price_usd": 5.42,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 487
     },
     "6850:Holofoil": {
       "card_id": 6850,
@@ -1197,9 +1197,9 @@
       "number": "265/217",
       "rarity": "Mega Attack Rare",
       "printing": "Holofoil",
-      "market_price_usd": 6.55,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 593
+      "market_price_usd": 5.75,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 608
     },
     "6935:Holofoil": {
       "card_id": 6935,
@@ -1221,9 +1221,9 @@
       "number": "269/217",
       "rarity": "Mega Attack Rare",
       "printing": "Holofoil",
-      "market_price_usd": 34.77,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 357
+      "market_price_usd": 27.21,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 367
     },
     "6930:Holofoil": {
       "card_id": 6930,
@@ -1233,9 +1233,9 @@
       "number": "271/217",
       "rarity": "Mega Attack Rare",
       "printing": "Holofoil",
-      "market_price_usd": 26.2,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 356
+      "market_price_usd": 18.64,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 396
     },
     "7205:Holofoil": {
       "card_id": 7205,
@@ -1245,9 +1245,9 @@
       "number": "272/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 68.52,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 138
+      "market_price_usd": 37.32,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 163
     },
     "7235:Holofoil": {
       "card_id": 7235,
@@ -1257,9 +1257,9 @@
       "number": "273/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 40.95,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 171
+      "market_price_usd": 24.77,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 183
     },
     "7227:Holofoil": {
       "card_id": 7227,
@@ -1269,9 +1269,9 @@
       "number": "274/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 89.06,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 162
+      "market_price_usd": 53.18,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 142
     },
     "7161:Holofoil": {
       "card_id": 7161,
@@ -1281,9 +1281,9 @@
       "number": "275/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 66.62,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 142
+      "market_price_usd": 38.25,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 165
     },
     "7243:Holofoil": {
       "card_id": 7243,
@@ -1293,9 +1293,9 @@
       "number": "278/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 20.74,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 221
+      "market_price_usd": 15.2,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 226
     },
     "7349:Holofoil": {
       "card_id": 7349,
@@ -1305,9 +1305,9 @@
       "number": "279/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 50.49,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 159
+      "market_price_usd": 31.12,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 171
     },
     "7203:Holofoil": {
       "card_id": 7203,
@@ -1317,9 +1317,9 @@
       "number": "280/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 128.66,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 141
+      "market_price_usd": 66.17,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 114
     },
     "7262:Holofoil": {
       "card_id": 7262,
@@ -1329,9 +1329,9 @@
       "number": "282/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 40.64,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 161
+      "market_price_usd": 28.3,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 157
     },
     "7307:Holofoil": {
       "card_id": 7307,
@@ -1341,9 +1341,9 @@
       "number": "283/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 41.42,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 123
+      "market_price_usd": 34.25,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 149
     },
     "7216:Holofoil": {
       "card_id": 7216,
@@ -1353,9 +1353,9 @@
       "number": "285/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 45.59,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 135
+      "market_price_usd": 35.36,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 175
     },
     "7193:Holofoil": {
       "card_id": 7193,
@@ -1365,9 +1365,9 @@
       "number": "286/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 140.97,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 101
+      "market_price_usd": 89.48,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 139
     },
     "7186:Holofoil": {
       "card_id": 7186,
@@ -1377,9 +1377,9 @@
       "number": "287/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 46.13,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 205
+      "market_price_usd": 29.37,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 213
     },
     "7217:Holofoil": {
       "card_id": 7217,
@@ -1389,9 +1389,9 @@
       "number": "288/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 45.01,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 141
+      "market_price_usd": 36.63,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 135
     },
     "7283:Holofoil": {
       "card_id": 7283,
@@ -1401,9 +1401,9 @@
       "number": "289/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 67.07,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 134
+      "market_price_usd": 54.39,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 125
     },
     "7185:Holofoil": {
       "card_id": 7185,
@@ -1413,9 +1413,9 @@
       "number": "291/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 24.46,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 197
+      "market_price_usd": 14.98,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 199
     },
     "7129:Holofoil": {
       "card_id": 7129,
@@ -1425,9 +1425,9 @@
       "number": "293/217",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 18.42,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 188
+      "market_price_usd": 13.97,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 230
     },
     "7381:Holofoil": {
       "card_id": 7381,
@@ -1437,9 +1437,9 @@
       "number": "295/217",
       "rarity": "Mega Hyper Rare",
       "printing": "Holofoil",
-      "market_price_usd": 188.22,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 143
+      "market_price_usd": 135.82,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 154
     },
     "100031713:Normal": {
       "card_id": 100031713,
@@ -1450,7 +1450,7 @@
       "rarity": null,
       "printing": "Normal",
       "market_price_usd": 7.69,
-      "market_price_as_of": "2026-10-09",
+      "market_price_as_of": "2026-11-24",
       "total_listings": 0
     },
     "27751:Holofoil": {
@@ -1473,8 +1473,8 @@
       "number": "098/094",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 11.51,
-      "market_price_as_of": "2026-10-09",
+      "market_price_usd": 9.63,
+      "market_price_as_of": "2026-11-24",
       "total_listings": 583
     },
     "27777:Holofoil": {
@@ -1485,9 +1485,9 @@
       "number": "106/094",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 12.91,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 514
+      "market_price_usd": 12.44,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 509
     },
     "27794:Holofoil": {
       "card_id": 27794,
@@ -1497,9 +1497,9 @@
       "number": "109/094",
       "rarity": "Ultra Rare",
       "printing": "Holofoil",
-      "market_price_usd": 19.91,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 360
+      "market_price_usd": 18.76,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 386
     },
     "27849:Holofoil": {
       "card_id": 27849,
@@ -1509,9 +1509,9 @@
       "number": "126/094",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 12.98,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 407
+      "market_price_usd": 10.82,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 387
     },
     "27857:Holofoil": {
       "card_id": 27857,
@@ -1521,9 +1521,9 @@
       "number": "127/094",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 16.25,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 364
+      "market_price_usd": 15.69,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 347
     },
     "27845:Holofoil": {
       "card_id": 27845,
@@ -1533,9 +1533,9 @@
       "number": "128/094",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 12.51,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 395
+      "market_price_usd": 11.1,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 442
     },
     "27842:Holofoil": {
       "card_id": 27842,
@@ -1545,9 +1545,9 @@
       "number": "129/094",
       "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 18.63,
-      "market_price_as_of": "2026-10-09",
-      "total_listings": 403
+      "market_price_usd": 15.6,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 437
     },
     "37853:Holofoil": {
       "card_id": 37853,
@@ -119760,6 +119760,78 @@
       "market_price_usd": 36.84,
       "market_price_as_of": "2026-11-23",
       "total_listings": 213
+    },
+    "7051:Reverse Holofoil": {
+      "card_id": 7051,
+      "name": "N's Darmanitan",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "033/217",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 10.75,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 2055
+    },
+    "6957:Reverse Holofoil": {
+      "card_id": 6957,
+      "name": "Haunter",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "124/217",
+      "rarity": "Uncommon",
+      "printing": "Reverse Holofoil",
+      "market_price_usd": 5.28,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 1959
+    },
+    "7352:Holofoil": {
+      "card_id": 7352,
+      "name": "Pikachu ex - 277/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "277/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 189.77,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 111
+    },
+    "7372:Holofoil": {
+      "card_id": 7372,
+      "name": "Team Rocket's Mewtwo ex - 281/217",
+      "set_id": 5500112,
+      "set_name": "ME: Ascended Heroes",
+      "number": "281/217",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 155.86,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 131
+    },
+    "27784:Holofoil": {
+      "card_id": 27784,
+      "name": "Dawn - 118/094",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "118/094",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.17,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 702
+    },
+    "27884:Holofoil": {
+      "card_id": 27884,
+      "name": "Mega Charizard X ex - 130/094",
+      "set_id": 5500152,
+      "set_name": "ME02: Phantasmal Flames",
+      "number": "130/094",
+      "rarity": "Mega Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 180.36,
+      "market_price_as_of": "2026-11-24",
+      "total_listings": 157
     }
   },
   "next_page": 1,
