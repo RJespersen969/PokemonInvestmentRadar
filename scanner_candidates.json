@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-26T17:50:45.596752+00:00",
+  "generated_at": "2026-11-27T17:35:46.178812+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 20,
+  "next_set_index": 25,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 14,
-  "total_candidates": 10012,
-  "cards_with_price_history": 28330,
+  "api_calls": 11,
+  "total_candidates": 10013,
+  "cards_with_price_history": 28348,
   "candidates": [
     {
       "card_id": 20118,
@@ -2881,18 +2881,6 @@
       "market_price_usd": 161.44,
       "market_price_as_of": "2026-11-17",
       "total_listings": 103
-    },
-    {
-      "card_id": 20371,
-      "name": "Perrin - 220/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "220/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 161.13,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 82
     },
     {
       "card_id": 38733,
@@ -7069,6 +7057,18 @@
       "market_price_usd": 124.36,
       "market_price_as_of": "2026-10-24",
       "total_listings": 16
+    },
+    {
+      "card_id": 20371,
+      "name": "Perrin - 220/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "220/167",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 124.29,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 96
     },
     {
       "card_id": 30611,
@@ -12411,18 +12411,6 @@
       "total_listings": 56
     },
     {
-      "card_id": 25201,
-      "name": "Squirtle",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "148/142",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 93.04,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 162
-    },
-    {
       "card_id": 38341,
       "name": "Kyurem",
       "set_id": 5500080,
@@ -12961,18 +12949,6 @@
       "market_price_usd": 90.41,
       "market_price_as_of": "2026-11-07",
       "total_listings": 41
-    },
-    {
-      "card_id": 25211,
-      "name": "Bulbasaur",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "143/142",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 90.26,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 176
     },
     {
       "card_id": 29830,
@@ -14353,6 +14329,18 @@
       "market_price_usd": 84.77,
       "market_price_as_of": "2026-11-17",
       "total_listings": 177
+    },
+    {
+      "card_id": 25201,
+      "name": "Squirtle",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "148/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 84.63,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 159
     },
     {
       "card_id": 28128,
@@ -16395,6 +16383,18 @@
       "total_listings": 90
     },
     {
+      "card_id": 25211,
+      "name": "Bulbasaur",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "143/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 77.26,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 182
+    },
+    {
       "card_id": 6460,
       "name": "Cynthia - 119a/156 (Regional Championships)",
       "set_id": 5500087,
@@ -17115,6 +17115,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 20262,
+      "name": "Eevee - 188/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "188/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 74.83,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 115
+    },
+    {
       "card_id": 32282,
       "name": "Light Slowbro",
       "set_id": 5500156,
@@ -17137,18 +17149,6 @@
       "market_price_usd": 74.77,
       "market_price_as_of": "2026-11-03",
       "total_listings": 24
-    },
-    {
-      "card_id": 30159,
-      "name": "Persian - 078/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "078/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 74.7,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 114
     },
     {
       "card_id": 36089,
@@ -18003,18 +18003,6 @@
       "total_listings": 45
     },
     {
-      "card_id": 20262,
-      "name": "Eevee - 188/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "188/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 71.25,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 146
-    },
-    {
       "card_id": 33971,
       "name": "Spoink - 066/106",
       "set_id": 5500222,
@@ -18325,18 +18313,6 @@
       "market_price_usd": 70.42,
       "market_price_as_of": "2026-11-14",
       "total_listings": 15
-    },
-    {
-      "card_id": 25304,
-      "name": "Dachsbun ex - 169/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "169/142",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 70.36,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 70
     },
     {
       "card_id": 20035,
@@ -18745,6 +18721,18 @@
       "market_price_usd": 69.49,
       "market_price_as_of": "2026-11-07",
       "total_listings": 44
+    },
+    {
+      "card_id": 25304,
+      "name": "Dachsbun ex - 169/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "169/142",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 69.39,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 79
     },
     {
       "card_id": 36007,
@@ -21051,6 +21039,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 30159,
+      "name": "Persian - 078/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "078/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 63.05,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 113
+    },
+    {
       "card_id": 23613,
       "name": "Gengar",
       "set_id": 5500195,
@@ -23283,18 +23283,6 @@
       "total_listings": 0
     },
     {
-      "card_id": 30150,
-      "name": "Houndoom - 066/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "066/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 57.99,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 95
-    },
-    {
       "card_id": 20119,
       "name": "Aegislash - 86/146 (Prerelease) [Staff]",
       "set_id": 5500177,
@@ -23317,18 +23305,6 @@
       "market_price_usd": 57.97,
       "market_price_as_of": "2026-11-22",
       "total_listings": 6
-    },
-    {
-      "card_id": 30166,
-      "name": "Basic Darkness Energy",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "098/064",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 57.96,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 83
     },
     {
       "card_id": 34262,
@@ -25599,6 +25575,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 30166,
+      "name": "Basic Darkness Energy",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "098/064",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 52.64,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 91
+    },
+    {
       "card_id": 35387,
       "name": "Torchic",
       "set_id": 5500224,
@@ -26700,18 +26688,6 @@
       "printing": "Reverse Holofoil",
       "market_price_usd": 50.48,
       "market_price_as_of": "2026-11-13",
-      "total_listings": 139
-    },
-    {
-      "card_id": 20315,
-      "name": "Carmine - 217/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "217/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 50.47,
-      "market_price_as_of": "2026-10-11",
       "total_listings": 139
     },
     {
@@ -28371,18 +28347,6 @@
       "total_listings": 53
     },
     {
-      "card_id": 30163,
-      "name": "Horsea - 067/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "067/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 48.09,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 97
-    },
-    {
       "card_id": 13020,
       "name": "Swampert - 27/100 (EX Crystal Guardians)",
       "set_id": 5500101,
@@ -28671,18 +28635,6 @@
       "total_listings": 4
     },
     {
-      "card_id": 30135,
-      "name": "Duskull - 068/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "068/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 47.73,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 112
-    },
-    {
       "card_id": 24298,
       "name": "Latias Prism Star",
       "set_id": 5500088,
@@ -28705,6 +28657,18 @@
       "market_price_usd": 47.57,
       "market_price_as_of": "2026-11-25",
       "total_listings": 110
+    },
+    {
+      "card_id": 30150,
+      "name": "Houndoom - 066/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "066/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.56,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 105
     },
     {
       "card_id": 37483,
@@ -28777,18 +28741,6 @@
       "market_price_usd": 47.48,
       "market_price_as_of": "2026-11-16",
       "total_listings": 55
-    },
-    {
-      "card_id": 20257,
-      "name": "Chansey - 187/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "187/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 47.47,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 176
     },
     {
       "card_id": 31282,
@@ -29821,18 +29773,6 @@
       "market_price_usd": 45.84,
       "market_price_as_of": "2026-11-16",
       "total_listings": 73
-    },
-    {
-      "card_id": 20367,
-      "name": "Bloodmoon Ursaluna ex - 216/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "216/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 45.79,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 136
     },
     {
       "card_id": 6358,
@@ -32595,6 +32535,18 @@
       "total_listings": 37
     },
     {
+      "card_id": 25306,
+      "name": "Hydrapple ex - 167/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "167/142",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 41.83,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 94
+    },
+    {
       "card_id": 29474,
       "name": "Misty's Wish",
       "set_id": 5500085,
@@ -33013,18 +32965,6 @@
       "market_price_usd": 41.21,
       "market_price_as_of": "2026-11-16",
       "total_listings": 17
-    },
-    {
-      "card_id": 30162,
-      "name": "Cassiopeia - 094/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "094/064",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 41.2,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 100
     },
     {
       "card_id": 22824,
@@ -33963,6 +33903,18 @@
       "total_listings": 9
     },
     {
+      "card_id": 20315,
+      "name": "Carmine - 217/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "217/167",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 40.01,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 132
+    },
+    {
       "card_id": 15456,
       "name": "Hitmonchan - 2 (Best of Game 2 Promo)",
       "set_id": 5500069,
@@ -34369,6 +34321,18 @@
       "market_price_usd": 39.94,
       "market_price_as_of": "2026-11-22",
       "total_listings": 11
+    },
+    {
+      "card_id": 20257,
+      "name": "Chansey - 187/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "187/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.93,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 165
     },
     {
       "card_id": 6520,
@@ -34779,6 +34743,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 20367,
+      "name": "Bloodmoon Ursaluna ex - 216/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "216/167",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.39,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 148
+    },
+    {
       "card_id": 14836,
       "name": "Bruxish - SM11 (Prerelease) [Staff]",
       "set_id": 5500076,
@@ -34813,6 +34789,18 @@
       "market_price_usd": 39.35,
       "market_price_as_of": "2026-11-21",
       "total_listings": 7
+    },
+    {
+      "card_id": 30135,
+      "name": "Duskull - 068/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "068/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.34,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 131
     },
     {
       "card_id": 14682,
@@ -36723,18 +36711,6 @@
       "total_listings": 36
     },
     {
-      "card_id": 25306,
-      "name": "Hydrapple ex - 167/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "167/142",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 37.47,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 99
-    },
-    {
       "card_id": 30227,
       "name": "Haunter",
       "set_id": 5500034,
@@ -36769,6 +36745,18 @@
       "market_price_usd": 37.44,
       "market_price_as_of": "2026-11-20",
       "total_listings": 16
+    },
+    {
+      "card_id": 30163,
+      "name": "Horsea - 067/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "067/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.39,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 109
     },
     {
       "card_id": 38538,
@@ -37453,6 +37441,18 @@
       "market_price_usd": 36.74,
       "market_price_as_of": "2026-11-14",
       "total_listings": 25
+    },
+    {
+      "card_id": 30162,
+      "name": "Cassiopeia - 094/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "094/064",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.71,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 122
     },
     {
       "card_id": 4030,
@@ -39483,18 +39483,6 @@
       "total_listings": 9
     },
     {
-      "card_id": 30173,
-      "name": "Fezandipiti ex - 092/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "092/064",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 34.62,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 150
-    },
-    {
       "card_id": 28368,
       "name": "Unown (?)",
       "set_id": 5500113,
@@ -39505,18 +39493,6 @@
       "market_price_usd": 34.6,
       "market_price_as_of": "2026-11-07",
       "total_listings": 56
-    },
-    {
-      "card_id": 20369,
-      "name": "Sinistcha ex - 210/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "210/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 34.59,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 81
     },
     {
       "card_id": 35600,
@@ -39831,18 +39807,6 @@
       "total_listings": 81
     },
     {
-      "card_id": 25276,
-      "name": "Terapagos ex - 170/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "170/142",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 34.26,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 137
-    },
-    {
       "card_id": 25917,
       "name": "Pupitar",
       "set_id": 5500011,
@@ -39865,6 +39829,18 @@
       "market_price_usd": 34.25,
       "market_price_as_of": "2026-11-24",
       "total_listings": 149
+    },
+    {
+      "card_id": 25276,
+      "name": "Terapagos ex - 170/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "170/142",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 34.22,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 161
     },
     {
       "card_id": 4599,
@@ -40165,18 +40141,6 @@
       "market_price_usd": 33.92,
       "market_price_as_of": "2026-10-15",
       "total_listings": 8
-    },
-    {
-      "card_id": 20364,
-      "name": "Lana's Aid - 219/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "219/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 33.89,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 122
     },
     {
       "card_id": 35261,
@@ -42183,6 +42147,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 20369,
+      "name": "Sinistcha ex - 210/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "210/167",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.89,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 100
+    },
+    {
       "card_id": 20799,
       "name": "Metagross - 178/162",
       "set_id": 5500066,
@@ -42445,18 +42421,6 @@
       "market_price_usd": 31.67,
       "market_price_as_of": "2026-11-05",
       "total_listings": 60
-    },
-    {
-      "card_id": 30130,
-      "name": "Dusknoir - 070/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "070/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 31.66,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 90
     },
     {
       "card_id": 30209,
@@ -43537,18 +43501,6 @@
       "market_price_usd": 30.56,
       "market_price_as_of": "2026-10-23",
       "total_listings": 11
-    },
-    {
-      "card_id": 30174,
-      "name": "Basic Metal Energy",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "099/064",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 30.56,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 57
     },
     {
       "card_id": 6161,
@@ -45879,6 +45831,18 @@
       "total_listings": 34
     },
     {
+      "card_id": 30173,
+      "name": "Fezandipiti ex - 092/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "092/064",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.82,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 171
+    },
+    {
       "card_id": 33826,
       "name": "Defender",
       "set_id": 5500007,
@@ -45973,6 +45937,18 @@
       "market_price_usd": 28.73,
       "market_price_as_of": "2026-11-05",
       "total_listings": 166
+    },
+    {
+      "card_id": 30109,
+      "name": "Dusclops - 069/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "069/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.72,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 138
     },
     {
       "card_id": 33099,
@@ -46491,18 +46467,6 @@
       "total_listings": 39
     },
     {
-      "card_id": 20358,
-      "name": "Kieran - 218/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "218/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 28.28,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 122
-    },
-    {
       "card_id": 26503,
       "name": "Vileplume (69)",
       "set_id": 5500166,
@@ -46561,18 +46525,6 @@
       "market_price_usd": 28.26,
       "market_price_as_of": "2026-11-12",
       "total_listings": 70
-    },
-    {
-      "card_id": 30128,
-      "name": "Munkidori",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "072/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 28.24,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 150
     },
     {
       "card_id": 15631,
@@ -46753,6 +46705,18 @@
       "market_price_usd": 28.12,
       "market_price_as_of": "2026-11-15",
       "total_listings": 45
+    },
+    {
+      "card_id": 30174,
+      "name": "Basic Metal Energy",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "099/064",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.11,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 67
     },
     {
       "card_id": 14183,
@@ -47835,18 +47799,6 @@
       "total_listings": 40
     },
     {
-      "card_id": 30157,
-      "name": "Cresselia - 071/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "071/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 27.27,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 128
-    },
-    {
       "card_id": 33731,
       "name": "Diglett",
       "set_id": 5500007,
@@ -47869,6 +47821,18 @@
       "market_price_usd": 27.27,
       "market_price_as_of": "2026-10-27",
       "total_listings": 30
+    },
+    {
+      "card_id": 30130,
+      "name": "Dusknoir - 070/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "070/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.25,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 134
     },
     {
       "card_id": 36254,
@@ -48603,18 +48567,6 @@
       "total_listings": 88
     },
     {
-      "card_id": 20282,
-      "name": "Hisuian Growlithe - 181/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "181/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 26.73,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 212
-    },
-    {
       "card_id": 28566,
       "name": "Toxicroak EX (102 Full Art)",
       "set_id": 5500019,
@@ -49191,18 +49143,6 @@
       "total_listings": 32
     },
     {
-      "card_id": 30109,
-      "name": "Dusclops - 069/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "069/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 26.34,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 121
-    },
-    {
       "card_id": 34656,
       "name": "Chimecho",
       "set_id": 5500231,
@@ -49237,6 +49177,18 @@
       "market_price_usd": 26.32,
       "market_price_as_of": "2026-10-28",
       "total_listings": 10
+    },
+    {
+      "card_id": 20364,
+      "name": "Lana's Aid - 219/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "219/167",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.29,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 135
     },
     {
       "card_id": 35940,
@@ -49417,6 +49369,18 @@
       "market_price_usd": 26.15,
       "market_price_as_of": "2026-10-23",
       "total_listings": 7
+    },
+    {
+      "card_id": 30157,
+      "name": "Cresselia - 071/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "071/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.14,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 138
     },
     {
       "card_id": 33910,
@@ -51471,18 +51435,6 @@
       "total_listings": 211
     },
     {
-      "card_id": 30147,
-      "name": "Bewear - 079/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "079/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 24.7,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 137
-    },
-    {
       "card_id": 16493,
       "name": "Psyduck",
       "set_id": 5500206,
@@ -52009,18 +51961,6 @@
       "market_price_usd": 24.38,
       "market_price_as_of": "2026-10-15",
       "total_listings": 175
-    },
-    {
-      "card_id": 30170,
-      "name": "Pecharunt ex - 093/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "093/064",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 24.36,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 88
     },
     {
       "card_id": 26970,
@@ -53583,6 +53523,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 30170,
+      "name": "Pecharunt ex - 093/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "093/064",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.27,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 97
+    },
+    {
       "card_id": 2155097,
       "name": "Goodra - 077 [Staff]",
       "set_id": 5500111,
@@ -54013,6 +53965,18 @@
       "market_price_usd": 23.01,
       "market_price_as_of": "2026-10-27",
       "total_listings": 8
+    },
+    {
+      "card_id": 20282,
+      "name": "Hisuian Growlithe - 181/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "181/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 23.0,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 222
     },
     {
       "card_id": 2298759,
@@ -54505,18 +54469,6 @@
       "market_price_usd": 22.66,
       "market_price_as_of": "2026-11-19",
       "total_listings": 142
-    },
-    {
-      "card_id": 30141,
-      "name": "Zorua - 075/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "075/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 22.66,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 119
     },
     {
       "card_id": 36880,
@@ -55047,6 +54999,18 @@
       "total_listings": 62
     },
     {
+      "card_id": 30128,
+      "name": "Munkidori",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "072/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.27,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 172
+    },
+    {
       "card_id": 36136,
       "name": "Slugma",
       "set_id": 5500137,
@@ -55251,6 +55215,18 @@
       "total_listings": 4
     },
     {
+      "card_id": 30176,
+      "name": "Pecharunt ex - 095/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "095/064",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.14,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 79
+    },
+    {
       "card_id": 13754,
       "name": "Scolipede - 134/086",
       "set_id": 5500093,
@@ -55261,6 +55237,18 @@
       "market_price_usd": 22.13,
       "market_price_as_of": "2026-11-25",
       "total_listings": 99
+    },
+    {
+      "card_id": 20358,
+      "name": "Kieran - 218/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "218/167",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.13,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 139
     },
     {
       "card_id": 36330,
@@ -55971,18 +55959,6 @@
       "total_listings": 55
     },
     {
-      "card_id": 30172,
-      "name": "Okidogi ex - 090/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "090/064",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 21.68,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 103
-    },
-    {
       "card_id": 35412,
       "name": "Bagon - 23/97",
       "set_id": 5500224,
@@ -56103,16 +56079,16 @@
       "total_listings": 19
     },
     {
-      "card_id": 20286,
-      "name": "Tatsugiri - 186/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "186/167",
+      "card_id": 30141,
+      "name": "Zorua - 075/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "075/064",
       "rarity": "Illustration Rare",
       "printing": "Holofoil",
-      "market_price_usd": 21.55,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 174
+      "market_price_usd": 21.56,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 152
     },
     {
       "card_id": 29448,
@@ -56619,6 +56595,18 @@
       "total_listings": 36
     },
     {
+      "card_id": 30147,
+      "name": "Bewear - 079/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "079/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.23,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 174
+    },
+    {
       "card_id": 29498,
       "name": "Koga's Pidgeotto",
       "set_id": 5500085,
@@ -56749,18 +56737,6 @@
       "market_price_usd": 21.18,
       "market_price_as_of": "2026-10-14",
       "total_listings": 7
-    },
-    {
-      "card_id": 30176,
-      "name": "Pecharunt ex - 095/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "095/064",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 21.17,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 59
     },
     {
       "card_id": 33696,
@@ -57337,18 +57313,6 @@
       "market_price_usd": 20.82,
       "market_price_as_of": "2026-11-13",
       "total_listings": 93
-    },
-    {
-      "card_id": 20370,
-      "name": "Teal Mask Ogerpon ex - 211/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "211/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 20.81,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 139
     },
     {
       "card_id": 32067,
@@ -58597,6 +58561,18 @@
       "market_price_usd": 20.26,
       "market_price_as_of": "2026-11-12",
       "total_listings": 118
+    },
+    {
+      "card_id": 20286,
+      "name": "Tatsugiri - 186/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "186/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.25,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 180
     },
     {
       "card_id": 33851,
@@ -60735,18 +60711,6 @@
       "total_listings": 7
     },
     {
-      "card_id": 30175,
-      "name": "Powerglass - 097/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "097/064",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 19.45,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 85
-    },
-    {
       "card_id": 31095,
       "name": "Aggron",
       "set_id": 5500046,
@@ -61743,18 +61707,6 @@
       "total_listings": 100
     },
     {
-      "card_id": 25279,
-      "name": "Galvantula ex - 168/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "168/142",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 18.99,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 133
-    },
-    {
       "card_id": 4395,
       "name": "Tyranitar - 095/159 (Cosmos Foil)",
       "set_id": 5500123,
@@ -61861,6 +61813,18 @@
       "market_price_usd": 18.94,
       "market_price_as_of": "2026-11-20",
       "total_listings": 9
+    },
+    {
+      "card_id": 20149,
+      "name": "Unfair Stamp",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "165/167",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.93,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 233
     },
     {
       "card_id": 31143,
@@ -62883,6 +62847,18 @@
       "total_listings": 82
     },
     {
+      "card_id": 30172,
+      "name": "Okidogi ex - 090/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "090/064",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.45,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 121
+    },
+    {
       "card_id": 17847,
       "name": "Jolteon V (Full Art)",
       "set_id": 5500048,
@@ -63421,6 +63397,18 @@
       "market_price_usd": 18.2,
       "market_price_as_of": "2026-11-08",
       "total_listings": 22
+    },
+    {
+      "card_id": 20370,
+      "name": "Teal Mask Ogerpon ex - 211/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "211/167",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.19,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 163
     },
     {
       "card_id": 26641,
@@ -64167,18 +64155,6 @@
       "total_listings": 54
     },
     {
-      "card_id": 25237,
-      "name": "Lacey - 172/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "172/142",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 17.85,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 147
-    },
-    {
       "card_id": 14754,
       "name": "Zapdos - SM159 (Prerelease)",
       "set_id": 5500076,
@@ -64657,18 +64633,6 @@
       "market_price_usd": 17.6,
       "market_price_as_of": "2026-10-21",
       "total_listings": 75
-    },
-    {
-      "card_id": 30168,
-      "name": "Munkidori ex - 091/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "091/064",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 17.6,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 117
     },
     {
       "card_id": 33901,
@@ -65221,18 +65185,6 @@
       "market_price_usd": 17.38,
       "market_price_as_of": "2026-10-22",
       "total_listings": 27
-    },
-    {
-      "card_id": 30152,
-      "name": "Fraxure - 077/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "077/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 17.38,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 128
     },
     {
       "card_id": 30215,
@@ -66843,6 +66795,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 30175,
+      "name": "Powerglass - 097/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "097/064",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.7,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 120
+    },
+    {
       "card_id": 32393,
       "name": "Chandelure",
       "set_id": 5500189,
@@ -67155,6 +67119,18 @@
       "total_listings": 98
     },
     {
+      "card_id": 25237,
+      "name": "Lacey - 172/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "172/142",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.59,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 167
+    },
+    {
       "card_id": 4355,
       "name": "Dragonite - 131/195 (Gamestop Exclusive)",
       "set_id": 5500123,
@@ -67165,18 +67141,6 @@
       "market_price_usd": 16.59,
       "market_price_as_of": "2026-10-23",
       "total_listings": 73
-    },
-    {
-      "card_id": 30167,
-      "name": "Earthen Vessel",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "096/064",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 16.57,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 133
     },
     {
       "card_id": 5854,
@@ -67417,6 +67381,18 @@
       "market_price_usd": 16.51,
       "market_price_as_of": "2026-10-25",
       "total_listings": 25
+    },
+    {
+      "card_id": 25279,
+      "name": "Galvantula ex - 168/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "168/142",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.51,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 167
     },
     {
       "card_id": 35249,
@@ -68293,18 +68269,6 @@
       "market_price_usd": 16.1,
       "market_price_as_of": "2026-10-31",
       "total_listings": 60
-    },
-    {
-      "card_id": 30143,
-      "name": "Cufant - 076/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "076/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 16.09,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 79
     },
     {
       "card_id": 31776,
@@ -69195,18 +69159,6 @@
       "total_listings": 11
     },
     {
-      "card_id": 25185,
-      "name": "Milcery - 152/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "152/142",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 15.77,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 158
-    },
-    {
       "card_id": 1861,
       "name": "Time-Space Distortion - 2008 (Paul Atanassov)",
       "set_id": 5500029,
@@ -69723,6 +69675,18 @@
       "total_listings": 437
     },
     {
+      "card_id": 30152,
+      "name": "Fraxure - 077/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "077/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.6,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 150
+    },
+    {
       "card_id": 33894,
       "name": "Dusclops",
       "set_id": 5500229,
@@ -70045,6 +70009,18 @@
       "market_price_usd": 15.47,
       "market_price_as_of": "2026-10-23",
       "total_listings": 13
+    },
+    {
+      "card_id": 25185,
+      "name": "Milcery - 152/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "152/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.46,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 172
     },
     {
       "card_id": 5601,
@@ -71199,6 +71175,18 @@
       "total_listings": 129
     },
     {
+      "card_id": 30167,
+      "name": "Earthen Vessel",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "096/064",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.01,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 157
+    },
+    {
       "card_id": 30358,
       "name": "Ralts",
       "set_id": 5500082,
@@ -71413,18 +71401,6 @@
       "market_price_usd": 14.99,
       "market_price_as_of": "2026-10-28",
       "total_listings": 3
-    },
-    {
-      "card_id": 20149,
-      "name": "Unfair Stamp",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "165/167",
-      "rarity": "ACE SPEC Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.99,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 362
     },
     {
       "card_id": 25828,
@@ -71919,18 +71895,6 @@
       "total_listings": 49
     },
     {
-      "card_id": 20278,
-      "name": "Phione - 175/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "175/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.85,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 214
-    },
-    {
       "card_id": 33888,
       "name": "Scott",
       "set_id": 5500229,
@@ -72099,18 +72063,6 @@
       "total_listings": 88
     },
     {
-      "card_id": 20331,
-      "name": "Wellspring Mask Ogerpon ex - 213/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "213/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.79,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 142
-    },
-    {
       "card_id": 24196,
       "name": "Elesa's Sparkle (Full Art)",
       "set_id": 5500217,
@@ -72229,6 +72181,18 @@
       "market_price_usd": 14.75,
       "market_price_as_of": "2026-11-25",
       "total_listings": 97
+    },
+    {
+      "card_id": 30143,
+      "name": "Cufant - 076/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "076/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.75,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 93
     },
     {
       "card_id": 5571,
@@ -72975,6 +72939,18 @@
       "total_listings": 169
     },
     {
+      "card_id": 30168,
+      "name": "Munkidori ex - 091/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "091/064",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.52,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 150
+    },
+    {
       "card_id": 37456,
       "name": "Jirachi GX - 79a/236",
       "set_id": 5500060,
@@ -73239,18 +73215,6 @@
       "total_listings": 45
     },
     {
-      "card_id": 20231,
-      "name": "Pinsir - 168/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "168/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.4,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 234
-    },
-    {
       "card_id": 36463,
       "name": "Hitmontop (22)",
       "set_id": 5500105,
@@ -73333,18 +73297,6 @@
       "market_price_usd": 14.38,
       "market_price_as_of": "2026-10-26",
       "total_listings": 61
-    },
-    {
-      "card_id": 30131,
-      "name": "Okidogi",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "074/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.38,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 178
     },
     {
       "card_id": 34327,
@@ -73731,18 +73683,6 @@
       "total_listings": 229
     },
     {
-      "card_id": 20232,
-      "name": "Applin - 185/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "185/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.22,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 170
-    },
-    {
       "card_id": 36044,
       "name": "Zorua",
       "set_id": 5500083,
@@ -73897,18 +73837,6 @@
       "market_price_usd": 14.19,
       "market_price_as_of": "2026-10-15",
       "total_listings": 116
-    },
-    {
-      "card_id": 20240,
-      "name": "Infernape - 173/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "173/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.18,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 282
     },
     {
       "card_id": 30230,
@@ -75735,16 +75663,16 @@
       "total_listings": 56
     },
     {
-      "card_id": 25208,
-      "name": "Gulpin - 154/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "154/142",
-      "rarity": "Illustration Rare",
+      "card_id": 20331,
+      "name": "Wellspring Mask Ogerpon ex - 213/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "213/167",
+      "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
       "market_price_usd": 13.52,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 182
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 173
     },
     {
       "card_id": 37676,
@@ -77427,6 +77355,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 25208,
+      "name": "Gulpin - 154/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "154/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.96,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 214
+    },
+    {
       "card_id": 27123,
       "name": "Azumarill",
       "set_id": 5500004,
@@ -77871,6 +77811,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 20232,
+      "name": "Applin - 185/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "185/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.82,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 229
+    },
+    {
       "card_id": 29793,
       "name": "Sabrina's Gastly",
       "set_id": 5500157,
@@ -78171,6 +78123,18 @@
       "total_listings": 47
     },
     {
+      "card_id": 20253,
+      "name": "Greninja ex - 198/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "198/167",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.73,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 202
+    },
+    {
       "card_id": 35342,
       "name": "Crawdaunt - 3/97",
       "set_id": 5500224,
@@ -78253,18 +78217,6 @@
       "market_price_usd": 12.69,
       "market_price_as_of": "2026-10-23",
       "total_listings": 122
-    },
-    {
-      "card_id": 20249,
-      "name": "Buddy-Buddy Poffin",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "223/167",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.68,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 179
     },
     {
       "card_id": 36408,
@@ -79023,18 +78975,6 @@
       "total_listings": 344
     },
     {
-      "card_id": 25239,
-      "name": "Terapagos ex - 173/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "173/142",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.48,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 165
-    },
-    {
       "card_id": 34467,
       "name": "Dusknoir (1)",
       "set_id": 5500035,
@@ -79405,18 +79345,6 @@
       "market_price_usd": 12.38,
       "market_price_as_of": "2026-11-12",
       "total_listings": 93
-    },
-    {
-      "card_id": 20253,
-      "name": "Greninja ex - 198/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "198/167",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.37,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 187
     },
     {
       "card_id": 27295,
@@ -80091,18 +80019,6 @@
       "total_listings": 81
     },
     {
-      "card_id": 20215,
-      "name": "Dipplin - 170/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "170/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.15,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 209
-    },
-    {
       "card_id": 26296,
       "name": "Surfing Pikachu",
       "set_id": 5500147,
@@ -80449,18 +80365,6 @@
       "market_price_usd": 12.04,
       "market_price_as_of": "2026-11-07",
       "total_listings": 60
-    },
-    {
-      "card_id": 30139,
-      "name": "Tapu Bulu - 065/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "065/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.04,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 161
     },
     {
       "card_id": 36372,
@@ -81111,6 +81015,18 @@
       "total_listings": 16
     },
     {
+      "card_id": 20240,
+      "name": "Infernape - 173/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "173/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.89,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 303
+    },
+    {
       "card_id": 36424,
       "name": "Houndour (39)",
       "set_id": 5500105,
@@ -81121,6 +81037,18 @@
       "market_price_usd": 11.89,
       "market_price_as_of": "2026-11-17",
       "total_listings": 190
+    },
+    {
+      "card_id": 20231,
+      "name": "Pinsir - 168/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "168/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.88,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 239
     },
     {
       "card_id": 36069,
@@ -81193,18 +81121,6 @@
       "market_price_usd": 11.85,
       "market_price_as_of": "2026-11-25",
       "total_listings": 41
-    },
-    {
-      "card_id": 29510,
-      "name": "Pikachu ex (Pikachu 60)",
-      "set_id": 5500109,
-      "set_name": "Battle Academy 2024",
-      "number": "106",
-      "rarity": "Holo Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.85,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 52
     },
     {
       "card_id": 34422,
@@ -81337,18 +81253,6 @@
       "market_price_usd": 11.83,
       "market_price_as_of": "2026-10-28",
       "total_listings": 359
-    },
-    {
-      "card_id": 30142,
-      "name": "Fezandipiti",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "073/064",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.83,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 172
     },
     {
       "card_id": 35389,
@@ -81685,18 +81589,6 @@
       "market_price_usd": 11.75,
       "market_price_as_of": "2026-10-22",
       "total_listings": 29
-    },
-    {
-      "card_id": 20213,
-      "name": "Dragapult ex - 200/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "200/167",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.75,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 323
     },
     {
       "card_id": 25796,
@@ -82093,6 +81985,18 @@
       "market_price_usd": 11.62,
       "market_price_as_of": "2026-10-17",
       "total_listings": 55
+    },
+    {
+      "card_id": 25239,
+      "name": "Terapagos ex - 173/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "173/142",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.62,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 202
     },
     {
       "card_id": 32435,
@@ -82779,18 +82683,6 @@
       "total_listings": 23
     },
     {
-      "card_id": 25251,
-      "name": "Briar - 171/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "171/142",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.43,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 175
-    },
-    {
       "card_id": 27494,
       "name": "Chingling",
       "set_id": 5500063,
@@ -83259,18 +83151,6 @@
       "total_listings": 73
     },
     {
-      "card_id": 25192,
-      "name": "Zeraora - 151/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "151/142",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.29,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 258
-    },
-    {
       "card_id": 14740,
       "name": "Moltres - SM143",
       "set_id": 5500076,
@@ -83317,18 +83197,6 @@
       "market_price_usd": 11.28,
       "market_price_as_of": "2026-10-25",
       "total_listings": 28
-    },
-    {
-      "card_id": 30122,
-      "name": "Fezandipiti ex - 084/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "084/064",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.27,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 218
     },
     {
       "card_id": 24321,
@@ -83919,6 +83787,18 @@
       "total_listings": 1616
     },
     {
+      "card_id": 20363,
+      "name": "Cornerstone Mask Ogerpon ex - 215/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "215/167",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.09,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 189
+    },
+    {
       "card_id": 20889,
       "name": "Walking Wake ex - 215/162",
       "set_id": 5500066,
@@ -84063,6 +83943,18 @@
       "total_listings": 31
     },
     {
+      "card_id": 29510,
+      "name": "Pikachu ex (Pikachu 60)",
+      "set_id": 5500109,
+      "set_name": "Battle Academy 2024",
+      "number": "106",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.03,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 67
+    },
+    {
       "card_id": 31878,
       "name": "Raichu",
       "set_id": 5500176,
@@ -84097,18 +83989,6 @@
       "market_price_usd": 11.03,
       "market_price_as_of": "2026-10-22",
       "total_listings": 101
-    },
-    {
-      "card_id": 20363,
-      "name": "Cornerstone Mask Ogerpon ex - 215/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "215/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.02,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 192
     },
     {
       "card_id": 29812,
@@ -84361,6 +84241,18 @@
       "market_price_usd": 10.97,
       "market_price_as_of": "2026-10-30",
       "total_listings": 43
+    },
+    {
+      "card_id": 30131,
+      "name": "Okidogi",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "074/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.96,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 167
     },
     {
       "card_id": 13602,
@@ -84783,18 +84675,6 @@
       "total_listings": 142
     },
     {
-      "card_id": 20368,
-      "name": "Hearthflame Mask Ogerpon ex - 212/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "212/167",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.87,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 137
-    },
-    {
       "card_id": 38835,
       "name": "Magmar - 3/12",
       "set_id": 5500203,
@@ -84805,6 +84685,18 @@
       "market_price_usd": 10.87,
       "market_price_as_of": "2026-10-21",
       "total_listings": 99
+    },
+    {
+      "card_id": 25251,
+      "name": "Briar - 171/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "171/142",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.86,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 179
     },
     {
       "card_id": 28989,
@@ -85263,6 +85155,18 @@
       "total_listings": 142
     },
     {
+      "card_id": 20249,
+      "name": "Buddy-Buddy Poffin",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "223/167",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.75,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 208
+    },
+    {
       "card_id": 20432,
       "name": "Houndour - 204/197",
       "set_id": 5500138,
@@ -85405,6 +85309,18 @@
       "market_price_usd": 10.72,
       "market_price_as_of": "2026-11-05",
       "total_listings": 36
+    },
+    {
+      "card_id": 20215,
+      "name": "Dipplin - 170/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "170/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.71,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 228
     },
     {
       "card_id": 31484,
@@ -85621,6 +85537,18 @@
       "market_price_usd": 10.65,
       "market_price_as_of": "2026-10-26",
       "total_listings": 47
+    },
+    {
+      "card_id": 30122,
+      "name": "Fezandipiti ex - 084/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "084/064",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.65,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 219
     },
     {
       "card_id": 31812,
@@ -86271,6 +86199,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 30139,
+      "name": "Tapu Bulu - 065/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "065/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.46,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 197
+    },
+    {
       "card_id": 35378,
       "name": "Crawdaunt - 13/97",
       "set_id": 5500224,
@@ -86533,6 +86473,18 @@
       "market_price_usd": 10.38,
       "market_price_as_of": "2026-11-08",
       "total_listings": 72
+    },
+    {
+      "card_id": 20278,
+      "name": "Phione - 175/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "175/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.37,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 265
     },
     {
       "card_id": 22975,
@@ -88767,6 +88719,18 @@
       "total_listings": 297
     },
     {
+      "card_id": 25192,
+      "name": "Zeraora - 151/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "151/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.89,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 250
+    },
+    {
       "card_id": 26132,
       "name": "Aurorus",
       "set_id": 5500192,
@@ -89595,6 +89559,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 20368,
+      "name": "Hearthflame Mask Ogerpon ex - 212/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "212/167",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.71,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 124
+    },
+    {
       "card_id": 22241,
       "name": "Lapras",
       "set_id": 5500079,
@@ -89713,18 +89689,6 @@
       "market_price_usd": 9.68,
       "market_price_as_of": "2026-10-26",
       "total_listings": 29
-    },
-    {
-      "card_id": 25232,
-      "name": "Area Zero Underdepths - 174/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "174/142",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 9.68,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 177
     },
     {
       "card_id": 26685,
@@ -90109,6 +90073,18 @@
       "market_price_usd": 9.57,
       "market_price_as_of": "2026-11-04",
       "total_listings": 19
+    },
+    {
+      "card_id": 30142,
+      "name": "Fezandipiti",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "073/064",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.57,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 199
     },
     {
       "card_id": 30497,
@@ -91947,18 +91923,6 @@
       "total_listings": 19
     },
     {
-      "card_id": 20356,
-      "name": "Teal Mask Ogerpon ex - 221/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "221/167",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 9.16,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 136
-    },
-    {
       "card_id": 26302,
       "name": "Gyarados",
       "set_id": 5500147,
@@ -92653,6 +92617,18 @@
       "market_price_usd": 9.01,
       "market_price_as_of": "2026-10-23",
       "total_listings": 24
+    },
+    {
+      "card_id": 20356,
+      "name": "Teal Mask Ogerpon ex - 221/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "221/167",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.01,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 125
     },
     {
       "card_id": 25823,
@@ -93687,6 +93663,18 @@
       "total_listings": 225
     },
     {
+      "card_id": 20251,
+      "name": "Enamorus - 180/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "180/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.84,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 223
+    },
+    {
       "card_id": 26551,
       "name": "Full Heal",
       "set_id": 5500166,
@@ -93757,6 +93745,18 @@
       "market_price_usd": 8.81,
       "market_price_as_of": "2026-10-14",
       "total_listings": 81
+    },
+    {
+      "card_id": 30112,
+      "name": "Pecharunt ex - 085/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "085/064",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.81,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 90
     },
     {
       "card_id": 13901,
@@ -94527,6 +94527,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 20213,
+      "name": "Dragapult ex - 200/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "200/167",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.67,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 340
+    },
+    {
       "card_id": 35681,
       "name": "Engineer's Adjustments",
       "set_id": 5500167,
@@ -94693,18 +94705,6 @@
       "market_price_usd": 8.65,
       "market_price_as_of": "2026-11-17",
       "total_listings": 204
-    },
-    {
-      "card_id": 30118,
-      "name": "Xerosic's Machinations - 089/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "089/064",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.65,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 172
     },
     {
       "card_id": 17833,
@@ -95055,18 +95055,6 @@
       "total_listings": 144
     },
     {
-      "card_id": 30112,
-      "name": "Pecharunt ex - 085/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "085/064",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.57,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 164
-    },
-    {
       "card_id": 19684,
       "name": "Zeraora GX",
       "set_id": 5500141,
@@ -95341,6 +95329,18 @@
       "market_price_usd": 8.52,
       "market_price_as_of": "2026-10-15",
       "total_listings": 218
+    },
+    {
+      "card_id": 30069,
+      "name": "Pecharunt ex - 039/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "039/064",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.51,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 172
     },
     {
       "card_id": 31092,
@@ -97635,6 +97635,18 @@
       "total_listings": 161
     },
     {
+      "card_id": 25186,
+      "name": "Raboot - 147/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "147/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.05,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 275
+    },
+    {
       "card_id": 27006,
       "name": "Charmeleon",
       "set_id": 5500140,
@@ -98319,16 +98331,16 @@
       "total_listings": 48
     },
     {
-      "card_id": 20350,
-      "name": "Bloodmoon Ursaluna ex - 222/167",
+      "card_id": 20258,
+      "name": "Sunflora - 169/167",
       "set_id": 5500051,
       "set_name": "SV06: Twilight Masquerade",
-      "number": "222/167",
-      "rarity": "Hyper Rare",
+      "number": "169/167",
+      "rarity": "Illustration Rare",
       "printing": "Holofoil",
       "market_price_usd": 7.96,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 131
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 264
     },
     {
       "card_id": 21382,
@@ -98569,30 +98581,6 @@
       "market_price_usd": 7.92,
       "market_price_as_of": "2026-10-12",
       "total_listings": 249
-    },
-    {
-      "card_id": 25184,
-      "name": "Lileep - 145/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "145/142",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.92,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 213
-    },
-    {
-      "card_id": 25186,
-      "name": "Raboot - 147/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "147/142",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.92,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 241
     },
     {
       "card_id": 36732,
@@ -100167,18 +100155,6 @@
       "total_listings": 10
     },
     {
-      "card_id": 20198,
-      "name": "Froslass - 174/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "174/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.59,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 263
-    },
-    {
       "card_id": 30991,
       "name": "Samurott - 41/149 (Cosmos Holo)",
       "set_id": 5500103,
@@ -100239,16 +100215,16 @@
       "total_listings": 27
     },
     {
-      "card_id": 20251,
-      "name": "Enamorus - 180/167",
+      "card_id": 20350,
+      "name": "Bloodmoon Ursaluna ex - 222/167",
       "set_id": 5500051,
       "set_name": "SV06: Twilight Masquerade",
-      "number": "180/167",
-      "rarity": "Illustration Rare",
+      "number": "222/167",
+      "rarity": "Hyper Rare",
       "printing": "Holofoil",
       "market_price_usd": 7.58,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 156
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 137
     },
     {
       "card_id": 89,
@@ -100789,6 +100765,18 @@
       "market_price_usd": 7.49,
       "market_price_as_of": "2026-10-26",
       "total_listings": 14
+    },
+    {
+      "card_id": 25151,
+      "name": "Crispin - 164/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "164/142",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.49,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 217
     },
     {
       "card_id": 27325,
@@ -101451,6 +101439,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 25232,
+      "name": "Area Zero Underdepths - 174/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "174/142",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.39,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 198
+    },
+    {
       "card_id": 32137,
       "name": "Meowstic EX",
       "set_id": 5500089,
@@ -101473,18 +101473,6 @@
       "market_price_usd": 7.39,
       "market_price_as_of": "2026-10-23",
       "total_listings": 67
-    },
-    {
-      "card_id": 25173,
-      "name": "Meditite - 153/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "153/142",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.38,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 280
     },
     {
       "card_id": 26879,
@@ -102675,18 +102663,6 @@
       "total_listings": 28
     },
     {
-      "card_id": 20258,
-      "name": "Sunflora - 169/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "169/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.15,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 235
-    },
-    {
       "card_id": 24458,
       "name": "Shiftry GX (Full Art)",
       "set_id": 5500088,
@@ -102697,18 +102673,6 @@
       "market_price_usd": 7.15,
       "market_price_as_of": "2026-10-23",
       "total_listings": 22
-    },
-    {
-      "card_id": 30069,
-      "name": "Pecharunt ex - 039/064",
-      "set_id": 5500139,
-      "set_name": "SV: Shrouded Fable",
-      "number": "039/064",
-      "rarity": "Double Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.15,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 188
     },
     {
       "card_id": 31805,
@@ -103107,6 +103071,18 @@
       "total_listings": 1
     },
     {
+      "card_id": 20198,
+      "name": "Froslass - 174/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "174/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.08,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 277
+    },
+    {
       "card_id": 27161,
       "name": "Yveltal BREAK",
       "set_id": 5500004,
@@ -103201,18 +103177,6 @@
       "market_price_usd": 7.05,
       "market_price_as_of": "2026-11-26",
       "total_listings": 98
-    },
-    {
-      "card_id": 29512,
-      "name": "Darkrai ex (Darkrai)",
-      "set_id": 5500109,
-      "set_name": "Battle Academy 2024",
-      "number": "110",
-      "rarity": "Holo Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.05,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 58
     },
     {
       "card_id": 36135,
@@ -104127,6 +104091,18 @@
       "total_listings": 507
     },
     {
+      "card_id": 25184,
+      "name": "Lileep - 145/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "145/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.92,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 263
+    },
+    {
       "card_id": 29182,
       "name": "Golduck",
       "set_id": 5500008,
@@ -104629,6 +104605,18 @@
       "market_price_usd": 6.83,
       "market_price_as_of": "2026-10-29",
       "total_listings": 116
+    },
+    {
+      "card_id": 29512,
+      "name": "Darkrai ex (Darkrai)",
+      "set_id": 5500109,
+      "set_name": "Battle Academy 2024",
+      "number": "110",
+      "rarity": "Holo Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.83,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 65
     },
     {
       "card_id": 34793,
@@ -105987,6 +105975,18 @@
       "total_listings": 140
     },
     {
+      "card_id": 25159,
+      "name": "Lapras ex - 158/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "158/142",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.63,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 226
+    },
+    {
       "card_id": 27048,
       "name": "Stoutland",
       "set_id": 5500140,
@@ -106033,18 +106033,6 @@
       "market_price_usd": 6.62,
       "market_price_as_of": "2026-10-26",
       "total_listings": 65
-    },
-    {
-      "card_id": 20200,
-      "name": "Torkoal - 172/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "172/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.62,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 237
     },
     {
       "card_id": 5909,
@@ -106105,6 +106093,18 @@
       "market_price_usd": 6.61,
       "market_price_as_of": "2026-10-21",
       "total_listings": 211
+    },
+    {
+      "card_id": 25173,
+      "name": "Meditite - 153/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "153/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.61,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 319
     },
     {
       "card_id": 28747,
@@ -106767,6 +106767,18 @@
       "total_listings": 379
     },
     {
+      "card_id": 25189,
+      "name": "Joltik - 150/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "150/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.52,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 305
+    },
+    {
       "card_id": 34129,
       "name": "Drednaw VMAX (Secret)",
       "set_id": 5500028,
@@ -107247,18 +107259,6 @@
       "total_listings": 85
     },
     {
-      "card_id": 20242,
-      "name": "Timburr - 183/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "183/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.45,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 271
-    },
-    {
       "card_id": 31207,
       "name": "Weavile (Team Plasma)",
       "set_id": 5500106,
@@ -107569,18 +107569,6 @@
       "market_price_usd": 6.4,
       "market_price_as_of": "2026-10-26",
       "total_listings": 33
-    },
-    {
-      "card_id": 25159,
-      "name": "Lapras ex - 158/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "158/142",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.4,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 220
     },
     {
       "card_id": 30760,
@@ -108255,18 +108243,6 @@
       "total_listings": 75
     },
     {
-      "card_id": 25151,
-      "name": "Crispin - 164/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "164/142",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.31,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 290
-    },
-    {
       "card_id": 29124,
       "name": "Lotad",
       "set_id": 5500008,
@@ -108469,6 +108445,18 @@
       "market_price_usd": 6.28,
       "market_price_as_of": "2026-10-31",
       "total_listings": 234
+    },
+    {
+      "card_id": 30118,
+      "name": "Xerosic's Machinations - 089/064",
+      "set_id": 5500139,
+      "set_name": "SV: Shrouded Fable",
+      "number": "089/064",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.28,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 225
     },
     {
       "card_id": 31746,
@@ -108709,6 +108697,18 @@
       "market_price_usd": 6.24,
       "market_price_as_of": "2026-10-27",
       "total_listings": 28
+    },
+    {
+      "card_id": 20200,
+      "name": "Torkoal - 172/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "172/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.23,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 286
     },
     {
       "card_id": 22676,
@@ -110211,18 +110211,6 @@
       "total_listings": 404
     },
     {
-      "card_id": 25189,
-      "name": "Joltik - 150/142",
-      "set_id": 5500045,
-      "set_name": "SV07: Stellar Crown",
-      "number": "150/142",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.07,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 263
-    },
-    {
       "card_id": 30015,
       "name": "Mr. Mime",
       "set_id": 5500006,
@@ -111123,6 +111111,18 @@
       "total_listings": 120
     },
     {
+      "card_id": 25171,
+      "name": "Ledian - 144/142",
+      "set_id": 5500045,
+      "set_name": "SV07: Stellar Crown",
+      "number": "144/142",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.97,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 259
+    },
+    {
       "card_id": 27528,
       "name": "Zubat",
       "set_id": 5500063,
@@ -111253,18 +111253,6 @@
       "market_price_usd": 5.96,
       "market_price_as_of": "2026-10-09",
       "total_listings": 427
-    },
-    {
-      "card_id": 20220,
-      "name": "Lana's Aid - 207/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "207/167",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.95,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 157
     },
     {
       "card_id": 25651,
@@ -111817,6 +111805,18 @@
       "market_price_usd": 5.87,
       "market_price_as_of": "2026-11-23",
       "total_listings": 211
+    },
+    {
+      "card_id": 20225,
+      "name": "Lairon - 184/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "184/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.87,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 288
     },
     {
       "card_id": 28426,
@@ -113259,18 +113259,6 @@
       "total_listings": 308
     },
     {
-      "card_id": 20197,
-      "name": "Wattrel - 178/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "178/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.7,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 258
-    },
-    {
       "card_id": 23618,
       "name": "Dedenne",
       "set_id": 5500195,
@@ -113979,6 +113967,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 20220,
+      "name": "Lana's Aid - 207/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "207/167",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.61,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 214
+    },
+    {
       "card_id": 23006,
       "name": "Whimsicott VSTAR (Secret)",
       "set_id": 5500201,
@@ -114109,30 +114109,6 @@
       "market_price_usd": 5.6,
       "market_price_as_of": "2026-10-23",
       "total_listings": 10
-    },
-    {
-      "card_id": 20225,
-      "name": "Lairon - 184/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "184/167",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.6,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 255
-    },
-    {
-      "card_id": 20348,
-      "name": "Enhanced Hammer - 224/167",
-      "set_id": 5500051,
-      "set_name": "SV06: Twilight Masquerade",
-      "number": "224/167",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.6,
-      "market_price_as_of": "2026-10-11",
-      "total_listings": 138
     },
     {
       "card_id": 28750,
@@ -116017,6 +115993,18 @@
       "market_price_usd": 5.4,
       "market_price_as_of": "2026-10-18",
       "total_listings": 9
+    },
+    {
+      "card_id": 20242,
+      "name": "Timburr - 183/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "183/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.4,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 306
     },
     {
       "card_id": 21648,
@@ -118071,6 +118059,18 @@
       "total_listings": 309
     },
     {
+      "card_id": 20197,
+      "name": "Wattrel - 178/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "178/167",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.18,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 338
+    },
+    {
       "card_id": 32353,
       "name": "Emolga",
       "set_id": 5500189,
@@ -118105,6 +118105,18 @@
       "market_price_usd": 5.17,
       "market_price_as_of": "2026-10-11",
       "total_listings": 265
+    },
+    {
+      "card_id": 20348,
+      "name": "Enhanced Hammer - 224/167",
+      "set_id": 5500051,
+      "set_name": "SV06: Twilight Masquerade",
+      "number": "224/167",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.17,
+      "market_price_as_of": "2026-11-27",
+      "total_listings": 179
     },
     {
       "card_id": 20435,
