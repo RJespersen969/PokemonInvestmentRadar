@@ -1,18 +1,18 @@
 {
   "scanner": "PokeWatch Opportunity Scanner",
   "version": "1.9.1",
-  "generated_at": "2026-11-27T17:35:46.178812+00:00",
+  "generated_at": "2026-11-28T16:19:33.686525+00:00",
   "status": "completed",
   "currency": "USD",
-  "next_set_index": 25,
+  "next_set_index": 30,
   "next_page": 1,
   "next_catalogue_page": 4,
   "catalogue_complete": true,
   "total_sets": 234,
   "sets_completed_this_run": 5,
-  "api_calls": 11,
-  "total_candidates": 10013,
-  "cards_with_price_history": 28348,
+  "api_calls": 13,
+  "total_candidates": 10018,
+  "cards_with_price_history": 28378,
   "candidates": [
     {
       "card_id": 20118,
@@ -1215,18 +1215,6 @@
       "total_listings": 229
     },
     {
-      "card_id": 35216,
-      "name": "Charizard",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "003/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 184.63,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 45
-    },
-    {
       "card_id": 26571,
       "name": "Tyranitar (66)",
       "set_id": 5500166,
@@ -1717,6 +1705,18 @@
       "market_price_usd": 177.2,
       "market_price_as_of": "2026-10-26",
       "total_listings": 109
+    },
+    {
+      "card_id": 35216,
+      "name": "Charizard",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "003/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 177.16,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 53
     },
     {
       "card_id": 26612,
@@ -2569,18 +2569,6 @@
       "market_price_usd": 165.66,
       "market_price_as_of": "2026-11-16",
       "total_listings": 6
-    },
-    {
-      "card_id": 17252,
-      "name": "Gardevoir ex - 233/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "233/091",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 165.03,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 95
     },
     {
       "card_id": 14818,
@@ -5677,6 +5665,18 @@
       "market_price_usd": 135.5,
       "market_price_as_of": "2026-10-23",
       "total_listings": 30
+    },
+    {
+      "card_id": 17252,
+      "name": "Gardevoir ex - 233/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "233/091",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 135.42,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 107
     },
     {
       "card_id": 30857,
@@ -9675,18 +9675,6 @@
       "total_listings": 25
     },
     {
-      "card_id": 16048,
-      "name": "Groudon - 199/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "199/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 105.14,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 137
-    },
-    {
       "card_id": 32092,
       "name": "Mr. Mime ex - 111/112",
       "set_id": 5500230,
@@ -12603,18 +12591,6 @@
       "total_listings": 36
     },
     {
-      "card_id": 20779,
-      "name": "Gastly - 177/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "177/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 91.92,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 153
-    },
-    {
       "card_id": 33678,
       "name": "Sneasel ex",
       "set_id": 5500228,
@@ -14677,6 +14653,18 @@
       "market_price_usd": 82.81,
       "market_price_as_of": "2026-10-22",
       "total_listings": 38
+    },
+    {
+      "card_id": 16048,
+      "name": "Groudon - 199/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "199/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 82.8,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 131
     },
     {
       "card_id": 25812,
@@ -17343,16 +17331,16 @@
       "total_listings": 130
     },
     {
-      "card_id": 17230,
-      "name": "Pikachu - 131/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "131/091",
-      "rarity": "Shiny Rare",
+      "card_id": 20779,
+      "name": "Gastly - 177/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "177/162",
+      "rarity": "Illustration Rare",
       "printing": "Holofoil",
       "market_price_usd": 73.91,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 122
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 165
     },
     {
       "card_id": 24853,
@@ -17929,6 +17917,18 @@
       "market_price_usd": 71.5,
       "market_price_as_of": "2026-10-27",
       "total_listings": 23
+    },
+    {
+      "card_id": 17230,
+      "name": "Pikachu - 131/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "131/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 71.44,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 140
     },
     {
       "card_id": 28611,
@@ -21303,18 +21303,6 @@
       "total_listings": 25
     },
     {
-      "card_id": 20807,
-      "name": "Raging Bolt ex - 208/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "208/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 62.17,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 96
-    },
-    {
       "card_id": 35074,
       "name": "Duskull - 62/100",
       "set_id": 5500235,
@@ -21553,18 +21541,6 @@
       "market_price_usd": 61.71,
       "market_price_as_of": "2026-10-13",
       "total_listings": 321
-    },
-    {
-      "card_id": 16060,
-      "name": "Morpeko - 206/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "206/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 61.7,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 56
     },
     {
       "card_id": 30363,
@@ -22609,6 +22585,18 @@
       "market_price_usd": 59.38,
       "market_price_as_of": "2026-11-12",
       "total_listings": 51
+    },
+    {
+      "card_id": 16060,
+      "name": "Morpeko - 206/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "206/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 59.36,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 101
     },
     {
       "card_id": 21892,
@@ -24603,6 +24591,18 @@
       "total_listings": 50
     },
     {
+      "card_id": 20807,
+      "name": "Raging Bolt ex - 208/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "208/162",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 54.83,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 104
+    },
+    {
       "card_id": 28183,
       "name": "Unown (X)",
       "set_id": 5500232,
@@ -25803,6 +25803,18 @@
       "total_listings": 67
     },
     {
+      "card_id": 35175,
+      "name": "Blastoise",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "003/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 52.3,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 14
+    },
+    {
       "card_id": 14189,
       "name": "Kirlia - SWSH271 (Prerelease) [STAFF]",
       "set_id": 5500149,
@@ -25885,18 +25897,6 @@
       "market_price_usd": 52.02,
       "market_price_as_of": "2026-10-26",
       "total_listings": 76
-    },
-    {
-      "card_id": 20785,
-      "name": "Sawsbuck - 166/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "166/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 52.02,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 152
     },
     {
       "card_id": 33317,
@@ -26343,30 +26343,6 @@
       "total_listings": 63
     },
     {
-      "card_id": 20812,
-      "name": "Gouging Fire ex - 204/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "204/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 51.1,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 77
-    },
-    {
-      "card_id": 20816,
-      "name": "Iron Crown ex - 206/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "206/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 51.1,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 93
-    },
-    {
       "card_id": 4712,
       "name": "Treecko - 8/168 (Toys R Us)",
       "set_id": 5500123,
@@ -26605,18 +26581,6 @@
       "market_price_usd": 50.54,
       "market_price_as_of": "2026-10-21",
       "total_listings": 24
-    },
-    {
-      "card_id": 20773,
-      "name": "Gengar ex - 193/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "193/162",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 50.53,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 155
     },
     {
       "card_id": 32079,
@@ -27231,6 +27195,18 @@
       "total_listings": 5
     },
     {
+      "card_id": 20773,
+      "name": "Gengar ex - 193/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "193/162",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 49.84,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 151
+    },
+    {
       "card_id": 33256,
       "name": "Omastar (Delta Species)",
       "set_id": 5500220,
@@ -27325,18 +27301,6 @@
       "market_price_usd": 49.66,
       "market_price_as_of": "2026-11-21",
       "total_listings": 27
-    },
-    {
-      "card_id": 20780,
-      "name": "Morty's Conviction - 211/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "211/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 49.6,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 84
     },
     {
       "card_id": 14196,
@@ -27567,6 +27531,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 17198,
+      "name": "Mimikyu -160/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "160/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 49.31,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 90
+    },
+    {
       "card_id": 6136,
       "name": "Whimsicott VSTAR - 065/172",
       "set_id": 5500194,
@@ -27747,18 +27723,6 @@
       "total_listings": 49
     },
     {
-      "card_id": 17193,
-      "name": "Snorlax",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "202/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 49.09,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 92
-    },
-    {
       "card_id": 38522,
       "name": "Suicune",
       "set_id": 5500044,
@@ -27769,18 +27733,6 @@
       "market_price_usd": 49.09,
       "market_price_as_of": "2026-11-21",
       "total_listings": 61
-    },
-    {
-      "card_id": 35197,
-      "name": "Pikachu",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "008/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 49.05,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 59
     },
     {
       "card_id": 31265,
@@ -28287,18 +28239,6 @@
       "total_listings": 45
     },
     {
-      "card_id": 17198,
-      "name": "Mimikyu -160/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "160/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 48.25,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 82
-    },
-    {
       "card_id": 35067,
       "name": "Golduck",
       "set_id": 5500235,
@@ -28645,6 +28585,18 @@
       "market_price_usd": 47.69,
       "market_price_as_of": "2026-10-23",
       "total_listings": 57
+    },
+    {
+      "card_id": 20780,
+      "name": "Morty's Conviction - 211/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "211/162",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 47.6,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 72
     },
     {
       "card_id": 13743,
@@ -29017,18 +28969,6 @@
       "market_price_usd": 47.09,
       "market_price_as_of": "2026-11-04",
       "total_listings": 77
-    },
-    {
-      "card_id": 35175,
-      "name": "Blastoise",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "003/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 47.09,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 21
     },
     {
       "card_id": 14658,
@@ -30135,18 +30075,6 @@
       "total_listings": 8
     },
     {
-      "card_id": 16023,
-      "name": "Plusle - 193/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "193/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 45.36,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 107
-    },
-    {
       "card_id": 30401,
       "name": "Ampharos",
       "set_id": 5500082,
@@ -30229,18 +30157,6 @@
       "market_price_usd": 45.26,
       "market_price_as_of": "2026-11-05",
       "total_listings": 45
-    },
-    {
-      "card_id": 15949,
-      "name": "Altaria ex - 253/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "253/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 45.24,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 99
     },
     {
       "card_id": 24868,
@@ -30699,18 +30615,6 @@
       "total_listings": 21
     },
     {
-      "card_id": 16027,
-      "name": "Minun - 194/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "194/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 44.8,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 125
-    },
-    {
       "card_id": 30211,
       "name": "Dialga",
       "set_id": 5500034,
@@ -30913,6 +30817,18 @@
       "market_price_usd": 44.45,
       "market_price_as_of": "2026-11-23",
       "total_listings": 225
+    },
+    {
+      "card_id": 20812,
+      "name": "Gouging Fire ex - 204/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "204/162",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 44.45,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 93
     },
     {
       "card_id": 36586,
@@ -31323,6 +31239,18 @@
       "total_listings": 134
     },
     {
+      "card_id": 20785,
+      "name": "Sawsbuck - 166/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "166/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.72,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 163
+    },
+    {
       "card_id": 17878,
       "name": "Leafeon VMAX (Secret)",
       "set_id": 5500048,
@@ -31513,6 +31441,18 @@
       "market_price_usd": 43.41,
       "market_price_as_of": "2026-11-15",
       "total_listings": 73
+    },
+    {
+      "card_id": 17193,
+      "name": "Snorlax",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "202/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.4,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 120
     },
     {
       "card_id": 31113,
@@ -31731,6 +31671,18 @@
       "total_listings": 157
     },
     {
+      "card_id": 15949,
+      "name": "Altaria ex - 253/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "253/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 43.06,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 90
+    },
+    {
       "card_id": 35878,
       "name": "Chimecho - 024 (e-League) [Winner]",
       "set_id": 5500055,
@@ -31849,18 +31801,6 @@
       "market_price_usd": 42.86,
       "market_price_as_of": "2026-11-11",
       "total_listings": 63
-    },
-    {
-      "card_id": 20756,
-      "name": "Deerling - 165/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "165/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 42.84,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 142
     },
     {
       "card_id": 30931,
@@ -32463,6 +32403,18 @@
       "total_listings": 22
     },
     {
+      "card_id": 35197,
+      "name": "Pikachu",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "008/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 41.94,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 74
+    },
+    {
       "card_id": 38731,
       "name": "Electabuzz - 1",
       "set_id": 5500186,
@@ -33025,6 +32977,18 @@
       "market_price_usd": 41.15,
       "market_price_as_of": "2026-11-01",
       "total_listings": 60
+    },
+    {
+      "card_id": 35188,
+      "name": "Venusaur",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "003/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 41.15,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 24
     },
     {
       "card_id": 12923,
@@ -33613,18 +33577,6 @@
       "market_price_usd": 40.33,
       "market_price_as_of": "2026-11-10",
       "total_listings": 79
-    },
-    {
-      "card_id": 17207,
-      "name": "Charmander - 109/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "109/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 40.32,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 131
     },
     {
       "card_id": 31294,
@@ -34515,6 +34467,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 20816,
+      "name": "Iron Crown ex - 206/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "206/162",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 39.78,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 87
+    },
+    {
       "card_id": 31524,
       "name": "Jolteon",
       "set_id": 5500173,
@@ -34549,18 +34513,6 @@
       "market_price_usd": 39.76,
       "market_price_as_of": "2026-10-27",
       "total_listings": 38
-    },
-    {
-      "card_id": 20841,
-      "name": "Walking Wake ex - 205/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "205/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 39.71,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 95
     },
     {
       "card_id": 117,
@@ -35067,18 +35019,6 @@
       "total_listings": 306
     },
     {
-      "card_id": 20722,
-      "name": "Litten - 167/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "167/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 39.09,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 125
-    },
-    {
       "card_id": 32737,
       "name": "Leafeon",
       "set_id": 5500204,
@@ -35377,6 +35317,18 @@
       "market_price_usd": 38.9,
       "market_price_as_of": "2026-11-07",
       "total_listings": 149
+    },
+    {
+      "card_id": 16027,
+      "name": "Minun - 194/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "194/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.89,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 131
     },
     {
       "card_id": 16551,
@@ -35787,6 +35739,18 @@
       "total_listings": 289
     },
     {
+      "card_id": 37631,
+      "name": "Pikachu (Blue Border)",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 38.47,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 16
+    },
+    {
       "card_id": 5091,
       "name": "Yveltal (Mega Evolution Stamped)",
       "set_id": 5500123,
@@ -36039,6 +36003,18 @@
       "total_listings": 177
     },
     {
+      "card_id": 20722,
+      "name": "Litten - 167/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "167/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 38.19,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 143
+    },
+    {
       "card_id": 21897,
       "name": "Charizard ex - 183/165",
       "set_id": 5500171,
@@ -36109,18 +36085,6 @@
       "market_price_usd": 38.13,
       "market_price_as_of": "2026-11-08",
       "total_listings": 157
-    },
-    {
-      "card_id": 17221,
-      "name": "Ditto",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "201/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 38.12,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 120
     },
     {
       "card_id": 559,
@@ -36867,6 +36831,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 20841,
+      "name": "Walking Wake ex - 205/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "205/162",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 37.23,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 90
+    },
+    {
       "card_id": 29044,
       "name": "Winona (108 Full Art)",
       "set_id": 5500095,
@@ -36901,18 +36877,6 @@
       "market_price_usd": 37.13,
       "market_price_as_of": "2026-11-17",
       "total_listings": 29
-    },
-    {
-      "card_id": 16096,
-      "name": "Steelix - 208/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "208/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 37.12,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 158
     },
     {
       "card_id": 33958,
@@ -37671,18 +37635,6 @@
       "total_listings": 49
     },
     {
-      "card_id": 20797,
-      "name": "Cinccino - 183/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "183/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 36.46,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 135
-    },
-    {
       "card_id": 19963,
       "name": "Celebi - XY187",
       "set_id": 5500177,
@@ -38127,6 +38079,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 16023,
+      "name": "Plusle - 193/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "193/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 36.01,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 148
+    },
+    {
       "card_id": 35324,
       "name": "Combusken - 016/100",
       "set_id": 5500227,
@@ -38209,6 +38173,18 @@
       "market_price_usd": 35.89,
       "market_price_as_of": "2026-10-23",
       "total_listings": 19
+    },
+    {
+      "card_id": 20756,
+      "name": "Deerling - 165/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "165/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 35.88,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 140
     },
     {
       "card_id": 6665,
@@ -38725,18 +38701,6 @@
       "market_price_usd": 35.34,
       "market_price_as_of": "2026-11-11",
       "total_listings": 103
-    },
-    {
-      "card_id": 35188,
-      "name": "Venusaur",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "003/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 35.34,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 22
     },
     {
       "card_id": 18490,
@@ -40143,6 +40107,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 17221,
+      "name": "Ditto",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "201/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.88,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 125
+    },
+    {
       "card_id": 35261,
       "name": "Pelipper (Delta Species)",
       "set_id": 5500227,
@@ -40201,6 +40177,18 @@
       "market_price_usd": 33.81,
       "market_price_as_of": "2026-10-28",
       "total_listings": 93
+    },
+    {
+      "card_id": 15927,
+      "name": "Garchomp ex - 245/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "245/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.8,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 90
     },
     {
       "card_id": 34928,
@@ -40683,30 +40671,6 @@
       "total_listings": 62
     },
     {
-      "card_id": 15927,
-      "name": "Garchomp ex - 245/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "245/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 33.35,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 91
-    },
-    {
-      "card_id": 20676,
-      "name": "Hero's Cape",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "152/162",
-      "rarity": "ACE SPEC Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 33.34,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 123
-    },
-    {
       "card_id": 26559,
       "name": "Ivysaur",
       "set_id": 5500166,
@@ -40873,6 +40837,18 @@
       "market_price_usd": 33.19,
       "market_price_as_of": "2026-11-13",
       "total_listings": 274
+    },
+    {
+      "card_id": 17207,
+      "name": "Charmander - 109/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "109/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 33.18,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 134
     },
     {
       "card_id": 33692,
@@ -41787,18 +41763,6 @@
       "total_listings": 106
     },
     {
-      "card_id": 15901,
-      "name": "Roaring Moon ex - 251/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "251/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 32.37,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 118
-    },
-    {
       "card_id": 12677,
       "name": "Lugia - 78/124 (XY Fates Collide)",
       "set_id": 5500101,
@@ -42159,18 +42123,6 @@
       "total_listings": 100
     },
     {
-      "card_id": 20799,
-      "name": "Metagross - 178/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "178/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 31.88,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 117
-    },
-    {
       "card_id": 4577,
       "name": "Zapdos - 15/62 (Cosmos Holo)",
       "set_id": 5500123,
@@ -42325,6 +42277,18 @@
       "market_price_usd": 31.75,
       "market_price_as_of": "2026-10-14",
       "total_listings": 149
+    },
+    {
+      "card_id": 17236,
+      "name": "Maushold - 210/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "210/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 31.75,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 93
     },
     {
       "card_id": 32657,
@@ -42723,16 +42687,16 @@
       "total_listings": 197
     },
     {
-      "card_id": 16003,
-      "name": "Mantyke - 189/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "189/182",
-      "rarity": "Illustration Rare",
+      "card_id": 17123,
+      "name": "Mew ex - 216/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "216/091",
+      "rarity": "Shiny Ultra Rare",
       "printing": "Holofoil",
-      "market_price_usd": 31.45,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 145
+      "market_price_usd": 31.43,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 91
     },
     {
       "card_id": 38400,
@@ -43203,18 +43167,6 @@
       "total_listings": 3
     },
     {
-      "card_id": 37631,
-      "name": "Pikachu (Blue Border)",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 30.85,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 13
-    },
-    {
       "card_id": 33178,
       "name": "Lileep (Delta Species)",
       "set_id": 5500220,
@@ -43333,18 +43285,6 @@
       "market_price_usd": 30.7,
       "market_price_as_of": "2026-11-18",
       "total_listings": 335
-    },
-    {
-      "card_id": 20869,
-      "name": "Iron Leaves ex - 203/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "203/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 30.68,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 80
     },
     {
       "card_id": 6095,
@@ -43815,18 +43755,6 @@
       "total_listings": 46
     },
     {
-      "card_id": 15944,
-      "name": "Gholdengo ex - 252/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "252/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 30.37,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 110
-    },
-    {
       "card_id": 14375,
       "name": "Zorua - 142/086",
       "set_id": 5500153,
@@ -43837,18 +43765,6 @@
       "market_price_usd": 30.34,
       "market_price_as_of": "2026-11-25",
       "total_listings": 151
-    },
-    {
-      "card_id": 17236,
-      "name": "Maushold - 210/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "210/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 30.34,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 111
     },
     {
       "card_id": 35337,
@@ -44631,6 +44547,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 20799,
+      "name": "Metagross - 178/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "178/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.96,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 154
+    },
+    {
       "card_id": 33922,
       "name": "Kabutops",
       "set_id": 5500229,
@@ -45111,6 +45039,18 @@
       "total_listings": 108
     },
     {
+      "card_id": 16096,
+      "name": "Steelix - 208/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "208/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.5,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 195
+    },
+    {
       "card_id": 30205,
       "name": "Empoleon",
       "set_id": 5500034,
@@ -45387,18 +45327,6 @@
       "total_listings": 183
     },
     {
-      "card_id": 15934,
-      "name": "Yveltal - 205/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "205/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 29.19,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 171
-    },
-    {
       "card_id": 14116,
       "name": "Marnie - SWSH121",
       "set_id": 5500149,
@@ -45591,6 +45519,18 @@
       "total_listings": 44
     },
     {
+      "card_id": 20797,
+      "name": "Cinccino - 183/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "183/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 29.07,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 145
+    },
+    {
       "card_id": 33185,
       "name": "Trapinch (Delta Species)",
       "set_id": 5500220,
@@ -45697,18 +45637,6 @@
       "market_price_usd": 28.97,
       "market_price_as_of": "2026-11-17",
       "total_listings": 88
-    },
-    {
-      "card_id": 20737,
-      "name": "Arbok - 176/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "176/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 28.96,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 129
     },
     {
       "card_id": 38281,
@@ -46155,16 +46083,16 @@
       "total_listings": 120
     },
     {
-      "card_id": 17123,
-      "name": "Mew ex - 216/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "216/091",
-      "rarity": "Shiny Ultra Rare",
+      "card_id": 20869,
+      "name": "Iron Leaves ex - 203/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "203/162",
+      "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
       "market_price_usd": 28.52,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 111
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 108
     },
     {
       "card_id": 34980,
@@ -46369,18 +46297,6 @@
       "market_price_usd": 28.34,
       "market_price_as_of": "2026-11-01",
       "total_listings": 81
-    },
-    {
-      "card_id": 20745,
-      "name": "Lickitung - 180/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "180/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 28.33,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 132
     },
     {
       "card_id": 6159,
@@ -46731,18 +46647,6 @@
       "total_listings": 12
     },
     {
-      "card_id": 15940,
-      "name": "Minior - 201/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "201/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 28.08,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 111
-    },
-    {
       "card_id": 19923,
       "name": "M Beedrill EX",
       "set_id": 5500177,
@@ -46765,6 +46669,18 @@
       "market_price_usd": 28.08,
       "market_price_as_of": "2026-11-18",
       "total_listings": 349
+    },
+    {
+      "card_id": 15901,
+      "name": "Roaring Moon ex - 251/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "251/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 28.07,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 93
     },
     {
       "card_id": 32138,
@@ -46899,18 +46815,6 @@
       "total_listings": 6
     },
     {
-      "card_id": 20820,
-      "name": "Bianca's Devotion - 209/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "209/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 27.98,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 63
-    },
-    {
       "card_id": 13057,
       "name": "Ninetales - 17/95 (Call of Legends)",
       "set_id": 5500101,
@@ -47031,6 +46935,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 20676,
+      "name": "Hero's Cape",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "152/162",
+      "rarity": "ACE SPEC Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.83,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 155
+    },
+    {
       "card_id": 27499,
       "name": "Minun",
       "set_id": 5500063,
@@ -47065,6 +46981,18 @@
       "market_price_usd": 27.82,
       "market_price_as_of": "2026-10-31",
       "total_listings": 77
+    },
+    {
+      "card_id": 15991,
+      "name": "Aipom - 211/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "211/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.78,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 109
     },
     {
       "card_id": 30228,
@@ -47283,18 +47211,6 @@
       "total_listings": 69
     },
     {
-      "card_id": 15991,
-      "name": "Aipom - 211/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "211/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 27.55,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 87
-    },
-    {
       "card_id": 16985,
       "name": "Latios GX (Full Art)",
       "set_id": 5500211,
@@ -47305,6 +47221,18 @@
       "market_price_usd": 27.55,
       "market_price_as_of": "2026-10-22",
       "total_listings": 56
+    },
+    {
+      "card_id": 20745,
+      "name": "Lickitung - 180/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "180/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 27.54,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 150
     },
     {
       "card_id": 29010,
@@ -47713,18 +47641,6 @@
       "market_price_usd": 27.32,
       "market_price_as_of": "2026-11-14",
       "total_listings": 57
-    },
-    {
-      "card_id": 17188,
-      "name": "Tandemaus - 209/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "209/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 27.31,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 86
     },
     {
       "card_id": 2136410,
@@ -48447,18 +48363,6 @@
       "total_listings": 45
     },
     {
-      "card_id": 20768,
-      "name": "Drampa - 184/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "184/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 26.82,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 162
-    },
-    {
       "card_id": 21274,
       "name": "Hisuian Lilligant V (Alternate Full Art)",
       "set_id": 5500099,
@@ -48637,6 +48541,18 @@
       "market_price_usd": 26.67,
       "market_price_as_of": "2026-10-26",
       "total_listings": 65
+    },
+    {
+      "card_id": 15944,
+      "name": "Gholdengo ex - 252/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "252/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.67,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 131
     },
     {
       "card_id": 19688,
@@ -48819,6 +48735,18 @@
       "total_listings": 89
     },
     {
+      "card_id": 16002,
+      "name": "Joltik - 196/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "196/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.53,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 137
+    },
+    {
       "card_id": 27988,
       "name": "Gyarados EX",
       "set_id": 5500188,
@@ -48975,6 +48903,18 @@
       "total_listings": 160
     },
     {
+      "card_id": 16003,
+      "name": "Mantyke - 189/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "189/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.44,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 180
+    },
+    {
       "card_id": 16533,
       "name": "Venusaur & Snivy GX",
       "set_id": 5500206,
@@ -48985,18 +48925,6 @@
       "market_price_usd": 26.44,
       "market_price_as_of": "2026-10-21",
       "total_listings": 93
-    },
-    {
-      "card_id": 15988,
-      "name": "Golisopod ex - 246/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "246/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 26.43,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 72
     },
     {
       "card_id": 17827,
@@ -49201,6 +49129,18 @@
       "market_price_usd": 26.29,
       "market_price_as_of": "2026-11-11",
       "total_listings": 251
+    },
+    {
+      "card_id": 17188,
+      "name": "Tandemaus - 209/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "209/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 26.25,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 99
     },
     {
       "card_id": 13450,
@@ -49645,6 +49585,18 @@
       "market_price_usd": 25.96,
       "market_price_as_of": "2026-10-22",
       "total_listings": 38
+    },
+    {
+      "card_id": 20820,
+      "name": "Bianca's Devotion - 209/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "209/162",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 25.94,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 64
     },
     {
       "card_id": 34015,
@@ -50377,6 +50329,18 @@
       "market_price_usd": 25.44,
       "market_price_as_of": "2026-10-27",
       "total_listings": 10
+    },
+    {
+      "card_id": 37651,
+      "name": "Squirtle (Blue Border)",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 25.43,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 11
     },
     {
       "card_id": 13030,
@@ -51387,6 +51351,18 @@
       "total_listings": 110
     },
     {
+      "card_id": 35158,
+      "name": "Mewtwo",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "014/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 24.79,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 37
+    },
+    {
       "card_id": 20055,
       "name": "Froakie - XY03",
       "set_id": 5500177,
@@ -51409,6 +51385,18 @@
       "market_price_usd": 24.77,
       "market_price_as_of": "2026-11-24",
       "total_listings": 183
+    },
+    {
+      "card_id": 15940,
+      "name": "Minior - 201/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "201/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 24.76,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 140
     },
     {
       "card_id": 20020,
@@ -51831,30 +51819,6 @@
       "total_listings": 58
     },
     {
-      "card_id": 16002,
-      "name": "Joltik - 196/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "196/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 24.44,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 134
-    },
-    {
-      "card_id": 17152,
-      "name": "Iono - 237/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "237/091",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 24.44,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 162
-    },
-    {
       "card_id": 36904,
       "name": "Pachirisu - DP04",
       "set_id": 5500116,
@@ -51889,6 +51853,18 @@
       "market_price_usd": 24.43,
       "market_price_as_of": "2026-11-07",
       "total_listings": 24
+    },
+    {
+      "card_id": 37639,
+      "name": "Bulbasaur (Blue Border)",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 24.43,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 13
     },
     {
       "card_id": 13962,
@@ -52261,18 +52237,6 @@
       "market_price_usd": 24.16,
       "market_price_as_of": "2026-10-25",
       "total_listings": 37
-    },
-    {
-      "card_id": 20728,
-      "name": "Minccino - 182/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "182/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 24.15,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 148
     },
     {
       "card_id": 21617,
@@ -53113,6 +53077,18 @@
       "market_price_usd": 23.49,
       "market_price_as_of": "2026-11-07",
       "total_listings": 67
+    },
+    {
+      "card_id": 37636,
+      "name": "Pikachu",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 23.49,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 16
     },
     {
       "card_id": 31311,
@@ -54447,6 +54423,18 @@
       "total_listings": 13
     },
     {
+      "card_id": 20768,
+      "name": "Drampa - 184/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "184/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.68,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 189
+    },
+    {
       "card_id": 35505,
       "name": "Team Magma's Camerupt",
       "set_id": 5500225,
@@ -54639,18 +54627,6 @@
       "total_listings": 5
     },
     {
-      "card_id": 35158,
-      "name": "Mewtwo",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "014/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 22.54,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 31
-    },
-    {
       "card_id": 34824,
       "name": "Trapinch - 068/101 (Delta Species)",
       "set_id": 5500221,
@@ -54745,18 +54721,6 @@
       "market_price_usd": 22.47,
       "market_price_as_of": "2026-10-15",
       "total_listings": 6
-    },
-    {
-      "card_id": 17196,
-      "name": "Jigglypuff",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "198/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 22.46,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 96
     },
     {
       "card_id": 32823,
@@ -55059,18 +55023,6 @@
       "total_listings": 237
     },
     {
-      "card_id": 16069,
-      "name": "Magby - 186/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "186/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 22.23,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 121
-    },
-    {
       "card_id": 25845,
       "name": "Voltorb (115)",
       "set_id": 5500011,
@@ -55359,6 +55311,18 @@
       "total_listings": 88
     },
     {
+      "card_id": 20737,
+      "name": "Arbok - 176/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "176/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 22.02,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 183
+    },
+    {
       "card_id": 19253,
       "name": "Galarian Perrserker V (Alternate Full Art)",
       "set_id": 5500024,
@@ -55453,6 +55417,18 @@
       "market_price_usd": 21.97,
       "market_price_as_of": "2026-10-15",
       "total_listings": 47
+    },
+    {
+      "card_id": 15988,
+      "name": "Golisopod ex - 246/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "246/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.96,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 73
     },
     {
       "card_id": 23062,
@@ -55861,18 +55837,6 @@
       "market_price_usd": 21.74,
       "market_price_as_of": "2026-11-18",
       "total_listings": 214
-    },
-    {
-      "card_id": 37651,
-      "name": "Squirtle (Blue Border)",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 21.74,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 19
     },
     {
       "card_id": 37671,
@@ -56317,6 +56281,18 @@
       "market_price_usd": 21.39,
       "market_price_as_of": "2026-11-11",
       "total_listings": 105
+    },
+    {
+      "card_id": 15934,
+      "name": "Yveltal - 205/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "205/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 21.38,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 217
     },
     {
       "card_id": 37467,
@@ -57087,18 +57063,6 @@
       "total_listings": 195
     },
     {
-      "card_id": 17134,
-      "name": "Clive - 236/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "236/091",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 20.96,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 128
-    },
-    {
       "card_id": 29160,
       "name": "Weavile G",
       "set_id": 5500008,
@@ -57133,6 +57097,18 @@
       "market_price_usd": 20.96,
       "market_price_as_of": "2026-11-25",
       "total_listings": 505
+    },
+    {
+      "card_id": 16024,
+      "name": "Maushold ex - 233/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "233/182",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 20.93,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 88
     },
     {
       "card_id": 6163,
@@ -57255,18 +57231,6 @@
       "total_listings": 131
     },
     {
-      "card_id": 16037,
-      "name": "Garbodor - 204/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "204/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 20.84,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 122
-    },
-    {
       "card_id": 16240,
       "name": "Miraidon ex - 244/198",
       "set_id": 5500032,
@@ -57277,18 +57241,6 @@
       "market_price_usd": 20.84,
       "market_price_as_of": "2026-10-14",
       "total_listings": 270
-    },
-    {
-      "card_id": 15943,
-      "name": "Swablu - 213/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "213/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 20.83,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 186
     },
     {
       "card_id": 17562,
@@ -58141,18 +58093,6 @@
       "market_price_usd": 20.45,
       "market_price_as_of": "2026-11-04",
       "total_listings": 2
-    },
-    {
-      "card_id": 15965,
-      "name": "Iron Valiant ex - 249/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "249/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 20.44,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 116
     },
     {
       "card_id": 20099,
@@ -59067,18 +59007,6 @@
       "total_listings": 137
     },
     {
-      "card_id": 37639,
-      "name": "Bulbasaur (Blue Border)",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 20.03,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 11
-    },
-    {
       "card_id": 30258,
       "name": "Staraptor",
       "set_id": 5500034,
@@ -59269,18 +59197,6 @@
       "market_price_usd": 19.99,
       "market_price_as_of": "2026-10-28",
       "total_listings": 0
-    },
-    {
-      "card_id": 17237,
-      "name": "Slowpoke",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "116/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 19.99,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 95
     },
     {
       "card_id": 23993,
@@ -59847,18 +59763,6 @@
       "total_listings": 276
     },
     {
-      "card_id": 17169,
-      "name": "Lucario",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "174/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 19.84,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 123
-    },
-    {
       "card_id": 27531,
       "name": "Butterfree FB",
       "set_id": 5500063,
@@ -60123,18 +60027,6 @@
       "total_listings": 9
     },
     {
-      "card_id": 20824,
-      "name": "Eri - 210/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "210/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 19.74,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 76
-    },
-    {
       "card_id": 20926,
       "name": "Magikarp",
       "set_id": 5500094,
@@ -60157,6 +60049,18 @@
       "market_price_usd": 19.74,
       "market_price_as_of": "2026-10-23",
       "total_listings": 9
+    },
+    {
+      "card_id": 17152,
+      "name": "Iono - 237/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "237/091",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.73,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 197
     },
     {
       "card_id": 29047,
@@ -60289,18 +60193,6 @@
       "market_price_usd": 19.69,
       "market_price_as_of": "2026-11-10",
       "total_listings": 149
-    },
-    {
-      "card_id": 37636,
-      "name": "Pikachu",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 19.69,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 14
     },
     {
       "card_id": 16531,
@@ -60649,6 +60541,18 @@
       "market_price_usd": 19.49,
       "market_price_as_of": "2026-10-30",
       "total_listings": 56
+    },
+    {
+      "card_id": 16069,
+      "name": "Magby - 186/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "186/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.48,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 167
     },
     {
       "card_id": 16514,
@@ -61047,6 +60951,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 17237,
+      "name": "Slowpoke",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "116/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.31,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 107
+    },
+    {
       "card_id": 19616,
       "name": "Dedenne (142)",
       "set_id": 5500141,
@@ -61081,18 +60997,6 @@
       "market_price_usd": 19.29,
       "market_price_as_of": "2026-10-26",
       "total_listings": 46
-    },
-    {
-      "card_id": 20798,
-      "name": "Iron Boulder ex - 207/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "207/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 19.29,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 133
     },
     {
       "card_id": 22008,
@@ -61201,6 +61105,18 @@
       "market_price_usd": 19.26,
       "market_price_as_of": "2026-10-14",
       "total_listings": 69
+    },
+    {
+      "card_id": 15965,
+      "name": "Iron Valiant ex - 249/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "249/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.25,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 138
     },
     {
       "card_id": 19797,
@@ -61395,18 +61311,6 @@
       "total_listings": 114
     },
     {
-      "card_id": 17262,
-      "name": "Raichu - 132/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "132/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 19.16,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 102
-    },
-    {
       "card_id": 35394,
       "name": "Vibrava - 22/97",
       "set_id": 5500224,
@@ -61597,6 +61501,18 @@
       "market_price_usd": 19.06,
       "market_price_as_of": "2026-10-24",
       "total_listings": 14
+    },
+    {
+      "card_id": 17262,
+      "name": "Raichu - 132/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "132/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 19.06,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 114
     },
     {
       "card_id": 24831,
@@ -61947,16 +61863,16 @@
       "total_listings": 1
     },
     {
-      "card_id": 16024,
-      "name": "Maushold ex - 233/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "233/182",
-      "rarity": "Ultra Rare",
+      "card_id": 17196,
+      "name": "Jigglypuff",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "198/091",
+      "rarity": "Shiny Rare",
       "printing": "Holofoil",
       "market_price_usd": 18.85,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 57
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 118
     },
     {
       "card_id": 26545,
@@ -62463,6 +62379,18 @@
       "total_listings": 53
     },
     {
+      "card_id": 20751,
+      "name": "Snom - 168/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "168/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.59,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 182
+    },
+    {
       "card_id": 6689,
       "name": "Ace Trainer - 69/98 (Regional Championships) [Staff]",
       "set_id": 5500087,
@@ -62557,6 +62485,18 @@
       "market_price_usd": 18.54,
       "market_price_as_of": "2026-10-28",
       "total_listings": 6
+    },
+    {
+      "card_id": 15921,
+      "name": "Tapu Koko ex - 247/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "247/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.54,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 89
     },
     {
       "card_id": 32040,
@@ -62859,6 +62799,18 @@
       "total_listings": 121
     },
     {
+      "card_id": 17169,
+      "name": "Lucario",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "174/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 18.44,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 121
+    },
+    {
       "card_id": 17847,
       "name": "Jolteon V (Full Art)",
       "set_id": 5500048,
@@ -62979,6 +62931,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 35184,
+      "name": "Charmander",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "001/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 18.39,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 54
+    },
+    {
       "card_id": 34660,
       "name": "Metang - 21/101",
       "set_id": 5500231,
@@ -62989,6 +62953,18 @@
       "market_price_usd": 18.38,
       "market_price_as_of": "2026-11-14",
       "total_listings": 81
+    },
+    {
+      "card_id": 35196,
+      "name": "Bulbasaur",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "001/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 18.38,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 61
     },
     {
       "card_id": 18745,
@@ -63037,18 +63013,6 @@
       "market_price_usd": 18.34,
       "market_price_as_of": "2026-10-26",
       "total_listings": 13
-    },
-    {
-      "card_id": 35184,
-      "name": "Charmander",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "001/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 18.34,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 38
     },
     {
       "card_id": 35431,
@@ -63855,6 +63819,18 @@
       "total_listings": 159
     },
     {
+      "card_id": 20728,
+      "name": "Minccino - 182/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "182/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.96,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 153
+    },
+    {
       "card_id": 24456,
       "name": "Shiftry GX (Secret)",
       "set_id": 5500088,
@@ -64023,6 +63999,18 @@
       "total_listings": 40
     },
     {
+      "card_id": 37625,
+      "name": "Bulbasaur",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 17.91,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 15
+    },
+    {
       "card_id": 17834,
       "name": "Duraludon V (Alternate Full Art)",
       "set_id": 5500048,
@@ -64093,18 +64081,6 @@
       "market_price_usd": 17.87,
       "market_price_as_of": "2026-11-23",
       "total_listings": 73
-    },
-    {
-      "card_id": 15921,
-      "name": "Tapu Koko ex - 247/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "247/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 17.87,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 83
     },
     {
       "card_id": 4048,
@@ -64393,18 +64369,6 @@
       "market_price_usd": 17.73,
       "market_price_as_of": "2026-11-10",
       "total_listings": 76
-    },
-    {
-      "card_id": 20751,
-      "name": "Snom - 168/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "168/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 17.72,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 141
     },
     {
       "card_id": 35667,
@@ -64815,6 +64779,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 17134,
+      "name": "Clive - 236/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "236/091",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.54,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 160
+    },
+    {
       "card_id": 19617,
       "name": "Alolan Dugtrio",
       "set_id": 5500141,
@@ -65007,18 +64983,6 @@
       "total_listings": 219
     },
     {
-      "card_id": 15966,
-      "name": "Brute Bonnet - 207/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "207/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 17.44,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 163
-    },
-    {
       "card_id": 21397,
       "name": "Machamp VMAX (Secret)",
       "set_id": 5500099,
@@ -65137,6 +65101,18 @@
       "market_price_usd": 17.4,
       "market_price_as_of": "2026-10-21",
       "total_listings": 55
+    },
+    {
+      "card_id": 16037,
+      "name": "Garbodor - 204/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "204/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 17.4,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 154
     },
     {
       "card_id": 33907,
@@ -65631,18 +65607,6 @@
       "total_listings": 132
     },
     {
-      "card_id": 35196,
-      "name": "Bulbasaur",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "001/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 17.16,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 50
-    },
-    {
       "card_id": 13416,
       "name": "Wellspring Mask Ogerpon ex - 152/131",
       "set_id": 5500017,
@@ -65653,18 +65617,6 @@
       "market_price_usd": 17.14,
       "market_price_as_of": "2026-11-26",
       "total_listings": 168
-    },
-    {
-      "card_id": 17293,
-      "name": "Slowbro",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "117/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 17.14,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 75
     },
     {
       "card_id": 31528,
@@ -66339,6 +66291,18 @@
       "total_listings": 39
     },
     {
+      "card_id": 15943,
+      "name": "Swablu - 213/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "213/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.9,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 199
+    },
+    {
       "card_id": 23620,
       "name": "Snorlax",
       "set_id": 5500195,
@@ -66783,6 +66747,18 @@
       "total_listings": 27
     },
     {
+      "card_id": 17293,
+      "name": "Slowbro",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "117/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.71,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 96
+    },
+    {
       "card_id": 6542,
       "name": "Volcarona - 15/114 (Pokemon League) [3rd Place]",
       "set_id": 5500087,
@@ -66817,18 +66793,6 @@
       "market_price_usd": 16.7,
       "market_price_as_of": "2026-11-03",
       "total_listings": 16
-    },
-    {
-      "card_id": 35201,
-      "name": "Snorlax",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "016/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 16.69,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 42
     },
     {
       "card_id": 18018,
@@ -67479,6 +67443,18 @@
       "total_listings": 61
     },
     {
+      "card_id": 35202,
+      "name": "Squirtle",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "001/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 16.49,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 43
+    },
+    {
       "card_id": 35726,
       "name": "Torkoal",
       "set_id": 5500167,
@@ -67585,6 +67561,18 @@
       "market_price_usd": 16.43,
       "market_price_as_of": "2026-11-04",
       "total_listings": 130
+    },
+    {
+      "card_id": 35201,
+      "name": "Snorlax",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "016/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 16.42,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 45
     },
     {
       "card_id": 28851,
@@ -67705,6 +67693,18 @@
       "market_price_usd": 16.36,
       "market_price_as_of": "2026-11-10",
       "total_listings": 144
+    },
+    {
+      "card_id": 37654,
+      "name": "Charmander (Blue Border)",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 16.36,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 9
     },
     {
       "card_id": 24815,
@@ -67983,18 +67983,6 @@
       "total_listings": 41
     },
     {
-      "card_id": 37625,
-      "name": "Bulbasaur",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 16.24,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 11
-    },
-    {
       "card_id": 33873,
       "name": "Magneton",
       "set_id": 5500229,
@@ -68079,6 +68067,18 @@
       "total_listings": 20
     },
     {
+      "card_id": 15966,
+      "name": "Brute Bonnet - 207/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "207/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.19,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 171
+    },
+    {
       "card_id": 24279,
       "name": "Mudkip (32)",
       "set_id": 5500088,
@@ -68101,6 +68101,18 @@
       "market_price_usd": 16.17,
       "market_price_as_of": "2026-10-24",
       "total_listings": 1
+    },
+    {
+      "card_id": 20880,
+      "name": "Gouging Fire ex - 214/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "214/162",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 16.17,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 68
     },
     {
       "card_id": 21369,
@@ -68197,18 +68209,6 @@
       "market_price_usd": 16.13,
       "market_price_as_of": "2026-11-16",
       "total_listings": 78
-    },
-    {
-      "card_id": 20790,
-      "name": "Reuniclus - 171/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "171/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 16.12,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 93
     },
     {
       "card_id": 27037,
@@ -68317,18 +68317,6 @@
       "market_price_usd": 16.08,
       "market_price_as_of": "2026-11-02",
       "total_listings": 142
-    },
-    {
-      "card_id": 35203,
-      "name": "Gyarados",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "007/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 16.08,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 44
     },
     {
       "card_id": 15451,
@@ -68547,18 +68535,6 @@
       "total_listings": 66
     },
     {
-      "card_id": 16038,
-      "name": "Loudred - 212/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "212/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 16.0,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 144
-    },
-    {
       "card_id": 34294,
       "name": "Chikorita",
       "set_id": 5500102,
@@ -68641,18 +68617,6 @@
       "market_price_usd": 15.96,
       "market_price_as_of": "2026-11-01",
       "total_listings": 268
-    },
-    {
-      "card_id": 17276,
-      "name": "Lechonk - 207/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "207/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 15.95,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 111
     },
     {
       "card_id": 29191,
@@ -69039,18 +69003,6 @@
       "total_listings": 103
     },
     {
-      "card_id": 17168,
-      "name": "Shinx",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "135/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 15.8,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 117
-    },
-    {
       "card_id": 20101,
       "name": "Zygarde (Prerelease)",
       "set_id": 5500177,
@@ -69325,6 +69277,18 @@
       "market_price_usd": 15.72,
       "market_price_as_of": "2026-11-10",
       "total_listings": 162
+    },
+    {
+      "card_id": 35203,
+      "name": "Gyarados",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "007/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 15.72,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 36
     },
     {
       "card_id": 6530,
@@ -69639,18 +69603,6 @@
       "total_listings": 28
     },
     {
-      "card_id": 35202,
-      "name": "Squirtle",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "001/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 15.61,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 35
-    },
-    {
       "card_id": 27323,
       "name": "Battle Reporter (109 Full Art)",
       "set_id": 5500027,
@@ -69697,6 +69649,18 @@
       "market_price_usd": 15.6,
       "market_price_as_of": "2026-11-09",
       "total_listings": 128
+    },
+    {
+      "card_id": 37643,
+      "name": "Squirtle",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 15.6,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 5
     },
     {
       "card_id": 4552,
@@ -69829,6 +69793,18 @@
       "market_price_usd": 15.55,
       "market_price_as_of": "2026-10-17",
       "total_listings": 116
+    },
+    {
+      "card_id": 20824,
+      "name": "Eri - 210/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "210/162",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.53,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 113
     },
     {
       "card_id": 21654,
@@ -70143,18 +70119,6 @@
       "total_listings": 35
     },
     {
-      "card_id": 20776,
-      "name": "Salvatore - 212/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "212/162",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 15.42,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 74
-    },
-    {
       "card_id": 23260,
       "name": "Phoebe (Full Art)",
       "set_id": 5500041,
@@ -70189,18 +70153,6 @@
       "market_price_usd": 15.4,
       "market_price_as_of": "2026-10-26",
       "total_listings": 41
-    },
-    {
-      "card_id": 20744,
-      "name": "Grotle - 164/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "164/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 15.4,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 59
     },
     {
       "card_id": 31297,
@@ -70249,18 +70201,6 @@
       "market_price_usd": 15.36,
       "market_price_as_of": "2026-11-07",
       "total_listings": 57
-    },
-    {
-      "card_id": 15956,
-      "name": "Parasol Lady - 255/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "255/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 15.35,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 160
     },
     {
       "card_id": 36660,
@@ -70659,6 +70599,18 @@
       "total_listings": 29
     },
     {
+      "card_id": 17173,
+      "name": "Miraidon ex",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "243/091",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.18,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 98
+    },
+    {
       "card_id": 2153425,
       "name": "Roxie's Performance - 121/086",
       "set_id": 5500213,
@@ -71053,6 +71005,18 @@
       "market_price_usd": 15.05,
       "market_price_as_of": "2026-11-04",
       "total_listings": 302
+    },
+    {
+      "card_id": 20798,
+      "name": "Iron Boulder ex - 207/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "207/162",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 15.04,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 135
     },
     {
       "card_id": 33082,
@@ -71544,18 +71508,6 @@
       "printing": "Holofoil",
       "market_price_usd": 14.98,
       "market_price_as_of": "2026-11-25",
-      "total_listings": 107
-    },
-    {
-      "card_id": 15912,
-      "name": "Garchomp ex - 260/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "260/182",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.98,
-      "market_price_as_of": "2026-10-12",
       "total_listings": 107
     },
     {
@@ -72123,18 +72075,6 @@
       "total_listings": 222
     },
     {
-      "card_id": 20880,
-      "name": "Gouging Fire ex - 214/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "214/162",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.76,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 83
-    },
-    {
       "card_id": 21136,
       "name": "Sonia (Secret)",
       "set_id": 5500094,
@@ -72145,18 +72085,6 @@
       "market_price_usd": 14.76,
       "market_price_as_of": "2026-10-20",
       "total_listings": 55
-    },
-    {
-      "card_id": 37643,
-      "name": "Squirtle",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 14.76,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 13
     },
     {
       "card_id": 38279,
@@ -72267,18 +72195,6 @@
       "total_listings": 10
     },
     {
-      "card_id": 15964,
-      "name": "Porygon-Z - 214/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "214/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.72,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 185
-    },
-    {
       "card_id": 1785,
       "name": "Vulpix - 2019 (Kaya Lichtleitner)",
       "set_id": 5500029,
@@ -72375,6 +72291,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 20776,
+      "name": "Salvatore - 212/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "212/162",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.69,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 67
+    },
+    {
       "card_id": 27535,
       "name": "Skarmory FB",
       "set_id": 5500063,
@@ -72421,6 +72349,18 @@
       "market_price_usd": 14.68,
       "market_price_as_of": "2026-10-22",
       "total_listings": 28
+    },
+    {
+      "card_id": 35218,
+      "name": "Articuno",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "009/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 14.68,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 30
     },
     {
       "card_id": 878,
@@ -72711,18 +72651,6 @@
       "total_listings": 124
     },
     {
-      "card_id": 17173,
-      "name": "Miraidon ex",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "243/091",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.6,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 125
-    },
-    {
       "card_id": 1169,
       "name": "Chansey - 2011 (Ross Cawthon)",
       "set_id": 5500029,
@@ -72867,6 +72795,18 @@
       "total_listings": 126
     },
     {
+      "card_id": 20887,
+      "name": "Raging Bolt ex - 218/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "218/162",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.54,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 108
+    },
+    {
       "card_id": 35040,
       "name": "Omanyte",
       "set_id": 5500235,
@@ -72913,18 +72853,6 @@
       "market_price_usd": 14.53,
       "market_price_as_of": "2026-11-07",
       "total_listings": 67
-    },
-    {
-      "card_id": 35218,
-      "name": "Articuno",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "009/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 14.53,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 22
     },
     {
       "card_id": 13388,
@@ -73119,18 +73047,6 @@
       "total_listings": 73
     },
     {
-      "card_id": 37654,
-      "name": "Charmander (Blue Border)",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 14.46,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 14
-    },
-    {
       "card_id": 13813,
       "name": "Beheeyem (Master Ball Pattern)",
       "set_id": 5500093,
@@ -73263,18 +73179,6 @@
       "total_listings": 2
     },
     {
-      "card_id": 17202,
-      "name": "Abra",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "148/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.38,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 92
-    },
-    {
       "card_id": 21893,
       "name": "Ninetales ex - 186/165",
       "set_id": 5500171,
@@ -73323,16 +73227,16 @@
       "total_listings": 143
     },
     {
-      "card_id": 20887,
-      "name": "Raging Bolt ex - 218/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "218/162",
-      "rarity": "Hyper Rare",
+      "card_id": 15964,
+      "name": "Porygon-Z - 214/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "214/182",
+      "rarity": "Illustration Rare",
       "printing": "Holofoil",
       "market_price_usd": 14.37,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 97
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 226
     },
     {
       "card_id": 32036,
@@ -74031,6 +73935,18 @@
       "total_listings": 109
     },
     {
+      "card_id": 16038,
+      "name": "Loudred - 212/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "212/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.13,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 180
+    },
+    {
       "card_id": 14763,
       "name": "Phione - SM220 (Prerelease)",
       "set_id": 5500076,
@@ -74053,6 +73969,18 @@
       "market_price_usd": 14.12,
       "market_price_as_of": "2026-10-14",
       "total_listings": 168
+    },
+    {
+      "card_id": 15912,
+      "name": "Garchomp ex - 260/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "260/182",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.12,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 112
     },
     {
       "card_id": 32121,
@@ -74173,18 +74101,6 @@
       "market_price_usd": 14.09,
       "market_price_as_of": "2026-10-23",
       "total_listings": 0
-    },
-    {
-      "card_id": 16019,
-      "name": "Wimpod - 191/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "191/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.08,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 139
     },
     {
       "card_id": 31593,
@@ -74331,6 +74247,18 @@
       "total_listings": 24
     },
     {
+      "card_id": 17210,
+      "name": "Entei",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "112/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 14.03,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 99
+    },
+    {
       "card_id": 27948,
       "name": "Darkrai EX",
       "set_id": 5500188,
@@ -74353,18 +74281,6 @@
       "market_price_usd": 14.03,
       "market_price_as_of": "2026-10-18",
       "total_listings": 285
-    },
-    {
-      "card_id": 17165,
-      "name": "Charmeleon - 110/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "110/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 14.02,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 78
     },
     {
       "card_id": 1860,
@@ -74955,6 +74871,18 @@
       "total_listings": 33
     },
     {
+      "card_id": 17250,
+      "name": "Koraidon ex",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "245/091",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.82,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 95
+    },
+    {
       "card_id": 36340,
       "name": "Dark Dragonair",
       "set_id": 5500190,
@@ -75361,18 +75289,6 @@
       "market_price_usd": 13.66,
       "market_price_as_of": "2026-10-22",
       "total_listings": 66
-    },
-    {
-      "card_id": 17149,
-      "name": "Penny",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "239/091",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 13.65,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 225
     },
     {
       "card_id": 19999,
@@ -76119,6 +76035,18 @@
       "total_listings": 35
     },
     {
+      "card_id": 20744,
+      "name": "Grotle - 164/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "164/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.38,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 77
+    },
+    {
       "card_id": 31832,
       "name": "Sceptile (30)",
       "set_id": 5500096,
@@ -76249,6 +76177,18 @@
       "market_price_usd": 13.32,
       "market_price_as_of": "2026-11-06",
       "total_listings": 176
+    },
+    {
+      "card_id": 37630,
+      "name": "Gyarados",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 13.32,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 9
     },
     {
       "card_id": 29648,
@@ -76911,6 +76851,18 @@
       "total_listings": 0
     },
     {
+      "card_id": 17276,
+      "name": "Lechonk - 207/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "207/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 13.08,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 156
+    },
+    {
       "card_id": 19371,
       "name": "Wigglytuff",
       "set_id": 5500191,
@@ -77173,18 +77125,6 @@
       "market_price_usd": 13.0,
       "market_price_as_of": "2026-10-28",
       "total_listings": 8
-    },
-    {
-      "card_id": 15922,
-      "name": "Gimmighoul - 198/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "198/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 13.0,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 216
     },
     {
       "card_id": 17499,
@@ -77511,18 +77451,6 @@
       "total_listings": 18
     },
     {
-      "card_id": 17284,
-      "name": "Riolu",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "173/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.91,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 111
-    },
-    {
       "card_id": 34627,
       "name": "Ancient Tomb",
       "set_id": 5500231,
@@ -77533,18 +77461,6 @@
       "market_price_usd": 12.91,
       "market_price_as_of": "2026-11-14",
       "total_listings": 58
-    },
-    {
-      "card_id": 35219,
-      "name": "Scyther",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "006/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 12.91,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 52
     },
     {
       "card_id": 38591,
@@ -77907,18 +77823,6 @@
       "total_listings": 164
     },
     {
-      "card_id": 17210,
-      "name": "Entei",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "112/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.79,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 92
-    },
-    {
       "card_id": 2155087,
       "name": "Ampharos - 075",
       "set_id": 5500111,
@@ -78073,6 +77977,18 @@
       "market_price_usd": 12.75,
       "market_price_as_of": "2026-11-22",
       "total_listings": 21
+    },
+    {
+      "card_id": 17277,
+      "name": "Dachsbun - 161/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "161/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.74,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 67
     },
     {
       "card_id": 18742,
@@ -78483,6 +78399,18 @@
       "total_listings": 63
     },
     {
+      "card_id": 35221,
+      "name": "Hitmonchan",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "012/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 12.62,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 32
+    },
+    {
       "card_id": 14507,
       "name": "Gothitelle (Master Ball Pattern)",
       "set_id": 5500153,
@@ -78519,18 +78447,6 @@
       "total_listings": 194
     },
     {
-      "card_id": 17250,
-      "name": "Koraidon ex",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "245/091",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.6,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 117
-    },
-    {
       "card_id": 549,
       "name": "Larvitar - 2005 (Takashi Yoneda)",
       "set_id": 5500029,
@@ -78553,18 +78469,6 @@
       "market_price_usd": 12.59,
       "market_price_as_of": "2026-10-26",
       "total_listings": 28
-    },
-    {
-      "card_id": 20769,
-      "name": "Chatot - 181/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "181/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.59,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 147
     },
     {
       "card_id": 26667,
@@ -78745,6 +78649,18 @@
       "market_price_usd": 12.53,
       "market_price_as_of": "2026-10-22",
       "total_listings": 28
+    },
+    {
+      "card_id": 17165,
+      "name": "Charmeleon - 110/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "110/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.53,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 87
     },
     {
       "card_id": 17476,
@@ -79227,18 +79143,6 @@
       "total_listings": 37
     },
     {
-      "card_id": 15945,
-      "name": "Aegislash - 210/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "210/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.41,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 169
-    },
-    {
       "card_id": 6223,
       "name": "Boss's Orders - 154/192 (Regional Championships)",
       "set_id": 5500087,
@@ -79345,6 +79249,18 @@
       "market_price_usd": 12.38,
       "market_price_as_of": "2026-11-12",
       "total_listings": 93
+    },
+    {
+      "card_id": 17202,
+      "name": "Abra",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "148/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.37,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 107
     },
     {
       "card_id": 27295,
@@ -79635,6 +79551,18 @@
       "total_listings": 41
     },
     {
+      "card_id": 16019,
+      "name": "Wimpod - 191/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "191/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.29,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 161
+    },
+    {
       "card_id": 31517,
       "name": "Koffing",
       "set_id": 5500173,
@@ -79669,6 +79597,18 @@
       "market_price_usd": 12.27,
       "market_price_as_of": "2026-11-25",
       "total_listings": 48
+    },
+    {
+      "card_id": 17286,
+      "name": "Paldean Wooper - 180/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "180/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.27,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 91
     },
     {
       "card_id": 26540,
@@ -80005,18 +79945,6 @@
       "market_price_usd": 12.16,
       "market_price_as_of": "2026-10-13",
       "total_listings": 386
-    },
-    {
-      "card_id": 17286,
-      "name": "Paldean Wooper - 180/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "180/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 12.15,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 81
     },
     {
       "card_id": 26296,
@@ -80379,6 +80307,18 @@
       "total_listings": 255
     },
     {
+      "card_id": 37638,
+      "name": "Arcanine",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 12.04,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 8
+    },
+    {
       "card_id": 37703,
       "name": "Psychic Energy (2024)",
       "set_id": 5500026,
@@ -80401,6 +80341,18 @@
       "market_price_usd": 12.03,
       "market_price_as_of": "2026-11-26",
       "total_listings": 86
+    },
+    {
+      "card_id": 15956,
+      "name": "Parasol Lady - 255/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "255/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 12.03,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 163
     },
     {
       "card_id": 33119,
@@ -80617,18 +80569,6 @@
       "market_price_usd": 11.99,
       "market_price_as_of": "2026-11-25",
       "total_listings": 125
-    },
-    {
-      "card_id": 15996,
-      "name": "Iron Hands ex - 248/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "248/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.99,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 137
     },
     {
       "card_id": 16966,
@@ -80895,18 +80835,6 @@
       "total_listings": 38
     },
     {
-      "card_id": 20675,
-      "name": "Neo Upper Energy",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "162/162",
-      "rarity": "ACE SPEC Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.93,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 368
-    },
-    {
       "card_id": 30432,
       "name": "Ludicolo",
       "set_id": 5500082,
@@ -81133,6 +81061,18 @@
       "market_price_usd": 11.85,
       "market_price_as_of": "2026-11-07",
       "total_listings": 104
+    },
+    {
+      "card_id": 35192,
+      "name": "Charmeleon",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "002/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 11.85,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 19
     },
     {
       "card_id": 4335,
@@ -81651,18 +81591,6 @@
       "total_listings": 108
     },
     {
-      "card_id": 17243,
-      "name": "Ceruledge - 162/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "162/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.73,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 101
-    },
-    {
       "card_id": 26846,
       "name": "Nihilego GX (Full Art)",
       "set_id": 5500043,
@@ -81747,6 +81675,18 @@
       "total_listings": 31
     },
     {
+      "card_id": 20790,
+      "name": "Reuniclus - 171/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "171/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.7,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 90
+    },
+    {
       "card_id": 28704,
       "name": "Trubbish (63)",
       "set_id": 5500155,
@@ -81769,18 +81709,6 @@
       "market_price_usd": 11.7,
       "market_price_as_of": "2026-11-14",
       "total_listings": 77
-    },
-    {
-      "card_id": 37638,
-      "name": "Arcanine",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 11.7,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 13
     },
     {
       "card_id": 4588,
@@ -81853,6 +81781,18 @@
       "market_price_usd": 11.67,
       "market_price_as_of": "2026-10-26",
       "total_listings": 74
+    },
+    {
+      "card_id": 17168,
+      "name": "Shinx",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "135/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.67,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 152
     },
     {
       "card_id": 38548,
@@ -82069,6 +82009,18 @@
       "market_price_usd": 11.6,
       "market_price_as_of": "2026-10-21",
       "total_listings": 101
+    },
+    {
+      "card_id": 17243,
+      "name": "Ceruledge - 162/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "162/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.6,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 134
     },
     {
       "card_id": 21057,
@@ -82395,6 +82347,18 @@
       "total_listings": 79
     },
     {
+      "card_id": 15996,
+      "name": "Iron Hands ex - 248/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "248/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.51,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 133
+    },
+    {
       "card_id": 21566,
       "name": "Alolan Vulpix V (Full Art)",
       "set_id": 5500161,
@@ -82429,6 +82393,18 @@
       "market_price_usd": 11.51,
       "market_price_as_of": "2026-10-25",
       "total_listings": 87
+    },
+    {
+      "card_id": 17149,
+      "name": "Penny",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "239/091",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.5,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 184
     },
     {
       "card_id": 20022,
@@ -82611,30 +82587,6 @@
       "total_listings": 112
     },
     {
-      "card_id": 17277,
-      "name": "Dachsbun - 161/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "161/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.45,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 74
-    },
-    {
-      "card_id": 20806,
-      "name": "Mudsdale - 175/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "175/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.45,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 141
-    },
-    {
       "card_id": 23643,
       "name": "Mewtwo EX (61)",
       "set_id": 5500195,
@@ -82719,6 +82671,18 @@
       "total_listings": 78
     },
     {
+      "card_id": 35209,
+      "name": "Chansey",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "015/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 11.43,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 16
+    },
+    {
       "card_id": 14273,
       "name": "Pignite - 097/086",
       "set_id": 5500153,
@@ -82741,18 +82705,6 @@
       "market_price_usd": 11.42,
       "market_price_as_of": "2026-10-28",
       "total_listings": 22
-    },
-    {
-      "card_id": 17275,
-      "name": "Luxray",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "137/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.42,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 87
     },
     {
       "card_id": 2299693,
@@ -82825,6 +82777,18 @@
       "market_price_usd": 11.39,
       "market_price_as_of": "2026-10-29",
       "total_listings": 222
+    },
+    {
+      "card_id": 35219,
+      "name": "Scyther",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "006/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 11.38,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 41
     },
     {
       "card_id": 13886,
@@ -82957,18 +82921,6 @@
       "market_price_usd": 11.36,
       "market_price_as_of": "2026-11-01",
       "total_listings": 143
-    },
-    {
-      "card_id": 15941,
-      "name": "Blitzle - 195/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "195/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.35,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 153
     },
     {
       "card_id": 24676,
@@ -83583,6 +83535,18 @@
       "total_listings": 182
     },
     {
+      "card_id": 15922,
+      "name": "Gimmighoul - 198/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "198/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 11.14,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 199
+    },
+    {
       "card_id": 31753,
       "name": "Lopunny",
       "set_id": 5500096,
@@ -83653,18 +83617,6 @@
       "market_price_usd": 11.13,
       "market_price_as_of": "2026-10-27",
       "total_listings": 16
-    },
-    {
-      "card_id": 20803,
-      "name": "Excadrill - 174/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "174/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.12,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 130
     },
     {
       "card_id": 30928,
@@ -83739,18 +83691,6 @@
       "total_listings": 5
     },
     {
-      "card_id": 17272,
-      "name": "Ralts - 153/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "153/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.1,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 90
-    },
-    {
       "card_id": 27845,
       "name": "Mega Lopunny ex - 128/094",
       "set_id": 5500152,
@@ -83797,18 +83737,6 @@
       "market_price_usd": 11.09,
       "market_price_as_of": "2026-11-27",
       "total_listings": 189
-    },
-    {
-      "card_id": 20889,
-      "name": "Walking Wake ex - 215/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "215/162",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 11.09,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 86
     },
     {
       "card_id": 19649,
@@ -83977,6 +83905,18 @@
       "market_price_usd": 11.03,
       "market_price_as_of": "2026-11-04",
       "total_listings": 99
+    },
+    {
+      "card_id": 35220,
+      "name": "Hitmonlee",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "011/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 11.03,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 36
     },
     {
       "card_id": 36225,
@@ -84315,18 +84255,6 @@
       "total_listings": 100
     },
     {
-      "card_id": 15982,
-      "name": "Vanillish - 190/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "190/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.93,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 136
-    },
-    {
       "card_id": 24992,
       "name": "Lapras GX (Full Art)",
       "set_id": 5500018,
@@ -84555,18 +84483,6 @@
       "total_listings": 55
     },
     {
-      "card_id": 20791,
-      "name": "Charjabug - 169/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "169/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.89,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 148
-    },
-    {
       "card_id": 2155086,
       "name": "Goodra - 077",
       "set_id": 5500111,
@@ -84661,18 +84577,6 @@
       "market_price_usd": 10.88,
       "market_price_as_of": "2026-10-23",
       "total_listings": 19
-    },
-    {
-      "card_id": 17157,
-      "name": "Chi-Yu ex",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "241/091",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.87,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 142
     },
     {
       "card_id": 38835,
@@ -84963,16 +84867,16 @@
       "total_listings": 119
     },
     {
-      "card_id": 35204,
-      "name": "Zapdos",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "012/034",
-      "rarity": "Classic Collection",
+      "card_id": 20675,
+      "name": "Neo Upper Energy",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "162/162",
+      "rarity": "ACE SPEC Rare",
       "printing": "Holofoil",
-      "market_price_usd": 10.8,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 43
+      "market_price_usd": 10.79,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 394
     },
     {
       "card_id": 28712,
@@ -85069,18 +84973,6 @@
       "market_price_usd": 10.78,
       "market_price_as_of": "2026-10-23",
       "total_listings": 26
-    },
-    {
-      "card_id": 20748,
-      "name": "Relicanth - 173/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "173/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.77,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 183
     },
     {
       "card_id": 32886,
@@ -85201,6 +85093,18 @@
       "market_price_usd": 10.75,
       "market_price_as_of": "2026-10-24",
       "total_listings": 77
+    },
+    {
+      "card_id": 35212,
+      "name": "Magikarp",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "006/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 10.75,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 38
     },
     {
       "card_id": 5199,
@@ -85381,6 +85285,18 @@
       "market_price_usd": 10.7,
       "market_price_as_of": "2026-11-08",
       "total_listings": 91
+    },
+    {
+      "card_id": 17275,
+      "name": "Luxray",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "137/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.69,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 113
     },
     {
       "card_id": 29106,
@@ -85755,18 +85671,6 @@
       "total_listings": 71
     },
     {
-      "card_id": 35212,
-      "name": "Magikarp",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "006/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 10.6,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 37
-    },
-    {
       "card_id": 13413,
       "name": "Amarys - 170/131",
       "set_id": 5500017,
@@ -85971,6 +85875,18 @@
       "total_listings": 65
     },
     {
+      "card_id": 35190,
+      "name": "Onix",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "010/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 10.54,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 19
+    },
+    {
       "card_id": 4318,
       "name": "Scizor - 141/197 (Cosmos Holo)",
       "set_id": 5500123,
@@ -86029,6 +85945,18 @@
       "market_price_usd": 10.52,
       "market_price_as_of": "2026-11-26",
       "total_listings": 185
+    },
+    {
+      "card_id": 15982,
+      "name": "Vanillish - 190/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "190/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.52,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 121
     },
     {
       "card_id": 4521,
@@ -86151,6 +86079,18 @@
       "total_listings": 11
     },
     {
+      "card_id": 20791,
+      "name": "Charjabug - 169/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "169/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.49,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 191
+    },
+    {
       "card_id": 37276,
       "name": "Magikarp (#19)",
       "set_id": 5500022,
@@ -86161,18 +86101,6 @@
       "market_price_usd": 10.49,
       "market_price_as_of": "2026-11-05",
       "total_listings": 21
-    },
-    {
-      "card_id": 20778,
-      "name": "Shiftry - 163/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "163/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.47,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 179
     },
     {
       "card_id": 2136056,
@@ -86221,18 +86149,6 @@
       "market_price_usd": 10.46,
       "market_price_as_of": "2026-11-15",
       "total_listings": 99
-    },
-    {
-      "card_id": 17187,
-      "name": "Oddish",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "092/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.45,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 100
     },
     {
       "card_id": 18167,
@@ -86391,6 +86307,18 @@
       "total_listings": 99
     },
     {
+      "card_id": 20729,
+      "name": "Cutiefly - 172/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "172/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.4,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 174
+    },
+    {
       "card_id": 2302264,
       "name": "Mega Zygarde ex - 047/088",
       "set_id": 5500194,
@@ -86449,6 +86377,18 @@
       "market_price_usd": 10.39,
       "market_price_as_of": "2026-10-23",
       "total_listings": 88
+    },
+    {
+      "card_id": 20889,
+      "name": "Walking Wake ex - 215/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "215/162",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.38,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 84
     },
     {
       "card_id": 21875,
@@ -86535,30 +86475,6 @@
       "total_listings": 21
     },
     {
-      "card_id": 15972,
-      "name": "Veluza - 192/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "192/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.36,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 163
-    },
-    {
-      "card_id": 17304,
-      "name": "Pachirisu",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "138/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.36,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 99
-    },
-    {
       "card_id": 30894,
       "name": "Zapdos - 41/99 (Cosmos Holo)",
       "set_id": 5500103,
@@ -86643,16 +86559,28 @@
       "total_listings": 10
     },
     {
-      "card_id": 15985,
-      "name": "Iron Jugulis - 216/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "216/182",
-      "rarity": "Illustration Rare",
+      "card_id": 17157,
+      "name": "Chi-Yu ex",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "241/091",
+      "rarity": "Hyper Rare",
       "printing": "Holofoil",
       "market_price_usd": 10.34,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 206
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 170
+    },
+    {
+      "card_id": 17187,
+      "name": "Oddish",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "092/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.34,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 91
     },
     {
       "card_id": 27133,
@@ -86809,6 +86737,18 @@
       "market_price_usd": 10.31,
       "market_price_as_of": "2026-11-25",
       "total_listings": 40
+    },
+    {
+      "card_id": 17272,
+      "name": "Ralts - 153/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "153/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.31,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 91
     },
     {
       "card_id": 24749,
@@ -86989,6 +86929,18 @@
       "market_price_usd": 10.25,
       "market_price_as_of": "2026-10-24",
       "total_listings": 13
+    },
+    {
+      "card_id": 35177,
+      "name": "Wartortle",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "002/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 10.25,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 19
     },
     {
       "card_id": 148,
@@ -87183,18 +87135,6 @@
       "total_listings": 512
     },
     {
-      "card_id": 35220,
-      "name": "Hitmonlee",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "011/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 10.22,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 34
-    },
-    {
       "card_id": 37531,
       "name": "Jigglypuff",
       "set_id": 5500073,
@@ -87241,6 +87181,18 @@
       "market_price_usd": 10.21,
       "market_price_as_of": "2026-10-22",
       "total_listings": 12
+    },
+    {
+      "card_id": 17257,
+      "name": "Scyther",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "095/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.21,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 116
     },
     {
       "card_id": 24855,
@@ -87363,16 +87315,16 @@
       "total_listings": 56
     },
     {
-      "card_id": 35190,
-      "name": "Onix",
+      "card_id": 35204,
+      "name": "Zapdos",
       "set_id": 5500053,
       "set_name": "Trading Card Game Classic",
-      "number": "010/034",
+      "number": "012/034",
       "rarity": "Classic Collection",
       "printing": "Holofoil",
       "market_price_usd": 10.17,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 19
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 59
     },
     {
       "card_id": 36094,
@@ -87423,6 +87375,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 15941,
+      "name": "Blitzle - 195/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "195/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.16,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 187
+    },
+    {
       "card_id": 34255,
       "name": "Pidgeotto",
       "set_id": 5500005,
@@ -87457,6 +87421,18 @@
       "market_price_usd": 10.15,
       "market_price_as_of": "2026-10-30",
       "total_listings": 93
+    },
+    {
+      "card_id": 37632,
+      "name": "Ninetales",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 10.15,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 10
     },
     {
       "card_id": 38832,
@@ -87601,18 +87577,6 @@
       "market_price_usd": 10.12,
       "market_price_as_of": "2026-11-16",
       "total_listings": 83
-    },
-    {
-      "card_id": 17257,
-      "name": "Scyther",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "095/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 10.11,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 108
     },
     {
       "card_id": 29828,
@@ -87903,6 +87867,18 @@
       "total_listings": 49
     },
     {
+      "card_id": 20806,
+      "name": "Mudsdale - 175/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "175/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 10.02,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 174
+    },
+    {
       "card_id": 19921,
       "name": "Swampert EX - XY55",
       "set_id": 5500177,
@@ -88177,6 +88153,18 @@
       "market_price_usd": 9.99,
       "market_price_as_of": "2026-10-28",
       "total_listings": 14
+    },
+    {
+      "card_id": 17284,
+      "name": "Riolu",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "173/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.99,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 109
     },
     {
       "card_id": 26525,
@@ -88839,6 +88827,30 @@
       "total_listings": 21
     },
     {
+      "card_id": 15985,
+      "name": "Iron Jugulis - 216/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "216/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.87,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 193
+    },
+    {
+      "card_id": 17197,
+      "name": "Sableye",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "184/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.87,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 72
+    },
+    {
       "card_id": 24336,
       "name": "Tyranitar",
       "set_id": 5500088,
@@ -89367,18 +89379,6 @@
       "total_listings": 67
     },
     {
-      "card_id": 17204,
-      "name": "Scizor",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "191/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 9.75,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 96
-    },
-    {
       "card_id": 2991,
       "name": "Tauros - 2008 (Dylan Lefavour)",
       "set_id": 5500029,
@@ -89569,6 +89569,18 @@
       "market_price_usd": 9.71,
       "market_price_as_of": "2026-11-27",
       "total_listings": 124
+    },
+    {
+      "card_id": 20769,
+      "name": "Chatot - 181/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "181/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.71,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 200
     },
     {
       "card_id": 22241,
@@ -89785,6 +89797,18 @@
       "market_price_usd": 9.66,
       "market_price_as_of": "2026-10-27",
       "total_listings": 10
+    },
+    {
+      "card_id": 15972,
+      "name": "Veluza - 192/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "192/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.65,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 203
     },
     {
       "card_id": 38841,
@@ -90027,18 +90051,6 @@
       "total_listings": 44
     },
     {
-      "card_id": 17197,
-      "name": "Sableye",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "184/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 9.57,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 67
-    },
-    {
       "card_id": 18953,
       "name": "Peonia (Full Art)",
       "set_id": 5500170,
@@ -90265,18 +90277,6 @@
       "market_price_usd": 9.53,
       "market_price_as_of": "2026-11-17",
       "total_listings": 129
-    },
-    {
-      "card_id": 37633,
-      "name": "Magikarp",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 9.53,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 19
     },
     {
       "card_id": 100215985,
@@ -90759,6 +90759,18 @@
       "total_listings": 25
     },
     {
+      "card_id": 17204,
+      "name": "Scizor",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "191/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.43,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 70
+    },
+    {
       "card_id": 32595,
       "name": "Holon Lass",
       "set_id": 5500234,
@@ -90939,6 +90951,18 @@
       "total_listings": 17
     },
     {
+      "card_id": 20830,
+      "name": "Iron Crown ex - 216/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "216/162",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.39,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 72
+    },
+    {
       "card_id": 2133509,
       "name": "Piplup - 042",
       "set_id": 5500111,
@@ -91021,6 +91045,18 @@
       "market_price_usd": 9.38,
       "market_price_as_of": "2026-10-22",
       "total_listings": 66
+    },
+    {
+      "card_id": 35198,
+      "name": "Lapras",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "008/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 9.38,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 22
     },
     {
       "card_id": 34030,
@@ -91299,6 +91335,18 @@
       "total_listings": 926
     },
     {
+      "card_id": 17304,
+      "name": "Pachirisu",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "138/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.32,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 106
+    },
+    {
       "card_id": 26967,
       "name": "Wartortle",
       "set_id": 5500140,
@@ -91515,6 +91563,18 @@
       "total_listings": 68
     },
     {
+      "card_id": 37633,
+      "name": "Magikarp",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 9.28,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 27
+    },
+    {
       "card_id": 4766,
       "name": "Gyarados - 043/193 (Cosmos Holo)",
       "set_id": 5500123,
@@ -91599,18 +91659,6 @@
       "total_listings": 29
     },
     {
-      "card_id": 15936,
-      "name": "Rika - 258/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "258/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 9.26,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 150
-    },
-    {
       "card_id": 30915,
       "name": "Raichu - 43/146 (Cosmos Holo)",
       "set_id": 5500103,
@@ -91683,18 +91731,6 @@
       "total_listings": 500
     },
     {
-      "card_id": 17190,
-      "name": "Chien-Pao ex",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "242/091",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 9.23,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 117
-    },
-    {
       "card_id": 18029,
       "name": "Phanpy - 205/191",
       "set_id": 5500180,
@@ -91765,6 +91801,18 @@
       "market_price_usd": 9.22,
       "market_price_as_of": "2026-10-21",
       "total_listings": 57
+    },
+    {
+      "card_id": 20803,
+      "name": "Excadrill - 174/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "174/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.21,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 196
     },
     {
       "card_id": 100018052,
@@ -92175,18 +92223,6 @@
       "total_listings": 156
     },
     {
-      "card_id": 16044,
-      "name": "Espathra - 197/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "197/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 9.11,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 113
-    },
-    {
       "card_id": 28399,
       "name": "Starmie",
       "set_id": 5500113,
@@ -92415,18 +92451,6 @@
       "total_listings": 144
     },
     {
-      "card_id": 15935,
-      "name": "Mela - 254/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "254/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 9.07,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 137
-    },
-    {
       "card_id": 32367,
       "name": "Golurk",
       "set_id": 5500189,
@@ -92545,6 +92569,18 @@
       "market_price_usd": 9.03,
       "market_price_as_of": "2026-11-25",
       "total_listings": 168
+    },
+    {
+      "card_id": 15971,
+      "name": "Snorunt - 188/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "188/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 9.03,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 173
     },
     {
       "card_id": 24519,
@@ -92943,6 +92979,30 @@
       "total_listings": 18
     },
     {
+      "card_id": 17184,
+      "name": "Kadabra",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "149/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.98,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 109
+    },
+    {
+      "card_id": 20778,
+      "name": "Shiftry - 163/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "163/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.98,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 219
+    },
+    {
       "card_id": 16641,
       "name": "Volcarona GX (Full Art)",
       "set_id": 5500206,
@@ -93001,18 +93061,6 @@
       "market_price_usd": 8.97,
       "market_price_as_of": "2026-11-02",
       "total_listings": 27
-    },
-    {
-      "card_id": 16028,
-      "name": "Mienshao - 200/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "200/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.96,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 155
     },
     {
       "card_id": 29204,
@@ -93171,18 +93219,6 @@
       "total_listings": 50
     },
     {
-      "card_id": 20729,
-      "name": "Cutiefly - 172/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "172/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.92,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 155
-    },
-    {
       "card_id": 2299011,
       "name": "Spiritomb - 035/084 (Non-Holo)",
       "set_id": 5500101,
@@ -93217,6 +93253,18 @@
       "market_price_usd": 8.91,
       "market_price_as_of": "2026-10-26",
       "total_listings": 24
+    },
+    {
+      "card_id": 17161,
+      "name": "Charcadet - 114/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "114/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.91,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 110
     },
     {
       "card_id": 21386,
@@ -93399,18 +93447,6 @@
       "total_listings": 17
     },
     {
-      "card_id": 17215,
-      "name": "Staryu",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "118/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.88,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 96
-    },
-    {
       "card_id": 19644,
       "name": "Brionne",
       "set_id": 5500141,
@@ -93577,18 +93613,6 @@
       "market_price_usd": 8.86,
       "market_price_as_of": "2026-10-26",
       "total_listings": 54
-    },
-    {
-      "card_id": 15958,
-      "name": "Professor Sada's Vitality - 256/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "256/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.86,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 151
     },
     {
       "card_id": 19234,
@@ -93831,6 +93855,18 @@
       "total_listings": 378
     },
     {
+      "card_id": 37626,
+      "name": "Charmander",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 8.8,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 6
+    },
+    {
       "card_id": 38088,
       "name": "Ice Rider Calyrex V",
       "set_id": 5500061,
@@ -93915,6 +93951,18 @@
       "total_listings": 23
     },
     {
+      "card_id": 20748,
+      "name": "Relicanth - 173/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "173/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.78,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 222
+    },
+    {
       "card_id": 2299746,
       "name": "Mega Dragonite ex - 091",
       "set_id": 5500111,
@@ -93949,18 +93997,6 @@
       "market_price_usd": 8.78,
       "market_price_as_of": "2026-10-19",
       "total_listings": 61
-    },
-    {
-      "card_id": 35198,
-      "name": "Lapras",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "008/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 8.78,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 22
     },
     {
       "card_id": 6365,
@@ -93999,18 +94035,6 @@
       "total_listings": 6
     },
     {
-      "card_id": 35209,
-      "name": "Chansey",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "015/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 8.77,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 26
-    },
-    {
       "card_id": 4205,
       "name": "Ethan's Typhlosion (Prerelease)",
       "set_id": 5500123,
@@ -94021,18 +94045,6 @@
       "market_price_usd": 8.77,
       "market_price_as_of": "2026-10-23",
       "total_listings": 72
-    },
-    {
-      "card_id": 15947,
-      "name": "Sandy Shocks ex - 250/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "250/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.76,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 152
     },
     {
       "card_id": 21378,
@@ -94225,18 +94237,6 @@
       "market_price_usd": 8.73,
       "market_price_as_of": "2026-11-26",
       "total_listings": 244
-    },
-    {
-      "card_id": 20735,
-      "name": "Bronzor - 170/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "170/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.73,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 168
     },
     {
       "card_id": 22677,
@@ -94455,6 +94455,18 @@
       "total_listings": 72
     },
     {
+      "card_id": 16044,
+      "name": "Espathra - 197/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "197/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.68,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 159
+    },
+    {
       "card_id": 24413,
       "name": "Life Herb (Secret)",
       "set_id": 5500088,
@@ -94539,6 +94551,18 @@
       "total_listings": 340
     },
     {
+      "card_id": 35199,
+      "name": "Clefairy",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "013/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 8.67,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 11
+    },
+    {
       "card_id": 35681,
       "name": "Engineer's Adjustments",
       "set_id": 5500167,
@@ -94609,18 +94633,6 @@
       "market_price_usd": 8.66,
       "market_price_as_of": "2026-10-28",
       "total_listings": 11
-    },
-    {
-      "card_id": 20830,
-      "name": "Iron Crown ex - 216/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "216/162",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.66,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 107
     },
     {
       "card_id": 26542,
@@ -94815,18 +94827,6 @@
       "total_listings": 42
     },
     {
-      "card_id": 17184,
-      "name": "Kadabra",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "149/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.62,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 91
-    },
-    {
       "card_id": 29375,
       "name": "Giovanni's Meowth (74)",
       "set_id": 5500085,
@@ -94981,6 +94981,18 @@
       "market_price_usd": 8.59,
       "market_price_as_of": "2026-11-26",
       "total_listings": 424
+    },
+    {
+      "card_id": 35163,
+      "name": "Ivysaur",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "002/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 8.59,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 31
     },
     {
       "card_id": 4309,
@@ -95571,6 +95583,18 @@
       "total_listings": 58
     },
     {
+      "card_id": 17190,
+      "name": "Chien-Pao ex",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "242/091",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.46,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 114
+    },
+    {
       "card_id": 19790,
       "name": "Magcargo GX (Full Art)",
       "set_id": 5500141,
@@ -95979,16 +96003,16 @@
       "total_listings": 23
     },
     {
-      "card_id": 17133,
-      "name": "Arven",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "235/091",
-      "rarity": "Special Illustration Rare",
+      "card_id": 16028,
+      "name": "Mienshao - 200/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "200/182",
+      "rarity": "Illustration Rare",
       "printing": "Holofoil",
       "market_price_usd": 8.38,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 212
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 170
     },
     {
       "card_id": 2300499,
@@ -96195,18 +96219,6 @@
       "total_listings": 83
     },
     {
-      "card_id": 35177,
-      "name": "Wartortle",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "002/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 8.36,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 26
-    },
-    {
       "card_id": 28683,
       "name": "Kirlia",
       "set_id": 5500155,
@@ -96277,18 +96289,6 @@
       "market_price_usd": 8.34,
       "market_price_as_of": "2026-11-25",
       "total_listings": 178
-    },
-    {
-      "card_id": 17270,
-      "name": "Starmie",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "119/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.34,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 104
     },
     {
       "card_id": 21995,
@@ -96543,18 +96543,6 @@
       "total_listings": 16
     },
     {
-      "card_id": 15953,
-      "name": "Tulip - 259/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "259/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.29,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 176
-    },
-    {
       "card_id": 25582,
       "name": "Bidoof (Alpha)",
       "set_id": 5500118,
@@ -96615,18 +96603,6 @@
       "total_listings": 202
     },
     {
-      "card_id": 35221,
-      "name": "Hitmonchan",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "012/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 8.28,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 31
-    },
-    {
       "card_id": 100215986,
       "name": "Kommo-o - 114",
       "set_id": 5500111,
@@ -96673,18 +96649,6 @@
       "market_price_usd": 8.27,
       "market_price_as_of": "2026-11-17",
       "total_listings": 210
-    },
-    {
-      "card_id": 37630,
-      "name": "Gyarados",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 8.27,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 5
     },
     {
       "card_id": 16475,
@@ -96927,6 +96891,18 @@
       "total_listings": 193
     },
     {
+      "card_id": 15945,
+      "name": "Aegislash - 210/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "210/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.22,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 203
+    },
+    {
       "card_id": 25429,
       "name": "Emolga EX",
       "set_id": 5500120,
@@ -97143,18 +97119,6 @@
       "total_listings": 34
     },
     {
-      "card_id": 17217,
-      "name": "Kirlia - 154/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "154/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.17,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 123
-    },
-    {
       "card_id": 17666,
       "name": "Leafeon VMAX",
       "set_id": 5500048,
@@ -97165,18 +97129,6 @@
       "market_price_usd": 8.17,
       "market_price_as_of": "2026-10-18",
       "total_listings": 179
-    },
-    {
-      "card_id": 20727,
-      "name": "Ciphermaniac's Codebreaking - 198/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "198/162",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.17,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 198
     },
     {
       "card_id": 23467,
@@ -97287,6 +97239,18 @@
       "total_listings": 71
     },
     {
+      "card_id": 17215,
+      "name": "Staryu",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "118/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.12,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 104
+    },
+    {
       "card_id": 22779,
       "name": "Enhanced Hammer (Secret)",
       "set_id": 5500036,
@@ -97323,6 +97287,18 @@
       "total_listings": 557
     },
     {
+      "card_id": 17217,
+      "name": "Kirlia - 154/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "154/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 8.11,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 92
+    },
+    {
       "card_id": 19014,
       "name": "Doctor (Secret)",
       "set_id": 5500170,
@@ -97333,18 +97309,6 @@
       "market_price_usd": 8.11,
       "market_price_as_of": "2026-10-18",
       "total_listings": 79
-    },
-    {
-      "card_id": 20875,
-      "name": "Iron Leaves ex - 213/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "213/162",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.11,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 127
     },
     {
       "card_id": 31079,
@@ -97443,18 +97407,6 @@
       "total_listings": 47
     },
     {
-      "card_id": 20886,
-      "name": "Iron Boulder ex - 217/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "217/162",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.09,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 137
-    },
-    {
       "card_id": 29494,
       "name": "Resistance Gym",
       "set_id": 5500085,
@@ -97549,18 +97501,6 @@
       "market_price_usd": 8.08,
       "market_price_as_of": "2026-10-15",
       "total_listings": 143
-    },
-    {
-      "card_id": 17231,
-      "name": "Vileplume",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "094/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.07,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 101
     },
     {
       "card_id": 21011,
@@ -97849,18 +97789,6 @@
       "market_price_usd": 8.0,
       "market_price_as_of": "2026-10-21",
       "total_listings": 60
-    },
-    {
-      "card_id": 17214,
-      "name": "Armarouge - 115/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "115/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 8.0,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 73
     },
     {
       "card_id": 2296422,
@@ -98259,6 +98187,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 20875,
+      "name": "Iron Leaves ex - 213/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "213/162",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.97,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 106
+    },
+    {
       "card_id": 30987,
       "name": "Gigalith - 53/98 (Cracked Ice Holo)",
       "set_id": 5500103,
@@ -98463,6 +98403,18 @@
       "total_listings": 46
     },
     {
+      "card_id": 15958,
+      "name": "Professor Sada's Vitality - 256/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "256/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.93,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 145
+    },
+    {
       "card_id": 17679,
       "name": "Glaceon VMAX",
       "set_id": 5500048,
@@ -98571,16 +98523,16 @@
       "total_listings": 89
     },
     {
-      "card_id": 17110,
-      "name": "Gardevoir ex - 217/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "217/091",
-      "rarity": "Shiny Ultra Rare",
+      "card_id": 15935,
+      "name": "Mela - 254/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "254/182",
+      "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
       "market_price_usd": 7.92,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 249
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 149
     },
     {
       "card_id": 36732,
@@ -98775,6 +98727,18 @@
       "total_listings": 109
     },
     {
+      "card_id": 17231,
+      "name": "Vileplume",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "094/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.87,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 109
+    },
+    {
       "card_id": 22023,
       "name": "Bea (Full Art)",
       "set_id": 5500178,
@@ -98893,6 +98857,18 @@
       "market_price_usd": 7.85,
       "market_price_as_of": "2026-10-21",
       "total_listings": 318
+    },
+    {
+      "card_id": 15936,
+      "name": "Rika - 258/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "258/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.85,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 185
     },
     {
       "card_id": 22924,
@@ -99027,6 +99003,18 @@
       "total_listings": 14
     },
     {
+      "card_id": 15947,
+      "name": "Sandy Shocks ex - 250/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "250/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.82,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 130
+    },
+    {
       "card_id": 3,
       "name": "Oracle - 2004 (Kevin Nguyen)",
       "set_id": 5500029,
@@ -99073,6 +99061,18 @@
       "market_price_usd": 7.82,
       "market_price_as_of": "2026-10-24",
       "total_listings": 11
+    },
+    {
+      "card_id": 17133,
+      "name": "Arven",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "235/091",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.81,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 241
     },
     {
       "card_id": 22249,
@@ -99267,6 +99267,18 @@
       "total_listings": 26
     },
     {
+      "card_id": 20886,
+      "name": "Iron Boulder ex - 217/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "217/162",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.78,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 111
+    },
+    {
       "card_id": 22245,
       "name": "Alolan Marowak",
       "set_id": 5500079,
@@ -99373,6 +99385,18 @@
       "market_price_usd": 7.77,
       "market_price_as_of": "2026-10-14",
       "total_listings": 217
+    },
+    {
+      "card_id": 17110,
+      "name": "Gardevoir ex - 217/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "217/091",
+      "rarity": "Shiny Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.77,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 211
     },
     {
       "card_id": 18005,
@@ -99567,18 +99591,6 @@
       "total_listings": 145
     },
     {
-      "card_id": 35192,
-      "name": "Charmeleon",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "002/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 7.73,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 27
-    },
-    {
       "card_id": 15093,
       "name": "Greedent VMAX (Secret)",
       "set_id": 5500208,
@@ -99711,18 +99723,6 @@
       "total_listings": 41
     },
     {
-      "card_id": 35199,
-      "name": "Clefairy",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "013/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 7.7,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 18
-    },
-    {
       "card_id": 100031713,
       "name": "Phantasmal Flames Fun Pack",
       "set_id": 5500152,
@@ -99829,18 +99829,6 @@
       "market_price_usd": 7.67,
       "market_price_as_of": "2026-10-14",
       "total_listings": 252
-    },
-    {
-      "card_id": 37626,
-      "name": "Charmander",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 7.67,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 15
     },
     {
       "card_id": 31316,
@@ -100227,6 +100215,18 @@
       "total_listings": 137
     },
     {
+      "card_id": 20735,
+      "name": "Bronzor - 170/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "170/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.58,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 222
+    },
+    {
       "card_id": 89,
       "name": "Mew - 2023 (Tord Reklev)",
       "set_id": 5500029,
@@ -100513,18 +100513,6 @@
       "market_price_usd": 7.53,
       "market_price_as_of": "2026-10-18",
       "total_listings": 68
-    },
-    {
-      "card_id": 15978,
-      "name": "Iron Moth - 187/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "187/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.52,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 217
     },
     {
       "card_id": 23225,
@@ -100851,6 +100839,18 @@
       "total_listings": 702
     },
     {
+      "card_id": 15978,
+      "name": "Iron Moth - 187/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "187/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.48,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 242
+    },
+    {
       "card_id": 17796,
       "name": "Dracozolt VMAX (Secret)",
       "set_id": 5500048,
@@ -101115,6 +101115,18 @@
       "total_listings": 77
     },
     {
+      "card_id": 35217,
+      "name": "Clefable",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "014/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 7.43,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 31
+    },
+    {
       "card_id": 13598,
       "name": "Braviary - 155/086",
       "set_id": 5500093,
@@ -101235,18 +101247,6 @@
       "total_listings": 163
     },
     {
-      "card_id": 15994,
-      "name": "Cyclizar - 215/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "215/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.41,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 168
-    },
-    {
       "card_id": 19682,
       "name": "Naganadel",
       "set_id": 5500141,
@@ -101341,6 +101341,18 @@
       "market_price_usd": 7.4,
       "market_price_as_of": "2026-10-21",
       "total_listings": 28
+    },
+    {
+      "card_id": 17245,
+      "name": "Tatsugiri",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "127/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.4,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 93
     },
     {
       "card_id": 24079,
@@ -101533,30 +101545,6 @@
       "market_price_usd": 7.36,
       "market_price_as_of": "2026-10-21",
       "total_listings": 106
-    },
-    {
-      "card_id": 15980,
-      "name": "Garchomp ex - 219/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "219/182",
-      "rarity": "Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.36,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 93
-    },
-    {
-      "card_id": 17245,
-      "name": "Tatsugiri",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "127/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.36,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 89
     },
     {
       "card_id": 18402,
@@ -101763,6 +101751,18 @@
       "total_listings": 18
     },
     {
+      "card_id": 17270,
+      "name": "Starmie",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "119/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.32,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 127
+    },
+    {
       "card_id": 17995,
       "name": "Appletun - 211/191",
       "set_id": 5500180,
@@ -101835,6 +101835,18 @@
       "total_listings": 240
     },
     {
+      "card_id": 17178,
+      "name": "Wo-Chien ex",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "240/091",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.3,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 104
+    },
+    {
       "card_id": 24314,
       "name": "Sceptile",
       "set_id": 5500088,
@@ -101905,6 +101917,18 @@
       "market_price_usd": 7.28,
       "market_price_as_of": "2026-11-08",
       "total_listings": 75
+    },
+    {
+      "card_id": 17229,
+      "name": "Pidgey",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "196/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.27,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 142
     },
     {
       "card_id": 18405,
@@ -102157,18 +102181,6 @@
       "market_price_usd": 7.23,
       "market_price_as_of": "2026-10-22",
       "total_listings": 16
-    },
-    {
-      "card_id": 35163,
-      "name": "Ivysaur",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "002/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 7.23,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 42
     },
     {
       "card_id": 4068,
@@ -102723,18 +102735,6 @@
       "total_listings": 14
     },
     {
-      "card_id": 17229,
-      "name": "Pidgey",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "196/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 7.14,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 122
-    },
-    {
       "card_id": 28436,
       "name": "Castform Sunny Form",
       "set_id": 5500113,
@@ -103119,18 +103119,6 @@
       "total_listings": 36
     },
     {
-      "card_id": 37632,
-      "name": "Ninetales",
-      "set_id": 5500165,
-      "set_name": "My First Battle",
-      "number": null,
-      "rarity": "Unconfirmed",
-      "printing": "Normal",
-      "market_price_usd": 7.07,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 8
-    },
-    {
       "card_id": 38800,
       "name": "Rhyhorn - 8/12",
       "set_id": 5500172,
@@ -103383,6 +103371,18 @@
       "total_listings": 8
     },
     {
+      "card_id": 20672,
+      "name": "Gengar ex - 104/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "104/162",
+      "rarity": "Double Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 7.01,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 242
+    },
+    {
       "card_id": 24876,
       "name": "Escape Board (Secret Rare)",
       "set_id": 5500013,
@@ -103551,18 +103551,6 @@
       "total_listings": 5
     },
     {
-      "card_id": 17161,
-      "name": "Charcadet - 114/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "114/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.99,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 104
-    },
-    {
       "card_id": 18036,
       "name": "Castform Sunny Form - 195/191",
       "set_id": 5500180,
@@ -103717,6 +103705,18 @@
       "market_price_usd": 6.99,
       "market_price_as_of": "2026-11-14",
       "total_listings": 44
+    },
+    {
+      "card_id": 15980,
+      "name": "Garchomp ex - 219/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "219/182",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.98,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 82
     },
     {
       "card_id": 1777,
@@ -104067,6 +104067,30 @@
       "total_listings": 43
     },
     {
+      "card_id": 15994,
+      "name": "Cyclizar - 215/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "215/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.93,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 184
+    },
+    {
+      "card_id": 20727,
+      "name": "Ciphermaniac's Codebreaking - 198/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "198/162",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.93,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 208
+    },
+    {
       "card_id": 31779,
       "name": "Kabuto",
       "set_id": 5500096,
@@ -104137,18 +104161,6 @@
       "market_price_usd": 6.92,
       "market_price_as_of": "2026-10-30",
       "total_listings": 0
-    },
-    {
-      "card_id": 17177,
-      "name": "Jumpluff",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "098/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.91,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 109
     },
     {
       "card_id": 32800,
@@ -104463,6 +104475,18 @@
       "total_listings": 6
     },
     {
+      "card_id": 17308,
+      "name": "Mime Jr. - 157/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "157/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.86,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 117
+    },
+    {
       "card_id": 23234,
       "name": "Octillery (Secret)",
       "set_id": 5500041,
@@ -104715,18 +104739,6 @@
       "total_listings": 220
     },
     {
-      "card_id": 17218,
-      "name": "Wigglytuff",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "147/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.81,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 84
-    },
-    {
       "card_id": 26137,
       "name": "Ultra Necrozma GX",
       "set_id": 5500192,
@@ -104857,18 +104869,6 @@
       "market_price_usd": 6.8,
       "market_price_as_of": "2026-10-27",
       "total_listings": 21
-    },
-    {
-      "card_id": 17219,
-      "name": "Luxio",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "136/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.79,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 81
     },
     {
       "card_id": 243,
@@ -105111,18 +105111,6 @@
       "total_listings": 18
     },
     {
-      "card_id": 15971,
-      "name": "Snorunt - 188/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "188/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.76,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 176
-    },
-    {
       "card_id": 24555,
       "name": "Ho-Oh GX",
       "set_id": 5500119,
@@ -105217,18 +105205,6 @@
       "market_price_usd": 6.74,
       "market_price_as_of": "2026-10-18",
       "total_listings": 130
-    },
-    {
-      "card_id": 20804,
-      "name": "Meltan - 179/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "179/162",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.74,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 153
     },
     {
       "card_id": 23680,
@@ -105361,6 +105337,18 @@
       "market_price_usd": 6.72,
       "market_price_as_of": "2026-10-09",
       "total_listings": 340
+    },
+    {
+      "card_id": 15916,
+      "name": "Roaring Moon ex - 262/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "262/182",
+      "rarity": "Hyper Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.72,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 180
     },
     {
       "card_id": 2299747,
@@ -105531,16 +105519,28 @@
       "total_listings": 18
     },
     {
-      "card_id": 15916,
-      "name": "Roaring Moon ex - 262/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "262/182",
-      "rarity": "Hyper Rare",
+      "card_id": 17211,
+      "name": "Spiritomb",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "158/091",
+      "rarity": "Shiny Rare",
       "printing": "Holofoil",
       "market_price_usd": 6.69,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 195
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 125
+    },
+    {
+      "card_id": 20804,
+      "name": "Meltan - 179/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "179/162",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.69,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 174
     },
     {
       "card_id": 34887,
@@ -105759,18 +105759,6 @@
       "total_listings": 136
     },
     {
-      "card_id": 17290,
-      "name": "Hawlucha",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "175/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.66,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 196
-    },
-    {
       "card_id": 27176,
       "name": "Pokemon Ranger (Full Art)",
       "set_id": 5500004,
@@ -105901,18 +105889,6 @@
       "market_price_usd": 6.64,
       "market_price_as_of": "2026-10-28",
       "total_listings": 16
-    },
-    {
-      "card_id": 17178,
-      "name": "Wo-Chien ex",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "240/091",
-      "rarity": "Hyper Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.64,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 112
     },
     {
       "card_id": 29150,
@@ -106191,6 +106167,18 @@
       "total_listings": 41
     },
     {
+      "card_id": 17214,
+      "name": "Armarouge - 115/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "115/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.6,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 98
+    },
+    {
       "card_id": 21119,
       "name": "Cinderace V (Full Art)",
       "set_id": 5500094,
@@ -106309,6 +106297,18 @@
       "market_price_usd": 6.59,
       "market_price_as_of": "2026-11-03",
       "total_listings": 31
+    },
+    {
+      "card_id": 35200,
+      "name": "Raichu",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "009/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 6.59,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 32
     },
     {
       "card_id": 38637,
@@ -106479,18 +106479,6 @@
       "total_listings": 5
     },
     {
-      "card_id": 17138,
-      "name": "Cleffa",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "150/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.56,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 147
-    },
-    {
       "card_id": 17970,
       "name": "Cyrano - 230/191",
       "set_id": 5500180,
@@ -106501,18 +106489,6 @@
       "market_price_usd": 6.56,
       "market_price_as_of": "2026-11-26",
       "total_listings": 34
-    },
-    {
-      "card_id": 20672,
-      "name": "Gengar ex - 104/162",
-      "set_id": 5500066,
-      "set_name": "SV05: Temporal Forces",
-      "number": "104/162",
-      "rarity": "Double Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.56,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 211
     },
     {
       "card_id": 28496,
@@ -107067,18 +107043,6 @@
       "total_listings": 241
     },
     {
-      "card_id": 35217,
-      "name": "Clefable",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "014/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 6.48,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 26
-    },
-    {
       "card_id": 38524,
       "name": "Tauros",
       "set_id": 5500044,
@@ -107089,6 +107053,18 @@
       "market_price_usd": 6.48,
       "market_price_as_of": "2026-11-21",
       "total_listings": 84
+    },
+    {
+      "card_id": 17218,
+      "name": "Wigglytuff",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "147/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.47,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 105
     },
     {
       "card_id": 17861,
@@ -107221,6 +107197,18 @@
       "market_price_usd": 6.46,
       "market_price_as_of": "2026-10-23",
       "total_listings": 22
+    },
+    {
+      "card_id": 17219,
+      "name": "Luxio",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "136/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.46,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 101
     },
     {
       "card_id": 38077,
@@ -107379,16 +107367,16 @@
       "total_listings": 106
     },
     {
-      "card_id": 17301,
-      "name": "Pawmi - 142/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "142/091",
-      "rarity": "Shiny Rare",
+      "card_id": 15953,
+      "name": "Tulip - 259/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "259/182",
+      "rarity": "Special Illustration Rare",
       "printing": "Holofoil",
       "market_price_usd": 6.43,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 85
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 187
     },
     {
       "card_id": 19405,
@@ -107499,6 +107487,18 @@
       "total_listings": 225
     },
     {
+      "card_id": 17290,
+      "name": "Hawlucha",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "175/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.41,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 164
+    },
+    {
       "card_id": 18581,
       "name": "Kangaskhan - 204/182",
       "set_id": 5500009,
@@ -107571,6 +107571,18 @@
       "total_listings": 33
     },
     {
+      "card_id": 17301,
+      "name": "Pawmi - 142/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "142/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.4,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 91
+    },
+    {
       "card_id": 30760,
       "name": "Houndour",
       "set_id": 5500184,
@@ -107593,6 +107605,18 @@
       "market_price_usd": 6.39,
       "market_price_as_of": "2026-10-28",
       "total_listings": 21
+    },
+    {
+      "card_id": 15938,
+      "name": "Garganacl - 202/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "202/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.39,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 205
     },
     {
       "card_id": 32677,
@@ -108327,18 +108351,6 @@
       "total_listings": 43
     },
     {
-      "card_id": 16011,
-      "name": "Ferrothorn - 209/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "209/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.29,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 139
-    },
-    {
       "card_id": 28388,
       "name": "Seadra",
       "set_id": 5500113,
@@ -108627,18 +108639,6 @@
       "total_listings": 44
     },
     {
-      "card_id": 17126,
-      "name": "Nemona - 238/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "238/091",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.24,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 224
-    },
-    {
       "card_id": 22479,
       "name": "Houndoom V (Full Art)",
       "set_id": 5500107,
@@ -108661,18 +108661,6 @@
       "market_price_usd": 6.24,
       "market_price_as_of": "2026-10-31",
       "total_listings": 139
-    },
-    {
-      "card_id": 35200,
-      "name": "Raichu",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "009/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 6.24,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 34
     },
     {
       "card_id": 36162,
@@ -108781,6 +108769,18 @@
       "market_price_usd": 6.23,
       "market_price_as_of": "2026-10-29",
       "total_listings": 135
+    },
+    {
+      "card_id": 17177,
+      "name": "Jumpluff",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "098/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 6.22,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 116
     },
     {
       "card_id": 18169,
@@ -109237,6 +109237,18 @@
       "market_price_usd": 6.17,
       "market_price_as_of": "2026-11-03",
       "total_listings": 85
+    },
+    {
+      "card_id": 35152,
+      "name": "Pokemon Nurse",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "023/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 6.17,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 22
     },
     {
       "card_id": 6471,
@@ -109885,18 +109897,6 @@
       "market_price_usd": 6.1,
       "market_price_as_of": "2026-11-25",
       "total_listings": 144
-    },
-    {
-      "card_id": 17271,
-      "name": "Drifloon",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "155/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.1,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 104
     },
     {
       "card_id": 19833,
@@ -110715,18 +110715,6 @@
       "total_listings": 3
     },
     {
-      "card_id": 17109,
-      "name": "Alakazam ex",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "215/091",
-      "rarity": "Shiny Ultra Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 6.0,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 202
-    },
-    {
       "card_id": 19354,
       "name": "Haunter",
       "set_id": 5500191,
@@ -111085,6 +111073,18 @@
       "market_price_usd": 5.97,
       "market_price_as_of": "2026-10-14",
       "total_listings": 250
+    },
+    {
+      "card_id": 17195,
+      "name": "Smoliv",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "102/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.97,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 87
     },
     {
       "card_id": 21056,
@@ -111651,6 +111651,18 @@
       "total_listings": 278
     },
     {
+      "card_id": 17109,
+      "name": "Alakazam ex",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "215/091",
+      "rarity": "Shiny Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.89,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 227
+    },
+    {
       "card_id": 2299640,
       "name": "Chikorita - 046",
       "set_id": 5500111,
@@ -111879,6 +111891,18 @@
       "total_listings": 246
     },
     {
+      "card_id": 16011,
+      "name": "Ferrothorn - 209/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "209/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.86,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 162
+    },
+    {
       "card_id": 16225,
       "name": "Rare Candy - 256/198",
       "set_id": 5500032,
@@ -112011,6 +112035,18 @@
       "total_listings": 227
     },
     {
+      "card_id": 16014,
+      "name": "Crustle - 183/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "183/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.83,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 190
+    },
+    {
       "card_id": 29416,
       "name": "Saffron City Gym",
       "set_id": 5500085,
@@ -112105,18 +112141,6 @@
       "market_price_usd": 5.82,
       "market_price_as_of": "2026-10-28",
       "total_listings": 69
-    },
-    {
-      "card_id": 15938,
-      "name": "Garganacl - 202/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "202/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.82,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 164
     },
     {
       "card_id": 26304,
@@ -112333,6 +112357,18 @@
       "market_price_usd": 5.79,
       "market_price_as_of": "2026-11-26",
       "total_listings": 99
+    },
+    {
+      "card_id": 15915,
+      "name": "Toedscruel - 185/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "185/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.79,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 230
     },
     {
       "card_id": 27492,
@@ -112597,18 +112633,6 @@
       "market_price_usd": 5.77,
       "market_price_as_of": "2026-10-27",
       "total_listings": 28
-    },
-    {
-      "card_id": 17240,
-      "name": "Pawmo",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "143/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.76,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 105
     },
     {
       "card_id": 21377,
@@ -113043,18 +113067,6 @@
       "total_listings": 7
     },
     {
-      "card_id": 17211,
-      "name": "Spiritomb",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "158/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.72,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 113
-    },
-    {
       "card_id": 18728,
       "name": "Levincia",
       "set_id": 5500009,
@@ -113257,6 +113269,18 @@
       "market_price_usd": 5.71,
       "market_price_as_of": "2026-11-04",
       "total_listings": 308
+    },
+    {
+      "card_id": 35187,
+      "name": "Paras",
+      "set_id": 5500053,
+      "set_name": "Trading Card Game Classic",
+      "number": "004/034",
+      "rarity": "Classic Collection",
+      "printing": "Holofoil",
+      "market_price_usd": 5.71,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 17
     },
     {
       "card_id": 23618,
@@ -113605,6 +113629,18 @@
       "market_price_usd": 5.66,
       "market_price_as_of": "2026-10-21",
       "total_listings": 40
+    },
+    {
+      "card_id": 15932,
+      "name": "Slither Wing - 203/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "203/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.66,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 215
     },
     {
       "card_id": 18608,
@@ -114603,6 +114639,18 @@
       "total_listings": 164
     },
     {
+      "card_id": 15933,
+      "name": "Dottler - 184/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "184/182",
+      "rarity": "Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.55,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 235
+    },
+    {
       "card_id": 22301,
       "name": "Absol",
       "set_id": 5500079,
@@ -114829,6 +114877,18 @@
       "market_price_usd": 5.53,
       "market_price_as_of": "2026-10-23",
       "total_listings": 30
+    },
+    {
+      "card_id": 17138,
+      "name": "Cleffa",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "150/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.52,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 188
     },
     {
       "card_id": 24292,
@@ -115167,18 +115227,6 @@
       "total_listings": 239
     },
     {
-      "card_id": 15915,
-      "name": "Toedscruel - 185/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "185/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.48,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 225
-    },
-    {
       "card_id": 18625,
       "name": "Team Rocket's Giovanni - 225/182",
       "set_id": 5500009,
@@ -115275,18 +115323,6 @@
       "total_listings": 13
     },
     {
-      "card_id": 15959,
-      "name": "Professor Turo's Scenario - 257/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "257/182",
-      "rarity": "Special Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.47,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 217
-    },
-    {
       "card_id": 18035,
       "name": "Clobbopus - 207/191",
       "set_id": 5500180,
@@ -115369,6 +115405,18 @@
       "market_price_usd": 5.47,
       "market_price_as_of": "2026-11-24",
       "total_listings": 495
+    },
+    {
+      "card_id": 17126,
+      "name": "Nemona - 238/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "238/091",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.46,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 243
     },
     {
       "card_id": 18226,
@@ -115887,18 +115935,6 @@
       "total_listings": 66
     },
     {
-      "card_id": 17285,
-      "name": "Mankey - 169/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "169/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.41,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 127
-    },
-    {
       "card_id": 27751,
       "name": "Mega Charizard X ex - 013/094",
       "set_id": 5500152,
@@ -116151,18 +116187,6 @@
       "total_listings": 23
     },
     {
-      "card_id": 16014,
-      "name": "Crustle - 183/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "183/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.38,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 197
-    },
-    {
       "card_id": 16546,
       "name": "Ultra Necrozma",
       "set_id": 5500206,
@@ -116185,6 +116209,18 @@
       "market_price_usd": 5.38,
       "market_price_as_of": "2026-10-22",
       "total_listings": 56
+    },
+    {
+      "card_id": 17271,
+      "name": "Drifloon",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "155/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.38,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 136
     },
     {
       "card_id": 2153348,
@@ -116257,18 +116293,6 @@
       "market_price_usd": 5.37,
       "market_price_as_of": "2026-11-26",
       "total_listings": 103
-    },
-    {
-      "card_id": 15932,
-      "name": "Slither Wing - 203/182",
-      "set_id": 5500212,
-      "set_name": "SV04: Paradox Rift",
-      "number": "203/182",
-      "rarity": "Illustration Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.37,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 240
     },
     {
       "card_id": 1778,
@@ -116355,28 +116379,16 @@
       "total_listings": 45
     },
     {
-      "card_id": 17195,
-      "name": "Smoliv",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "102/091",
-      "rarity": "Shiny Rare",
+      "card_id": 15946,
+      "name": "Iron Valiant ex - 261/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "261/182",
+      "rarity": "Hyper Rare",
       "printing": "Holofoil",
       "market_price_usd": 5.36,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 79
-    },
-    {
-      "card_id": 17308,
-      "name": "Mime Jr. - 157/091",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "157/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.36,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 89
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 152
     },
     {
       "card_id": 18916,
@@ -116713,6 +116725,18 @@
       "market_price_usd": 5.33,
       "market_price_as_of": "2026-10-26",
       "total_listings": 79
+    },
+    {
+      "card_id": 17240,
+      "name": "Pawmo",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "143/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.33,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 127
     },
     {
       "card_id": 17988,
@@ -117339,6 +117363,30 @@
       "total_listings": 51
     },
     {
+      "card_id": 17281,
+      "name": "Pidgeotto",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "197/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.27,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 176
+    },
+    {
+      "card_id": 20757,
+      "name": "Torterra ex - 185/162",
+      "set_id": 5500066,
+      "set_name": "SV05: Temporal Forces",
+      "number": "185/162",
+      "rarity": "Ultra Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.27,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 247
+    },
+    {
       "card_id": 2133477,
       "name": "Turtwig - 040",
       "set_id": 5500111,
@@ -117651,18 +117699,6 @@
       "total_listings": 151
     },
     {
-      "card_id": 35152,
-      "name": "Pokemon Nurse",
-      "set_id": 5500053,
-      "set_name": "Trading Card Game Classic",
-      "number": "023/034",
-      "rarity": "Classic Collection",
-      "printing": "Holofoil",
-      "market_price_usd": 5.24,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 14
-    },
-    {
       "card_id": 36052,
       "name": "Xurkitree",
       "set_id": 5500083,
@@ -117771,6 +117807,18 @@
       "total_listings": 56
     },
     {
+      "card_id": 15959,
+      "name": "Professor Turo's Scenario - 257/182",
+      "set_id": 5500212,
+      "set_name": "SV04: Paradox Rift",
+      "number": "257/182",
+      "rarity": "Special Illustration Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.22,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 216
+    },
+    {
       "card_id": 16684,
       "name": "Island Challenge Amulet (Secret)",
       "set_id": 5500206,
@@ -117853,6 +117901,18 @@
       "market_price_usd": 5.21,
       "market_price_as_of": "2026-11-17",
       "total_listings": 233
+    },
+    {
+      "card_id": 37623,
+      "name": "Growlithe",
+      "set_id": 5500165,
+      "set_name": "My First Battle",
+      "number": null,
+      "rarity": "Unconfirmed",
+      "printing": "Normal",
+      "market_price_usd": 5.21,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 9
     },
     {
       "card_id": 100018055,
@@ -118947,6 +119007,18 @@
       "total_listings": 12
     },
     {
+      "card_id": 17285,
+      "name": "Mankey - 169/091",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "169/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.09,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 146
+    },
+    {
       "card_id": 19368,
       "name": "Purugly",
       "set_id": 5500191,
@@ -119247,18 +119319,6 @@
       "total_listings": 233
     },
     {
-      "card_id": 17281,
-      "name": "Pidgeotto",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "197/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.06,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 170
-    },
-    {
       "card_id": 27604,
       "name": "Mystery Energy",
       "set_id": 5500067,
@@ -119401,18 +119461,6 @@
       "market_price_usd": 5.04,
       "market_price_as_of": "2026-11-25",
       "total_listings": 234
-    },
-    {
-      "card_id": 17253,
-      "name": "Voltorb",
-      "set_id": 5500030,
-      "set_name": "SV: Paldean Fates",
-      "number": "133/091",
-      "rarity": "Shiny Rare",
-      "printing": "Holofoil",
-      "market_price_usd": 5.04,
-      "market_price_as_of": "2026-10-12",
-      "total_listings": 107
     },
     {
       "card_id": 2301886,
@@ -119725,6 +119773,18 @@
       "market_price_usd": 5.01,
       "market_price_as_of": "2026-10-21",
       "total_listings": 105
+    },
+    {
+      "card_id": 17253,
+      "name": "Voltorb",
+      "set_id": 5500030,
+      "set_name": "SV: Paldean Fates",
+      "number": "133/091",
+      "rarity": "Shiny Rare",
+      "printing": "Holofoil",
+      "market_price_usd": 5.01,
+      "market_price_as_of": "2026-11-28",
+      "total_listings": 123
     },
     {
       "card_id": 21111,
